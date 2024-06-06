@@ -1,0 +1,4056 @@
+BS
+
+die Kraftfahrzeugsteuer
+die Zulassung, en
+die Zulassungsnummer, n
+das Nummernschild/
+das Kennzeichenschild, er
+
+der technische Überwachungsverein
+
+(UV)
+einen Wagen beim TÜV vor-führen
+
+die Prüfplakette, n
+
+das Nationalitätskennzeichen, -
+der Führerschein, e
+
+die Fahrschule, n
+
+die Fahrstunde, n
+
+der Fahrlehrer, -
+
+den Führerschein machen
+
+der Führerschein auf Probe
+der Serienwagen, -
+
+das (Grund)modell, e
+
+die Extras npl
+
+der Verbrauch
+
+verbrauchen
+
+sparsam im Verbrauch sein
+Der Motor säuft.
+
+die Motorleistung
+
+die steuerliche Leistung
+
+der Hubraum, "e
+
+die Fahreigenschaften {pi
+die Straßenlage
+
+Der Wagen liegt gut auf der Straße.
+untersteuern, übersteuern
+die Fahrleistungen pi
+
+die Höchstgeschwindigkeit, en
+die Dauergeschwindigkeit
+die Beschleunigung, en
+
+ein spritziger Wagen
+
+eine lahme Ente, n (fam)
+
+die Karrosserie, n
+
+der Karrosseriebauer, -
+
+der cw-Wert, e
+
+die Stoßstange, n
+
+die Knautschzone, n
+
+der Kotflügel, -
+
+der Front-, der Heckspoiler, -
+die Motorhaube, -, n
+
+die Windschutzscheibe, n
+das Verbundglas
+
+der Scheibenwischer, -
+
+die Scheibenwaschanlage, n
+die Heckscheibe, n
+
+das Fenster, -
+
+das Fenster nach unten, nach oben
+kurbein
+
+die Fensterkurbel, n
+die Tür, en
+
+verriegeln ; eniriegeln
+die Heckschwingtür
+
+das Kraftfahrzeug, e (Kfz)
+der Wagen, -
+das Auto, s
+
+der Schlitten, -, die Kiste, n (fam),
+die Karre, n (fam, pej)
+der Wagenpark, s
+
+der Personen (kraft)wagen (Pkw, s)
+
+der Privatwagen
+
+der Dienstwagen
+
+der Kleinwagen
+
+ein Mittelklassewagen
+
+der Straßenkreuzer, -
+
+ein Reisewagen
+
+die viertürige Limousine, n
+der Kombi, s
+
+das Coupe, s
+
+das Kabriolett, e
+
+das gepanzerte Auto
+
+das Nutzfahrzeug, e
+
+das Leergewicht
+
+die Nutzlast
+
+das zulässige Gesamtgewicht
+die Abmessungen pl
+
+der Last(kraft)wagen, -, der Lkw, s
+der Lieferwagen
+
+die Zugmaschine, n
+
+der Sattelanhänger, -
+
+der Lastzug, "e
+
+der Anhänger, -
+
+der Fernlaster, -
+
+der Fernfahrer, -
+
+der Fahrt(en)schreiber, -
+
+der Autobus, se
+
+cas Wohnmobil, e/der Camper, -
+der Wohnwagen
+
+cer Geländewagen
+
+(die) Steigfähigkeit : 1. Gang 47%
+der Autohändler, -
+
+das Autohaus, "er
+
+der Kundendienst
+
+der Neuwagen
+
+der Vorführwagen
+
+eine Probefahrt machen
+
+der Leihwagen ; mieten
+
+der Gebrauchtwagen
+
+|
+Hi
+{
+|
+{
+j
+|
+
+einen Wagen gebraucht kaufen
+
+ 
+
+die alte Kiste, n (fam)
+ein fahrtüchtiges Fahrzeug
+
+die Zulassung, en, der Kfz-Schein, e |
+der Kiz-Brief, e
+
+der Kofferraum, "e ; geräumig
+das Dach, 'er
+
+das Schiebedach
+
+das Verdeck, e
+
+das Verdeck auf-klappen,
+herunter-klappen
+
+der Innenraum, "&
+
+die Innenausstattung, en
+die Sonnenblende, n
+
+der Rückblickspiegel, -
+
+der Außenspiegel, -
+
+der Sitz, e
+
+die Kopfstütze, n
+versenkbar
+
+der Vordersitz
+
+der Fahrersitz
+
+den Sitz verstellen
+
+den Hebel einrasten lassen
+die Gleitschiene, n
+
+die Rücksitzbank, "e
+
+die Rückenlehne, n
+
+die Rückenlehne zurück -klappen
+die Armlehne, n
+
+der Sicherheitsgurt, e
+
+sich mit dem Gurt an-schnallen
+der Airbag, s
+
+das Armaturenbrett, er
+
+der Tachometer, -
+
+der Kilometerzähler, -
+
+der Drehzahlmesser, -
+
+die Benzinuhr
+
+der Öldruckanzeiger, -
+
+das Handschuhfach, "er
+das Autoradio, S
+
+der Verkehrsfunk
+
+die Verkehrsdurchsage, n
+
+die Lüftung, en
+
+die Klimaanlage, n
+
+die Heizung, en
+
+ein-stellen ; einstellbar, verstellbar
+das Gebläse, -
+
+entfrosten ; der Entfroster, -
+das Fahrgestell, e
+
+die Achse, n
+
+die Vorder-, Hinterachse, n
+der Achsenbruch, "e
+
+der Kurvenstabilisator, en
+die Federung, -
+
+die Einzelradaufhängung
+
+eine harte, weiche Federung
+die Feder, n
+
+der Stoßdämpfer, -
+
+die Lenkung, en
+
+die Zahnstangenlenkung
+die Servolenkung
+
+das Lenkrad, "er, das Steuer(rad)
+flattern
+
+die Lenkradsäule, n
+
+die Lenkradsperre, n
+
+das Lenk(rad)schloss, "er
+die Hupe, n ; hupen
+
+der Wendekreis, e
+
+das (linke) Vorderrad, "er
+
+das (rechte) Hinterrad
+blockieren
+
+die Felge, n
+
+die Rad(zier)kappe, n
+
+das Reserverad, "er
+
+ein Rad wechseln
+
+die Bremss, n
+
+die Handbremse
+
+die Bremse an-ziehen, o, o, lösen
+das Bremspedal, e
+
+treten, a, e, I, auf+A
+
+das Zweikreisbremssystem, e
+der Bremskraftverstärker, -
+die Trommelbremse
+
+verzogen
+
+die Scheibenbremse
+
+der Bremsbelag, "e
+
+die Abnutzung der Bremsbeläge
+
+die Bremsbeläge erneuern
+das Bremsöl, e
+
+die Bremsen entlüften
+
+das Antiblockiersystem (ABS)
+die Bereifung, en
+
+der Reifen, -
+
+abgefahren ; glatt/profillos
+
+der Reifendruck
+
+auf-pumpen ; schlaff
+
+nicht genug Druck, zu viel Druck
+haben
+
+der Gürtelreifen, e
+
+ein schlauchloser Reifen
+
+der Schlauch, "e
+
+das Reifenvertil, e
+
+der Winterreifen, -
+
+die Spikes(-Reifen) p/
+
+die Schneeketten fp/ montieren
+
+die Räder aus-wuchten
+
+die Reifenpanne, n, der Plattfuß (fam)
+eine Reifenpanne haben
+
+den Reiten flicken
+
+ein geplatzter Reifen
+
+die Runderneuerung ; runderneuern
+
+der Motor, en
+
+der Vorderrad-/Frontantrieb, e
+der Hinterradantrieb
+
+der Verbrennungsmotor
+
+der Benzinmotor
+
+der Dieselmotor
+
+der Einspritzmotor/Einspritzer, - (fam)
+der Turbomotor
+
+der Turboverdichter, -
+
+der Viertaktmotor
+
+der Boxermotor
+
+der Hackmotor
+
+das Gaspedal, e
+
+der Vergaser, -
+
+r)
+
+der Doppelvergaser
+
+der Leerlauf
+
+ein-stellen
+
+die Düse, n
+
+verstopft sein
+
+der Schwimmer, -
+
+der Luft-, Ölfiiter, -
+
+die Schmierung, en
+
+das Einlassventil, e
+
+das Auspuffventil
+ein-schleifen, i, i
+
+das Ventilspiel
+
+der Zylinder, -
+
+die Zylinderbohrung, en
+der Zylinderkopf, "e
+
+die Zylinderkopfdichtung, en
+der Kolben, -
+
+der Hub, 'e
+
+der Hubraum, "e
+
+die Verdichtung, en
+
+die Höchstleistung, en
+
+50 PS bei 4000 U/mn
+einen Motor auf-frisieren
+die Pleuelstange, n
+
+die Nockenwelle
+
+die Kurbelwelle, n
+
+das Kühlsystem
+
+der Keilriemen, -
+
+die Wasserpumpe, n
+
+der Kühler, -
+
+Der Kühler leckt/ist undicht.
+der Kühlerverschluss, "e
+das Frostschutzmittel, -
+Frostschutzmittel ein-füllen
+die Luftkühlung
+
+die Auspuffgase npl
+
+das Auspuffrohr, e
+
+der Auspufftopf, "e
+
+der (Abgas)katalysator, en
+das Getriebe, -
+
+das Automatikgetriebe
+
+das Differential, e
+
+der Schalthebel, -
+
+der Schaltknüppel, -
+
+der Gang, "e (erster, zweiter Gang)
+der Rückwärtsgang
+
+die Leerlaufstellung
+
+auf Leerlauf stellen
+
+schalten tr
+
+den ersten Gang einschalten
+
+hoch-schalten
+herunter-schalten
+die Kupplung, en
+rupfen ; rutschen
+ein-Kuppeln ; aus-kuppeln
+die Autoelektrik
+
+der Autoslektriker, -
+die Zündung, en
+
+die Transistorzündung
+die Zündspule, n
+
+das Zündkabel, -
+
+ 
+
+Fehlzündung haben
+
+die Spätzündung
+
+die Batterie, n
+
+Ieer sein ; entladen
+
+die batterie auf-laden, u, a,ä
+das Destillierwasser
+Wasser nach-füllen
+
+die Zündkerze, n
+aus-wechseln ; reinigen
+
+die Elektrode, n
+
+der Elektrodenabstand, "e
+der Anlasser, -
+
+die Startautomatik
+
+der Zündschlüssel, -
+
+den Anlasser betätigen
+
+der Verteiler, -
+
+der Unterbrecher, -
+
+die Unterbrecherkontakte mol
+die Lichtmaschine, n
+
+der Zahnriemen, -
+
+zu wenig gespannt sein
+gerissen sein
+
+der Scheinwerfer, -
+
+die Halogen-Scheinwerfer mpi
+das Abblendlicht
+
+das Fernlicht
+
+die Lichthupe, n
+
+die Nebelschlussleuchte, n
+die Birne, n
+
+durchgebrannt sein
+
+die Sicherung, en
+
+der Kurzschluss, "s
+
+der Blinker, - ; blinken
+
+die Warnblinkanlage
+
+die Rück-, Heckleuchten fpi
+der Rückstrahler, -
+
+der Rückfahrtscheinwerfer, -
+das Standlicht
+
+das Parklicht ein-schalten
+das Bremslicht/Stopplicht, er
+der Suchscheinwerfer, -
+
+das Zubehör
+
+die Alarmanlage, n
+
+die Werkstattleuchte
+
+die Abschleppstange, n
+
+der Ölkanister, -
+
+das Starthilfekabel, -
+
+das Abschleppseil, e
+
+die Straßenkarte, n
+
+das Isolierband
+
+der Gabel-, Ringschlüssel, -
+der verstellbare Schraubenschlüssel
+der Kerzenschlüssel
+
+der Wagenheber, -
+
+der Feuerlöscher, -
+
+der Dachgepäckträger, -
+
+der Schonbezug, "e
+
+die Pannenleuchte, n
+
+die Kurbel, n
+
+der Sonnenblendschutz
+
+das Tätowieren der Autoscheiben
+der Schraubenzieher, -
+
+x
+
+der Schr. für Kreuzschlitzschrauben
+das Warndreieck, e
+
+die Werkzeugtasche, n
+
+der Verbandkasten, "
+
+der Kraftstoff/der Treibstoff, e
+das Benzin, e
+
+das Normalbenzin
+
+das Superbenzin
+
+das bleifreie Benzin
+
+das Diesel(öl)
+
+der Benzintank, s
+
+der Einfüllstutzen, -
+
+der Benzinkanister, -
+
+Der Tank ist leer !
+
+die Tankstelle, n
+
+der Tankwart, e
+
+die Zapfsäule/die Tanksäule, n
+tanken ir
+
+voll tanken
+
+die Wartung
+
+une voiture bien entretenue
+die Autoreparaturwerkstatt, "en
+
+der Autoschlosser, -
+
+die Hebebühne, n
+
+die Grube, n
+
+die Generalüberholung, en
+
+den Wagen gründlich überholen
+der Ölwechsel, -
+
+der Ölstand
+
+prüfen, nach-sehen, a, e, i
+
+die Wagenwäsche
+
+die Panne, n
+
+eine Panne haben
+
+der Pannendienst
+der Abschleppwagen, -
+ein Auto ab-schleppen
+in Reparatur sein
+demontieren, aus-bauen
+reparieren
+ersetzen
+aus-tauschen
+(eine Mutter) (fest) an-ziehen, o, o
+fest-schrauben ; ab-schrauben
+Der Motor springt nicht an.
+aus-setzen
+heiß werden ; klopfen
+stottern
+nicht richtig ziehen, 0, o
+humpeln/unregelmäßig
+
+laufen, ie, au, &
+Haben Sie den Schaden gefunden ?
+Was wird die Reparatur ungefähr
+
+kosten ?
+Der Schaden ist behoben.
+
+eux-roues
+
+das Zweirad, "er
+das Motorrad, "er, das Kraftrad
+der heiße Ofen, " (fam)
+
+Motorrad fahren *, u, a,ä
+
+der Motorradfahrer, -
+
+der Beifahrer, die Beifahrerin/
+die Sozia, s (fam)
+
+jdn auf seinem Motorrad
+mit-nehmen, a, o, i
+
+steigen“, ie, ie auf+A
+
+ab-steigen* (von+D)
+
+der Sturzhelm, e
+
+der Integralhelm
+
+die Helmpflicht
+
+(mit dem Motorrad) stürzen*
+
+die Geländemaschine, n
+
+das schwere Motorrad
+
+der Beiwagen, -
+
+der \iertakter, -
+
+der Kardanantrieb
+
+das Schwerkraftrad mit
+wassergekühltem Motor
+
+die verkleidete schwere Maschine
+das Integral-Cockpit
+das Mokick/das Kleinmotorrad
+
+der Motorradständer
+
+der geschlossene Kettenkasten, "
+die (Teleskop)gabel, n
+
+der Kickstarter, -
+
+der (hochgezogene) Auspuff, e
+das Motorrad knattern lassen, ie, a, ä
+der Scheinwerfer, -
+
+die (Sozius)fußraste, n
+
+der Kraftstofftank, s
+
+die (Doppel)sitzbank, "@
+
+der Schalthebel, -
+
+der Motorroller, -
+
+die Raststütze, n
+
+das (Touren)moped, s
+
+der Zweitakter, -
+das Signalhorn, "er
+das Mofa, s
+
+das City-Bike, s
+das Fahrrad, "er
+
+das Rad, "er, das Stahlross, e (am)
+das Mountainbike, s
+
+das BMX(-Rad) (bicycle moto-cross)
+das Klapprad
+
+der Hometrainer/Heimtrainer, -
+
+der Radfahrer, -/der Radler, -
+
+Rad fahren“, u, a, ä
+
+das Radwandern
+
+der Radwanderer, -
+
+der Radsport
+
+durch die Stadt radeln
+
+eine Radfahrt, Radtour machen
+
+schneller fahren*, stärker in
+die Pedale treten, a, &, |
+
+den Radfahrweg benutzen
+
+275
+
+die Straße mit
+Fahrbahnmarkierungen
+
+eine Linie überfahren, u, a, ä
+
+die unterbrochene, ununterbrochene
+Linie
+
+die Vorfahrtstraße
+
+die Vorfahrt
+
+Das von rechts kommende Fahrzeug
+hat Vorfahrt.
+
+(die) Vorfahrt haben
+die Vorfahrt (beJachten
+die Nichtbeachtung der Vorfahrt
+die erzwungene Vorfahrt
+die Landstraße, n
+die Fern(verkehrs)straße
+die Bundesstraße (D)
+die Schnellstraße
+die Entlastungsstraße
+die Umgehungsstraße
+die Umleitung, en
+die Gabelung, en,
+
+die Abzweigung, en
+sich gabeln
+die Kreuzung, en
+
+in eine Kreuzung ein-fahren*, u, a,ä
+
+die Kuppe, n
+
+der Straßenzustand, "@
+
+Auf dieser Straße fährt es sich gut.
+Straßenglätte f
+
+regennasse, vereiste Straßen
+das Ayuaplaning
+
+die Autobahn, en
+
+die Autobahngebühr, en
+
+die Mautautobahn (Autriche)
+der Autobahnzubringer, -
+
+das Autobahnkreuz, &
+
+die Autobahnauffahrt, en
+
+die Autobahnzufahrt/-einfahrt
+die Autobahnausfahrt benutzen
+die Fahrspur, en/der Fahrstreifen, -
+dreispurig, vierspurig
+
+die Kriechspur, en
+
+die Standspur
+
+der Seitenstreifen, -
+
+der Mitteistreifen
+
+die Leitplanke, n
+
+der Rastplatz, "e
+
+die Raststätte, n
+
+die Notrufsäule, n
+
+die Autobahnmeisterei
+
+die Straßenwacht
+
+die Verkehrsregelung
+
+den Verkehr regeln
+
+der Verkehrspolizist, en, en
+
+die (Verkehrs)ampel, n
+
+Die Ampel steht auf grün, auf gelb.
+Sie schaltet auf rot.
+
+die Kreuzung frei-machen
+
+hei Rot durchfahren‘, u,.a, ä
+
+ein Stoppschild nicht beachten
+
+die Verkehrszeichen np/
+
+ 
+
+ 
+
+ 
+
+der Rahmen, -
+
+der Rennhaken, -
+
+der Kettenschutz, e
+der Rückstrahler, -
+
+die Kette, n
+
+das Kettenschloss, "er
+der (Luft)schlauch, "e
+die Gangschaltung, en
+die Übersetzung, en
+die Lichtmaschine, n/der Dynamo, s
+die Flügelmutter, n
+
+der Mantel, ”
+
+das elektrische Rücklicht, er
+die Vorderradgabel, n
+die (Rücktritt)bremse, n
+die Felgenbremse
+
+das Schutzblech, e
+
+die Lenkstange, n/der Lenker, -
+der Rennlenker
+
+der Tourenlenker
+
+die Felge, n
+
+die Tretkurbel, n
+
+die Nabe, n
+
+das Pedal, e
+
+der Scheinwerfer, -
+
+der Zahnkranz, "e
+
+das Keitenrad
+
+der Reifen, -
+
+der Schlauchreifen, -
+der Handgriff, e
+
+dic Luftpumpe, n
+
+der Gepäckhalter, -
+
+die Speiche, n
+
+das Rad, "er
+
+der Freilauf, "e
+
+das Kugellager, -
+
+der Gummiflicken, -
+die Satteltasche, n
+
+der Sattel, "
+
+die Fahrradglocke, n/
+die (Fahrrad)klingel, n
+das Ventil, e
+
+  
+
+(fam), A pleins gaz
+
+  
+ 
+ 
+  
+  
+
+du carrasse
+
+N (am)
+eitre un coup (fam)
+
+TION ROUTIERE
+
+de la route
+
+der Straßenverkehr
+
+die Straßenverkehrsordnung (StVO)
+beachten
+
+die Straße, n
+
+die Fahrbahn, en
+
+ein Verkehrszeichen beachten
+die Gefahrzeichen npl
+
+die Vorschriftzeichen np/
+
+die Richtzeichen npl
+
+das Verkehrsschild, er
+Halteverbot n
+
+Halt ! Vorfahrt gewähren !
+Straßensperre f bei Tauwetter
+Querrinne f, unebene Fahrbahn
+
+Schneeketten sind vorgeschrieben
+
+unebene Fahrbahn
+Schleudergefahr f
+
+Engpass m, verengte Fahrbahn f
+Steinschlag m
+
+Gegenverkehr m
+
+Verbot für Fahrzeuge aller Art
+Kreuzung f
+
+Gefahrenstelle f
+
+Kolonne fahren*, u, a, ä
+gefährliches Gefälle
+
+Kinder
+
+Schülerlotsen m
+
+freie Fahrt f
+Ende der Vorfahrtsstraße
+
+dem Gegenverkehr Vorrang
+gewähren
+
+Vorrang vor dem Gegenverkehr
+Rollsplitt m
+wenden verboten
+
+nach rechts, nach links abbiegen
+verboten
+
+überholen verboten
+Schlagloch n
+
+Geschwindigkeitsbegrenzung,
+Geschwindigkeitsbeschränkung f
+
+bewegliche Brücke
+
+Vorfahrt gewähren
+Wildwechsel m
+
+beschrankter Bahnübergang
+unbeschrankter Bahnübergang
+Fußgängerüberweg m
+
+Fußgängerunterführung f
+
+Steigung f
+
+Radfahrer
+
+Vorfahrt von rechts
+
+Anlieger mpl frei
+Kreisverkehr m
+eingeschränktes Halteverbot
+Parken nerlaubt/gestattet
+Parkverbot n
+
+Glatteis n
+
+Kurve f
+
+Sackgasse f
+
+der Verkehr
+
+die Verkehrsdichte
+stark/dicht ; stockend ; fließend
+die Autoschlange, n
+
+die Autokolonns, n
+
+der geschlossene Verband m
+
+die Stoßzeiten fpl,
+die Verkehrsspitze, n
+
+die verkehrsarmen Stunden fol
+
+die Verkehrsflaute, n
+
+der (Verkehrs)stau, s/e
+
+sich bilden ; sich lösen
+
+ein Stau von 25 km Länge
+
+in einen Verkehrsstau
+geraten, ie, a,ä
+
+die Verkehrsstauung, en/
+die Verkehrstockung, en
+
+ein zäher Verkehrsfluss
+
+eine übersichtliche Straße
+
+Der Verkehr ist lahm gelegt.
+
+die Sicht
+
+die behinderte Sicht,
+die Sichtbehinderung f
+
+die verkehrsfreie Zone
+
+die Verkehrssperre, n
+
+für den Verkehr gesperrt
+
+für den Verkehr frei-geben, a, e, i
+Auto fahren‘, u, a, ä
+
+Können Sie Auto fahren ?
+
+einen Rolls fahren
+
+jdn zum Bahnhof fahren
+fahrenfitr
+
+eine Strecke fahren(*/haben)
+
+die Strecke, n/die Reiseroute, n
+
+sich verfahren, u, a, ä
+
+die (Auto)fahrt, en
+
+die Verkehrsteilnehmer mpl
+
+der (Auto)fahrer, -
+
+der Fahrgast, "e/der Mitfahrer, -
+die Fahrgemeinschaft
+
+per Anhalter fahren*/trampen
+
+der Tramper, -
+
+ein-steigen?, ie, ie
+
+aus-steigen*
+
+sich ans Steuer setzen
+
+am Steuer sitzen, a, e, steuern
+
+lenken, steuern
+
+das Fahrverhalten
+
+vorsichtig, unvorsichtig
+fahren“, u,a,ä
+
+ein aggressives Verhalten
+
+starten*
+
+los-fahren*, u, a, ä
+
+langsam an-fahren*
+
+ruckartig an-fahren*
+
+ein Kavalierstart, $
+
+in einem schweren BMW angefahren
+kommen‘, a, 0
+
+auf die Fahrbahn ein-fahren*
+
+geradeaus fahren*
+
+in seiner Spur bleiben*, ie, ie
+
+rechts fahren*
+
+die rechte Fahrbahn benutzen
+
+nachts fahren*
+
+277
+
+n)
+
+die Scheinwerfer ein-schalten,
+aus-schalten
+
+auf-blenden
+
+kurz auf-blenden
+aufgeblendet fahren*
+blenden
+
+ab-blenden
+
+ohne Licht fahren*
+
+ab-biegen*, 0,0
+
+rechis, links ab-biegen*, 0, 0
+wenden
+
+die Kurve, n
+
+eine scharfe Kurve
+
+die Haarnadelkurve
+
+eine Straße mit scharfen Windungen
+eine unübersichtliche Kurve
+
+eine Kurve nehmen, a, 0, i
+
+eine Kurve schneiden, i, i
+
+die Kurve verfehlen
+
+aus-brechen*, a, 0, i
+
+schleudern*
+
+ins Schleudern geraten‘, ie, a, ä
+auf die Seite geschleudert werden
+rutschen*
+
+ 
+
+ 
+
+von der Fahrbahn ab-komment, a, 0 |
+
+sich um seine eigene Achse drehen
+
+die Steigung, en
+
+eine Steigung im zweiten Gang
+nehmen, a, 0, i
+
+die Straßenkupps, n
+
+die Anhöhe hinab-fahren*
+
+die Geschwindigkeit
+
+die Geschwindigkeitsbegrenzung/
+das Tempolimit, s
+
+die zulässige Höchstgeschwindigkeit |
+
+dis verkehrsberuhigte Zone
+
+die Geschwindigkeitsüberschreitung '
+
+die zulässige Geschwindigkeit
+überschreiten, i, i
+
+die Radarkontrolle, n,
+die Radarfalle, n
+
+die vorgeschriebene
+Mindestgeschwindigkeit
+
+die Richtgeschwindigkeit
+die Durchschnittsgeschwindigkeit
+
+mit einer Geschwindigkeit von 60
+Kilometern in der Stunde fahrer“
+
+(mit) 100 Sachen p/fahren*/fam)
+beschleunigen, Gas geben, a, &, i
+
+auf die Tube drücken (fam)
+Vollgas geben, a, e, |
+das Gaspedal durch-treten, a, e, i
+
+mit voller Geschwindigkeit fahren*
+überholen
+
+jdn überholen lassen, jdn
+vorbeifahren lassen, ie, a, ä
+
+links überholen
+aus-scheren*
+ein-scheren*
+sich ein-ordnen
+
+mit zu geringem Fahrzeugabstand
+fahren*
+
+dicht auf-fahren*, u, a, ä
+
+Der PKW fuhr zu dicht auf den Lkw
+auf,
+
+langsamer fahren*
+
+das Tempo verringern
+
+den Fuß vom Gaspedal
+nehmen, a, 0, i
+
+ab-bremsen
+
+bremsen
+
+scharf bremsen
+an-halten, ie, a, ä
+kurz an-halten
+stoppen
+
+den Motor ab-schalten
+parken
+
+den Wagen auf dem Bürgersteig
+parken
+
+parken itr
+
+rückwärts fahren*
+
+rückwärts ein-parken
+
+das Steuer ein-schlagen, u, a, ä
+zurück-setzen
+
+eine Parklücke
+
+der Parkplatz, "e
+
+das Parken
+
+Parken mit Verkehrsbehinderung
+der bewachte Parkplatz
+
+die Tiefgarage, n
+
+das Parkhaus, "er, die Hochgarage
+das Park-and-ride-System
+
+der Parkstreifen, -
+
+die Parkuhr, en
+
+das Zonenhaltverbot
+
+die Parkscheibe, n
+
+der Parkscheinautomat, en
+der Hilfspolizist, en (F)
+
+die Politesse, n
+
+der Parksünder, - (fam)
+die Garageneinfahrt, an
+Einfahrt freihalten !
+
+die Parkkralle, n
+
+das gebührenpflichtige Abschleppen
+den Wagen in die Garage stellen
+den Wagen aus der Garage fahren
+den Wagen unter-stellen
+
+die Sammelgarage, n
+
+die Einzelbox, en, der Abstellolatz, "e
+die Privatgarage
+
+raction
+
+die Ordnungswidrigkeit, en
+
+gegen die Verkehrsordnung
+verstoßen, ie, 0, ö
+
+eine Übertretung begangen haben
+
+ein Protokoll auf-nehmen, a, o, i
+das Protokoll, e
+
+ein Protokoll bekommen, a, 0
+
+die gebührenpflichtige Verwarnung
+der Bussgeldkatalog
+
+der Bussgeldbescheid, e
+
+das Bussgeld, er
+
+die zentrale Verkehrssünderkartei
+(Flensburg)
+
+die Polizeikontrolle, n
+der Verkehrssünder, -
+der Sonntagsfahrer, -
+der Führerscheinentzug
+
+jdm den Führerschein entziehen, o, o
+
+die Alkoholprobe, n ;
+das Teströhrchen, -
+
+sich dem Alkoholtest
+unterziehen, 0, 0
+
+ins Röhrchen blasen, ie, a, ä (fam)
+die Blutprobe, n
+
+der (Blut)alkoholspiegel
+Trunkenheit fam Steuer
+der Alkoholsünder, -
+
+der Geisterfahrer, -
+
+der Verkehrsunfall, "e
+einen Unfall haben
+einen Unfall verursachen
+
+an einem Unfall beteiligt sein
+
+die Polizei benachrichtigen
+
+der Rettungswagen/
+der Unfallwagen, -
+
+das (polizeiliche) Unfallprotokoll, e
+das gütliche Unfallprotokoll
+
+die Unfallstelle, n
+
+die Unfallskizze, n
+
+die Bremsspuren fpl
+
+die Unfallzeit
+
+der (Unfall)zeuge, n
+
+die Zeugenaussage, n
+
+die Suchmeldung nach Zeugen
+die Fahrerflucht, en
+
+die Unfallursache fest-stellen, klären
+die Vorfahrtverletzung, en
+
+der Personenschaden, "
+
+der Verletzte (adj) ; der Tote (adj)
+
+der Sachschaden
+
+der Blechschaden (am Wagen)
+
+der Kratzer, - ; die Beule, n
+verbeulen
+
+gegen eine Mauer fahren‘, u, a,ä
+gegen einen Baum fahren“
+
+der Auffahrunfall, die Karambolage
+ein-fahren, u, a, ä, ein-drücken
+umfahren
+
+jdn um-fahren
+
+von einem Fahrzeug umgefahren
+werden
+
+ein Signal überfahren, u, a, ä
+jdn überfahren
+
+überfahren werden
+an-fahren, u, a, ä
+
+Ich habe seinen Kotflügel
+angefahren.
+
+der Zusammenstoß, "&
+zusammen-stoßen*, ie, 0, ö
+der Aufprall
+
+auf-prallen* auf+A/gegen+A
+
+sich überschlagen, u, a, ä
+sich mehrfach überschlagen
+der Unfallwagen, -
+
+das Autowrack, s
+
+der Autofriedhof, "e
+
+der Schrottwagenhändler, -
+
+die Verkehrsopfer npl
+
+Die Straße fordert viele Todesopfer.
+die Unfallschwerpunkte mpl
+die Verkehrsunfallverhütung
+
+die Verkehrserziehung
+
+n
+
+das Transportwesen,
+die Verkehrsmittel np/
+
+die öffentlichen Verkehrsmittel
+das Verkehrsnetz, e
+
+die Verkehrsverbindung, en
+verkehrsgünstig liegen, a, e
+
+die Verkehrs(be)nutzer mp/
+
+der Verkehrsteilnehmer, -
+
+der Personenverkehr
+
+die städtischen Verkehrsmittel np!
+das Taxi, s/die Taxe, n
+
+ein Taxi bestellen
+
+das Funktaxi
+
+(ein Taxi, das Fahrgäste sucht) (F)
+der Taxifahrer, -
+
+die Fahrt, en
+
+der Taxameter, -
+
+der Fahrpreis, e
+
+das Trinkgeld, er
+
+der Taxistand, "e
+
+der Fahrgast, "e
+
+die öffentlichen Verkehrsmittel nr
+
+der Verkehrsverbund
+der Busbahnhof, "e
+
+der zentrale Omnibusbahnhof (ZOB) |
+
+der (Auto)bus, se
+
+der Minibus
+
+der Schulbus
+
+der Reisebus/der Überlandbus
+der Olberleitungs)bus
+
+der Fahrer, -
+
+der Schaffner, -
+
+die Haltestelle, n
+
+die Bedarfshaltestelle
+
+die überdachte Bushaltestelle
+der Sitz-, Stehplatz, "e
+
+die Straßenbahn, en/
+die Elektrische (adj)
+
+der Triebwagen, -
+
+die Oberleitung, en
+
+die Untergrundbahn/U-Bahn
+die Vorortsbahn, die S-Bahn
+das Nahverkehrsnetz (Paris)
+
+der Nahverkehrszug
+
+die Hochbahn
+
+der U-Bahnzug, "&
+
+die U-Bahnstation, en
+
+die Linie, n
+
+die Endstation, en
+
+der U-Bahneingang, "e
+
+die Rolltreppe, n
+
+das Drehkreuz, e
+
+der Fahrschein
+der Fahrkartenautomat, en, en
+
+ 
+
+ 
+
+ 
+
+ 
+
+min de fer
+
+die Eisenbahn, en
+
+der Bahnreisende (adj)
+
+der (Haupt)bahnhof, "e
+
+der Hafenbahnhof
+
+zum Bahnhof fahren, u, a, ä
+
+| jdn zum Bahnhof begleiten,
+
+bringen, a, a
+
+jdn am Bahnhof/von der Bahn
+abholen
+
+die Zugauskunft
+
+der Fahrplan, "e
+
+der Fernverkehr
+
+die Abfahrt, en ; ab-fahren*, u, a, ä
+(von+D)
+
+die Ankunft, "e ;an-kommen*, a, o
+(in+D)
+
+der Nachtzug, "e
+
+fährt werktags
+
+der Pendelverkehr
+der Pendelzug, "e
+der Anschluss(zug)
+
+Sie haben um 6.10 Uhr Anschluss
+. nach Paris.
+
+in Frankfurt um-steigen*, ie, ie
+eine Stunde Wartezeit
+
+der Wartesaal, säle
+
+auf den Zug warten
+
+die Bahnhofswirtschaft, en
+der Ausschank, "e
+
+das Gepäck, die Gepäckstücke npl
+die Reisetaschen, n
+
+der Rucksack, "e
+
+der Seesack, "e
+
+der (Hand-, Reise)koffer, -
+
+der Aktenkoffer
+
+der Kosmetikkoffer
+
+seinen Koffer packen
+
+der große Reisekoffer
+
+der Schrankkoffer
+
+der Gepäckkarren, -
+
+der Gepäckträger, -
+
+die Gepäckaufbewahrung
+
+in die Gepäckaufbewahrung
+geben, a, &,|
+
+von der Gepäckaufbewahrung holen
+der Gepäckaufbewahrungsschein, e
+das Schließfach, "er
+
+die Gepäckabfertigung
+
+das Gepäck auf-geben, a, e, |
+das Übergepäck
+
+die Schalterhalle, n
+
+der Schalter, -
+
+die Fahrkarte, n
+
+eine Fahrkarte nach Bonn lösen
+eine Rückfahrtkarte
+
+ersier Klasse, zweiter Klasse
+
+Der Zug hat nur erste Klasse.
+der Zuschlag, "e
+die Platzkarte, n
+
+den vollen Preis zahlen
+
+die Ermäßigung, en
+
+die ermäßigte Fahrkarte
+der Senioren-Pass
+
+der Sammelfahrschein
+
+die Dauerkarte
+
+die Bahnsteigkarte, n
+
+der Zug, "e
+
+mit dem Zug kommen*, a, o
+der Zugführer, -
+
+der Eisenbahner, -
+
+der Reisende (adj)
+
+die Lokomotive, n/die Lok, s
+
+der Führerstand, "e
+
+der Lokomotivführer, -
+
+die Dampflokomotive
+der Kohlenwagen
+die Elektrolok/E-Lok, Ellok
+der Triebwagen
+
+der Dieseltriebwagen
+die Diesellok
+
+der Gepäckwagen
+der Postwagen
+
+der Personenwagen
+der Großraumwagen
+der Abteilwagen
+
+der Speisewagen
+
+erstes Essen, zweites Essen
+
+der Schlafwagen
+
+der Liegewagen
+
+der Liegeplatz, "e
+
+der Aussichtswagen
+
+die Kupplung, en
+
+das Drehgestell, e
+
+der Faltenbalg, "e
+
+der Puffer, -
+
+die Tür, en
+
+Bitte, Türen schließen !
+
+das Trittbrett, er
+
+der Gang, "e
+
+das Abteil, e
+
+das Raucherabteil
+
+das Nichtraucherabteil
+
+der Sitzplatz, "e
+
+der Fensterplatz, der Eckplatz
+Gangseite
+
+Ist der Platz noch frei ?
+
+Er ist besetzt, reserviert.
+
+das Fenster
+herunter-lassen, ie, a, ä,
+hoch-ziehen, 0, 0
+
+an der Spitze des Zuges, am
+Zugends
+
+der D-Zug
+der Intercityzug/IC
+
+ 
+
+ud HE WEHEN "IS GEISTER US IET
+
+der Hochgeschwindigkeitszug,
+der Intereityexpresszug/ICE (D)
+
+die Magnetschwebebahn (Transrapid)
+
+der Personenzug
+der Bummelzug (fam)
+
+Der Zug hält an allen Stationen fpi.
+
+der Sonderzug
+
+der Kurswagen, -
+
+der Autoreisezug
+
+der Bahnsteig, e
+
+das Gleis, e
+
+in den Bahnhof ein-laufen*, ie, au, äu
+fahrplanmäßige Ankunft : 15.30 Uhr
+den Fahrplan einhalten, ie, a, ä
+
+Der Zug aus Bonn fährt auf
+Bahnsteig 3 ein.
+
+hat Verspätung, hat 20 Minuten
+Verspätung
+
+den Zug verfehlen, verpassen
+den Zug gerade noch erreichen
+fünf Minuten Aufenthalt
+
+(in den Zug) ein-steigent, ie, ie
+aus-steigen*, ie, ie
+
+Alles aussteigen !
+
+Der letzte Wagen wird abgehängt.
+
+Einsteigen, bitte !
+Die Türen schließen !
+Der Zug fährt ab.
+
+in den fahrenden Zug
+ein-steigen‘, ie, ie
+
+der Kontrolleur, &
+die Fahrkartenkontrolle, n
+seinen Fahrschein vor-zeigen
+
+schwarz-fahren*, u,a, ä
+
+der Schwarzfahrer, -
+der Güterbahnhof
+der (Eisenbahn)güterverkehr
+
+der Bahntransport
+der Bahnversand
+mit der Bahn befördern
+
+der Bahn-Haus-Lieferdienst
+der Bahnspediteur, e
+
+die Güterabfertigung
+
+die Frachtgutannahme, -
+
+der Lademeister, -
+
+die Auffahrtsrampe, n
+
+der Frachtbrief, e
+
+freiWaggon
+
+frei Bahnhof
+
+ab Bahnhof
+
+bahnlagernd
+
+das Expressqut
+
+eine Expressgutsendung nach
+Bremen
+
+das Frachtgut, "er
+
+an4
+
+das Eisenbahnnetz, e
+
+der Verkehrsknotenpunkt, e
+der Eisenbahnverkehr
+
+die Elektrifizierung, -
+
+das Gleis, e
+
+die Schiene, n
+
+die Stromschiene
+
+die Spurweite, n
+
+die Schwelle, n
+
+die Bettung, en
+
+der Damm, "e
+
+die Böschung, en
+
+die Kurve, n
+
+die Steigung, en
+
+das Gefälle, -
+
+der Tunnel, -
+
+durch einen Tunnel fahren*, u, a, ä
+der/das Viadukt, e ; die Talbrücke, n
+die Eisenbahnbrücke, n
+
+die (Eisenbahn)signale np!
+das Einfahrtsignal
+
+das Haltsignal
+
+das Abfahrtssignal
+
+der Bahnübergang, "e
+
+die Schranke, n
+
+das ochlii, ©
+das Wasseriahrzeug, e, das Boot, &
+das (See)schiff
+die Schiffstypen fol
+das Luftkissenboot, &
+das Motorgüterschiff,
+der Selbstfahrer, -
+die Fähre, n
+der Fährmann, männer/leute
+der Bananendampfer, -
+
+Sich senken, geschlossen sein,
+
+sich heben, 0, 0
+
+der unbeschrankte Bahnübergang
+
+der Schrankenwärter, -
+
+der Bahnwärter
+
+der Streckenarbeiter, -
+
+der Verschiebe-/Rangierbahnhof, "e
+
+die Rangierlok/
+die Verschiebelokomotive, n
+
+rangieren trlitr/verschieben, 0,0 tr
+das Rangierstellwerk, e
+
+der Ablaufberg, e
+
+der Rangierer, -
+
+das Verschiebegleis, e
+
+das Rangiersignal, e
+
+das Stellwerk, &
+
+der Weichensteller, -
+
+die Weiche, n
+
+die Abzweigung, en
+die Drehscheibe, n
+das Abstellgleis, e
+der Prellbock, "e
+der Wagenpark
+: die Bergbahn, en
+die Zahnradbergbahn
+die Standseilbahn
+die Seilschwebebahn
+die Seilbahnstütze, n
+die Kabine, n
+das Eisenbahnunglück, e
+die Entgleisung, en
+entgleisen*
+der Zusammenstoß, "e
+zusammen-stoßen*, ie, o, ö (mit+D)
+die Notbremse ziehen, 0, 0
+
+a ee]
+
+das Eilgut
+
+das Stückgut
+
+die Wagenladung, en
+die Gleiswaage, n
+die Stückgutwaage
+
+die Frachtsätze für Wagenladungen
+die Stückgutfracht
+
+die Belade-, die Abladefristen ip
+
+die Waggonstandgelder np!
+der Heimatbahnhot, "e
+
+der Abgangsbahnhof
+
+der Bestimmungsbahnhof
+
+der Verladebahnhof
+der Umladebahnhof
+der Containerbahnhof
+
+der Güterzug, 'e
+
+der Güterwagen, -
+
+der Kesselwagen, der Tankwagen
+der Behälterwagen
+
+der gedeckte, offene Wagen
+
+der Doppelstockwagen
+
+der Kühlwagen
+
+der Wärmeschutzwagen
+
+der Flachwagen
+
+der Behältertragwagen
+
+der Tieflader, -
+der Trichterwagen
+
+u ferroviaire
+
+das Eisenbahnnetz, e
+
+der Verkehrsknotenpunkt, e
+
+der Eisenbahnverkehr
+
+die Elektrifizierung, -
+
+das Gleis, e
+
+die Schiene, n
+
+die Stromschiene
+
+die Spurweite, n
+
+die Schwelle, n
+
+die Bettung, en
+
+der Damm, "e
+
+die Böschung, en
+
+die Kurve, n
+
+die Steigung, en
+
+das Gefälle, - |
+der Tunnel, - |
+durch einen Tunnel fahren“, u,a,ä |
+der/das Viadukt, e ; die Talbrücke, n
+die Eisenbahnbrücke, n
+die (Eisenbahn)signale np!
+das Einfahrtsignal
+
+das Haltsignal
+
+das Abfahrtssignal
+
+der Bahnübergang, "e
+
+die Schranke, n
+
+ 
+
+3
+
+das Eilgut
+
+das Stückgut
+
+die Wagenladung, en
+die Gleiswaage, n
+die Stückgutwaage
+
+die Frachtsätze für Wagenladungen
+die Stückgutfracht
+
+die Belade-, die Abladefristen p/
+
+die Waggonstandgelder np!
+der Heimatbahnhot, "e
+
+der Abgangsbahnhof
+
+der Bestimmungsbahnhof
+
+der Verladebahnhof
+der Umladebahnhof
+der Containerbahnhof
+
+der Güterzug, 'e
+
+der Güterwagen, -
+
+der Kesselwagen, der Tankwagen
+der Behälterwagen
+
+der gedeckte, offene Wagen
+
+der Doppelstockwagen
+
+der Kühlwagen
+
+der Wärmeschutzwagen
+
+der Flachwagen
+
+der Behältertragwagen
+
+der Tieflader, -
+der Trichterwagen
+
+u
+
+die Barkasse, n
+das Flachboot, e
+
+der Kahn, "e ; die Barke, n
+(Mediterranee)
+
+das Dampfschift/der Dampfer, -
+das Segelboot/das Segelschiff
+
+das Seebäderschift, e
+
+das Rettungsboot
+
+das Schlauchboot, e
+
+das Feuerlöschboot
+
+der Eisbrecher, -
+
+das Küstenmotorschiff/das Kümo, s
+das Motorboot
+
+das Ruderboot
+
+die Autofähre, n
+
+der Frachtdampfer/der Frachter, -
+
+der Frachtdampfer mit
+Passagierkabinen
+
+die Schaluppe, n
+
+der Kutter, -
+
+die Eisenbahnfähre, n
+die Fregatte, n
+
+der Schoner, -
+
+die Gondel, n
+
+das Außenbordmotorboot
+das Gleitboot
+
+das Handelsschiff
+
+das Schulschiff
+
+das Bohrschiff
+
+das Kriegsschiff
+
+das Lazarettschiff
+
+das Handelsschiff
+
+der Flüssiggas-Tanker, -
+der Passagierdampfer, -
+der Ausflugdampfer
+
+der Riesendampfer
+
+der Schleppkahn, "e
+der (Mammut)tanker, -
+
+das Containerschiff/
+das Behälterschiff
+
+das Schubschiff
+
+der Leichter, die Schute
+
+das Floß, "e
+
+das Roll-on-roll-off-Schiff,
+Ro-ro-Schiff
+
+der Ozean-, Überseedampfer
+
+der Dreimaster, -
+
+das Schnellboot
+
+das Massengutfrachtschiff
+
+die Jacht, en
+
+die Jolle, n ; das Beiboot
+
+das Seeschiff
+
+die Registertonne, n
+
+einen Raumgehalt von 10 000
+Registertonnen haben
+
+die Brutto-, Nettoregistertonne, n
+
+das Ladevermögen, die Tonnage
+der Brutto-, Nettotonnengehalt
+die Wasserlinie, n
+
+der Tiefgang, "@
+
+die Wasserverdrängung
+
+I Tu WADPULLS NNBHUINES: "
+
+die Schiffsteile np
+der Rumpf, "e
+
+der Kiel, a
+
+der Bug, "e
+
+der Vordersteven, -
+das Heck, e/s
+
+das Ruder, -
+
+die Schiffsschraube, n
+die Turbine, n
+
+das Kielwasser
+der Anker, -
+
+die Ankerkette, n
+das Deck, s
+
+das Brückendeck,
+die Kommandobrücke, n
+
+der Funkraum, "e
+der Seefunkdienst
+der Navigationsraum
+das Steuerhaus, "er
+das Steuerrad, "er
+
+der Rudergänger, -,
+der Steuermann, -leute
+
+das Lot, e
+das Echolot
+
+der Kreisel-, Magnetkompass, e
+
+die Kompassrose, n
+
+der Sextant, en, en
+
+die Peilung, en
+
+die Seemeile, n
+
+backbord, steuerbord
+
+Kurs nehmen, a, 0, lauf+A
+
+mit Volldampf
+
+dreißig Knoten in der Stunde
+laufen*, ie, au, äu
+
+der Knoten, -
+
+der Navigationsoffizier
+
+auf Wache sein
+
+das Peildeck
+
+das Radargerät, e
+
+das Radarsichtgerät
+
+die Radarantenne, n
+
+das Bootsdeck
+
+das Rettungsboot, e
+
+der Davit, s
+
+die Boote aus-setzen
+
+das Promenadendeck
+
+die Promenade
+
+der Liegestuhl, "®
+
+das A-Deck
+
+das halboffene Deck
+
+das B-Deck, das Hauptdeck
+auf(s) Deck gehent, i, a
+Alle Mann an Deck (auf Deck) !
+das Vordeck
+
+die Back
+
+der Lüfter, -
+
+das Achterdeck
+
+die Reling, e/s
+
+die.offene Reling
+
+das Zwischendeck
+
+der Seitengang, "e”
+
+das Bullauge, n
+
+die Kombüse, n, die Schiffsküche, n
+
+die Offiziersmesse, n
+
+die Kabine, n
+
+die Kajüte, n
+
+die Koje, n
+
+der Mannschaftsraum, "e
+
+der Seemann, leute
+
+die Besatzung, en/die Mannschaft, en
+
+eine Schiffsmannschaft heuern
+
+der Schiffskapitän, e
+
+der Kapitän auf hoher See
+
+der Zahlmeister, -
+
+der Schiffsingenieur, e |
+
+der Schiffsarzt, "e
+
+der Steuermann, -leute
+
+der Schiffskoch, 'e,
+der Smutje, s (kam)
+
+der Steward, s
+
+der Matrose, n, n
+
+der Heizer, -
+
+der Schiffsjunge, n, n
+zur See fahren‘, u,a,ä
+auf See sein
+
+der Passagier, e
+
+n einen blinden Passagier an Bord
+haben
+
+die Ladung, en
+
+der Lademast, -baum, -pfosten
+die Luke, n
+
+die Ladeluke
+
+der Lukendeckel, -
+
+der Laderaum, "e
+
+das Schott, e/die Schotte, n
+der Ballast n !
+der Gepäckraum, "e 1
+der Maschinenraum 1
+der Dieselmotor, en
+der Treiböltank, s
+die (Schrauben)welle, n |
+der Schornstein, &
+
+die Sirene, n
+
+das Nebelhorn, "er
+
+die Flagge, n
+
+die Flagge setzen, auf-ziehen, 0, o
+die Flagge ein-holen
+
+die französische Flagge führen
+
+  
+
+ 
+
+unter fremder Flagge fahre‘n, u, a, ä
+
+die billige Flagge
+das \orzugsfrachtland, "er
+
+der Heimathafen, "
+
+tion maritime i
+
+die Seeschifffahrt, die Seefahrt
+die Handelsmarine
+die Hochsesschifffahrt
+
+die Schifffahrtsgesellschaft, en,
+die Reederei, n
+
+der Raeder, - i
+die Schiffahrtslinie, n |
+
+der Schifffahrtsweg, e
+die Küstenfahrt
+
+die Seereise, n
+
+die Kreuzfahrt, en
+
+die Jungfernfahrt, en
+die Überfahrt, en
+eine Überseefahrt
+
+in Sicht sein
+
+Land in Sicht !
+
+der Seewetterbericht, e
+
+die Windstärke, n
+
+der Seegang
+
+das Stampfen ; das Schlingern
+schaukeln, schwanken
+
+die Seekrankheit
+
+seekrank sein
+
+die Übelkeit, -
+
+seefest sein
+
+seetüchtig sein
+
+In Seenot sein
+das Notzeichen, s/der SOS-Ruf
+SOS-Rufe aus-senden
+
+stranden*
+
+auf-laufen*, ie, au, äu, (auf+A)
+
+ein aufgelaufenes/gestrandetes
+Schiff
+
+kollidieren*
+
+der Seeschaden, s/die Havarie, n
+ein Leck haben, leck sein
+Schlagseite haben
+
+kentern*
+
+sinken*, a, u ; unter-gehen*, i,a
+mit Mann und Maus untergehen
+der Untergang der Titanic
+
+der Schiffbruch, "e
+
+Schiffbruch erleiden, i, i
+
+der Schiffbrüchige (adj)
+
+Mann über Bord !
+
+der Rettungsring, e
+
+die Schwimmweste, n
+
+die Rettungsinsel, n
+
+' eine (Seenot)rakete in die Luft
+schießen, 0, 0
+
+der Seenotkreuzer, -
+
+der Rettungshubschrauber, -
+das Rettungstau, e
+
+retten; bergen, a, 0,
+
+nach Überlebenden (adj) suchen
+
+die Suche nach den Schiffbrüchigen
+gesichtet werden
+an Bord nehmen, a, o, i
+
+das Bergungsmanöver,
+das Rettungsmanöver, -
+
+das Wrack, s
+wieder flott-machen
+
+port
+
+der Hafen, "
+der Handelshafen
+
+der Kriegshafen
+
+der Fischereihafen
+
+der Ölhafen
+
+der Jachthafen
+
+der Hafenbetrieb
+
+das Hafenamt, "er
+
+der Hafenmeister, -
+
+das Hafengeld
+
+der Verladehafen
+
+der Zwischenhafen
+
+an-legen in+D
+
+ein-laufen*, ie, au, äu
+
+einen Hafen an-laufen, ie, au, äu
+vor Anker liegen, a, @
+
+vor Anker gehent, I, a
+
+den Anker lichten, hoch-ziehen, o, o
+aus-laufen*, ie, au, äu
+
+in See stechen*, a, o,i
+
+das Anlegen
+
+das Fallreep, e, die Strickleiter, n
+die Gangway, s, die Schiffstreppe, n
+die Schiffstreppe ein-ziehen, 0, 0
+der Seetransport, e, die Verschiffung
+
+der Verladehafen
+
+der Entladehafen
+
+(ver)laden, ein-schiffen, verschiffen
+(die Ladung)
+
+die Ladung verstauen
+
+die Einschiffung
+
+sich ein-schiffen (auf+A)
+an Bord nehmen, a, 0, i
+an Bord gehen‘, |, a
+
+an Bord bleiben*, ie, ie
+an Land gehen‘, i, a
+
+die Ausschiffung
+
+eine Schiffsladung löschen
+ein Schiff löschen
+
+Das Schiff löscht.
+
+der Hafenarbeiter, -
+
+die Liegetage mpl
+
+der Freihafen
+der Umladehafen
+
+das Umladen, s ; die Umladung (von
+Bord zu Bord)
+
+der Hafenbahnhof, "e
+der (Güter\umschlag
+
+die Hafenanlagen fpl
+die Hafenrundfahrt, en
+die Hafeneinfahrt, en
+die Reede, n
+
+das Becken, -
+
+der Leuchtturm, "e
+der Leuchtturmwärter, -
+das Blitzieuer, -
+
+das Lotsenboot, e
+
+der (Hafen)lotse, n, n
+ein Schiff lotsen
+
+das Lotsengeld
+
+die Seezeichen npl
+
+das Fahrwasserzeichen, -
+
+das Fahrwasser, - ; die Fahrrinne, n
+die Fahrrinne kennzeichnen
+
+das Feuerschiff
+
+die Laterne, n
+
+die Bojs, n
+
+die Bakentonne, n
+
+die Funkbake, n
+
+der Bagger, - ; aus-baggern
+
+die Baggerschute, n
+
+der Schwimmkran, "e
+
+die Mole, n
+
+der Wellenbrecher, -
+
+der Deich, e
+
+der Kai, s/e;; der Hafendamm, "e
+der Signalmast, e
+
+die Landungsbrücke, n
+
+die Anlegestelle, n
+
+das Becken, -
+
+der Laufkran, "e
+
+der Ladekran
+
+der Drehkran
+
+die Rolle, n
+
+die Laderampe, n
+
+das Containerterminal, s
+
+der Gabelstapler, -
+
+die Containerbrücke, n
+
+die Werft, en
+der Schiffsbau
+
+der Schiffbauingenieur, e
+
+die Helling, en ; der Stapel, -
+auf Stapel legen
+
+der Stapellauf, "e
+
+ein Schiff vom Stapel lassen, ie, a, ä
+vom Stapel laufen*, ie, au, äu
+die Ausrüstung
+
+die Schiffstaufe, n
+
+das Dock, s
+
+das Trockendock
+
+ins Trockendock bringen, a, a
+das Schwimmdock
+
+die Ausbessarung, en
+
+der Taucher, -
+
+der Froschmann, männer
+
+die Flussschifffahrt
+
+der Binnenhafen
+
+die Schubschifflahrt
+
+der (Binnen)schiffer, -
+
+der Schlepper, - ; das Bugsierschiff
+schleppen, bugsieren
+
+der Schleppkahn, "e
+
+der Lastkahn
+
+das Hausboot, &
+
+onautique
+
+die Luftfahrt, -
+die Raumschifffahrt
+
+das Flugwesen/die Fed»
+der Ballon, s
+
+der Heißluftballon
+
+der Korb, "e ; die Gondel, n
+der Ballast
+
+Ballast ab-werfen, a, o, i
+
+das Luftschiff, e/der Zeppelin, e
+das Flugzeug, &
+
+fliegen, *0, 0
+
+die Maschine, n
+
+die Kiste, n, die Mühle, n (fam)
+das Segelflugzeug
+einmotorig
+
+zweimotorig
+
+der Eindecker, -
+
+der Zweidecker
+
+der Tiefdecker
+
+der Hochdecker
+
+der Einsitzer, -
+
+der Zweisitzer
+
+das Wasserflugzeug
+
+das Flugboot, e
+
+der Hubschrauber, -
+
+der Rotor, en
+
+der Drehflügel, -
+
+der Hubschrauberlandeplatz, "e
+das Propellerflugzeug
+
+das Propellerturbinenflugzeug,
+Turbo-Prop-Flugzeug
+
+das Düsenflugzeug, der Jet, s
+der Jumbojet
+
+das Überschalfflugzeug
+
+die Schallmauer
+
+das (zweistrahlige)
+Mittelstreckenflugzeug
+
+das (vierstrahlige)
+Langstreckenflugzeug
+
+die Nutzlast, en
+die Reichweite
+der Rumpf, "e
+der Bug, e
+das Heck, e
+der Flügel, -
+die Tragflächen tpr
+die Spannweite, n
+der Motor, en
+das Düsentriebwerk, e;
+die Strahlturbine, n
+die Düse, n
+die Luftschraube, n, der Propeller
+das Schraubenblatt, "ar
+sich drehen
+das (Flugzeug)steuerwerk
+das Leitwerk, e
+das Höhenruder, -
+
+ 
+
+die Hochseefischerei
+
+e die Küstenfischerei
+der Fischer, -
+fischen
+der (Fisch)fang, "e
+einen guten Fang machen
+
+der Fischdampfer, -/
+der Fischtrawler, -
+
+das Fabrikschiff, e
+
+der Heckgalgen, -
+
+die Heckaufschleppe, n
+das Netz, e
+
+das Schleppnetz ; das Treibnetz
+das Netz aus-werfen, a, o, |
+mit dem Netz fangen, i, a, ä
+das Netz ein-ziehen, o, o
+der Kabeljaufänger, -
+
+der Walfang
+
+das Walfangmutterschiff, e
+das Fangboot, e
+
+die Harpune, n
+
+der Walfang
+der Tran
+der Lebertran
+
+das Fischereigebiet, e
+
+innerhalb der Hoheitsgewässer np/
+fischen
+
+die Gemeinschaftsgewässer
+die fischreichen Gewässer
+
+die (Fisch)fangquoten fp/
+
+die Erhaltung der Fischbestände mp!
+
+die (zulässige) Maschenweite
+der Netze
+
+. die Regenerierung/die Auffrischung
+der Fischbestände
+
+3
+
+ 
+
+der Flughafen, "
+die Abfahrtstelle der Zubringerlinie
+
+der Zubringerbus, se
+die Bodenstewardess, en
+die Fluggesellschaft, en
+
+das Stadtbüro, s
+(der Fluggesellschaft)
+
+das Flugnetz, e
+
+die Fluglinie, n
+
+der Fluglinienverkehr
+
+das Verkehrsflugzeug
+
+das Frachiflugzeug, e
+
+der Frachttarif
+
+die Frachthalle, n
+
+die Flugreise, n
+
+der Fluggast, "e, dar Passagier, e
+der Direktflug, "e, der Non-Stop-Flug
+
+die Zwischenlandung, en
+
+der Umsteigepassagier, e
+
+um-steigen‘, ie, ie
+
+der Anschlussflug, der Weiterflug
+
+die Flugunterbrechung, en
+
+Flugunterbrechung gestattet in ...
+die Flugkarte, n
+
+der Flugpreis, e
+
+der einfache Flugpreis
+
+der Hin- und Rückflug
+
+die Rulpassage, n
+
+der offene Flugschein, das „open
+ticket“
+
+der Abflugtag, &
+
+die Flugzeit
+
+die Abflugzeit
+
+der Flugantritt
+
+der Flug Nr. nach ...
+die Reservierung, en
+
+ 
+
+einen Platz (im Flugzeug) buchen
+
+Der Flug ist ausgebucht,
+
+die Flugbestätigung, en ; bestätigen
+die Economyklasse
+
+der Charterflug
+
+das Standby, s
+
+das Standby-Ticket, s
+
+die Einzelflugpauschale, n
+
+der IT-Flug
+
+der Abfertigungsschalter, -
+
+die Gepäckabfertigung
+
+das Übergepäck
+
+das Transportband, "er
+
+das Kabinengepäck
+
+der Luftkoffer, -
+
+der Flugsteig, e
+
+die Abflughalle, n
+
+in die Maschine ein-steigen‘, ie, ie
+die Gepäckkontrolle, n
+
+der Meldeschluss
+
+die Bordkarte, n
+die Fluggastbrücke, n
+
+die Startbahn, die Start- und
+Landebahn, en
+
+die Rollbahn, en
+die Befeuerung
+der Luftverkehr
+
+der Kontrollturm, "e
+
+der Flug(sicherungs)lotse, n, n
+
+das Radargerät, e
+den Luftraum überwachen
+
+ein unbekanntes Flugobjekt (UFO)
+
+der Flug
+
+die Besatzung, en
+
+der Flugkapitän, e
+
+der (Ko)pilot, en, en
+der Bordmechaniker, -
+der Steward,
+
+die Stewardess, en
+flegen*, 0, 0
+
+der Abflug
+
+ab-fliegen* ; starten*
+auf-steigen*, ie, ie
+der Blindstart
+
+die Funkpeilung
+
+der Blindflug
+
+der Autopilot, en, en
+der Sicherheitsgurt, e
+sich an-schnallen
+sich ab-schnallen/los-schnallen
+das Luftloch, "er
+luftkrank sein
+
+Druck auf den Ohren haben
+
+die Luftschneise, n
+die Flughöhe, n
+an Höhe gewinnen, a, 0
+
+j
+
+das Seitenruder
+
+die Flosse, n
+
+die Höhenflosse
+
+die Seitenflosse
+
+das Querruder, -
+
+die Landeklappe, n
+
+die Bremsklappe, die Luftbremss, -
+
+das Fahrwerk, e
+
+das Bug-, Hauptfahrgestell, e
+
+das Fahrwerk ein-fahren,
+aus-fahren, u, a, ä
+
+der Gepäckraum, "e
+
+die Kabine, n
+
+das Cockpit, s
+
+die Steuerung
+
+der Steuergriff, e
+
+der Steuerknüppel, -
+
+das Instrumentenbrett, er
+
+die Steiggeschwindigkeit
+
+die Höhe, n ; der Höhenmesser
+die Beschleunigung
+
+ 
+
+der Frachtbrief, e
+der Duplikatfrachtbrief
+
+ 
+
+die (Spediteur)Übernahme-
+bescheinigung (FRC)
+
+der Luftfrachtbrief ;
+das Konnossement, e/Bill of Lading
+das (Namens)konnossement, a
+
+das Originalkonnossement
+
+das Empfangskonnossement
+
+das Bordkonnossement
+
+das Durch(fracht)konnossement
+
+ 
+
+das multimodale Transportdokumant.
+
+das Rekta-Konnossement
+
+das Orderkonnossement
+der volle Satz, "e
+das reine Konnossement
+
+das unreine Konnossement
+der (Fluss)ladeschein
+die Begleitdokumente npl
+
+die Handelsrechnung, en
+
+die Konsulatsfaktura, ren
+
+die Zollfaktura
+
+die Versicherungspolics, n
+
+das Ursprungszeugnis, se
+
+die Warenverkehrsbescheinigung, en
+
+die amtliche
+Genusstauglichksitsbescheinigung
+
+die Gesundheitsbescheinigung
+das Frachtgut, "er
+
+unverpackt/lose
+verpackt
+verderblich
+laden, u, a, ä
+die Entladung ; entladen
+um-Jaden, u, a, ä
+die Umladung, en,
+der Güterumschlag
+
+die Ladung, en
+das Gewicht, e
+die Tara, ren
+das Wiegen
+das Maß, &
+das Lademaß
+
+die Genehmigung für
+Lademaßüberschreitungen for
+
+die Menge, n
+das Massengut, "er
+das Schüttgut
+das Sperrgut
+
+die gefährlichen Güter np/
+
+der Tarif, &
+
+die Tarifierung
+
+der Staffeltarif
+
+der degressive Tarif
+
+der Container, -/der Behälter, -
+der Containerumschlag
+
+der Tankcontainer, -
+
+der Güterverkehr
+
+der Transport, e
+
+die Beförderung, en
+transportieren /befördern
+der Transportunternehmer, -
+die Speditionsfirma, men
+der Versender, -
+
+der Spediteur, e
+der Transitspediteur
+der Zollagent, en
+
+das Frachtgeschäft
+
+der Beförderungsvertrag,
+der Frachtvertrag, "e
+
+die Versandpapiere npi
+die Verladedokumente npi
+
+das Einheitspapier -
+
+der Zoll, das Zollwesen
+das Zollamt, "er
+
+der Zollbeamte (adj)
+die Grenze, n
+
+der Grenzübergang, 'e
+die Zollschranke, n
+
+die Zollunion
+
+die Zolldokumente npl
+die Zollanmeldung, en
+die Zollinhaltserklärung
+der angegebene Wert
+die Zollbeschau
+
+die eingehende Zollbeschau
+verzollen
+
+die Verzollung
+
+der Zolltarif
+
+die Tarifnummer, n
+
+die Zollpräferenz, en
+die Abgabe, n
+
+der Zollsatz, "e
+
+die Einfuhrabgabe
+zollpflichüig
+
+zollfrei
+
+die Zollbefreiung
+
+der Zollwert
+
+der Wertzoll
+
+die Gewichtszölle mpi
+die Mehrwertsteuer (MWSt)
+das Zollgut
+
+das Freigut
+
+ei Tourisme
+
+der Urlaub
+
+die Ferien pl
+
+urlaubsreif sein
+
+der Tapetenwechsel (fam)
+
+ab-schalten
+
+Reisepläne schmieden
+
+die Reisevorbereitung
+
+die Reisekasse
+
+das Reisefieber
+
+auf/in/im Urlaub sein
+
+auf/in Urlaub gehen®, i, a, Urlaub
+machen
+
+auf/in Urlaub fahren“, u, a, &
+
+urlaubsberechtigt sein
+
+Mir stehen noch fünf Tage Urlaub zu.
+
+der Jahresurlaub
+
+Er ist noch nicht aus dem Urlaub
+zurück.
+
+der Feriengast, "e ; der Urlauber, -
+der Fremdenverkehr, der Tourismus
+der Individualtourismus
+
+der Massentourismus
+
+die Reisewelle
+
+der Reiseveranstalter, -
+
+das Reisebüro, s,
+das Reiseunternehmen, -
+
+mit dem Auto fahren“, u, a, ä
+mit der Bahn reisen/fahren
+
+fliegen, 0, 0
+die Reise, n
+reisen*
+verreisen*
+
+r_ reisen* nach
+
+der Bestimmungsort, e,
+das Reiseziel, e
+
+seinen Urlaub auf dem Land
+verbringen, a, a
+in den Bergen
+
+am Meer
+> Ferien auf dem Bauernhof machen
+
+289
+
+die zolfreie Zulassung zur
+vorübergehenden Einfuhr
+
+der Freihafen, ”
+
+die Veredelung
+
+die Bearbeitung
+
+das Zolllager, -
+
+die Durchfuhr
+
+das Versändverfahren
+
+der Zollgutversand
+
+der Zollverschluss, "e
+
+schmuggeln
+
+die Beschlagnahme, n
+
+beschlagnahmen
+
+die Wanderung, en, die Tour, en
+auf Kur gehen, i, a
+
+die Auslandsreise, n
+die Einzelreise
+die Geschäftsreise
+die Pauschalreise
+die Gruppenreise
+die Reisegruppe, n,
+die Reisegesellschaft, en
+mit einer Reisegesellschaft
+fahren“, u, a, ä
+die Reiserücktrittsversicherung
+die Reise mit-machen
+
+der Reiseleiter, -, die Reiseleitung
+
+der Reisebegleiter, -
+die Reisebegleiterin, nen
+
+die Reisebekanntschaft, en
+
+die Kreuzfahrt, en
+
+die Studienreise, n
+
+die Rundreise
+
+die Stippvisite, n
+
+von Paris über Galais nach London
+reisen
+
+der Ferienklub, s
+
+das Feriendorf, "er
+
+der Ausflug, "e
+
+die Sehenswürdigkeiten fpl
+
+sehenswert, sehenswürdig
+
+eine Stadt besichtigen
+
+die Stadtrundfahrt, en
+
+der Fremdenführer, -
+
+jdn herum-führen
+
+(durch die Stadt) bummeln *(fam)
+
+spazieren gehen, i,a
+
+was einem auffällt
+
+bewundern
+
+überlaufen
+
+abgelegen
+
+die Aufenthaltsdauer
+
+die Aufenthaltsverlängerung
+die Saison, S
+
+die Hoch-/Hauptsaison
+während der Hochsaison
+die Nachsaison
+
+die Vor- und Nachsaison
+außer Saison
+saisonbedingt
+
+der Urlaubsort, e
+
+der Badeort
+
+der Strand, "e
+
+der FKK-Strand
+
+baden
+
+Baden verboten
+
+die Strömung, en
+
+durch die Strömung abgetrieben
+werden
+
+der bewachte Strand
+der Bademeister, -
+
+- sich sonnen
+
+sich in die Sonne legen
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+die Unterkunft
+
+das Hotelgewerbe, das Hotel- und
+Gaststättengewerbe
+
+die Hotelfachschule, n
+
+der Hotelberuf, e
+
+der Verkehrsverein, &
+
+der Hotelnachweis, Zimmernachweis
+
+Haben Sie ein Zimmer frei ?
+in einem Hotel ab-steigen‘, ie, ie
+die Vakanzliste
+
+Zimmer frei
+die Hotelbelegung
+
+;. Die Hotels sind ausgebucht.
+
+vorlieb nehmen, a, o, i (mit)
+die Privatunterkunft, "e/
+das Privatquartier, e
+
+ordentlich
+
+einfach
+
+bien tenu
+
+solide
+
+gepflegt
+
+das Gästezimmer, -,
+das Fremdenzimmer
+
+eine selbständige Ferienwohnung
+das Fremdenheim, e
+
+das Ferienquartier auf dem Land
+Unterkunft f und Verpflegung f
+die Jugendherberge, n
+
+der Herbergsvater, ”
+
+das Hotel, s
+
+das Gästehaus (eines Hotels)
+
+; das Luxushotel
+
+die Hotelkette, n
+
+das Hotel mit Restaurant
+
+der Hotelier, s, der Hotelbesitzer, -
+
+der Hoteldirektor, en
+
+der Geschäftsführer, -
+
+ab-steigen*, ie, ie (in+D),
+ein-kehren* (in+D)
+
+übernachten
+
+die Übernachtung, en
+
+Zimmer nmit Frühstück n
+
+das Frühstück aufs Zimmer
+bringen, a, a
+
+die Vollpension
+
+die Halbpension
+
+der Ankunfistag ; an-kommen*, a, 0
+
+der Abreisetag ; ab-reisen*
+
+das Zimmer beziehen, 0, 0
+
+das Zimmer bis spätestens 12 Uhr
+räumen
+
+jdn wecken
+
+die (Hotel)rechnung, en
+die Bedienung
+
+die Beschwerde, n
+
+das Hotelzimmer, -
+das Einzelzimmer
+
+das Doppel(bett)zimmer,
+das Zweibettzimmer
+
+die nebeneinander stehenden Betten
+
+das französische Bett, das breite Bett
+für zwei Personen
+
+das Extrabett, en
+
+das Klappbeit
+
+das Kinderbett
+
+die Zimmerflucht, en, die Suite, n
+die Dusche, n
+
+das Badezimmer, -, das Bad, "er
+das Etagenbad
+
+die Toilette, n
+
+der Garderobenschrank, "e
+
+der Balkon, e/s ; die Terrasse, n
+die Lags
+
+ein sehr ruhig gelegenes Zimmer
+
+ein Zimmer zur Straße
+
+auf der Nordseite, Südseite
+liegen, a, e
+
+auf der Gartenseite
+
+auf der Seeseite
+
+auf der Vorderseite, Rückseite
+
+ruhig
+
+sonnig
+
+die Aussicht
+
+mit Blick auf+A
+
+die Hotelhalle, n
+
+die Rezeption, der Empfang,
+die Anmeldung
+
+der Empfangschef, s
+
+angemeldet sein
+
+die Reservierung, en ; reservieren
+die Bestätigung, en ; bestätigen
+die Annullierung, en
+
+annullieren, rückgängig machen,
+stornieren
+
+ausgebucht sein, belegt sein
+
+das Anmeldeformular, e
+
+das Fremdenbuch, "er
+
+das Schlüsselbrett
+
+der Zimmerschlüssel, -
+
+der Safg, s
+
+etw Im Safe auf-bewahren
+
+die Wertgegenstände mpl
+
+der Aufenthaltsraum, "e, der Salon, s
+
+der Hotelangestellte (adj)
+
+der (Chef)portier, s
+
+der Nachtportier
+
+die Nachtglocke, n
+
+sich wecken lassen, ie, a, ä
+
+nicht gestört werden
+
+der Hotelboy, s, der Hotelpage, n
+
+der Hausdiener,-
+
+das Gepäck auf das Zimmer
+bringen, a, a
+
+der Liftjunge, n, n
+
+der Lift, s/e, der Aufzug, "e
+
+das Zimmermädchen, -
+
+das Bett frisch beziehen, 0, o
+
+die Jagd, en
+
+auf die Jagd gehen, i, a
+jagen
+
+der Jäger, -
+
+der Jagdhund, e
+
+der Vorstehhund
+
+der Spürhund
+
+wittern
+
+auf-spüren
+
+die Spur, en
+
+die Fährte, n
+
+das Wild
+
+wildreich
+
+das Hochwild, das Schalenwild
+das Niederwild
+
+das Haarwild
+
+amping
+
+das Camping, das Zelten
+zeiten
+der Camper, -
+der Campingplatz, "e, der Zeltplatz
+ein gut ausgestatteter Zeitplatz
+das Zeltlager, -
+das Zelt, e
+das Wanderzelt
+das Hauszelt
+das Steilwandzelt
+ein Zeit auf-bauen
+ein Zelt ab-bauen
+die Zeltbahn, en
+der Zeltboden
+das Vordach, "er
+das Außenzelt
+das Innenzelt
+das Zeltgestänge
+der Hering, e
+der Spanner, -
+der Rucksack, "e
+der Schlafsack
+das Zeltbett, en
+der Klappstuhl, "e
+der Klapptisch, &
+der Gaskocher, -
+die Gasilasche, n
+der Kochsatz
+die Kühlbox, en
+der Wassersack, "e
+der (Wasser)kanister, -
+das Caravaning
+das Wohnmobil, e, der Campingbus, se
+der Wohnwagen, -,
+der Wohnanhänger, -
+
+die Anhängervorrichtung, en
+die Fesistellstütze, n
+der Abstellplatz, "e (für Wohnwagen)
+
+e et la päche
+
+die Jagd, en
+
+auf die Jagd gehen, i, a
+jagen
+
+der Jäger, -
+
+der Jagdhund, e
+der Vorstehhund
+der Spürhund
+wittern
+auf-spüren
+
+die Spur, en
+
+die Fährte, n
+
+a
+
+Ne:
+
+das Federwild
+
+die Hasenjagd, en
+
+die Sauhetze, n/die Sauhatz, en
+hervor-brechen*, a, o, i (aus-D)
+die Hetzjagd
+
+hetzen
+
+den Hirsch hetzen
+
+das Wild zu Tode hetzen
+Der Hirsch wird verbellt.
+
+das Jagdhorn, "er
+
+das Jagdhorn blasen, ie, a, ä
+zum Jägerrecht blasen
+
+die Meute, n
+
+nach Wild suchen
+
+die Treibjagd, en
+
+eine Treibjagd veranstalten
+das Wild treiben, ie, ie
+
+der Treiber, -
+
+der Kessel, -
+
+der Anstand, "e
+
+auf den Anstand gehen*, i, a
+der Treffpunkt, e
+
+der Pirschgang, "e
+
+die Pirsch
+
+pirschen
+
+die Safari, s
+die Fotosafari
+
+die (Er)öffnung der Jagd
+die Schonzeit
+
+Es ist Schonzeit.
+weidgerecht/weidmännisch
+
+das Jagdrevier, e
+
+der Jagdhüter, -
+
+das Jagdrecht
+
+der Jagdschein, e
+
+einen Jagdschein lösen
+das Jagdvergehen, -
+
+der Wilddieb, e
+
+die Wilddieberei
+
+wildern
+
+die Falle, n
+
+eine Falle stellen
+
+die Schlinge, n
+
+die Jagdwaffe, n
+
+das Jagdgewehr, e, die Flinte, n
+die Büchse, n
+
+das Futteral, e
+
+die Patrone, n
+
+der/das Schrot, e
+
+der Hirschfänger, -
+
+der Jagdanzug, "e
+
+die Jagdjacke, n
+
+die Gamasche, n
+
+der Patronengürtel, -
+
+der „lagdstock, "e
+
+der Jagdstuhl, "e
+
+die Lockpfeife, n
+
+der Lockvogel, ”
+
+die Beizjagd/die Falkenbeize, n
+einen Hasen schießen, o, 0
+an-schießen
+
+erlegen
+
+e)
+
+verfehlen
+
+die Strecke, n
+
+zur Strecke bringen, a, a
+das Jägerrecht
+
+das Geweih, e
+
+die Weidmannssprache
+Weidmannsheil !
+
+das Angeln, der Angelsport
+der Angler, -
+
+der Angeischein, e
+angeln
+
+angeln gehen*, i, a
+
+das Anbeißen
+
+der Fang, "e
+
+Fische fangen, i, a, ä
+
+die (Jagd)trophäe, n
+
+die Angel, n
+
+die Angel zusammen-setzen
+die Angelrute, n
+
+die Rutenspitze, n
+
+das Spinnangeln
+
+die Wurfrute, die Spinnrute
+aus-werfen, a, 0,
+
+die Fliegenrute
+
+die schwere Spinnangelei
+die Rolle, n
+
+die Schnur, "e
+
+der Schwimmer, -/die Pose, n
+der Korkschwimmer
+
+die Wasserkugel, n
+
+der Angelhaken, -
+an-beißen, i,i
+fest-haken, an-reißen
+heraus-ziehen, 0,0
+
+den Angelhacken tief verschlucken
+zappeln
+
+los-haken
+
+der Köder, -
+
+der künstliche Köder
+ködern
+
+befestigen (an+D)
+
+der (Regen)wurm, "er
+
+die Made, n
+
+die (Trocken)fliege, n
+
+die Nassfliege
+
+der Blinker, -/der Spinner, -
+der lebende Köderfisch, e
+das Vorfach, "er
+
+der Wirbel, -
+
+die Bleigewichte npr
+
+das Spaltschrot, e
+
+die Olive, n
+
+das Grundsucherblei, e
+das Angelmaterial
+
+der Gaffhaken, -
+
+der Kescher, -
+
+der Fischkorb, "e
+
+der Setzkescher, -
+
+die Köderdose, n
+
+der Fischkessel, -
+
+die Reuss, n
+
+das Senknetz, @
+
