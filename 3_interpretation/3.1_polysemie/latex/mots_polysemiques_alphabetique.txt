@@ -1,0 +1,243 @@
+\section*{Polysemous words in GMS}
+\begin{itemize}
+  \item \textbf{Abfall}: Agriculture, Monde, Urbanisme
+  \item \textbf{Ableitung}: Sciences exactes, Lettres
+  \item \textbf{Abstammung}: Zoologie, Sciences humaines
+  \item \textbf{Abteilung}: Botanique, Sciences politiques, Vie économique, Vie économique
+  \item \textbf{Alter}: Alimentation, Sciences humaines, Sciences humaines
+  \item \textbf{Art}: Zoologie, Arts
+  \item \textbf{Auflösung}: Sciences exactes, Sciences politiques, Sciences politiques
+  \item \textbf{Auge}: Botanique, Homme Santé Médecine
+  \item \textbf{Beweis}: Sciences exactes, Sciences humaines
+  \item \textbf{Dauerhaftigkeit}: Sciences exactes, Sciences humaines
+  \item \textbf{Deduktion}: Sciences exactes, Sciences humaines
+  \item \textbf{Durchschnitt}: Sciences exactes, Sciences exactes, Sciences exactes, Arts
+  \item \textbf{Ende}: Sciences exactes, Sciences humaines, Sciences humaines
+  \item \textbf{Erhebung}: Monde, Sciences exactes, Vie économique, Vie économique
+  \item \textbf{Fall}: Zoologie, Histoire, Histoire, Lettres, Sport
+  \item \textbf{Feld}: Agriculture, Sciences exactes, Sport
+  \item \textbf{Flügel}: Zoologie, Zoologie, Zoologie, Arts, Sciences politiques, Transport Tourisme
+  \item \textbf{Folge}: Sciences exactes, Sciences humaines
+  \item \textbf{Formel}: Sciences exactes, Sciences exactes, Sciences exactes, Sport
+  \item \textbf{Geschlecht}: Zoologie, Histoire, Homme Santé Médecine, Lettres
+  \item \textbf{Geschmack}: Alimentation, Alimentation, Alimentation, Vetement
+  \item \textbf{Glied}: Sciences exactes, Homme Santé Médecine
+  \item \textbf{Grenze}: Monde, Transport Tourisme
+  \item \textbf{Grund}: Monde, Sciences humaines
+  \item \textbf{Grundsatz}: Sciences exactes, Sciences humaines
+  \item \textbf{Hals}: Alimentation, Alimentation, Alimentation, Arts, Homme Santé Médecine
+  \item \textbf{Hang}: Monde, Sciences humaines
+  \item \textbf{Heilige}: Zoologie, Histoire, Religion, Religion, Religion, Religion, Religion, Religion, Religion, Sciences humaines
+  \item \textbf{Herz}: Alimentation, Homme Santé Médecine
+  \item \textbf{Himmel}: Monde, Religion
+  \item \textbf{Klasse}: Zoologie, Sciences humaines
+  \item \textbf{Leser}: Agriculture, Information Communication
+  \item \textbf{Materie}: Monde, Sciences exactes
+  \item \textbf{Menge}: Sciences exactes, Sciences exactes, Transport Tourisme
+  \item \textbf{Muster}: Vetement, Vetement, Arts, Urbanisme
+  \item \textbf{Nachahmung}: Monde, Droit Justice
+  \item \textbf{Norm}: Sciences exactes, Sciences humaines, Vie économique
+  \item \textbf{Ordnung}: Botanique, Zoologie, Sciences humaines
+  \item \textbf{Quelle}: Monde, Information Communication
+  \item \textbf{Reihe}: Sciences exactes, Arts, Information Communication
+  \item \textbf{Richtschnur}: Agriculture, Sciences exactes
+  \item \textbf{Satz}: Sciences exactes, Arts, Information Communication, Lettres, Sport
+  \item \textbf{Schmuck}: Vetement, Vetement
+  \item \textbf{Schritt}: Vetement, Sport
+  \item \textbf{Seite}: Monde, Sciences exactes, Homme Santé Médecine, Information Communication
+  \item \textbf{Stelle}: Monde, Information Communication
+  \item \textbf{Stärke}: Monde, Sciences exactes, Homme Santé Médecine
+  \item \textbf{Unterschied}: Sciences exactes, Lettres, Sciences humaines
+  \item \textbf{Welt}: Monde, Sciences humaines, Sciences humaines
+  \item \textbf{Widerstand}: Sciences exactes, Sciences humaines, Sciences politiques
+  \item \textbf{Wirkung}: Sciences exactes, Lettres, Sciences humaines
+  \item \textbf{Zeit}: Sciences exactes, Sciences exactes, Histoire, Sciences humaines
+\end{itemize}
+\section*{Polysemous words in KpV}
+\begin{itemize}
+  \item \textbf{Ableitung}: Sciences exactes, Lettres
+  \item \textbf{Alter}: Alimentation, Sciences humaines, Sciences humaines
+  \item \textbf{Anhänger}: Vetement, Lettres, Religion, Transport Tourisme
+  \item \textbf{Arbeit}: Sciences exactes, Vie économique, Vie économique
+  \item \textbf{Art}: Zoologie, Arts
+  \item \textbf{Auflösung}: Sciences exactes, Sciences politiques, Sciences politiques
+  \item \textbf{Auge}: Botanique, Homme Santé Médecine
+  \item \textbf{Bewegung}: Sciences exactes, Lettres
+  \item \textbf{Boden}: Agriculture, Monde
+  \item \textbf{Brot}: Alimentation, Alimentation
+  \item \textbf{Dauer}: Sciences exactes, Sciences humaines
+  \item \textbf{Deduktion}: Sciences exactes, Sciences humaines
+  \item \textbf{Ende}: Sciences exactes, Sciences humaines, Sciences humaines
+  \item \textbf{Entdeckung}: Sciences exactes, Histoire, Histoire
+  \item \textbf{Erhebung}: Monde, Sciences exactes, Vie économique, Vie économique
+  \item \textbf{Ewigkeit}: Sciences exactes, Religion
+  \item \textbf{Fall}: Zoologie, Histoire, Histoire, Lettres, Sport
+  \item \textbf{Familie}: Botanique, Zoologie, Sciences humaines
+  \item \textbf{Feld}: Agriculture, Sciences exactes, Sport
+  \item \textbf{Folge}: Sciences exactes, Sciences humaines
+  \item \textbf{Formel}: Sciences exactes, Sciences exactes, Sciences exactes, Sport
+  \item \textbf{Frucht}: Botanique, Botanique, Botanique
+  \item \textbf{Fruchtbarkeit}: Zoologie, Homme Santé Médecine
+  \item \textbf{Gang}: Alimentation, Transport Tourisme, Transport Tourisme
+  \item \textbf{Genauigkeit}: Sciences exactes, Sciences humaines
+  \item \textbf{Geschmack}: Alimentation, Alimentation, Alimentation, Vetement
+  \item \textbf{Gewicht}: Sciences exactes, Sciences exactes, Homme Santé Médecine, Transport Tourisme, Vie économique
+  \item \textbf{Gleichheit}: Sciences exactes, Sciences humaines, Sciences politiques
+  \item \textbf{Gold}: Monde, Vie économique
+  \item \textbf{Grenze}: Monde, Transport Tourisme
+  \item \textbf{Große}: Botanique, Botanique, Botanique, Botanique, Botanique, Botanique, Botanique, Monde, Monde, Zoologie, Zoologie, Zoologie, Zoologie, Zoologie, Zoologie, Zoologie, Zoologie, Zoologie, Zoologie, Zoologie, Zoologie, Lettres
+  \item \textbf{Grund}: Monde, Sciences humaines
+  \item \textbf{Grundsatz}: Sciences exactes, Sciences humaines
+  \item \textbf{Größe}: Sciences exactes, Vetement, Homme Santé Médecine
+  \item \textbf{Hang}: Monde, Sciences humaines
+  \item \textbf{Herz}: Alimentation, Homme Santé Médecine
+  \item \textbf{Himmel}: Monde, Religion
+  \item \textbf{Kern}: Agriculture, Botanique, Monde, Monde
+  \item \textbf{Konstruktion}: Sciences exactes, Sciences humaines
+  \item \textbf{Kopf}: Alimentation, Information Communication, Information Communication
+  \item \textbf{Kraft}: Sciences exactes, Sciences humaines
+  \item \textbf{Körper}: Alimentation, Sciences exactes, Homme Santé Médecine, Sciences humaines
+  \item \textbf{Lage}: Agriculture, Monde, Sciences politiques
+  \item \textbf{Lauf}: Monde, Monde, Zoologie, Sciences politiques, Sport
+  \item \textbf{Leser}: Agriculture, Information Communication
+  \item \textbf{Licht}: Monde, Sciences exactes, Sciences exactes, Arts, Urbanisme
+  \item \textbf{Materie}: Monde, Sciences exactes
+  \item \textbf{Maß}: Sciences exactes, Vetement, Transport Tourisme
+  \item \textbf{Menge}: Sciences exactes, Sciences exactes, Transport Tourisme
+  \item \textbf{Mikroskop}: Sciences exactes, Homme Santé Médecine, Homme Santé Médecine
+  \item \textbf{Muster}: Vetement, Vetement, Arts, Urbanisme
+  \item \textbf{Nachahmung}: Monde, Droit Justice
+  \item \textbf{Oberfläche}: Monde, Sciences exactes
+  \item \textbf{Ordnung}: Botanique, Zoologie, Sciences humaines
+  \item \textbf{Postulat}: Sciences exactes, Sciences humaines
+  \item \textbf{Probe}: Sciences exactes, Arts, Vie économique
+  \item \textbf{Quelle}: Monde, Information Communication
+  \item \textbf{Reihe}: Sciences exactes, Arts, Information Communication
+  \item \textbf{Richtschnur}: Agriculture, Sciences exactes
+  \item \textbf{Satz}: Sciences exactes, Arts, Information Communication, Lettres, Sport
+  \item \textbf{Schritt}: Vetement, Sport
+  \item \textbf{Seite}: Monde, Sciences exactes, Homme Santé Médecine, Information Communication
+  \item \textbf{Stachel}: Botanique, Zoologie
+  \item \textbf{Stein}: Botanique, Monde, Arts, Urbanisme
+  \item \textbf{Stelle}: Monde, Information Communication
+  \item \textbf{Stimme}: Zoologie, Arts, Arts, Homme Santé Médecine, Sciences humaines, Sciences politiques
+  \item \textbf{Strom}: Monde, Sciences exactes, Urbanisme
+  \item \textbf{Stärke}: Monde, Sciences exactes, Homme Santé Médecine
+  \item \textbf{Substanz}: Sciences exactes, Sciences humaines
+  \item \textbf{Trieb}: Agriculture, Sciences humaines, Sciences humaines
+  \item \textbf{Unterschied}: Sciences exactes, Lettres, Sciences humaines
+  \item \textbf{Vereinigung}: Sciences exactes, Histoire, Histoire, Sciences humaines
+  \item \textbf{Verfahren}: Sciences exactes, Arts
+  \item \textbf{Welt}: Monde, Sciences humaines, Sciences humaines
+  \item \textbf{Wirkung}: Sciences exactes, Lettres, Sciences humaines
+  \item \textbf{Wurzel}: Botanique, Sciences exactes, Sciences exactes, Homme Santé Médecine, Lettres
+  \item \textbf{Zeit}: Sciences exactes, Sciences exactes, Histoire, Sciences humaines
+  \item \textbf{Änderung}: Vetement, Lettres, Sciences humaines
+\end{itemize}
+\section*{Polysemous words in MS}
+\begin{itemize}
+  \item \textbf{Ablauf}: Sciences exactes, Urbanisme
+  \item \textbf{Ableitung}: Sciences exactes, Lettres
+  \item \textbf{Alter}: Alimentation, Sciences humaines, Sciences humaines
+  \item \textbf{Anhänger}: Vetement, Lettres, Religion, Transport Tourisme
+  \item \textbf{Arbeit}: Sciences exactes, Vie économique, Vie économique
+  \item \textbf{Art}: Zoologie, Arts
+  \item \textbf{Auflösung}: Sciences exactes, Sciences politiques, Sciences politiques
+  \item \textbf{Ausdehnung}: Sciences exactes, Histoire
+  \item \textbf{Aussage}: Sciences exactes, Sciences humaines
+  \item \textbf{Beweis}: Sciences exactes, Sciences humaines
+  \item \textbf{Beweisführung}: Sciences exactes, Sciences humaines, Sciences humaines
+  \item \textbf{Bezeichnung}: Alimentation, Lettres
+  \item \textbf{Boden}: Agriculture, Monde
+  \item \textbf{Deduktion}: Sciences exactes, Sciences humaines
+  \item \textbf{Eisen}: Monde, Sport, Urbanisme
+  \item \textbf{Ende}: Sciences exactes, Sciences humaines, Sciences humaines
+  \item \textbf{Erhebung}: Monde, Sciences exactes, Vie économique, Vie économique
+  \item \textbf{Fall}: Zoologie, Histoire, Histoire, Lettres, Sport
+  \item \textbf{Familie}: Botanique, Zoologie, Sciences humaines
+  \item \textbf{Feder}: Zoologie, Transport Tourisme
+  \item \textbf{Fehler}: Monde, Sciences humaines, Sciences humaines, Sciences humaines
+  \item \textbf{Feld}: Agriculture, Sciences exactes, Sport
+  \item \textbf{Fleisch}: Alimentation, Alimentation, Zoologie, Information Communication, Information Communication
+  \item \textbf{Folge}: Sciences exactes, Sciences humaines
+  \item \textbf{Fortpflanzung}: Botanique, Homme Santé Médecine
+  \item \textbf{Fruchtbarkeit}: Zoologie, Homme Santé Médecine
+  \item \textbf{Funktion}: Sciences exactes, Sciences exactes, Lettres, Sciences humaines
+  \item \textbf{Fuß}: Alimentation, Monde, Sciences exactes, Homme Santé Médecine
+  \item \textbf{Gemeine}: Botanique, Botanique, Botanique, Botanique, Botanique, Botanique, Botanique, Botanique, Botanique, Botanique, Botanique, Zoologie
+  \item \textbf{Gericht}: Alimentation, Droit Justice
+  \item \textbf{Geschlecht}: Zoologie, Histoire, Homme Santé Médecine, Lettres
+  \item \textbf{Geschmack}: Alimentation, Alimentation, Alimentation, Vetement
+  \item \textbf{Gewicht}: Sciences exactes, Sciences exactes, Homme Santé Médecine, Transport Tourisme, Vie économique
+  \item \textbf{Gift}: Zoologie, Homme Santé Médecine
+  \item \textbf{Gleichheit}: Sciences exactes, Sciences humaines, Sciences politiques
+  \item \textbf{Glied}: Sciences exactes, Homme Santé Médecine
+  \item \textbf{Grenze}: Monde, Transport Tourisme
+  \item \textbf{Große}: Botanique, Botanique, Botanique, Botanique, Botanique, Botanique, Botanique, Monde, Monde, Zoologie, Zoologie, Zoologie, Zoologie, Zoologie, Zoologie, Zoologie, Zoologie, Zoologie, Zoologie, Zoologie, Zoologie, Lettres
+  \item \textbf{Grund}: Monde, Sciences humaines
+  \item \textbf{Grundsatz}: Sciences exactes, Sciences humaines
+  \item \textbf{Größe}: Sciences exactes, Vetement, Homme Santé Médecine
+  \item \textbf{Hals}: Alimentation, Alimentation, Alimentation, Arts, Homme Santé Médecine
+  \item \textbf{Hang}: Monde, Sciences humaines
+  \item \textbf{Herz}: Alimentation, Homme Santé Médecine
+  \item \textbf{Himmel}: Monde, Religion
+  \item \textbf{Induktion}: Sciences exactes, Sciences humaines
+  \item \textbf{Klasse}: Zoologie, Sciences humaines
+  \item \textbf{Konstruktion}: Sciences exactes, Sciences humaines
+  \item \textbf{Kopf}: Alimentation, Information Communication, Information Communication
+  \item \textbf{Kraft}: Sciences exactes, Sciences humaines
+  \item \textbf{Kreis}: Sciences exactes, Sciences humaines
+  \item \textbf{Krone}: Botanique, Histoire, Homme Santé Médecine, Homme Santé Médecine, Vie économique
+  \item \textbf{Körper}: Alimentation, Sciences exactes, Homme Santé Médecine, Sciences humaines
+  \item \textbf{Lage}: Agriculture, Monde, Sciences politiques
+  \item \textbf{Land}: Agriculture, Monde
+  \item \textbf{Lauf}: Monde, Monde, Zoologie, Sciences politiques, Sport
+  \item \textbf{Leistung}: Sciences exactes, Sport, Vie économique
+  \item \textbf{Licht}: Monde, Sciences exactes, Sciences exactes, Arts, Urbanisme
+  \item \textbf{Länge}: Monde, Sciences exactes
+  \item \textbf{Mantel}: Monde, Vetement, Transport Tourisme
+  \item \textbf{Materie}: Monde, Sciences exactes
+  \item \textbf{Maß}: Sciences exactes, Vetement, Transport Tourisme
+  \item \textbf{Menge}: Sciences exactes, Sciences exactes, Transport Tourisme
+  \item \textbf{Mode}: Vetement, Vetement
+  \item \textbf{Nachahmung}: Monde, Droit Justice
+  \item \textbf{Ordnung}: Botanique, Zoologie, Sciences humaines
+  \item \textbf{Ort}: Monde, Information Communication
+  \item \textbf{Postulat}: Sciences exactes, Sciences humaines
+  \item \textbf{Punkt}: Sciences exactes, Lettres
+  \item \textbf{Pächter}: Agriculture, Droit Justice
+  \item \textbf{Quelle}: Monde, Information Communication
+  \item \textbf{Reihe}: Sciences exactes, Arts, Information Communication
+  \item \textbf{Reinigung}: Vetement, Urbanisme
+  \item \textbf{Richtschnur}: Agriculture, Sciences exactes
+  \item \textbf{Rolle}: Vetement, Arts, Arts, Lettres, Lettres, Sport, Sport, Transport Tourisme, Transport Tourisme, Urbanisme
+  \item \textbf{Satz}: Sciences exactes, Arts, Information Communication, Lettres, Sport
+  \item \textbf{Schatten}: Monde, Arts
+  \item \textbf{Schmuck}: Vetement, Vetement
+  \item \textbf{Seite}: Monde, Sciences exactes, Homme Santé Médecine, Information Communication
+  \item \textbf{Stelle}: Monde, Information Communication
+  \item \textbf{Stern}: Monde, Sciences politiques
+  \item \textbf{Stimme}: Zoologie, Arts, Arts, Homme Santé Médecine, Sciences humaines, Sciences politiques
+  \item \textbf{Stoff}: Vetement, Lettres
+  \item \textbf{Stufe}: Monde, Arts, Lettres, Urbanisme
+  \item \textbf{Stärke}: Monde, Sciences exactes, Homme Santé Médecine
+  \item \textbf{Substanz}: Sciences exactes, Sciences humaines
+  \item \textbf{Tier}: Zoologie, Zoologie
+  \item \textbf{Trieb}: Agriculture, Sciences humaines, Sciences humaines
+  \item \textbf{Unterschied}: Sciences exactes, Lettres, Sciences humaines
+  \item \textbf{Vereinigung}: Sciences exactes, Histoire, Histoire, Sciences humaines
+  \item \textbf{Verfahren}: Sciences exactes, Arts
+  \item \textbf{Versuch}: Sciences exactes, Sport, Sport
+  \item \textbf{Verwerfung}: Monde, Sciences humaines
+  \item \textbf{Vieh}: Agriculture, Agriculture
+  \item \textbf{Wasser}: Alimentation, Monde, Sport, Urbanisme, Urbanisme
+  \item \textbf{Welt}: Monde, Sciences humaines, Sciences humaines
+  \item \textbf{Widerstand}: Sciences exactes, Sciences humaines, Sciences politiques
+  \item \textbf{Wirkung}: Sciences exactes, Lettres, Sciences humaines
+  \item \textbf{Wirtschaft}: Alimentation, Vie économique
+  \item \textbf{Wurm}: Zoologie, Transport Tourisme
+  \item \textbf{Wurzel}: Botanique, Sciences exactes, Sciences exactes, Homme Santé Médecine, Lettres
+  \item \textbf{Wärme}: Monde, Sciences exactes
+  \item \textbf{Zeichen}: Sciences exactes, Homme Santé Médecine, Sciences humaines
+  \item \textbf{Zeit}: Sciences exactes, Sciences exactes, Histoire, Sciences humaines
+\end{itemize}
