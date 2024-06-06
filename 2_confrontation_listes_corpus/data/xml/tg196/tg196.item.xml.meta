@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<object xmlns:tei="http://www.tei-c.org/ns/1.0"
+        xmlns:xi="http://www.w3.org/2001/XInclude"
+        xmlns:tns="http://textgrid.info/namespaces/metadata/core/2010"
+        xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+        xmlns="http://textgrid.info/namespaces/metadata/core/2010">
+   <generic>
+      <title>Kritik der praktischen Vernunft</title>
+      <format>text/xml</format>
+   </generic>
+   <item>
+      <rightsHolder>TextGrid</rightsHolder>
+   </item>
+</object>

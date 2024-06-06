@@ -1,0 +1,1184 @@
+die Textilindustrie
+
+der Textifabrikant, en, en
+die Wollindustrie
+
+die Spinnerei, en
+spinnen, a, 0
+
+die Weberei, en
+
+weben ; der Weber, -
+handgewebt
+
+der Webstuhl, "e
+
+das Weberschifichen, -
+die Textilien pi
+
+der Stoff, e
+
+die rechte Seite, die Tuchseite
+die linke Seite
+
+das Tuch, e
+
+der Wollstoff, e
+
+der Streichgarnstoff
+
+der Kammgarnstoff
+
+der Baumwollstoff
+
+der Seidenstoff
+
+der Druckstoff, e
+
+das Acetat/Azetat, e
+
+die Acrylfaser, n
+
+der Batist, e
+
+der Brokat, &
+
+der Kaschmir, e
+
+der Kaliko, s
+
+die Baumwolle, n
+
+der Drell, e/der Drillich, e
+der Krepp, s/e ; der grobe Krepp
+der Köper, -
+
+der Damast, e
+
+die Kunstfaser, n
+
+der Flanell, e
+
+der/das Biber, s
+
+der Jersey, 5
+
+die Jute
+
+die Wolle, n ; wollig
+
+die Schurwolle
+
+der Lam&, s
+
+das Leinen, -
+
+der Loden
+
+das Halbleinen
+
+der Molton, s
+
+der Musselin, &
+
+das Nylon, s
+
+das Polyamid, e
+
+der Polyester, -
+
+der Popelin, e
+
+der Ratine, s
+
+der Satin, s
+
+die Serge, n
+
+die Seide, n ; seiden, Seiden-
+seidig
+
+aus reiner Seide
+
+die Kunsiseide, n
+
+der Taft, e
+
+der Frottierstoff, e, der/das Frottee, s
+
+der Tüll, e
+
+der Tweed, s/e
+
+der Samt, e ;samten, Samt-
+der Kordsamt, e/der Kord, e/s
+der Manchestersamt
+die Zellwolle, n
+
+der Seidenchiffon, s
+die Farbe, n
+
+farbig
+
+bunt
+
+meliert
+
+einfarbig
+
+grell
+
+das Muster, -
+gemustert
+
+kariert
+
+klein kariert
+
+das Fischgrätenmuster
+schottisch
+
+geblümt
+
+das Hahnentrittmuster
+der/das Pepita, s
+getupft, mit Tupfen, gepunktet
+der Glencheck, s
+
+das Rankenmuster
+
+der Streifen, - ; gestreift
+die Stoffqualität
+saugfähig
+
+angenehm
+
+pflegeleicht
+empfindlich
+
+gerauht
+
+knitterfrei
+
+einlauffest
+
+beim Waschen ein-laufen*, ie, au, äu
+waschecht
+
+kochfest
+
+merzerisiert (Baumwolle)
+flauschig
+
+rau
+
+leicht schmutzend
+haltbar
+
+strapazierfähig
+bügelfrei
+
+farbecht
+
+das Indanthren, e'*
+ab-färben (auf+A)
+
+du vetement
+
+die Bekleidungsindustrie
+die Mode
+
+modisch
+
+der Trend, s
+
+im Trend liegen, a, 8
+
+den Ton an-geben, a, e, |
+sich nach der Mode kleiden
+mit der Mode gehen‘, I, a
+
+die letzte/neueste Mode
+
+ 
+
+ 
+
+die Bekleidungsindustrie
+die Mode
+
+modisch
+
+der Trend, s
+
+im Trend liegen, a, 3
+
+den Ton an-geben, a, e, |
+sich nach der Mode kleiden
+mit der Mode gehen‘, I, a
+
+die letzte/neueste Mode
+
+ 
+
+nach der neuesten Mode
+aus der Mode kommen*, a, o
+nicht mehr Mode sein
+altmodisch
+
+wieder Mode werden
+
+der Geschmack
+geschmackvoll
+
+die Geschmacklosigkeit
+geschmacklos sein
+
+dezent, vornehm
+
+apart
+
+der Modesalon, s, das Modeatelier, s
+
+die Haute Couture, die großen
+Modehäuser np/
+
+der Modeschöpfer, -,
+der Modemacher, -
+
+die erste Näherin, nen
+das Nähmädchen, -
+
+die Modeschau, en
+
+das Mannequin, s
+
+das Modell, e, das Modellkleid, er
+die Modellkollektion, en
+
+die Frühjahrskollektion
+
+die Winterkollektion
+
+die Konfektion
+
+die Fertigkleidung
+
+von der Stange kaufen (fam)
+ohne Markenzeichen
+
+die Herrenkonfektion
+
+die Damenkonfektion,
+die Damenoberbekleidung
+
+der Änderungsschneider, -
+
+die Änderung, en ; ändern
+erweitern/weiter machen (um 2 cm)
+verengern/enger machen (um)
+verlängern/länger machen (um)
+verkürzen /kürzer machen (um)
+die Größe, n
+
+die Oberweite, der Brustumfang
+die Taillenweite (femme)
+
+die Bundweite (homme)
+
+die Hüftweite (femme)
+
+die Gesäßweite
+
+der Schritt
+
+die Halsweite
+
+die Maßarbeit
+
+der (Herren)schneider, -
+
+die Schneiderin, e,/die Näherin, nen
+der Zuschneider
+
+der Zuschneidetisch, e
+
+der Schnitt, e; schneiden, i, i
+das Schnittmuster,-
+
+die Stoffmenge, n
+
+der Stoffrest, e
+
+der Hosenschneider, -
+
+die Werkstatt, "en
+
+das Maß, e ; nach maß
+
+bei jdn die Maße nehmen, a, o, i
+sich einen Anzug machen lassen
+der Maßanzug, "e
+
+die Verarbeitung
+
+die Anprobe, n
+
+|
+|
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+#
+}
+
+die Näharbeit
+
+nähen
+
+der Nähkasten, "
+
+auf-trennen
+
+einen Knopf an-nähen
+
+die Nähmaschine, n
+
+etw mit der Nähmaschine steppen
+handgenäht
+
+der Fingerhut, "e
+
+die (Näh)nadel, n
+
+das Nadelöhr, e
+
+eine Nadel, den Faden ein-fädeln
+die Stecknadel
+
+das Nadelkissen, -
+
+ein Kleid heften
+
+die Naht, "e
+
+der Stich, e
+
+der Saum, "e, die Saumnaht, "e
+säumen
+
+der Einnäher, -
+
+die Flickarbeit, en
+
+flicken
+
+der Flicken, -
+
+ein Loch stopfen
+
+zerrissen sein
+
+das Kunststopfen
+
+die Schneiderpuppe, n
+Es passt/sitzt tadellos.
+die Jacke fällt gut.
+
+eng sein
+
+sich wonl fühlen
+
+sich eingeengt fühlen
+
+Falten schlagen, u, a, ä/
+werfen, a, 0, i
+
+die Zutaten pl
+
+die Kurzwaren pl
+
+der Haken, -
+
+zu-haken ; auf/los-haken
+der Klettverschluss, "e
+
+die (Näh)rolle, n
+
+der Knopf, "e
+
+zu-knöpfen ; auf-knöpfen
+der Druckknopf
+
+das Knopfloch, "er
+
+das Futter, -/der Futterstoff
+(un)gefüttert
+
+das Schulterpolster, -
+
+das Nahtband, "er
+
+der Reißverschluss, "e
+
+der Faden, "/das Garn, e
+der Heftfaden
+
+der Zwim, e
+
+das Gurtband, "er
+
+die Öse, n
+
+das Band, "er
+
+die Borte, n
+
+die Nähseide, n
+
+das Leinen
+
+ut)
+
+ters
+
+ 
+
+sich geschmacklos aus-staffieren
+flott
+
+eng anliegend
+
+weit
+
+bequem
+
+salopp
+
+die abgetragenen Kleider mpl
+alte Klamotten fp/ (fam) an-haben
+(sich) aus-staffieren (fam)
+
+neu
+
+gebraucht
+
+getragen ; abgetragen
+
+fadenscheinig
+
+die Lumpen mpl
+
+zerlumpt
+
+die Männerkleidung
+
+das (Ober)hemd, en
+
+tailliert
+
+der Kragen, -
+
+der Stehkragen
+
+der abnehmbare Kragen
+
+der Ärmel, - ;der Armausschnitt, e
+mit langen, kurzen Ärmeln
+
+die Ärmel auf-krempeln/
+hoch-krempeln
+
+die Manschette, n
+
+die Umschlagmanschette
+
+der Manschettenknopf, "e
+
+das Frackhemd, en
+
+das Party-Hemd
+
+das Hemd mit kurzen Ärmeln
+
+die Krawatte, n/der Schlips, e
+einen Schlips um-binden, a, u
+der Querbinder, -/die Fliege, n
+das Taschentuch, "er
+
+das Ziertaschentuch
+
+die (Herren)unterwäsche
+das Unterhemd, die Unterjacke, n
+das ärmellose Unterhemd
+
+das T-Shirt, s
+die Unterhose, n
+der Slip, s
+
+der Strumpf, "e
+der Kniestrumpf
+
+die Socke, die Fesselsocke, n
+
+die Hose, n
+
+das Hosenbein, &
+der Aufschlag, "e
+
+die Bundfaltenhose
+der Einnäher, -
+
+die Bügelfalte, n/der Bruch, 'e
+der Hosenschlitz, e
+die Tasche, n
+
+die Gesäßtasche
+der Hosenbund, "e
+die Schlaufe, n
+
+der (Leder)gürtel, -
+die Gürtelschnalle, n
+die Hosenträger mpl
+
+nn
+
+der Kunststopfer, -
+das Bügeln
+
+bügeln
+
+zerknittert
+
+etw auf-bügeln
+
+das Bügeleisen, -
+das Dampfbügeleisen
+der Bügeltisch, e
+
+das Bügelbrett, er
+das Ärmelbrett
+
+das Bügeltuch, "er
+die Reinigung, en
+
+die Trockenreinigung
+etw reinigen lassen
+die Reinigungsanstalt, en
+der Fleck, e/en ;fleckig
+einen Fleck entfernen
+der Fleckentferner, -
+färben
+
+imprägnieren
+
+die Wirkwaren fol
+
+die Strickware
+
+die Strickarbeit, en ; stricken
+die Masche, n
+
+das Muster, -
+
+die Stricknadel, n
+
+die Strickmaschine, n
+der Strang, "e
+
+das Knäuel, -
+
+die Häkelnadel, n
+häkeln
+
+sticken
+
+die Stickerei, en
+
+die Spitze, n
+
+die Posamenten npl
+
+die Bekleidung
+
+die Kleidung ; das Kleidungsstück, "e
+sich an-ziehen, o, o/sich an-kleiden
+Wie soll ich mich anziehen ?
+
+Was soll ich an-ziehen ?
+
+etwas an-ziehen
+
+etw rasch über-ziehen,
+schlüofen in+A
+
+sich leicht, sich warm an-ziehen
+
+sich aus-ziehen
+
+etwas aus-ziehen
+
+die Jacke aus-ziehen
+
+sich um-ziehen
+
+das Aussehen
+
+Ihm/ihr steht/sitzt alles gut.
+eine elegante Erscheinung sein
+gut angezogen sein
+
+sorgfäliig gekleidet sein
+
+im Sonntagsstaat
+
+nach nichts aus-sehen, a, e, ie
+schlecht angezogen
+
+; eine nachlässige Kleidung
+(sich) auf-takeln
+
+aufgedonnert (fam)
+
+ 
+
+die Korkenzieherhose, n (fam)
+
+die Jeans pl
+vergewaschen ; verwaschen
+die Bermudashorts/Bermudas p/
+
+ 
+
+die Jacke, n i
+
+der Anzug, "e
+
+ein dreiteiliger Anzug
+die Weste, n
+
+die Westentasche, n
+der Sakko, s
+
+der Aufschlag, "e
+
+die Innentasche, n
+der Einreiher, -
+
+der Zweireiher
+
+der Abendanzug, "e
+
+der Gesellschaftsanzug,
+der Frack, s/"e
+
+im Frack
+
+Frackzwang m
+
+der Smoking, s
+
+der Blazer, -/die Klubjacke
+
+die Lederjacke, n
+
+der Blouson, s
+
+die Hausjoppe, n, die Hausjacke, n
+die Damenkleidung
+
+ 
+
+die Damenunterwäsche
+
+die Wäschegarnitur, en
+
+der Schlüpfer, - ; das Höschen, -
+der Slip, 5
+
+der Büstenhalter, -/der BH, s
+
+das Körbchen, -, der Cup, s
+
+der Träger, -
+
+das Unterkleid, er/der Unterrock, "e
+der Tailenunterrock ; der Petticcat, s
+der Body(suit), s
+
+die Korsage, n, das Bustier, s
+
+die Miederhose, n
+
+der Hüftgürtel/der Hüfthalter, -
+
+das Korsett, s/e ; das Korselett
+
+der Strapshalter,
+
+der Strumpfhalter, - der Straps, 3
+der Strumpf, "e
+
+das Strumpfhand, "er
+
+die Strumpfhose, n
+
+die Ferse,
+
+die Laufmasche, n
+
+die Leggings pl |
+die Steghose, n i
+der Schlafanzug, "e i
+das Nachthemd, en |
+das Negligee, s/das Neglige, s
+
+das Beitjäckchen, - i
+der Morgenrock, "e |
+der Morgenmantel, ”
+
+der Bademantel
+
+das Kleid, er
+
+das Hochzeitskleid
+
+die Schleppe, n
+
+das Abendkleid
+
+der Ausschnitt, e
+
+das Dekolletee, s/Dekollete, s
+
+ausgeschnitten, dekolletiert
+
+das Etuikleid, das Futteralkleid, er
+
+hauteng
+
+das Dirndikleid
+
+das Umstandskleid
+
+das Kostüm, e
+
+das Jackenkleid, das zweiteilige
+Kleid
+
+der Hosenanzug, "&
+
+die Jacke, n
+
+der Rock, "e
+
+der Schlitz, e
+
+die Falte, n
+
+der Faltenrock, "e
+
+der Plisseerock
+
+der Wickelrock
+
+der Hosenrock
+
+der Minirock
+
+die Hemdbluse, n
+
+die Bluse
+
+die Wollsachen fpl
+
+der Pullover, -/der Pulli, s (fam)
+
+ein dicker Pullover
+
+handgestrickt/selbstgestrickt
+
+der Pullunder, -
+
+der Rollkragen, -
+
+der Halsausschnitt, e
+
+der runde Ausschnitt
+
+der V-Ausschnitt
+
+das Twin-set, s
+
+die Wolljacke, n
+
+die hochgeschlossene Strickjacke
+
+der Mantel, "
+
+der Herrenmantel
+
+der Regenmantel, der Wettermantel
+
+der Trenchcoat, s
+
+der Lodenmantel
+
+den Kragen hoch-schlagen, u, a, ä
+
+(sich) ein-mummen
+
+das Ölzeug
+
+die Kapuze, n
+
+der Umhang, "e, das Cape, s
+
+der Raglan, s
+
+der dreiviertellange Mantel
+
+der Steppmantel
+
+der Duffelcoat,
+
+der Schnurbesatz, "e
+
+die lammgefütterte Jacke, n
+
+der Pelzmantel
+
+die Pelzstola, len
+
+der pelzgefütterte Mantel
+
+der Handschuh, e
+
+die gefütterten Handschuhe
+
+der Handumfang
+
+Handschuhe an-haben
+
+(die) Handschuhe an-ziehen,
+aus-ziehen, 0, 0
+
+der Fausthandschuh/
+der Fäustling, e
+
+der Muff; e
+
+der Hut, "&
+
+die Kopfbedeckung, en
+
+ohne Kopfbedeckung, mit bloßem
+Kopf
+
+einen Hut auf-setzen
+
+den Hut ab-nehmen, a, 0, i
+
+die Krempe, n
+
+der Filz, e
+
+der Strohhut
+
+die (Schirm)mütze, n
+
+die Melone, n
+
+der Zylinder, -
+
+die Kreissäge, n (fam)
+
+die Baskenmütze
+
+die Mütze
+
+die Kapuzenmütze, n
+
+die Trachtenhaube, n
+die Modistin, nen,
+die Putzmacherin, nen
+der Hutmacher, -
+die Babywäsche
+die Windel, n
+das Windelhöschen, -
+das Windeltuch, "er
+der Strampler, -/die Strampelhose, n
+das Hemdchen, -
+das Jäckchen, -
+das Lätzchen, -
+die Mütze, n ; das Häubchen, -
+das Söckchen, -
+die Spielhose, n
+das Gummihöschen, -
+die kurze Hose, n
+(sich) die Hose aus-ziehen, 0, 0
+die Sportbekleidung
+der Anorak, s
+das Polohemd
+das Tennishemd
+das Sweatshirt, s
+der Jogginganzug
+der Trainingsanzug
+die Badehose
+der Badeanzug, "e (einteilig)
+der zweiteilige Badeanzug
+
+die Shorts pl; die Sporthose,
+die Turnhose
+
+der/die Parka, s
+die Berufsbekleidung
+der Berufsmantel, der Kittel
+
+der Overall, s, der Blaumann, "er
+
+die Latzhose
+
+die Schürze, n
+
+das modische Beiwerk
+die (Hand)tasche, n
+die Umhängetasche
+die Einkaufstasche
+das Einkaufsnetz, &
+die weite Handtasche
+die Brieftasche
+
+die Geldtasche, der Geldbeutel, -
+die Gürteltasche
+
+die Aktentasche
+
+ELBE
+
+die Aktenmappe, n
+der City-Rucksack, "e
+der (Regen)schirm, e
+der Stockschirm
+
+der Taschenschirm, der Knirps, e
+
+das Gestell, e
+die Schlaufe, n
+
+die Schirmhülle, n,
+das Schirmfutteral, e
+
+der Sonnenschirm, e
+
+der Fächer, - ‚sich Luft zu-fächeln.
+der Spazierstock, "&
+
+der Schal, e/s
+
+das Dreiecktuch, das Kopftuch, "er
+das Halstuch
+
+der Wollschal
+
+die Schuhe mpl
+
+die Latschen mpl (fam)
+
+der Schuh, e
+
+ein Paar Schuhe
+
+die Schuhe an-ziehen, o, o
+die Schuhe aus-ziehen
+barfuß sein
+
+die Schuhgröße, n
+Schuhgröße 42 haben
+
+der Lederschuh
+
+der Lackschuh
+
+die Sohle, n
+
+die Brandsohle
+
+die Ledersohle
+
+die Gummisohle
+
+die Kreppsohle
+
+der Absatz, "e, die Hacke, n (nord)
+der hohe, flache Absatz
+der Pfennigabsatz
+
+der Keilabsatz
+
+die Schneestiefel mpi
+
+der Stiefel, -
+
+der Halbstiefel
+
+der Schaft, "e
+
+der Hausschuh, e
+
+die Latschen mpl (fam)
+
+der Schnürstiefel, -
+
+der Nagelschuh
+
+der Joggingschuh
+
+die Pumps mpi
+
+die Gamasche, n
+
+der Slipper, -/der Mokassin, s
+die Pantoletten fp/
+
+der Pantoffel, -
+
+der Holzschuh
+
+die Sandale, n, die Sandaleite, n
+der Schnürschuh
+
+der Schnürsenkel, -
+
+die Schuhe zu-schnüren,
+auf-schnüren
+
+der Schuster, -/der Schuhmacher, -
+die Reparatur, en
+die Schuhe reparieren
+schief getretene Schuhe
+ı. Meine Schuhe lassen Wasser durch.
+
+323
+
+der Schmuck, die Schmucksachen pl
+
+die Schmuckwaren fol
+
+das Juweliergeschäft, &
+
+der Schmuck, das Schmuckstück, e
+
+das Juwel, en ; das Kleinod, ie
+
+der Juwelier, e
+
+der Goldschmied, e
+
+der Ring, e
+
+der (Schmuck)ring
+
+einen Ring an-stecken,
+ab-ziehen, 0, 0
+
+der Reif, e
+
+der Ehering
+
+der Siegelring
+
+der Edelstein, e
+
+der Solitär, e
+
+die Fassung, en ; ein-fassen
+
+der Ohrring, e
+
+der Ohrenklips, e
+
+der Ohrhänger, -
+
+das Armband, "er
+
+der Armreif, e
+
+eingelegt mit+D
+
+die Brosche, n
+
+das Halsband, das Collier, s
+
+die Halskette, n
+
+eine Perlenkette um-legen
+
+die lange Halskette
+
+an einer Halskette tragen, u, a, ä
+
+der Halsring, e
+
+der Anhänger, -
+
+das Medaillon, s/e
+
+die Einhänger, -
+
+die Schmuckgarnitur, en
+
+das Schmuckkäsiehen, -
+
+Sie drücken an der Hacke.
+besohlen
+
+Schuhe besohlen lassen
+
+die Schuhcreme
+
+der Schuhspanner, -
+
+der Schuhlöffel, -
+
+das Leder, -
+
+ledern, Leder-
+
+aus echtem Leder
+
+die Gerbung ; gerben
+
+das Naturleder
+
+ein weiches Leder
+
+ein gewalktes Leder
+
+das Chevreauleder
+
+das Wildleder, -
+
+das Nappaleder, das Nappa, s
+das Nubukleder, das Nubuk
+das Narbleder
+
+der Saffian, s/das Saffianleder
+das \Vollleder
+
+das Spaltleder
+
+die Narbenseite
+
+die Fleischseite
+
+der Lederwarenhändler, -
+

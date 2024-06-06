@@ -1,0 +1,10 @@
+path: /home/data
+train: train/images
+val: val/images
+
+train_labels: train/labels
+val_lables: val/labels
+
+names:
+  0: French_voc
+  1: German_voc

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<object xmlns="http://textgrid.info/namespaces/metadata/core/2010"
+        xmlns:xi="http://www.w3.org/2001/XInclude"
+        xmlns:tei="http://www.tei-c.org/ns/1.0"
+        xmlns:tns="http://textgrid.info/namespaces/metadata/core/2010"
+        xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+        xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+        xmlns:ore="http://www.openarchives.org/ore/terms/">
+   <generic>
+      <title>Die Metaphysik der Sitten</title>
+      <format>text/tg.edition+tg.aggregation+xml</format>
+   </generic>
+   <edition>
+      <isEditionOf>../tg427/tg427.work</isEditionOf>
+      <author/>
+      <source>
+                     
+                        Immanuel Kant: Werke in zwölf Bänden. Band 8, Frankfurt am Main 1977
+                        Immanuel Kant: Werke in zwölf Bänden. Herausgegeben von Wilhelm Weischedel. Frankfurt am Main: Suhrkamp, 1977.
+                        
+                     
+                     
+                        www.textGrid.de
+                        1977
+                        Main
+                     
+                  </source>
+      <license licenseUri="http://creativecommons.org/licenses/by/3.0/de/legalcode">Der annotierte Datenbestand der Digitalen Bibliothek inklusive Metadaten sowie davon einzeln zugängliche Teile sind eine Abwandlung des Datenbestandes von www.editura.de durch TextGrid und werden unter der Lizenz Creative Commons Namensnennung 3.0 Deutschland Lizenz (by-Nennung TextGrid) veröffentlicht. Die Lizenz bezieht sich nicht auf die der Annotation zu Grunde liegenden allgemeinfreien Texte (Siehe auch Punkt 2 der Lizenzbestimmungen).</license>
+   </edition>
+</object>

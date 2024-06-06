@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<object xmlns:tei="http://www.tei-c.org/ns/1.0"
+        xmlns:xi="http://www.w3.org/2001/XInclude"
+        xmlns:tns="http://textgrid.info/namespaces/metadata/core/2010"
+        xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+        xmlns="http://textgrid.info/namespaces/metadata/core/2010">
+   <generic>
+      <title>Grundlegung zur Metaphysik der Sitten</title>
+      <format>text/tg.work+xml</format>
+   </generic>
+   <work>
+      <agent role="author"/>
+      <date/>
+   </work>
+</object>

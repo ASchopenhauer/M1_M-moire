@@ -1,0 +1,3109 @@
+die Algebra
+die Gleichheit
+
+die identische Gleichung ;
+die Identität
+
+die Gleichung, en
+
+die Ungleichung
+
+der Grad, e
+
+das Quadrat, e
+
+die 2. (zweite) Potenz
+
+der Kubus, -/ben
+
+der Exponent, en, en, die Hochzahl
+die Potenz, en
+
+eine Zahl in die vierte Potenz
+erheben, 0, 0
+
+zwei hoch vier
+
+die Unbekannte (adj)
+die Wurzel, n
+
+das Wurzelziehen/das Radizieren
+die Wurzel ziehen, o, 0
+die Quadratwurzel
+
+die Kubikwurzel
+
+das Wurzelzeichen
+
+das Radikal, e
+
+die (Auf)lösung, en
+
+der Koeffizient, en, en
+die Malrix, rizes/rizen
+die Determinante, n
+die Diskriminante, n
+das Monom, &
+
+das Polynom, e
+
+der Parameter, -
+
+die Proportion, en
+
+die Analysis
+
+das Verhältnis, se
+
+die graphische Darstellung, en
+die Polarkoordinaten fl
+die Zylinderkoordinaten
+die Kugelkoordinaten
+die Achse, n
+
+die Funktion, en
+
+die Ableitung, en
+
+das Differential, e
+
+die Veränderliche, n, n
+die Richtung, en
+
+die Abszisse, n
+
+die Ordinate, n
+
+die Kurve, n
+
+die Mathematik
+
+der Mathematiker, -
+der Satz, "e
+
+die Aussage, n
+
+das Axiom, e
+
+der Grundsatz, "e
+die Definition, en
+das Postulat, e
+
+das Pardoxon, xa
+der Beweis, &
+
+die Beweisführung, en
+
+das Theorem, e/der Lehrsatz, "e
+die Deduktion, en ; deduzieren
+die Konjunktion, en
+
+die Disjunktion, en
+
+die Imolikation, en
+
+die Formel, n
+
+das Existenzsymbol
+
+die Mengenlehre
+
+die Menge, n
+
+die Teilmenge
+
+der Durchschnitt, e
+
+die Vereinigung, en
+
+die Inklusion, en
+
+das kartesische Produkt
+
+das geordnete Paar, e
+
+die zweistellige/binäre Relation, en
+das (Pfeil)diagramm, e
+
+die Funktion, en
+
+die surjektive Abbildung, en
+die injektive Abbildung
+
+die bijektive Abbildung
+
+die symmetrische Relation
+die reflexive Relation
+
+die transitive Relation
+
+die kommutative Relation
+die Äquivalenzrelation
+
+die Äquivalenzklasse, n
+die Ordnungsrelation
+
+die innere Verknüpfung
+das kommutative Gesetz
+das assoziative Gesetz
+die Struktur, en
+
+die Abelsche Gruppe
+
+der Ring, &
+
+der Körper, -
+
+die isomorphen Strukturen fpl
+die äußere Verknüpfung
+der Vektorraum, "e
+
+der Vektor, en
+
+die kartesischen Koordinaten fpl
+
+die Basis (eines Vektorraumes)
+der Untervektorraum
+
+das mathematische Symbol, e
+gleich (=)
+
+identisch gleich (=)
+annähernd gleich (=)
+proportional (=)
+
+kleiner als (<)
+
+größer als (>)
+
+kleiner oder gleich (<)
+
+größer oder gleich (2)
+
+nähert sich (>)
+
+der Wendepunkt, e
+die Parabel, n
+
+die Ellipse, n
+
+die Hyperbel, n
+
+der Scheitelpunkt
+
+der Brennpunkt
+
+die Asymptote, n
+
+der Logarithmus, men
+die Mantisse, n
+
+die Reihe, n
+
+das Glied, er
+
+die Folge, n
+
+das Integral, e
+
+die Integralrechnung
+die Summation
+
+die Infinitesimalrechnung
+
+-
+
+die Geometrie
+
+die elementare Geometrie
+die ebene Geometrie
+
+die Ebene, n
+
+die Figur, en
+
+der Punkt, e, der Fixpunkt
+der Abstand, "e
+
+die Gerade, n,n
+
+die Halbgerade
+
+der Schnittpunkt, e
+
+die Strecke, n
+
+der Endpunkt
+
+die Senkrechte, n
+
+der Winkel, -
+
+der Schenkel, -
+
+der Scheitel, -
+
+der gestreckte Winkel, der rechte W.
+der stumpfe W. ; der spitze W.
+der Komplementwinkel
+
+der Supplement-, Nebenwinkel
+
+der Scheitelwinkel
+
+die Winkelhalbierende, n, n
+
+der Kreis, e ; kreisförmig
+
+das Zentrum, ren/der Mittelpunkt, e
+die Kreislinie, n/die Peripherie, n
+der Durchmesser, -
+
+der Halbmesser/der Radius, ien
+die Tangente, n
+
+der Berührungspunkt
+
+die Sekante, n
+
+die Sehne, n
+
+der Kreisbogen, -
+
+das Kreissegment, e
+
+das Kugelsegmeni
+
+der Zentriwinkel
+
+der Peripheriewinkel
+
+der Sektor, en
+
+der Kreisring, e
+
+die Symmetrieachse, n
+
+die Parallele, n ; parallel
+
+das Polygon, e/das Vieleck, e
+der Eckpunkt
+
+die Diagonale, n
+
+der Umfang, "e
+
+das Dreieck, e ; dreieckig
+die Seite, n
+
+die Basis, Basen
+
+der Innenwinkel, -
+
+der Außenwinkel
+
+die Mittellinie, n
+
+der Schwerpunkt
+
+die Höhe, n
+
+der Höhenschnittpunkt
+
+das Mittellot/die Mittelsenkrechte
+der Inkreis, e
+
+der Umkreis
+
+das gleichseitige Dreieck
+das gleichschenklige Dreieck
+das rechtwinklige Dreieck
+die Hypotenuse, n
+
+die Kathete, n
+
+das Viereck, e
+
+das Trapez, e
+
+das Parallelogramm, e
+
+der Rhombus, ben/die Raute, n
+das Rechteck ; rechteckig
+das Quadrat, e
+
+der geometrische Ort, "er
+die Konstruktion, en
+
+die Fläche, n
+
+der Flächeninhalt, e
+
+die Formel, n
+
+die körperliche Geometrie
+
+der geometrische Körper, -
+
+der Polyeder, -
+
+die Kugel, n ; kugelförmig
+
+der Würfel, -
+
+die Kante, n
+
+der Quader, -
+
+das Prisma, men
+
+die Grundfläche
+
+die Seitenfläche
+
+der Zylinder, -
+
+der Kegel, - ; konisch, kegelförmig
+die Ellipse, n
+
+die Parabel, n
+
+die Hyperbel, n/der Kegelschnitt, e
+der Kegelstumpf, "e
+
+die Pyramide, n
+
+die analytische Geometrie
+
+die Trigonometrie
+
+der (Ko)sinus, -
+
+die (Ko)tangente, n
+
+Jabilites - statistiaue
+
+die Wahrscheinlichkeitsrechnung
+die Kombinatorik
+
+die Anordnung, en
+
+die Kombination, en
+
+die Variation, en
+
+der Erwartungswert, e
+
+die Standardabweichung, en
+die Statistik, en
+
+der Statistiker, -
+
+die Wahrscheinlichkeitsrechnung
+die Kombinatorik
+
+die Anordnung, en
+
+die Kombination, en
+
+die Variation, en
+
+der Erwartungswert, e
+
+die Standardabweichung, en
+die Statistik, en
+
+der Statistiker, -
+
+ 
+
+die Arithmetik
+
+der Arithmetiker, -
+
+die Zahl, en
+
+gerade ; ungerade
+
+die runde Zahl
+
+die natürliche Zahl
+
+die reelle Zahl
+
+die algebraische Zahl
+
+die transzendente Zahl
+die imaginäre Zahl
+
+die rationale Zahl
+
+die Irrationale Zahl
+
+die relative Zahl
+
+die ganze Zahl
+
+die Primzahl
+
+die positive Zahl
+
+die negative Zahl
+
+die komplexe Zahl
+
+die gebrochene Zahl
+
+das Zahlensystem, e
+
+das Dezimalsystem
+
+die Dezimalzahl
+
+das Komma, s/ta
+
+die Dezimalstelle, n/die Dezimale, n
+die Zehntel npl
+
+die Hundertstel np/
+
+die Tausendstel np/
+
+eine dreistellige Zahl
+
+der Einer, -
+
+die Einerstelle, n
+
+der Zehner, -
+
+die Zehnerstelle, n
+
+der Hunderter, -
+
+die Hunderterstelle, n
+
+die Ziffer, n/das Zahlzeichen, -
+in arabischen Ziffern
+
+in römischen Ziffern
+
+die Seiten beziffern/nummerieren
+die Nummer, n
+
+die Ordnungsnummer
+
+die Anzahl
+
+eine große Anzahl von+D
+die Kardinalzahl/die Grundzahl , an
+
+> null ;eins ; zwei ; drei ; vier
+
+fünf; sechs ;sieben ; acht ; neun
+zehn ; elf ; zwöff ; dreizehn
+
+Zr es HWEHMISD SL TANLTEUQUE - IE Calcul
+
+vierzehn ; fünfzehn ; sechzehn
+
+siebzehn ; achtzehn ;neunzehn
+
+zwanzig ; einundzwanzig
+
+zweiundzwanzig ; dreiundzwanzig
+
+dreißig ; einunddreißig ; vierzig
+
+fünfzig ; sechzig
+
+siebzig
+
+einundsiebzig
+
+zweiundsiebzig
+
+achtzig
+
+einundachtzig
+
+neunzig
+
+einundneunzig
+
+(ein)hundert ; (ein)hundert(und)eins
+
+hundert(und)zwei ; zweihundert
+
+zweihundert(und)eins ; (ein)tausend
+
+zweitausend ;fünfhunderttausend
+
+die Million, en (Mio)
+
+zwei Millionen fünfhundert
+
+die Milliarde, n
+
+die Ordinalzahl/Ordnungszahl, en
+
+der erste, die erste, das erste
+
+der zweite ; der dritte
+
+der vierte ; der fünfte
+
+der sechste ; der sieb(en)te
+
+der achte ; der neunte
+
+der zehnte ; der elfte
+
+der zwölfte ; der neunzehnte
+
+der zwanzigste
+
+der einundzwanzigste
+
+der zweiundzwanzigste
+
+der hundertste
+
+der tausendste
+
+der millionste
+
+erstens
+
+zweitens
+
+drittens
+
+viertens
+
+neunzehntens
+
+zwanzigstens
+
+der Bruch, "&
+
+der gemeine Bruch
+
+der Dezimalbruch
+
+der Primfaktor, en
+
+die Faktorzerlegung, en
+
+einen Bruch kürzen
+
+der echte Bruch, der nicht mehr zu
+kürzen ist
+
+der unechte Bruch
+
+der Zähler, -
+
+der Bruchstrich, e
+
+der Nenner, -
+
+ungleichnamig
+
+der gemeinsame Nenner
+
+auf einen gemeinsamen Nenner
+bringen, a, a
+
+der Doppelbruch, "e
+
+ein halb (1/2)
+
+ein Drittel (1/3)
+
+zwei Drittel (2/3)
+
+ein Viertel (1/4)
+
+drei Viertel (3/4)
+
+vier Fünftel (4/5)
+
+119
+
+die Maßskala, len
+
+die Stichprobe, n
+
+die Erhebung, en
+
+der Fragebogen, -
+
+die Verschlüsselung, en
+die Entschlüsselung, en
+die Zählung, en
+
+der Durchschnitt, e
+
+die Auswertung, en
+
+das Rechnen, die Rechnung
+rechnen
+
+etw berechnen ; etw aus-rechnen
+
+etw errechnen
+
+das Kopfrechnen
+
+im Kopf rechnen
+
+die Rechenaufgabe, n
+
+die Lösung, en
+
+lösen ; gelöst
+
+das Ergebnis, se
+
+ergeben, a, &,i
+
+die Probe, n
+
+Das stimmt. /Das ist richtig.
+Das istfalsch.
+
+falsch rechnen/sich verrechnen
+der Rechenfehler, -
+
+die vier Grundrechenarten fo/
+die Addition, en
+addieren/zusammen-zählen
+das Pluszeichen
+
+das Gleichheitszeichen
+Schreibe sechs, behalte zwei.
+die Summe, n
+
+die Subtraktion, en/das Abziehen
+subtrahieren, ab-ziehen, o, o (von)
+
+das Minuszeichen
+
+der Rest, e
+
+der Unterschied
+
+die Multiplikation, en
+multiplizieren/vervielfachen (mit)
+das Malzeichen
+
+der Muttiplikand, en, en
+
+der Muttiplikator, en
+
+das Produkt, &
+
+der Faktor, en
+
+das Vielfache (adj)
+
+das Zweifache/Doppelte (adj)
+verdoppeln
+
+zweifach, doppelt
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+das Dreifache (adj) ; verdreifachen
+dreifach ; vierfach
+
+das Vierfache (adj)
+
+das Fünffache (adj)
+
+das Hundertfache (adj)
+
+einmal, zweimal, dreimal (adv)
+das Einmaleins
+
+die Division, en/die Teilung, en
+dividieren/teilen (durch+A)
+teilbar
+
+das Divisionszeichen
+
+der Teller, -
+
+größter gemeinsamer Teiler
+kleinstes gemeinsames Vielfaches
+der Quotient, en, en
+
+der Durchschnitt (liegt bei)
+durchschnittlich ;im Durchschnitt
+Es geht auf.
+
+Die Rechnung geht auf.
+
+Wieviel ist... ?
+
+1 und/plus 3 macht/ist 4,
+
+16 weniger/minus 11 macht/ist 5.
+3 mal 4 ist 12.
+
+100 (geteilt) durch 10 ist 10,
+
+die Dreisatzrechnung
+
+der Prozentsatz, "e
+
+fünf vom/pro Hundert, 5 Prozent
+fünf vom/pro Tausend, 5 Promille
+die Prozentrechnung
+
+der Kugelschieber, -
+
+der Rechenschieber
+
+der Taschenrechner, -
+
+zählen
+
+sein Geld zählen
+
+auf-zählen
+
+ab-zählen
+
+sich verzählen
+
+nach-zählen
+
+zählbar
+
+die Schätzung, en
+
+schätzen (auf+A)
+
+überschlagen, u, a, ä, ab-schätzen
+schätzungsweise
+
+über den Daumen gepeilt (fam)
+eine geschätzte Zahl
+
+etwa/ungefähr/an die dreißig
+Personen
+
+in großer Zahl
+
+Hunderte, Tausende von+D
+eine genaue Zahl
+
+ein Dutzend Eier
+
+hundert an der Zahl
+überschätzen ; unterschätzen
+eine Zahl ab-runden
+
+eine Schätzung berichtigen
+
+    
+ 
+  
+ 
+
+einzeln an-kommen*, a, 0
+einer. nach‘ dem anderen
+weder: der- eine noch der andere
+als Erster an-kommen‘, a, 0
+der'Vorleizte ; der Letzte
+
+zuerst an die Reihe kommen*, a, 0
+
+ 
+
+die Physik
+
+der Physiker, -
+
+die Erfindung, en ; erfinden, a, u
+der Erfinder, -
+
+der Wissenschaftler, -
+
+der (namhafte) Wissenschaftler
+die Entdeckung, en ; entdecken
+ein physikalischer Vorgang, "e
+die klassische Physik
+
+die moderne Physik
+
+die Quantenphysik
+
+die allgemeine Relativitätstheorie
+
+die Quantenmechanik
+der Aggregatzustand
+der feste Zustand
+
+der Festkörper, - ; Fest-, fest
+der Kristall, @
+
+kristallin
+
+das Kristallgitter, -
+
+die flüssigen Kristalle mpl
+anisotrap
+
+amorph
+
+der flüssige Zustand
+die Flüssigkeit, en
+flüchtig
+
+der gasförmige Zustand
+das Gas, &
+
+das ideale Gas
+
+das reale Gas
+
+das Plasma, men
+
+das Kolloid, e ; kolloidal
+die Koagulation, en
+
+die Ausflockung, en
+das Sol, &
+
+)
+
+die beiden ersten
+die beiden Ersten
+
+die ersten drei
+
+die letzten drei
+
+der erste Beste/der Erstbeste
+der Allererste, der Allerletzte
+als Einziger ; ein einziger Mann
+kein Einziger
+
+allein sein
+
+in ein oder zwei Tagen
+
+die Eins; die Zwei
+
+Franz der Erste/Franz I.
+Wilhelm der Zweite/Wilhelm Il,
+das Zweite Kaiserreich
+
+die beiden Hände
+
+wir beide ; alle beide
+
+einer von beiden
+
+keiner von uns beiden
+
+Menschen beiderlei Geschlechts
+
+ein Paar Schuhe
+
+ein schönes Paar
+
+ein paar/einige Kirschen
+
+Wir haben den Elften. (Datum)
+Wir waren zu zweit.
+
+zu zweit, dritt, viert, fünft, sechst
+zu siebt, acht, neunt, zehnt
+
+zu zweien/zweit ; zu dreien/dritt
+
+Stellt euch zu viert/zu vieren auf !
+
+jeden zweiten Tag
+
+jeder Dritte
+
+je einer, je zwei, je drei
+
+eine kinderreiche Familie
+zahlreich erscheinen*, ie, ie
+ötre du nombre des invites
+eine unzählige Menge
+
+der Größe nach ordnen
+das zweitälteste Kind
+der drittgrößte Schüler
+
+unter vier Augen
+
+auf allen vieren gehen, i, a
+Wie oft ?
+
+einmal, 1-mal ;zweimal, 2-mal
+Einmal ist'keinmal.
+
+8s war einmal
+
+zum ersten Mal
+
+zum x-tenmal: (fam)
+mehrmals
+
+jedes Mal
+
+zum letzten Mal
+nicht:lange fackeln (fam)
+doppelt so teuer wie
+halb'so teuer wie
+
+zum halben Preis
+
+auf halbem Wege
+
+die halbe Stadt
+
+ 
+
+der Elastizitätsmodul
+
+die Elastizitätsgrenze
+
+die Festigkeitsgrenze
+
+der Bruchpunkt
+
+die Strömungslehre
+
+die Hydrostatik
+
+die Hydrodynamik
+
+das Fluid, s
+
+die Strömung, en
+
+die laminare Strömung
+
+die turbulente Strömung
+
+der Fluss, "&
+
+die Trennunysfläche, n
+
+die Oberflächenspannung
+
+die Kapillarität
+
+die Viskosität ; viskos
+
+die Dichte
+
+der Druck, "e
+
+der Auftrieb, e
+
+das Prinzip des Archimedes
+
+die kommunizierenden Röhren fpi
+
+das Vakuum, kua/kuen
+
+im luftleeren Raum
+
+die Kinematik
+
+die Bewegung, en
+
+die Bewegungsgröße, n,
+der Impuls, e
+
+der Drehimpuls
+
+die g(e)radlinige Bewegung, en
+
+die gleichförmige Bewegung
+
+die gleichförmig beschleunigte
+Bewegung
+
+die Kreisbewegung
+
+beim freien Fall
+
+die Geschwindigkeit, en
+
+die Anfangsgeschwindigkeit
+
+die mittlere Geschwindigkeit
+
+die Momentangeschwindigkeit
+
+die Winkelgeschwindigkeit
+
+die Beschleunigung, en
+
+der Luftwiderstand
+
+die Richtung, en
+
+die Kreisbahn, en
+
+die Zentripetalkraft, "e
+
+die Zentrifugalkraft, "e
+
+die Wärme
+
+die Thermodynamik
+
+die Wärmeenergie
+
+die Wärmekapazität
+
+die Entropie
+
+die Wärmemessung
+
+die Temperatur, en
+
+die spezifische Wärme
+
+die Wärmestrahlung
+
+der schwarze Körper, -
+
+die Konvektion, en
+
+die Ausdehnung, en
+
+aus-dehnen ; sich aus-dehnen
+
+die Wärmeleitung
+
+die Wärmeleitfähigkeit
+
+die Akustik/die Schalllehre
+
+der Schall
+
+N
+
+das Gel, e
+
+die Zustandsänderung, en
+
+das Schmelzen ; schmelzen*, 0, 0, |
+
+der Schmelzpunkt, e
+
+die Verdampfung | verdampfen*
+
+der Dampf, "e
+
+die Verdunstung ; verdunsten*
+
+der Siedepunkt, e ; sieden
+
+der Gefrierpunkt; gefrieren*, o, 0
+
+die Erstarrung ;erstarren*
+
+die Kondensierung
+
+kondensieren*
+
+die Verflüssigung, en
+
+verflüssigt werden
+
+die Sublimation, en
+
+sublimieren* (zu+D)
+
+das Sublimat, e
+
+die Mechanik
+
+die Statik
+
+die Dynamik
+
+die Kraft, "e
+
+das Moment, e
+
+das Kräftepaar, e
+
+die Resultante, n
+
+die Arbeit
+
+die Leistung
+
+die Bewegungslehre/die Kinetik
+
+die kinetische Energie
+
+die Lageenergie, die potentielle
+Energie
+
+der Energieerhaltungssatz
+
+das Feld, er
+der Vektor, en
+der Effekt, e
+die Wirkung, en
+das Gleichgewicht
+das Gewicht, e, die schwere Masse
+der Schwerpunkt, e
+die (träge) Masse
+die Schwere, die Schwerkraft
+die Anziehungskraft, "e
+an-ziehen, 0, 0
+die Gravitation,
+die Massenanziehung
+
+das allgemeine Gravitationsgesetz
+
+die Trägheit
+die Reibung, en
+der Hebel, -
+die Spannung, en
+die Kompression, en
+die Kompressibilität
+ein kompressibler Körper
+inkompressibel
+die Zugspannung, en
+die Scherung, en
+die Dehnung, en
+die Drillung, en, die Torsion, en
+die Blegung, en
+die Deformation, en,
+die Verformung, en
+die Elastizität
+
+ 
+
+ 
+
+ 
+
+i
+{
+
+ 
+
+die Schallwelle, n
+
+die Wellenbewegung, en
+die Schallgeschwindigkeit
+die Stoßwelle, n
+
+die Lautstärke
+
+die Hörempfindung, en
+der Infraschall
+
+der Ultraschall
+
+die Schallausbreitung
+
+die Schallmauer
+durch-brechen, a, o, i
+
+der Überschallknall, e
+die Schwingung, en
+die Oszillation, en
+die gedämpfte Schwingung
+schwingen, a, u ; oszillieren
+die Schwingungsweite, n
+die Schwingungsdauer,
+die Periode, n
+die Frequenz, en
+die Phase, n
+die Welle, n
+die Wellenlänge, n
+die Schallabdichtung
+die Schalldammung
+das Echo
+die Optik
+die geometrische Optik
+die Wellenoptik
+die physikalische Optik
+die Elektronenoptik
+das Licht
+der Lichtstrahl, en
+das Stahlenbündel, -
+das Photon, en
+die Reflexion
+die Beugung, die Diffraktion
+die Lichtbrechung, die Refraktion
+die Brechzahl, en
+das Medium, dien
+der einfallende Strahl
+der reflektierte Strahl
+der gebrochene Strahl
+die Dispersion, en
+die Streuung, en
+das Prisma, men
+der ebene Spiegel/der Planspiegel, -
+der Konvexspiegel, -
+der Hohlspiegel, -
+der Parabolspiegel, -
+das optische Bild, er
+die Linse, n
+bikonkav ; bikonvex
+plankonvex
+die Sammellinse
+die Zerstrauungslinse
+das Objektiv, e
+die Brennweite, n
+der Brennpunkt, e
+die Brennlinie, n
+die Fokussierung
+die optische Aberration, en
+die sphärische Aberration
+
+ww uyayug
+
+die chromatische Aberration
+der Astigmatismus
+
+die Verzeichnung, en/
+die Distorsion, en
+
+die Interferenz, en
+die Polarisation, en
+das Spektrum, ren/ra
+die Spektralanalyse, n
+
+die Zerlegung des Lichtes
+
+das Ultrarot, das Infrarot (vx)
+das Ultraviolett
+
+das Spektroskop, e
+
+das Hologramm, @
+
+die Holographie
+
+das optische Gerät, e
+
+das Vergrößerungsglas, "er
+die Lupe, n
+
+das Mikroskop, &
+
+das Okular, e
+
+das Fernglas, "er,
+der Fernstecher, - (fam)
+
+das Fernrohr, e
+
+das Linsenfernrohr/der Refraktor, en
+das (Spiegel)teleskop, e/
+der Reflektor, en
+die Elektrizität
+die elektrische Ladung, en
+das Elektron, en
+negativ, positiv geladen
+die Leitfähigkeit
+der Leitwert, e
+der Halbleiter, -
+nichtleitend
+der Nichtleiter, -
+der Isolator, en
+der Strom
+der Wachselstrom
+der Gleichstrom
+der Drehstrom/Dreiphasenstrom
+das elektrische Potential
+der Spannungsunterschied, &
+die Spannung, en
+der Widerstand
+die Stromstärke
+der Kondensator, en
+die Induktion
+der Magnetismus
+
+das Magnetfeld/
+das magnetische Feld, er
+
+der Pol, e
+
+der Magnet, s/en, s/en
+die elektromagnetische Welle, n
+der/das Radar, &
+
+der Laser, -
+
+die Atomphysik
+
+die Kernphysik
+
+Kem-, nuklear
+
+‚Atom-, atomar
+
+die Kernforschung
+
+die Materie
+
+123
+
+das (Stoffigemisch, e
+homogen ; heterogen
+
+der Bestandteil, e
+
+die lonenbindung, en
+
+die Atombindung
+
+die Doppelbindung
+
+die Metallbindung
+
+binden, a, u
+
+die Verbindung, en
+verbinden, a, u
+
+die Zerlegung, en/die Analyse, n
+zerlegen, analysieren
+qualitativ ; quantitativ
+
+die Synthese, n
+
+die physikalische Eigenschaft, en
+die chemische Eigenschaft
+der chemische Vorgang, "e
+die chemische Reaktion, en
+die Reaktionsgleichung, en
+die Alommasse
+
+die Molekularmasse
+
+die Stöchiometrie
+
+die Lösung, en
+(wasser)löslich
+
+die Löslichkeit
+
+eine nicht wässrige Lösung
+die gesättigte Lösung
+(auf-)lösen
+
+ab-gießen, 0,0
+
+das Solvat, e
+
+das Lösungsmittel, -/
+das Solvens, zien
+
+die Verdünnung, en ; verdünnen
+an-reichern
+
+die Konzentration, en
+
+die tnermochemische Reaktion
+exotherm
+
+endotherm
+
+der Katalysator, en
+
+die Elektrolyse, n
+
+elektrolytisch
+
+der Elektrolyt, s/en, e/en
+dissoziieren
+
+die Säure, n
+
+säurefrei
+
+säurefest
+
+ätzend
+
+sauer schrnecken
+
+der Säuregrad
+
+die saure Lösung
+
+die Essigsäure
+
+die Kohlensäure
+
+die Salzsäure
+
+die Chlorsäure
+
+die salpetrige Säure
+
+die Salpetersäure
+
+die Karbolsäure, das Phenol
+die Phosphorsäure
+
+die Blausäure
+
+die Schwefel(wasserstoff)säure
+die schweflige Säure
+
+die Weinsäure
+
+die Antimaterie
+
+der Atomkern, e/der Nukleus, ei
+das Molekül, e
+
+das Atom, e
+
+das Elementarteilchen, -
+das Antiteilchen
+
+das Elektron, en
+
+das Proton, en
+
+das Neutron, en
+
+die Strahlung, en
+
+die Radioaktivität
+
+das Isotop, e
+
+die Röntgenstrahlen/
+die X-Strahlen mp/
+
+die Gammastrahlen
+
+die ionisierende Strahlung
+
+die Emission, en ; emittieren
+die Absorption, en ; absorbieren
+die Kernfusion
+
+die Kernspaltung
+
+der Kernzerfall/
+die Kernzertrümmerung, en
+
+die Kettenumwandlung, en
+die Kettenreaktion, en
+
+der Teilchenbeschleuniger, -
+das Zyklotron, e
+
+die Blasenkammer, n
+
+die Kernenergie/Atomenergie
+das Kernkraftwerk, e
+
+der Kernreaktor
+
+der schnelle Brüter, -
+
+der Reaktorkern
+der Brennstoffstab, "e
+die Abschirmung
+
+die Chemie
+
+der Chemiker, -
+
+die Alchimie ; der Alchimist, en, en
+die angewandte Chemie
+
+die Biochemie
+
+die Substanz, en
+
+das lon, en
+
+die Wertigkeit, en/die Valenz, en
+einwertig ; zweiwertig
+
+die elektrochemische Valenz
+das Zeichen, -
+
+die Formel, n
+
+die chemische Nomenklatur
+der Trivialname, ns, n
+
+das periodische System
+
+die Ordnungszahl, en
+
+das Mol, e
+
+die avogadrosche Zahl
+
+die Molmasse, n
+
+das Element, e
+
+der Grundstoff, e
+
+der Reinstoff
+
+die Base, n/die Lauge, n
+basisch
+
+alkalisch ; alkalisieren
+die Alkalität
+
+das Kali
+
+das Ätznatron/das Natriumhydroxid
+
+der Indikator, en
+das Reagenz, ien
+das/der Lackmus
+das Bromthymolblau
+das Methylrot
+die Indikatorpapiere/
+die Reagenzpapiere npl
+blau, rot färben
+der pH-Wert, e
+die Neutralisation, en ; neutralisieren
+titrieren
+die Acidimetrie ; die Alkalimetrie
+die Präzipitation, en/
+die Ausfällung, en
+aus-fällen, präzipitieren
+das Präzipitat, e
+das Salz, e
+
+sich zu Salzen verbinden, a, u
+
+der Alaun, @
+
+das Karbonat, e
+
+das Nitrat, e
+
+das Nitrit, e
+
+das Chlorid, e
+
+die Oxidation/Oxydation, en
+
+das Oxidationsmittel, - ; oxidieren
+die Reduktion, en
+
+das Reduktionsmittel
+
+die Redoxreaktion/
+der Redoxvorgang
+
+die Korrosion, en
+
+die anorganische Chemie
+das Edelgas, e
+
+das Metall, e ; das Edelmetall
+
+die Alkalimetalle npl
+das Lithium
+
+das Kalium
+
+das Natrium
+
+die Erdalkalimetalle np/
+das Calcium
+
+das Magnesium
+das Radium
+
+die Nichtmetalle np!
+das Arsen
+
+der Stickstoff
+
+das Brom
+
+der Kohlenstoff
+
+das Chlor
+
+das Fluor
+
+der Wassersioff
+das Jod
+
+der Sauerstoff
+
+der Phosphor
+
+der Schwefel
+
+>» Organique
+
+die organische Chemie
+
+die Kohlenstoffverbindungen fpı
+die Isomerie ; die Isomeren np/
+die Kohlenwasserstoffkette,n
+der Brennstoff, e
+
+die Verbrennung
+
+brennen, a, a ; brennbar
+
+der Ruß, e
+
+das Kohlenhydrat, e
+
+das Derivat, &
+
+der Kohlenwasserstoff, e
+gesättigt ; ungesättigt
+
+die Feitsäure, n
+
+das Alkan, e
+
+das Methan
+
+das Propan
+
+das Butan
+
+die Alkene npl
+
+das Äthylen
+
+die Alkine pl
+
+der Alkohol, e
+
+der Ester
+
+das Aldehyd, e
+
+die Ketone npl
+
+die Aminosäure, n
+
+das Protein, e
+
+die Aromaten npl
+
+das Benzol
+
+die Nitrierung
+
+das Nitrobenzol
+
+das Alkaloid, e
+
+der Farbstoff, e
+
+das Laboratorium, ien
+die Forschungsanstalt, en
+die Chemikalien pl
+
+der Destillierkolben, -
+
+der Kolben, -
+
+der Bunsenbrenner, -
+
+die Bürette, n
+
+die Retorte, n
+
+der Tiegel, -
+
+der Exsikkator, en
+
+die Destillation, en
+
+die fraktionierte Destillation
+destillieren
+
+der Standzylinder, -
+
+der Messzylinder
+
+der Versuch, e
+
+der Abzug, "e
+
+der Mörser, -
+
+das Pistill, e/der Stößel, -
+der Labortisch, e
+
+die Messpipette, n
+
+das Verfahren, -
+
+der Dreifuß, "e
+
+das Reagenzglas, "er
+
+® Ich bin 1,80 (ein Meter achtzig).
+
+klein; winzig
+die Breite, n; breit
+Wie breit ist der Fluss ?
+
+Er ist 8 Meter breit.
+
+eng, schmal
+die Tiefe, n ;tief
+Wie tief ister ?
+
+Er ist 4 Meter tief,
+die Stärke/Dioke ; stark/dick
+ein Brett von 20 mm Dicke/Stärke
+
+» der Umfang, "e
+der Durchmesser, -
+die (Ober)fläche
+die Fläche, der Flächeninhalt
+die Flächenmaße npl
+der/das Quadratmeter, -
+das Ar, e
+das Hektar
+der ebene Winkel
+der Radiant, en, en
+der räumliche Winkel
+der Steradiant
+das Volumen, der Rauminhalt
+den Rauminhalt berechnen
+der Rauminhalt, e
+die Tonnage bestimmen
+der/das Kubikmeter
+der/das Raummeter, der Ster, e/s
+die Hohlmaße
+das/der Liter, -
+das/der Hektoliter, -
+das Gefäß, e ; der Behälter, -
+das Fassungsvermögen
+fassen tr
+enthalten, ie, a, ä, fassen
+voll ;Ieer
+halb voll
+füllen ; leeren
+über-laufen*, ie, au, äu
+die Maßeinheit der Masse
+das Gramm, e
+das Kilogramm, e/das Kilo, s
+das Milligramm
+das Pfund, e (Pfd)
+der Zentner, - (Zir)
+der Doppelzentner (dz)
+die Tonne, n
+wiegen, 0, 0 ; schwer wiegen, o, 0 itr
+schwer ; leicht
+das Nettogewicht ; das Rohgewicht
+die Waage, n
+die Laufgewichtswaage
+das Laufgewicht, e
+die Balkenwaage, n
+die Waagschale, n
+der Balken, -
+das Zünglein, -
+
+et mesures
+
+t
+
+Maße und Gewichte
+das Maß, e
+
+die Maßeinheit, en
+die metrische Einheit
+
+das Internationale Einheitensystem
+
+die Basiseinheiten
+
+die abgeleiteten Einheiten
+
+die Genauigkeit ; die Ungenauigkeit
+genau
+
+ungenau
+
+waag(e)recht
+
+senkrecht
+
+messbar ; unmessbar
+
+inkommensurabel
+
+der Messfehler, -
+
+der absolute Fehler
+
+der Maßstab, "e
+
+im Maßstab 1:100 000 (eins zu
+‚hunderttausend)
+
+die Länge, n ; lang
+
+die Längenmaße
+
+etw messen, a, &, |
+
+nach Metern messen
+
+der/das (fam) Meter, -
+
+der/das Millimeter, -
+
+der/das Zentimeter, -
+
+der/das Dezimeter, -
+
+der/das Dekameter, -
+
+der/das Hektometer, -
+
+der Kilometer, -
+
+die nautische Einheit, en
+
+die Seemeile, n (1 852 m)
+
+der Faden, -
+
+die Kabellänge, n
+
+Wie lang war die Berliner Mauer ?
+
+Sie war 166 km lang.
+die Entfernung, en
+Wie weit ist es von hier bis Berlin ?
+
+die Strecke, n
+
+sich belaufen, ie, au, äu, auf+A
+betragen, u, a,ä
+
+entfernt
+
+weit (von)
+
+in die Ferne schauen
+
+in der Ferne liegen, a, e
+die Nähe ; nah( e)
+
+ganz nah
+
+Ich wohne hier in der Nähe.
+die Höhe, n ; hoch
+
+Wie hoch ist der Eiffelturm ?
+
+Er ist:317 Meter hoch.
+
+die Größe, n ; groß
+Wie groß sind Sie ?
+
+die Tara, ren
+
+das Gewicht, e
+
+der Gewichtssatz, "&
+die Präzisionswaage
+die Personenwaage
+die Dichte
+
+die Senkwaage, n
+
+der Feingehalt
+
+der Alkoholgehalt
+
+die Atommasse
+
+die Stoffmenge
+
+das Mol, e
+
+das molare Volumen
+die Menge, n, die Quantität, en
+aus-reichen, genügen
+
+aus-kommen*, a, o, mit+D
+
+genug
+genug Geld haben
+reichlich
+
+viel
+
+wenig ; knapp
+
+die mechanische Einheit
+die Wärmemenge
+
+die Druckmessung
+
+die elektrische Einheit
+die elektrische Kapazität
+
+die elektrische Spannung
+der elektrische Leitwert
+die elektrische Stromstärke
+
+das Ampere, -
+
+die elektrische Ladung
+
+die Induktivität
+
+die magnetische Einheit
+der Magnetfeld, er
+
+die magnetische Feldstärke
+
+die magnetische Flussdichte
+die thermische Einheit
+die thermodynamische Temperatur
+
+das Kelvin
+
+die Celsius-Temperatur
+3°C/drei Grad m Celsius
+die optische Einheit
+
+das Licht
+
+die Beleuchtungsstärke ; das Lux, -
+der Lichtstrom
+
+das Lumen, -/mina
+
+die Lichtstärke
+
+die Candela
+
+die Leuchtdichte
+
+die Lichtausstrahlung
+die Strahlstärke
+
+der Strahlungsfluss
+
+die Bestrahlungsstärke
+die Brechkraft
+
+die positive Brechkraft
+die negative Brechkraft
+die Dioptrie, n
+
+b BERDEUNEESEUH ED Mu HEESSUENS
+
+ältere Maße
+
+der Morgen, -
+
+die Elle, n
+
+der Scheffel, -
+der/das Klafter, n (Holz)
+das Gran/Grän, e
+
+die Meile, n
+
+die Unze, n
+
+der Fuß, -
+
+der Schoppen, -
+
+der Zoll, -
+
+das Ries, e (Papier)
+der/das Klafter, -
+
+die Rute, n
+
+das Messinstrument, e
+die Wasseruhr, en
+
+die Gasuhr
+
+der Elektrizitätszähler, -
+der Geigerzähler, -
+
+die Richtschnur, "e
+das Bleilot, e
+
+der Winkelpeiler, -
+dasLoc, e
+
+das Manometer, -
+
+das Metermaß, e
+
+der Zollstock, "e
+
+das Bandmaß, e
+
+das Mikrometer, -
+
+das Mikroradiometer, -
+die Wasserwaage, n
+die Schublehre, n
+
+der Funkkompass, &
+das Peilgerät, e
+
+der Nonius, ien
+
+die Mikrometerschraube, n
+die Eichung
+
+das Eichamt, "er
+
+eichen
+
+das Eichmaß, e
+
+die Norm, en
+
+Deutsche Industrie-Norm( en)
+die Normung, en
+
+normen
+
+das Format, e
+
+der/das Kataster, -
+
+das Vermessungsamt, "er
+
+die Vermessung, en
+
+der Vermesser, -
+
+den Flächeninhalt messen, a, e, |
+
+die Zeit, en
+
+die (wahre) Sonnenzeit
+die Sternzeit
+
+die Zeiteinteilung
+
+der Kalender, -
+
+der Almanach, e
+
+das Jahr, e
+
+das Gemeinjahr
+
+das Schaltjahr
+
+jährlich, Jahres-
+
+der Jahresurlaub
+
+die jährliche Wiederkehr der Vögel
+ein einjähriger Urlaub
+die Dekade, n
+
+das Jahrfünft, e
+
+das Jahrzehnt, e,
+das Dezennium, ien (lt)
+
+das Jahrhundert, e
+das Jahrtausend, e
+hundertjährig, tausendjährig
+die Hundertjahrfeier, n
+die Tausendjahrfsier
+der Tag, e
+
+halbtägig, Halbtags-
+ganztägig, Ganztags-
+eine dreitägige Reise
+tagsüber
+
+das Tageslicht
+
+der Tagesanbruch
+beiTagesanbruch
+an-brechen*, a, 0, |
+die Dämmerung
+
+Es dämmert.
+
+das Morgengrauen
+die Morgenröte, -
+Esist (lichter) Tag.
+
+am helllicht)en Tag
+
+der Morgen, -
+
+morgens/am Morgen
+
+früh, frühzeitig
+
+früh morgensj/in aller Frühe
+‚in aller Herrgottsfrühe (fam)
+eines schönen Morgens
+Morgen-, morgendlich
+
+früh auf-stehen*, a, a
+
+der Vormittag
+
+vormittags
+
+(der) Mittag, €
+mittags
+der Nachmittag
+
+nachmittags
+
+der Abend, e
+abends
+‚Abend-/abendlich
+die Nacht,"e
+nachts, bei Nacht
+nächtlich ; Nacht-
+
+bei Abenddämmerung
+
+Die Nacht bricht an.
+
+zu später Stunde
+
+um Mitternacht
+
+die Woche, n
+
+wöchentlich
+
+der Montag, e ; der Dienstag
+
+der Mittwoch, e;; der Donnerstag
+der Freitag
+
+der Samstag/Sonnabend
+
+der Sonntag
+
+(am) Sonntagabend
+sonnlagabends, sonntags abends
+
+> das Wochenende, n
+
+der Werktag ; der Feiertag
+Feierabend machen
+
+blauen Montag machen
+
+ein langes Wochenende machen
+der Monat, e
+
+monatlich
+
+der (Monat) Januar ; im Januar
+der Februar ; der März ; der April
+der Mai ‚der Juni ; der Juli
+
+der August ; der September
+der Oktober ; der November
+der Dezember
+
+‚Anfang Mai
+
+Mitte Mai ; Ende Mai
+
+die Jahreszeit, en
+
+der Frühling, e/das Frühjahr, e
+im Frühling
+Frühlings-/frühlingshaft
+
+ein Frühlingswetter
+
+der Sommer, - ; im Sommer
+Sommer-, sommerlich
+
+der Herbst, e ;im Herbst
+Herbat-, herbstlich
+
+der Winter, - ; im Winter
+Wintar-, winterlich
+
+die Uhr(zeit)
+
+die Zeitangabe, n
+die Weltzeit
+die Ortszeit |
+die Zeitzone n
+die Zeitverschiebung
+
+die Zeitmessung
+die Stunds, n
+die Viertelstunde
+drei Viertelstunden
+
+die halbe Stunde |
+die Minute, n
+die Sekunde, n
+die Zehntelsekunde
+nach der Uhr fragen
+
+Wie spät ist es ?//Wieviel Uhr ist es ?
+nach der Uhr sehen, a, e, I
+
+Meine Uhr geht richtig.
+
+Sie geht zwei Minuten vor.
+
+Sie geht nach.
+
+Sie ist stehen geblieben.
+
+seine Uhr stellen
+
+nicht mehr gehen‘, |, a
+| Esistssechs (Uhr) /sechs Uhr
+
+morgens.
+Punkt sechs (Uhr)
+
+Es ist sechs vorbei. |
+
+sechs Uhr fünfzehn (Minuten) /ein
+Viertel nach sechs/vlertel sieben
+(Sud) 6.15 Uhr
+sechs Uhr fünfundzwanzig/ |
+fünfundzwanzig nach sechs/fünf
+vor halb sieben
+
+ 
+
+sechs Uhr dreißig/halb sieben
+
+sechs Uhr fünfunddreißig/
+fünf nach halb sieben
+
+Es ist sechs Uhr vierzig/
+zwanzig vor sieben.
+
+sechs Uhr fünfundvierzig/
+(ein) viertel vor sieben/
+drei viertel sieben (Sud)
+
+Um wieviel Uhr soll ich kommen ?
+um zwölf (Uhr)
+
+um Mitternacht/um zwölf Uhr nachts
+um eins/um dreizehn Uhr
+
+gegen zehn (Uhr abends) /
+gegen 22 Uhr
+
+|
+
+ 
+
+kurz vor, nach zehn
+
+die Zeitmessung
+
+die Sonnenuhr, en
+
+das Chronomeler, -, die Sioppuhr
+mit der Stoppuhr messen, a, e, |
+die Kuckucksuhr
+
+die Turmuhr
+das Glockenspiel, e ; das Geläute
+schlagen, u, a, ä, läuten
+
+die Caesiumuhr |
+die (telefonische) Zeitansage
+die Standuhr, en
+die Armbanduhr
+
+die Chronologie, die Zeitfolge
+das Zeitalter, die Zeitrechnung
+vor, nach unserer Zeitrechnung
+
+vor Christi Geburt/vor Christus/
+v.Chr.
+
+das Datum, ten
+
+neu
+
+alt
+
+die Datierung, en
+
+datieren ; vom 25.10.95
+zuruck-datieren
+
+vor-datieren
+
+von heute an/ab
+
+aus dem 18. Jahrhundert stammen
+im achtzehnten Jahrhundert
+
+in der Zeit/zur Zeit Napoleons
+
+(im Jahre) 1900 ; um (das Jahr) 1900
+die fünfziger Jahre
+
+zur Zeit
+
+um diese Zeit
+
+der Tao X, die Stunde X
+
+Den Wievielten haben wir heute ?
+
+Wir haben den 2. April 1970
+(neunzehnhundertsiebzig).
+
+Ich komme am 1. Mai (am ersien
+Mai).
+
+um den 2. Mai (zweiten Mai)
+
+in der Nacht von Montag auf Dienstag
+
+in der Woche vom 10. auf den 17.
+
+am Morgen, am Abend, an dem ...
+
+129
+
+ 
+
+die Quarzuhr
+die Taschenuhr
+
+die Taucheruhr ; wasserdicht
+
+die Pendeluhr
+
+die Wanduhr
+
+der Pendel, -
+
+der (Reise)wecker, -
+die Sanduhr
+
+das Uhrwerk, e
+
+das Gehäuse, -
+
+das Zifferblatt, "er
+die Digitalanzeige, n
+der Zeiger, -
+
+der Minutenzeiger
+der Stundenzeiger
+der Sekundenzeiger
+die Sekunden an-zeigen
+
+im Uhrzeigersinn
+
+das Räderwerk, e
+
+das Zahnrad, "er
+
+die Hemmung, en/das Hemmwerk, e
+das Pendel, -
+
+die Schwingung, en
+
+das Ticken ; ticken
+
+der Piepton, "a
+
+auf-ziehen, o, 0 ; der Aufziehknopf
+die Batterie, n
+
+der Uhrmacher, -
+
+n)
+
+in der Nacht, in der ...
+
+heute Morgen ; gestern Morgen
+heute früh ; morgen früh
+heute Vormittag
+
+heute Mittag ; gestern Mittag
+heute Nachmittag
+
+heute Abend ; gestern Abend
+heute Nacht ; gestern Nacht
+um 10 (Uhr) ;gegen 10 (Uhr)
+gegen Mittag ; gegen Abend
+Mitte September
+
+der Anfang, "e/der Beginn
+
+am, im Anfang, zu Anfang
+Antang Oktober
+
+anfangs
+
+von Antang an, von Beginn an
+
+an-fangen, i, a, ä/beginnen, a, o,
+(mit+D)
+
+von heute an/ab, ab heute
+
+von acht Uhr an
+
+das Ende
+
+Ende Juli
+
+am. des Krieges, bei Kriegsende
+
+zu Ende gehen*, |, a
+
+endlich
+
+der (Ab)schluss
+
+schließlich
+
+Er ist schließlich gekommen.
+
+enden ir; enden mit+D
+
+beend(ig)en
+
+zu Ende gehen*, |, a
+
+fertig sein mit+D
+
+auf-hören itr
+
+gut, schlecht aus-gehen‘, |, a
+
+die Gegenwart
+
+jetzt
+
+heute
+
+heutzutage
+
+heutig
+
+zuerst
+
+zunächst
+
+gegenwärtig, jetzig
+
+zeitgemäß
+
+modern, neuzeitlich
+
+mit der Zeit gehen”, i,a
+
+hinter dem Mond leben (fam)
+
+auf dem Laufenden sein
+
+die Aktualisierung
+
+seiner Zeit weit voraus sein
+
+seine Zeit prägen
+
+Epoche machen
+
+die Simultaneität, die Gleichzeitigkeit
+
+gleichzeitig
+
+In demselben Augenblick
+
+inzwischen, mittlerweile
+
+unterdessen
+
+In der Zwischenzeit
+
+zu gelegener Zeit kommen*, a, 0
+
+zu ungelegener Zeit kommen
+
+zu ungehöriger Stunde
+
+die Vergangenheit ; vergangen
+
+{
+
+ 
+
+r
+
+um diese Zeit
+
+damals
+
+unzeitgemäß
+
+eine unzeitgemäße Kälte
+überholt sein
+
+rückständig sein
+
+Anno dazumal
+
+einst{mais), ehemals, vormals
+ehemalig, einstig
+
+früher
+
+meine früheren Kollegen
+vorhergehend, vorherig
+gestern ; vorgestern
+
+gestrig ; die gestrigen Ereignisse
+
+Wie lange ist das her ?
+
+Er ist eben aus dem Haus gegangen,
+vor kurzem, kürzlich
+
+neu
+
+neulich
+
+in der letzten Zeit, letztens
+vorigen Monat/letzten Monat
+
+es ist lange her, dass
+
+(schon) längst
+
+von jeher, seit jeher, schon immer
+in grauer Vorzeit
+
+seinerzeit
+
+vor dem Winter
+
+vor einem Jahr
+
+am Vorabend des Festes
+
+eine Stunde zuvor
+
+am Tag zuvor
+
+zwei Tage vor Ostern/vor dem Fest
+
+einen Monat zuvor
+
+das Jahr zuvor
+
+die Vorzeitigkeit ; älter (als)
+verfrüht
+
+vor der Zeit, vorzeitig
+
+die Zukunft
+
+(zu)künftig
+
+in Zukunft, fortan
+
+morgen
+
+übermorgen
+
+in vierzehn Tagen
+
+in etwa acht/vierzehn Tagen
+in einem Jahr
+
+nächstes Jahr
+
+zu einem späteren Datum
+am Tage nach dem Fest
+am folgenden Tage/am Tag danach
+am Abend darauf
+
+nach dem Sommer
+
+nach einem Monat
+
+nach einer Weile
+
+am folgenden Sonntag
+
+in der folgenden Woche
+drei Monate danach/später
+bis dahin
+
+kurz vor Mittag
+
+binnen kurzem
+
+von jetztan
+
+heute in acht Tagen
+
+Montag in vierzehn Tagen
+
+die Dringlichkeit
+
+dringend, eilig
+
+Es eilt.
+
+dringendst ; dringlichst
+
+Ich komme gleich wieder.
+
+in Zeitnot geraten‘, ie, a, ä
+
+die Zeit gut nutzen
+
+bald
+
+möglichst bald, so bald wie möglich
+die Zeitspanne, n
+
+kurz
+
+die Kürze ; sich kurz fassen
+
+in Kürze
+
+in kürzester Zeit, baldigst
+unverzüglich
+
+in ein paar Minuten
+
+so früh wie möglich/möglichst früh
+je eher, desto besser
+frühestens um 12 Uhr
+
+In spätestens/längstens einer Stunde
+kurz darauf
+
+bald darauf
+
+demnächst, nächstens
+
+in absehbarer Zeit
+
+rechtzeitig
+
+beizeiten
+
+zu früh ; zu spät
+
+reichlich Zeit haben
+bevorstehend
+
+auf später verschieben, 0, o
+
+von heute auf morgen, über Nacht
+bei Gelegenheit
+
+früher oder später
+
+über kurz oder lang
+vorübergehend
+
+provisorisch
+
+die Vergänglichkeit
+
+vergänglich
+
+flüchtig
+
+die Ewigkeit
+
+ewig
+
+für immer
+
+die Dauerhaftigkeit, die Beständigkeit
+dauerhaft, beständig
+
+die Fortdauer ; fort-dauern
+weiter-bestehen, a, a
+
+sich halten, ie, a, ä, fort-bestehen
+die Frist,-, en
+
+kurzfristig ; langfristig
+fristgerecht
+
+in kürzester Frist
+
+der Termin, &
+
+einen Termin fest-setzen
+
+einen späteren T. vereinbaren
+einen Termin ein-halten, ie, a, ä
+der Fälligkeitstag
+
+der Stichtag
+
+nach Ablauf dieser Frist
+
+die Fristverlängerung, en
+
+der Aufschub
+
+D. LE teılps
+
+ 
+
+verschieben, o, o (auf+A)
+
+auf unbestimmte Zeit vertagen
+die Frist verlängern
+
+eine Galgenfrist gewähren
+
+der Ablauf
+
+sich in die Länge ziehen, 0, 0
+
+die Verschleppung
+
+Ich komme erst morgen.
+
+die Verspätung
+
+sich verspäten
+
+zu spät kommen“, a, 0
+
+der Nachzügler, -
+
+die Verspätung auf-holen
+
+die Verzögerung, en
+
+eine Verzögerung erfahren, u, a, ä
+verzögern
+
+die Pünktlichkeit
+
+immer pünktlich sein
+
+immer rechtzeitig an-kommen*, a, o
+pünktlich kommen*
+
+10 Minuten zu früh kommen, a, o
+
+das Warten
+
+warten auf jdn, etw
+
+auf sich warten lassen, ie, a, ä
+jdn, etw erwarten
+
+ein Kind erwarten
+
+Das war zu erwarten.
+ab-warten
+
+Warten wir ab !
+
+eine abwartende Haltung
+
+die Dauer
+
+auf die Dauer
+
+dauern
+
+Es dauert einen Monat.
+andauernd
+
+der Augenblick, e, der Moment, e
+bis auf weiteres, vorläufig
+
+fürs Nächste, momentan
+
+in diesem Augenblick
+
+einen A. lang, im ersten A.
+
+von dem Augenblick an, wo
+Einen Moment/Augenblick, bitte !
+jeden Augenblick
+
+im Nu
+
+in null Komma nichts (fam)
+vor einem Augenblick
+alle Augenblicke
+
+zeitweise, ab und zu
+Jetzt istes an der Zeit.
+im richtigen Moment
+
+der entscheidende Augenblick
+Wie lange ?
+
+längstens, höchstens
+vier Monate lang
+stundanlang, monatelang
+eine Zeitlang
+
+den ganzen Tag
+
+den ganzen Tag über
+tagelang
+
+sr
+
+rund um die Uhr
+
+das Entschwinden der Zeit
+
+entschwinden*, a, u
+
+vergehen‘, i,a
+
+verlaufen“, ie, au, äu
+
+einen angenehmen Abend
+verbringen, a, a
+
+sich die Zeit mit Lesen
+vertreiben, ie, ie
+
+Das braucht viel Zeit.
+
+Es war höchste Zeit.
+
+Es wäre fast passiert.
+
+sich Zeit nehmen, a, 0, i
+
+Mir wird die Zeit lang.
+
+die Zeit tot-schlagen, u, a, ä
+
+bis zum nächsten Monat
+
+bis heute/bis jetzt
+
+bis auf weiteres
+
+bis in die späte Nacht hinein
+
+von morgen ab/ab morgen
+
+von 9 bis 18 Uhr durchgehend
+geöffnet
+
+zwischen 12 und 13 Uhr geschlossen
+von heute auf morgen
+
+vom 10. März bis zum 10. Mai
+
+seit einem Monat
+
+schon lange, seit geraumer Zeit
+
+es ist (schon) lange her
+
+längst vergessen |
+bis vor kurzem
+
+bis zum heutigen Tag
+
+.  leh schaffe die Strecke in drei Tagen.
+. Ich komme in drei Tagen zurück.
+
+innerhalb (+G), innerhalb vor (+D)
+
+während der ganzen Zeit
+
+im Laufe der Zeit, mit der Zeit
+im Laufe des Gesprächs
+
+im Laufe des Monats
+allmählich
+
+nach und nach, allmählich
+die ganze Zeit über
+die Wiederholung |
+die Häufigkeit
+häufig
+
+oft
+
+meist/meistens/die meiste Zeit
+
+Wie oft ?
+
+einmal ; zweimal ; dreimal
+zum ersten Mal
+
+das vorige Mal
+
+zum letzten Mal
+
+ein paarmal
+
+aufs Neue, erneut
+abermals, nochmals
+
+von Zeit zu Zeit/ab und zu/dann und |
+wann/hin und wieder |
+
+alle halbe Stunde(n) |
+stündlich |
+
+ 
+
+ 
+
+ 
+
+ 
+
+bald ... bald
+selten
+
+den lieben langen Tag
+
+in den Tag hinein leben
+
+Alles zu seiner Zeit.
+
+Schwierigkeiten suchen, wo keine
+sind ä
+
+Kommt Zeit, kommt Rat.
+
+Das braucht viel Zeit.
+
+Um pünktliches Erscheinen wird.
+gebeten,
+
+Ich warte seit einer Stunde.
+
+Ich habe bis.zum Abend auf dich
+gewartet.
+
+Das ist schon lange her.
+
+Die Zeit ist wie im Fluge vergangen.
+
+Zeit ist Geld. f
+
+Es ist ein Unterschied wie Tag und
+Nacht.
+
+Kein Tag gleicht dem andern.
+
+Eine Schwalbe macht noch keinen
+Sommer.
+
+Kümmern Sie sich um Ihre eigenen’
+Angelegenheiten |
+
+auf die lange Bank schieben, 0, 0
+
+Dakannst du warten, bis du schwarz
+bist! (fam) Ä
+
+Eseiltnicht.
+
+Morgen ist auch ein Tag.
+
+Was du heute kannst besorgen,
+das verschiebe nicht auf morgen.
+
+Unzeitgemäße Betrachtungen.
+(Nietzsche) ä
+Du kommst wie gerufen. (fam)
+
+Erkommt noch lange nicht,
+
+Wird's bald ? “=
+Bis bald !
+
+Bis nachher: !
+
+Auf später !/Bis später |
+
+Bis dann!
+
+Mit Dank im Voraus |
+
+täglich, Tages-
+
+jeden Tag
+
+tagaus, tagein/tagtäglich/immerzu
+von Tag zu Tag
+
+einmal täglich/einmal pro Tag
+zweimal pro Woche
+
+jeden dritten Tag
+
+alle vierzehn Tage
+
+zeitweise
+
+mitunter, manchmal
+
+bald ... bald
+
+seiten
+
