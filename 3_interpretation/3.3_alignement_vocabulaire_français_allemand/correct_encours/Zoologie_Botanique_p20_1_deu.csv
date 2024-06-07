@@ -1,0 +1,32 @@
+	German_voc	deu_is_noun	French_voc	fra_is_noun
+0	die Kulturpflanze, n	True	la enthe pouliot	True
+1	die Blumenzucht	True	le illepertuis	True
+2	die Zierpflanze	True	le nerprun purgatif	True
+3	"der Ziergarten, """	True	la pariétaire	True
+4	die Schnittblume, n	True	le pavot somnifère	True
+5	die Topfpflanze	True	le peucédan officinal	True
+6	remontieren ; remontant	False	le grand plantain	True
+7	eine Remontantrose	False	la podagraire	True
+8	eine Sorte mit einfachen Blüten	False	la tormentille	True
+9	mit gefüllten Blüten	False	la potentille ansérine/ l'argentine 	True
+10	frosthart	False	la prêle des champs	True
+11	unempfindlich	False	la pulmonaire	True
+12	ausdauernd	False	la reine-des-prés/la spirée	True
+13	frühreif ; spätreif	False	ulmaire	False
+14	die Blumenschau, en	True	la bistorte	True
+15	der Blumenhändler, -	True	la salicaire	True
+16	"der Strauß, ""e"	True	la sanguisorbe officinale	True
+17	das Herbarium, ien	True	la saponaire	True
+18	die getrocknete, gepresste Blume	True	la sauge officinale	True
+19	botanisieren	False	le sédum âcre/l'orpin brûlan	True
+20	die Gartenblume, n	True	la stramoine	True
+21	"der Gartenfuchsschwanz, ""e"	True	la tanaisie	True
+22	die Riviera-Anemone, n	True	le tussilage/le pas-d'âne	True
+23	die Aster, n	True	la valériane	True
+24	die Sommer-/Chinaaster	True	la verveine officinale	True
+25	das Blaukissen, -	True		False
+26	die Gartenbalsamine, n	True		False
+27	die Begonie, n	True		False
+28	die Dreifarbige Linse, n	True		False
+29	die Wunderblume	True		False
+30		False		False

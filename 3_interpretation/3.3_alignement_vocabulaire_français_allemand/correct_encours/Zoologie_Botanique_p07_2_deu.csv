@@ -1,0 +1,32 @@
+	German_voc	deu_is_noun	French_voc	fra_is_noun
+0	piepen (Küken)	False	pépier/piauler	False
+1	schlagen, u, a, & (Nachtigall)	False	chanter	False
+2	das Nest, er	True	le nid	True
+3	die Balz	True	la parade nuptiale	True
+4	balzen	False	faire sa parade nuptiale	False
+5	nisten	False	faire son nid/nicher	False
+6	der Horst, e	True	l'aire 	True
+7	horsien	False	nicher	False
+8	Eier legen	False	pondre	False
+9	das Eierlegen ; die Legezeit, en	True	la ponte ; la pondaison	True
+10	das Ei, er	True	l'œuf 	True
+11	die Eierschale, n	True	la coquille d'œuf	True
+12	der Keim, e	True	le germe	True
+13	brüten	False	couver	False
+14	die Eier aus-brüten	True	couver les œufs	False
+15	das Gelege, -	True	la couvée 	True
+16	die Brut, en	True	la couvée	True
+17	die Brutzeit, en	True	l’incubation 	False
+18	aus-kriechen*, 0, 0	False	sortir de l'œuf	False
+19	das Auskriechen	True	l’éclosion F	False
+20	das Vögelchen, -	True	l’oisillon 	False
+21	der Nesthocker, -	True	l'oiseau nidicle	True
+22	der Nesttlüchter, -	True	l'oiseau nidifuge	True
+23	füttern tz	False	donner la becquée à/nourrir	False
+24	alles fressend ; Körner fressend	False	omnivore ; granivore	False
+25	Fisch fressend ; Insekten fressend	False	piscivore ; insectivore	False
+26	aasfressend	False	charognard	False
+27	der Käfig, e	True	la cage	True
+28	"das Vogelhaus, ""er/die Voliere, n"	True	la volière	True
+29	die Vogelstange, n	True	le perchoir	False
+30		False		False

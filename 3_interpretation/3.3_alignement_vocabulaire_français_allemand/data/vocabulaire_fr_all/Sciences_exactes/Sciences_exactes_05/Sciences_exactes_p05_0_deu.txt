@@ -1,0 +1,122 @@
+der Elastizitätsmodul
+
+die Elastizitätsgrenze
+
+die Festigkeitsgrenze
+
+der Bruchpunkt
+
+die Strömungslehre
+
+die Hydrostatik
+
+die Hydrodynamik
+
+das Fluid, s
+
+die Strömung, en
+
+die laminare Strömung
+
+die turbulente Strömung
+
+der Fluss, "&
+
+die Trennunysfläche, n
+
+die Oberflächenspannung
+
+die Kapillarität
+
+die Viskosität ; viskos
+
+die Dichte
+
+der Druck, "e
+
+der Auftrieb, e
+
+das Prinzip des Archimedes
+
+die kommunizierenden Röhren fpi
+
+das Vakuum, kua/kuen
+
+im luftleeren Raum
+
+die Kinematik
+
+die Bewegung, en
+
+die Bewegungsgröße, n,
+der Impuls, e
+
+der Drehimpuls
+
+die g(e)radlinige Bewegung, en
+
+die gleichförmige Bewegung
+
+die gleichförmig beschleunigte
+Bewegung
+
+die Kreisbewegung
+
+beim freien Fall
+
+die Geschwindigkeit, en
+
+die Anfangsgeschwindigkeit
+
+die mittlere Geschwindigkeit
+
+die Momentangeschwindigkeit
+
+die Winkelgeschwindigkeit
+
+die Beschleunigung, en
+
+der Luftwiderstand
+
+die Richtung, en
+
+die Kreisbahn, en
+
+die Zentripetalkraft, "e
+
+die Zentrifugalkraft, "e
+
+die Wärme
+
+die Thermodynamik
+
+die Wärmeenergie
+
+die Wärmekapazität
+
+die Entropie
+
+die Wärmemessung
+
+die Temperatur, en
+
+die spezifische Wärme
+
+die Wärmestrahlung
+
+der schwarze Körper, -
+
+die Konvektion, en
+
+die Ausdehnung, en
+
+aus-dehnen ; sich aus-dehnen
+
+die Wärmeleitung
+
+die Wärmeleitfähigkeit
+
+die Akustik/die Schalllehre
+
+der Schall
+

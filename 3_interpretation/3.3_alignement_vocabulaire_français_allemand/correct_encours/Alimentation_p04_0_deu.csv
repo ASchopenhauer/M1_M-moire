@@ -1,0 +1,41 @@
+	German_voc	deu_is_noun	French_voc	fra_is_noun
+0	gefroren	False	1	False
+1	die Tisfkühlung ; tiefgekühlt	True	l'épice 7	True
+2	die Tiefkühlkost	True	épicer, relever, aromatiser, corser	False
+3	auf-tauen*	False	pimenter	False
+4	die Lebensmittelbestrahlung	True	lanis 	False
+5	die strahlenbelasteten	True	le bouquet garni	True
+6	Lebensmittel pl	False	la cannelle	True
+7	der Zusatzstoff, e	True	la cardamome	True
+8	der Konservierungsstoff	True	la coriandre	True
+9	die Lebensmittelfarbstoffe mp/die (Voll}konserve, n	True	le cumin	True
+10	die Halbkonserve	True	le curcuma	True
+11	das Büchsenfleisch	True	le curry/cari/carry	True
+12	ein-wecken, ein-machen, ein-legen	False	la baie de genévrier	True
+13	"das Einweckglas, das Einlegeglas, ""er"	True	le gingembre	True
+14	die Haltbarkeitscauer	True	le clou de girofle	True
+15	mindestens haltbar bis	False	la noix de uscade	True
+16	verdorben	False	le paprika en poudre	True
+17	gären	False	doux ; ort	False
+18	die Bombage	True	la graine de pavot 	True
+19	der Schimmel ; schimmelig	True	le piment	True
+20		False	le piment rouge	True
+21		False	le poivre blanc	True
+22		False	le poivre en grains	True
+23		False	le poivre de Cayenne	True
+24		False	le poivre noir	True
+25		False	poivré	False
+26		False	le safran	True
+27		False	la vanille	True
+28		False	la gousse de vanille	True
+29		False	le condiment	True
+30		False	le sel ; le sel de cuisine	True
+31		False	la câpre	True
+32		False	le cornichon au vinaigre	True
+33		False	la saumure	True
+34		False	la outarde	True
+35		False	le vinaigre	True
+36		False	le vinaigre de vin	True
+37		False	vinaigrer tr	False
+38		False	ailler à	False
+39		False		False

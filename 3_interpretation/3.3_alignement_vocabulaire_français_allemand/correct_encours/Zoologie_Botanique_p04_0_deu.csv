@@ -1,0 +1,62 @@
+	German_voc	deu_is_noun	French_voc	fra_is_noun
+0	das Glühwürmchen, -/der Leuchtkäfer	True	Valvéle 	False
+1	die Totenuhr, en/der Klopfkäfer	True	le rayon/le gâteau de cire	True
+2	Schmetterlinge mpl	False	la cire	True
+3	der Schmetterling, s/der Falter, -	True	le iel	True
+4	der Tagfalter ; der Nachtfalter	True	le bourdon	True
+5	der Abend-/Dämmerungsfalter	True	bourdonner	False
+6	der Apollofalter	True	le bourdonnement	True
+7	der Aurorafalter	True	la guèpe	True
+8	der Gemeine Bläuling, e	True	le guêpier/le nid de guêpes	True
+9	der Distelfalter	True	le relon	True
+10	der Maulbeerseidenspinner, -	True	la ourmi	True
+11	die Seidenraupe, n	True	la ourmi rousse des bois	True
+12	der Zitronenfalter	True	la ourmilière	True
+13	der Weidenbohrer, -	True	fourmiller/grouiller	False
+14	der Braune Bär, en, en	True	le termite	True
+15	der Celtisfalter	True	la termitière	True
+16	die Kupferglucke, n	True	orthoptères 	False
+17	"die Hausmutter, """	True	le grillon, le cri-cri /am)	True
+18	der Segel-/Schwarzdornfalter	True	le grillon champêtre	True
+19	der Buchenspanner, -	True	le grillon domestique	True
+20	die Spannraups, n	True	la courtilière/la taupe grillon	True
+21	"das Rote Ordensband, ""er"	True	la sauterelle 	True
+22	"der Schwalbenschwanz, ""er"	True	la grande s. verte/la locuste	True
+23	der Große Schillerfalter	True	le criquet	True
+24	die Tapetenmotte, n	True	le criquet igrateur	True
+25	der Trauermantel, ”	True	une nuée de sauterelles	True
+26	der Große Perlmutterfalter	True	la ante religieuse	True
+27	die Kiefern-/Forleule, n	True	le perce-oreille/le orficule	True
+28	das Tagpfauenauge, n	True	le phasme	True
+29	das Abendpfauenauge, n	True	la cigale \	True
+30	der Birkenspanner, -	True	striduler ; les stridulations 	False
+31	"der Mondvogel, """	True	le ourmilion \	True
+32	der Kleine Kohlweißling, e	True	la larve du ourmilion	True
+33	der Baumweißling	True	insectes nuisibles	False
+34	der Eichenprozessionsspinner, -	True	le parasite	True
+35	der Apfelwickler, -	True	la vermine	True
+36	das Weiße C	True	s'attaquer aux arbres ruitier	False
+37	der Große Waldpförtner, -	True	nuisible ; utile 	False
+38	der Bienenschwärmer, -	True	détruire/exterminer	False
+39	der Postillon, e	True	l'insecticide 	True
+40	die Goldene Acht, en	True	la blatte/le cafard/ le cancrelat	True
+41	der Kiefernschwärmer, -	True	le cynips du chêne	True
+42	der Totenkopfschwärmer, -	True	la noix de galle	True
+43	"der Große Eisvogel, """	True	le cynips du rosier	True
+44	"der Kaisermantel, """	True	la galle du rosier/le bédégar	True
+45	die Kleidermotte, n	True	la ouche \	True
+46	der Eichenwickler, -	True	la . domestique	True
+47	"der Kleine Fuchs, ""e"	True	la . piqueuse	True
+48	der Admiral, e	True	la . grise/la sarcophage	True
+49	der Steinbrechschwärmer, -	True	la . bleue/la calliphore	True
+50	Siaaten bildende Insekten	False	la . verte/dorée ; l’asticot n	True
+51	die Biene, n ; die Honigbiene	True	la drosophile	True
+52	"der Schwarm, ""e ; aus-schwärmen*"	True	le taon	True
+53	die Königin, nen/der Weisel, -	True	un oucheron	True
+54	die Drohne, n	True	le oustique/le cousin	True
+55	die Arbeiterin, nen	True	être envahi de oustiques	False
+56	Nektar m und Pollen m sammeln	False	l'anophèle 	True
+57	der Honigtau	True	la tipule du chou	True
+58	"der Bienenstock, ""e"	True	le pou	True
+59		False	le pou de tête	True
+60		False		False

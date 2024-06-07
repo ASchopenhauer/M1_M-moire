@@ -1,0 +1,63 @@
+	German_voc	deu_is_noun	French_voc	fra_is_noun
+1	das Metall, e	False	le étal	True
+2	das Schwermetall	False	le étal lourd	True
+3	das Erz, @	True	le inerai	True
+4	der Erzgehalt	True	la teneur du inerai	True
+5	das Eisenerz	True	le inerai de er	True
+6	der Hämatit, &	True	lhématite 	False
+7	die Pechblende	True	la pechblende	True
+8	das Aluminium	True	Faluminium 	False
+9	der Bauxit, e	True	la bauxite	True
+10	das Antimon	True	l'antimoine 	True
+11	das Kadmium	True	le cadmium	True
+12	das Kalzium	True	le calcium	True
+13	das Chrom ; verchromen	True	le chrome ; chromer	True
+14	das Kobalt	True	le cobalt	True
+15	das Kupfer	True	le cuivre	True
+16	das Kupfergrün/der Grünspan	True	le vert-de-gris	True
+17	das Zinn ; verzinnen	True	l'étain ; étamer	True
+18	zinnhaltig	False	stannifére	False
+19	das Germanium	True	le germanium	True
+20	das Magnesium	True	le agnésium	True
+21	das Mangan	True	le anganèse	True
+22	das Quecksilber	True	le ercure	True
+23	das Nickel ; vernickeln	True	le nickel ; nickeler	True
+24	das Kalium	True	le potassium	True
+25	das Blei	True	le plomb	True
+26	das Radium	True	le radium	True
+27	das Wolfram	True	le tungstène	True
+28	das Uran	True	Furanium 	False
+29	das Zink ; verzinken	True	le zinc ; galvaniser	True
+30	das Eisen	True	le ter	True
+31	das Weicheisen	True	le er doux	True
+32	das Gusseisen, das Roheisen	True	la onte	True
+33	der Weiß-, Grauguss	True	la onte blanche, grise	True
+34	der Temperguss	True	la onte alléable	True
+35	"der Stahl, ""e"	True	Facier 	False
+36	der weiche Stahl	True	Facier doux	False
+37	der Hartstahl	True	Facier dur	False
+38	der Flussstahl	True	l'acier ondu	True
+39	"der Stahlguss, ""e"	True	l'acier moulé	True
+40	der Schmiedestahl ; der Walzstahl	True	l'acier orgé : l'acier laminé	True
+41	das Amalgam, e	True	l'amalgame 	True
+42	die Legierung, en	True	lalliage 	False
+43	das Messing	True	le laiton	True
+44	die Bronze, n	True	le bronze, l’airain	True
+45	das Neusilber	True	le aillechort	True
+46	das Blech, e	True	la tôle	True
+47	das Weißblech	True	le er-blanc	True
+48	das Wellblech	True	la tôle ondulée	True
+49	eisern	False	en/de er	False
+50	Eisen-	False	ferreux, de er	False
+51	Nichteisen-/NE-	False	non erreux	False
+52	eisenhaltig	False	ferruigineux	False
+53	metallhaltig	False	métallifère	False
+54	metallisch	False	métallique	False
+55	das Edelmetall, e	True	le étal précieux	True
+56	gestempelt	False	poinçonné	False
+57	das Gold	True	For 	False
+58	gediegen	False	natif	False
+59	golden; vergoldet	False	enor, d’or ; doré	False
+60	in Gold gefasst	False	monté sur or	False
+61	das Siber	True	l'argent 	True
+62		False		False

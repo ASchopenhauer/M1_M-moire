@@ -1,0 +1,61 @@
+	German_voc	deu_is_noun	French_voc	fra_is_noun
+1	die Geologie	True	la géologie	True
+2	der Geologe, n,n	True	le géologue	True
+3	das Erdzeitalter	True	Père , la période	False
+4	das Präkambrium	True	le précambrien	True
+5	das Paläozoikum	True	le paléozaïque/l'ère primair	True
+6	das Mesozoikum/das Erdmittelalter	True	le ésozoïque/ l'ère secondaire	True
+7	das Tertiär	True	le cénozoïque/l’ère tertiaire	True
+8	das Quartär	True	l'ère quaternaire	True
+9	die Paläontologie	True	la paléontologie	True
+10	das Fossil, ien ; fossil	True	le ossile ; ossile	True
+11	das pflanzliche Fossil	True	le ossile végétal	True
+12	das tierische Fossil	True	le ossile animal	True
+13	fossilisieren	False	fossiliser	False
+14	die Versteinerung	True	la pétrification	True
+15	versteinert	False	pétrifié ; ossilisé	False
+16	die Bodentorschung	True	la pédologie	True
+17	die Mineralogie	True	la inéralogie	True
+18	das Mineralreich	True	le règne inéral	True
+19	die Kristallographie	True	la cristallagraphie	True
+20	die Gesteinskunde/Petrographie	True	la petrographie	True
+21	das Gestein, e	True	la roche	True
+22	das Agglomerat, e	True	l'agglomérat 	True
+23	das Konglomerat, e	True	le conglomérat	True
+24	die Breccie/Brekzie, n	True	la brèche	True
+25	das Korn, 'er	True	le grain	True
+26	Teinkörnig	False	à grains ins	False
+27	bröck(e)lig	False	friable	False
+28	blättrig	False	feuilleté	False
+29	das Sediment-, das Schichtgestein	True	les roches sédimentaires	True
+30	das Sediment, e	True	le sédiment	True
+31	die Schicht, en	True	la couche, la strate	True
+32	stratifiziert	False	stratifié	False
+33	das Trümmergestein	True	les roches détritiques	True
+34	das Eruptivgestein	True	les roches éruptives	True
+35	das Tiefengestein	True	les roches plutoniques	True
+36	das Ergussgestein	True	les roches volcaniques	True
+37	das metamorphe Gestein	True	les roches élamorphiques	True
+38	das Mineral, ien	True	le inéral	True
+39	amorph	False	amorphe	False
+40	kristallin, kristallisch	False	cristallin	False
+41	glasig	False	vitreux	False
+42	spröde	False	cassant	False
+43	spalten ; spaltbar	False	cliver ; clivable	False
+44	die Spaltbarkeit	True	le clivage	True
+45	porös	False	poreux	False
+46	wasserdurchlässig	False	perméable	False
+47	wasserundurchlässig	False	imperméable	False
+48	der Alabaster	True	| l'albätre 	False
+49	der Alaun, &	True	Palun 	False
+50	der Asbest, e	True	Famiante 	False
+51	der Apatit, e	True	lapatite	False
+52	dar Aragonit	False	l'aragonite \(	True
+53	der Ton ; tonig, lehmig	True	l'argile ; ; argileux	True
+54	der Aventurin, e	True	l'aventurine 	True
+55	der Azurit/die Kupferlasur, on	True	Pazurite	False
+56	der Basalt, e	True	le basalte	True
+57	der Biotit,.e	True	la biotite	True
+58	die Zinkblende, n	True	la blende	True
+59	der Kalkstein, e ; kalkhaltig	True	le calcaire ; calcaire	True
+60	der Ghalzedon, e	True	la calcédoine	True

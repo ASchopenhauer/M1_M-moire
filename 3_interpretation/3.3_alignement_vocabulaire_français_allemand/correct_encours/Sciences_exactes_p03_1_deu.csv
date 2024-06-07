@@ -1,0 +1,44 @@
+	German_voc	deu_is_noun	French_voc	fra_is_noun
+0	HUEINGIELSOLEI VERUHUGI	False	le calcul	True
+1	alcul	False	calculer ; aire des calculs	False
+2	das Rechnen, die Rechnung	True	calculer qc ; aire le calcul	False
+3	rechnen	False	de qc	False
+4	etw berechnen ; etw aus-rechnen	False	établir qe par le calcul	False
+5	etw errechnen	False	le calcul ental	True
+6	das Kopfrechnen	True	calculer entalement	False
+7	im Kopf rechnen	False	le problème	True
+8	die Rechenaufgabe, n	True	la solution	True
+9	die Lösung, en	True	résoudre ; résolu	False
+10	lösen ; gelöst	False	le résultat	True
+11	das Ergebnis, se	True	donner 	False
+12	ergeben, a, &,i	False	la preuve	True
+13	die Probe, n	True	C'est exact./C'est juste.	False
+14	Das stimmt. /Das ist richtig.	False	C’est aux.	False
+15	Das istfalsch.	False	faire une erreur de calcul	False
+16	falsch rechnen/sich verrechnen	False	l'erreur de calcul	True
+17	der Rechenfehler, -	True	les quatre opérations 	True
+18	die vier Grundrechenarten fo/die Addition, en	True	l'addition 	True
+19	addieren/zusammen-zählen	False	additionner	False
+20	das Pluszeichen	True	le signe plus/d’addition	True
+21	das Gleichheitszeichen	True	le signe d'égalité	True
+22	Schreibe sechs, behalte zwei.	False	le pose six et le retiens deu	True
+23	die Summe, n	True	la somme, le total	True
+24	die Subtraktion, en/das Abziehen	True	la soustraction	True
+25	subtrahieren, ab-ziehen, o, o (von)	False	soustraire, relrancher	False
+26	das Minuszeichen	True	le signe oins/de	True
+27	der Rest, e	True	soustraction	False
+28	der Unterschied	True	le reste	True
+29	die Multiplikation, en	True	la différence	True
+30	multiplizieren/vervielfachen (mit)	False	la ultiplication	True
+31	das Malzeichen	True	multiplier	False
+32	der Muttiplikand, en, en	True	le signe de ultiplication	True
+33	der Muttiplikator, en	True	le ultiplicande	True
+34	das Produkt, &	True	le ultiplicateur	True
+35	der Faktor, en	True	le produit	True
+36	das Vielfache (adj)	True	le acteur	True
+37	das Zweifache/Doppelte (adj)	True	le ultiple	True
+38	verdoppeln	False	le double	True
+39	zweifach, doppelt	False	doubler	False
+40		False	double ; en double, deux oi	False
+41		False	AS	False
+42		False		False

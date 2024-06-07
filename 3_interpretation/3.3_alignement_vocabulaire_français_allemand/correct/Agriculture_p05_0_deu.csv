@@ -1,0 +1,58 @@
+	German_voc	deu_is_noun	French_voc	fra_is_noun
+0	die Traubensorte, n, die Rebsorte |	True	le cépage	True
+1	die Keltertrauben pl |	True	le raisin de cuve	True
+2	die Tafeltrauben |	True	le raisin de table	True
+3	die Ranke, n |	True	la vrille	False
+4	der Trieb, e ; das Reisig, e	True	le sarment	True
+5	der Jungtrieb, e \	True	le pampre	True
+6	die Weintraube, n	True	la grappe de raisin, le raisin	True
+7	"der Traubenstiel, e/der Traubenkamm, ""e/der Rapp, e"	True	la rafle/le pédoncule de la grappe	False
+9	die Beere, n	True	le raisin, le grain de raisin	True
+10	"die Beerenhülse, n, der Balg, ""e"	True	la peau	True
+11	das Fruchtfleisch	True	la pulpe	True
+12	der Kern, e	True	le pépin	True
+13	die Rebsortenkunde	True	l'ampélographie	True
+14	die Rebschule	True	la pépinière	True
+15	der Sortenbestand	True	l'encépagement	True
+16	die Edelrebe, n	True	le cépage noble	True
+17	die Rebunterlage, n	True	le porte-greffe	True
+18	die Wurzelrebe, n/der bewurzelte Stock	True	la souche	True
+20	Edeltriebe auf Wurzelreben auf-propfen	False	greffer sur souche	False
+22	die Ausmerzung	True	l'arrachage volontaire	False
+23	die Ausmerzungsbeihilfe	True	la prime d’arrachage	False
+24	die Jungreben ipl	True	les jeunes vignes	True
+25	der Austrieb	True	le débourrement, la feuillaison	True
+27	der Fruchtansatz	True	la nouaison	True
+28	die Rebenblüte	True	la floraison	False
+29	die beginnende Beerenreife	True	la véraison	True
+30	die Reifung der Trauben, der Reifeprozess	True	la maturation des raisins	True
+31	die frühe Traube	True	le raisin primeur, le raisin hà	True
+32	die späte Traube	True	le raisin tardif	True
+33	der Hektarertrag	True	le rendement à l’hectare	True
+34	die Pflanzdichte	True	la densité de plantation	True
+35	die Pflanzweite, der Stockabstand	True	l'espacement des pieds	True
+36	die Rebzeile, n	True	le rang de vigne	True
+37	"der Rebpfahl, ""e"	True	l'échalas	True
+38	die Erziehung der Rebe	True	le palissage de la vigne	True
+39	die Rebschere, n	True	le sécateur	True
+40	der Reber, -/das Rebmesser, -	True	la serpette	True
+41	Vorfälle mp/ (Wetter, Krankheiten usw)	True	accidents 	True
+42	der Hagel ; die verhagelten Trauben	False	la grêle : les grappes grêlée	True
+43	"der Frost, ""e ; die Frostrisse mpl"	True	le gel ; la gélivure	False
+44	das Durchriesein	True	la coulure	True
+45	der Rebschädling, e	True	le parasite de la vigne	True
+46	der bekreuzte Traubenwickler, -	True	l'eudémis	True
+47	der Springwurm(wickler)	True	la pyrale de la vigne	True
+48	"die Reblaus, ""e"	True	le phylloxéra	True
+49	der Reb(en)stecher, -	True	le cigarier de la vigne	True
+50	der Pilzbefall, die Schimmelpilze mp!	True	les moisissures	True
+51	der echte Mehltau	True	l'oidium	True
+52	der falsche Mehltau	True	le mildiou	True
+53	die Edelfäule	True	la pourriture noble	True
+54	das Spritzen	True	la pulvérisation/le sulfatage	True
+55	die Bordelaiser Brühe	True	la bouillie bordelaise	True
+56	das Schwefeln	True	le soufrage	True
+57	die (Wein)lese, die Traubenlese, die Weinernte	True	la vendange	True
+58	die Weinbergsöffnung	True	le ban de vendange	True
+59	der Lesetermin	True	la date des vendanges	False
+				True

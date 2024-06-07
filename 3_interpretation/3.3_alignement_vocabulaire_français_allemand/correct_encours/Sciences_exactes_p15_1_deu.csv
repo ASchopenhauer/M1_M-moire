@@ -1,0 +1,46 @@
+	German_voc	deu_is_noun	French_voc	fra_is_noun
+0	den lieben langen Tag	False	toute la sainte journée	False
+1	in den Tag hinein leben	False	vivre au jour le jour	False
+2	Alles zu seiner Zeit.	False	Chaque chose en son temps	True
+3	Schwierigkeiten suchen, wo keine	False	chercher idi à quatorze	False
+4	sind ä	False	heures	False
+5	Kommt Zeit, kommt Rat.	False	Le temps arrange tout.	True
+6	Das braucht viel Zeit.	False	Cela demande du temps.	False
+7	Um pünktliches Erscheinen wird.	False	Prière d’être exact	False
+8	gebeten, 	False	Cela ait une heure que	False
+9	Ich warte seit einer Stunde.	False	j'attends.	False
+10	Ich habe bis.zum Abend auf dich	False	le ai attendu jusqu'au soir.	True
+11	gewartet.	False	Cela ne date pas	False
+12	Das ist schon lange her.	False	d'aujourd'hui.	False
+13	Die Zeit ist wie im Fluge vergangen.	False	le n’ai pas vu le temps	True
+14	Zeit ist Geld. f	False	passer.	False
+15	Es ist ein Unterschied wie Tag und	False	Le temps, c’est de l'argent.	True
+16	Nacht.	False	C'est le jour et la nuit.	False
+17	Kein Tag gleicht dem andern.	False	Les jours se suivent et ne se	True
+18	Eine Schwalbe macht noch keinen	False	ressemblent pas.	False
+19	Sommer.	False	Une hirondelle ne ait pas	True
+20	Kümmern Sie sich um Ihre eigenen!	False	le printemps.	True
+21	Angelegenheiten |	False	le ne vous demande pas	True
+22	auf die lange Bank schieben, 0, 0	False	l’heure qu'il est !	False
+23	Dakannst duwarten, bis du schwarz‘	False	renvoyer aux calendes	False
+24	bist } (fam) &	False	grecques/à la saint-	False
+25	Eseeilt nicht.	False	glinglin	False
+26	Morgen ist auch ein Tag.	False	Tu peux toujours attendre !	False
+27	Was du heute kannst besorgen, das verschiebe nicht auf morgen.	False	Rien ne presse, Cela peut	False
+28	Unzeitgemäße Betrachtungen.	False	attendre.	False
+29	(Nietzsche) ä	False	À chaque jour suffit sa peine	False
+30	Du kommst wie gerufen. (fam)	False	Ilne aut pas remettre à	False
+31	Er kommt noch lange nicht.	False	demain ce que l’on peut	False
+32	Wird's bald ?	False	faire le jour ême.	False
+33	Bis bald !	False	Considérations	False
+34	Bis nachher: !	False	intempestives.	False
+35	Auf später !/Bis später |	False	Tu tombes bien.	False
+36	Bis dann!	False	I ne reviendra pas de si tôt./ Il n'est pas prêt de revenir.	False
+37	Mit Dank im Voraus |	False	Alors, ça vient ?	False
+38		False	À bientôt !	False
+39		False	À tout à l'heure !	False
+40		False	À plus tard !	False
+41		False	À la prachaine !	False
+42		False	Avec es remerciements	False
+43		False	anticipés.	False
+44		False		False

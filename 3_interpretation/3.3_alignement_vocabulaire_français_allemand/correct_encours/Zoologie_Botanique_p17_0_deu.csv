@@ -1,0 +1,58 @@
+	German_voc	deu_is_noun	French_voc	fra_is_noun
+0	die Schuppe, n	True	le ciste	True
+1	die Spore, n	True	la clématite	True
+2	das Rohr, e	True	la cl. des haïes/la vigne	True
+3	der Stiel, e	True	blanche	False
+4	der Stielring, e	True	le cognassier du Japon	True
+5	die (StielJmanschette, n	True	le cornouiller âle	False
+6	das Myzelium/Myzel, ien	True	le cornouiller sanguin	True
+7	die Schlauchpilze	True	le cotonéaster	False
+8	die Ständerpilze	True	le cytise	True
+9	der Speisepilz/essbare Pilz	True	léglantier ; Péglantine / le cynorrhodon, le gratte-cul	False
+10	der ungenießbare Pilz	True	Fépine-vinette r	False
+11	der Giftpilz/giftige Pilz	True	le orsythia	True
+12	Pilze sammeln	False	le usain , le bonnet de prêtre	True
+13	Pilze mpl	False	le uchsia	True
+14	der Egerling, e/der Champignon, s	True	le genêt	True
+15	der Weiße Wiesenegerling	True	le g.d'Espagne ; le g. à balai	True
+16	der Dünne Anisegerling	True	le genévrier	True
+17	der Schafchampignon	True	le genièvre	True
+18	der Kleine Blutegerling/	True	la glycine	True
+19	der Waldchampignon	True	le gui	True
+20	der Giftegerling/der Blasse	True	le houx	True
+21	Tintenegerling	False	le jasmin	True
+22	der Knollenblätterpilz/der Wulstling, e	True	le laurier	True
+23	"der Kaiserling, e/der Kaiserschwamm, ""e"	True	le laurier-cerise	True
+24	der Gelbe Knollenblätterpilz	True	le laurier noble/laurier-sauc	True
+25	der Scheidenstreifling, e	True	le laurierrose	True
+26	der Pant(h)erpilz, e	True	le lierre	True
+27	der Grüne Knollenblätterpilz	True	le lilas	True
+28	der Frühlingsknollenblätterpilz	True	le yrte	True
+29	der Fliegenpilz	True	la yrtille/Pairelle bleue	True
+30	der Perlpilz	True	le néflier ; la nèfle	True
+31	der Kegelhütige Knollenblätterpilz	True	le noisetier/le coudrier	True
+32	der Hallimasch, &	True	la noisette	True
+33	der Maronenpilz/der Maronenröhrling, e	True	le lentisque	True
+34	der Goldröhrling	True	le térébinthe	True
+35	der Schmerling, e	True	le prunellier/Fépine noire	True
+36	der Butterpilz	True	la prunelle	True
+37	der Rotfußröhrling/das Rotfüßchen	True	le rhododendron	True
+38	der Birkenpilz	True	le rho. des Alpes/le rosage	True
+39	der Satanspilz	True	la ronce	True
+40	der Steinpilz	True	la üre	True
+41	der Bronzesteinpilz	True	le seringa	True
+42	die Rotkappe, n/das Rothäubchen, -	True	la spirée	True
+43	"der Pfifferling, e/der Eierschwamm,""e"	True	le sureau rouge	True
+44	"der Dreifarbige Ziegenbart, ""e"	True	le sureau noir	True
+45	der Weiße Gifttrichterling, e	True	la symphorine	True
+46	die Graukappe, n	True	le tamaris	True
+47	der Ölbaumtrichterling	True	le iroène	True
+48	der Pflaumenrötling, e/der Mehlpilz	True	la viorne/l'abier 	True
+49	der Schopftintling, e	True	la boule-de-neige	True
+50	der Knotentintling	True	_la viorne-tin/le laurier-tin	False
+51	der Riesenrötling	True	cha	False
+52	die Herbstlorchel, n	True	la ycologie	True
+53	der Stoppelpilz/der Semmelpilz	True	° le champignon	False
+54	"der Grünblättrige Schwefelkopf, ""©"	True	le chapeau	True
+55		False	la lamelle	True
+56		False		False

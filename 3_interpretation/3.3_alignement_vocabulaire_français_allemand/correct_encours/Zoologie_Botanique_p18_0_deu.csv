@@ -1,0 +1,59 @@
+	German_voc	deu_is_noun	French_voc	fra_is_noun
+0	das Steinkraut	True	l’alysson 	False
+1	die Akelei, en	True	l’ancolie	False
+2	das Leberblümchen, -	True	l’ hépatique 	True
+3	die Gemeine Küchenschelle, n	True	l’anémone pulsatille	False
+4	das Große Windröschen	True	l'anémone sauvage	True
+5	das Buschwindröschen, -/die Anemone, n	True	l’anémone sylvie	False
+6	die Osterluzei, en	True	l’aristoloche 	False
+7	die Melde, n	True	l’arroche , la bonne-dame	False
+8	der Gefleckte Aron(s)stab	True	l’arum tacheté, le gouet	False
+9	der Waldmeister, -	True	l'aspérule 	True
+10	der Affodill, e/der Asphodill, e	True	l’asphodèle 	False
+11	der Bambus, se	True	le bambou	True
+12	die Nelkenwurz	True	la benoîte	True
+13	die Kornblums, n	True	le bleuet	True
+14	die Butterblume, n	True	le bouton-d’or \	True
+15	die Braunelle, n	True	la brunelle	True
+16	die Kalla, s/die Schlangenwurz, en	True	la calla des arais	True
+17	die Glockenblume, n	True	la campanule	True
+18	"das Wiesenschaumkraut, ""er"	True	la cardamine des prés	True
+19	die Wilde Karde, n	True	la cardère/le chardon toulon	True
+20	die Große Eberwurz/die Silber-/Wetterdistel, n	True	la carline acaule/ le chardon baromètre	True
+21	die Gemeine Flockenblume, n	True	la jacée	True
+22	die Wegwarte, n	True	la chicorée sauvage	True
+23	die Gemeine Quecke, n	True	le chiendent commun	True
+24	die Saatwucherblume, n	True	le chrysanthème des	True
+25	die Weiße Wucherblume/die Margerite, n	True	moissons	False
+26	der Gefleckte Schierling, &	True	le chrysanthème des prés/ la grande arguerite	True
+27	die Hundepetersilie, n	True	la grande ciguë	True
+28	der Giftige Wasserschierling	True	la petite ciguë	True
+29	das Gemeine Hexenkraut	True	la cigué vireuse	True
+30	die Ackerkratzdistel, n	True	la circée	True
+31	die Herbstzeitlose, n	True	la cirse des champs/ le chardon des champs	True
+32	der Klatschmohn, e/die Klatschrose, n	True	le colchique	True
+33	das Alpenveilchen, -	True	le coquelicot	True
+34	der Sonnentau	True	le cyclamen	True
+35	das Edelweiß, e	True	la drosera	True
+36	das Kleine Habichtskraut	True	l’edelweiss 	False
+37	der Waldziest, e	True	l’épervière commune/ la piloselle	False
+38	das Weidenröschen, -	True	l’épiaire des bais	False
+39	die Wolfsmilch	True	l’épilobe 	False
+40	der Flug-/Wildhafer	True	l’euphorbe 	False
+41	das Echte Labkraut	True	la olle-avoine	True
+42	die Färberröte	True	le gaillet jaune	True
+43	der Enzian, e	True	la garance	True
+44	der Waldstorchschnabel, ”	True	la gentiane	True
+45	der Reiherschnabel, *	True	le géranium des bois	True
+46	die Feldsiegwurz, en	True	le bec-de-grue	True
+47	das Feitkraut	True	le glaïeul des oissons	True
+48	die Nieswurz, en	True	la grassette	True
+49	der Hopfen, -	True	F(h}ellébore 	False
+50	das Springkraut/das Rührmichnichtan, -	True	le houblon	True
+51	die Sumpfschwertlilie, n	True	limpatiente 	False
+52	der Taumellolch, e	True	Viris jaune/des arais	False
+53	die Binse, n	True	l'ivraie	True
+54	die Segge, n	True	le jonc	True
+55	die Gänsedistel, n	True	la laîche/le carex	True
+56		False	le laiteron	True
+57		False		False

@@ -1,0 +1,37 @@
+	German_voc	deu_is_noun	French_voc	fra_is_noun
+0	, Mollusques	False	le crustacé	True
+1	das Krebstier, e/Krustentier/der Krebs, e	True	Pantenne 	False
+2	der Fühler, -	True	la pince	True
+3	die Schere, n	True	l’anatife 	False
+4	die Entenmuschel, n	True	la balane	True
+5	die Seepocke, n	True	le bernard-l'ermite/le pagure	True
+6	der Einsiedlerkrebs, e	True	le cloporte	True
+7	die Assel, n	True	le crabe	True
+8	die Krabbe, n/der (Kurzschwanz)krebs	True	le crabe chinois	True
+9	die Wollhandkrabbe	True	le tourteau	True
+10	der Taschenkrebs	True	l'étrille ; ; l’araignée de er	True
+11	die Samtkrabbe ; die Meerspinne, n	True	le crabe vert/menaçant	True
+12	die Strandkrabbe, n	True	la galat(hjée	True
+13	der Furchenkrebs, e	True	la crevette	True
+14	die Garnele, n, die Krabbe	True	l'écrevisse 	True
+15	der Flusskrebs, e	True	le homard	True
+16	der Hummer, -	True	la langouste	True
+17	die Languste, n	True	la langoustine	True
+18	der Kaisergranat, e	True	la puce de er/le talitre	True
+19	der Sandhüpfer, -	True	la puce d’eau douce/ la daphnie	True
+20	"der Wasserfloh, ""e"	True	le ollusque	True
+21	das Weichtier, e	True	le bivalve ; le coquillage	True
+22	die Muschel, n	True	la coquille	True
+23	die Schale, n	True	la valve	True
+24	die Klappe, n	True	le clam	True
+25	der Clam, s	True	la clanque/la ye	True
+26	die Sandklappmuschel, n	True	la coque/la bucarde	True
+27	die (Essbare) Herzmuschel	True	comestible	False
+28	die Jakobs-/Pilgermuschel	True	la coquille Saint-Jacques	True
+29	die Messerscheids, n	True	le couteau	True
+30	die Auster, n	True	Yhuître / 	False
+31	die Perlenauster/die Perlmuschel	True	Fhuître perlière	False
+32	die Feinperle, n	True	la perle ine/naturelle	True
+33	die/das Perimutter/das Perlmutt	True	la nacre	True
+34	die Miaemuschal n	True	kh oule	False
+35		False		False

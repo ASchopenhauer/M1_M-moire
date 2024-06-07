@@ -1,0 +1,32 @@
+	German_voc	deu_is_noun	French_voc	fra_is_noun
+0	die Chronologie, die Zeitfolge	True	la chronologie	True
+1	das Zeitalter, die Zeitrechnung	True	l'ère 	True
+2	vor, nach unserer Zeitrechnung	False	avant l'ère chrétienne	False
+3	vor Christi Geburt/vor Christus/v.Chr.	False	avant Jésus-Christ/ av. J.-C.	False
+4	das Datum, ten	True	la date	True
+5	neu	False	de raîche date	False
+6	alt	False	de longue date	False
+7	die Datierung, en	True	la datation	True
+8	datieren ; vom 25.10.95	False	dater ; daté du 25-10-94	False
+9	zuruck-datieren	False	antidater	False
+10	vor-datieren	False	posidater	False
+11	von heute an/ab	False	à dater de ce jour	False
+12	aus dem 18. Jahrhundert stammen	False	dater ir du XVIIIS siècle	False
+13	im achtzehnten Jahrhundert	False	au dix-huitième siècle	False
+14	in der Zeit/zur Zeit Napoleons	False	à l'époque de Napoléon	False
+15	(im Jahre) 1900 ; um (das Jahr) 1900	False	en 0 ; vers 0	False
+16	die fünfziger Jahre	True	les années 0/cinquante	True
+17	zur Zeit	False	actuellement, en ce oment	False
+18	um diese Zeit	False	vers cette époque	False
+19	der Tao X, die Stunde X	True	le jour J, l'heure H	True
+20	Den Wievielten haben wir heute ?	False	Quel jour sommes-nous	True
+21	Wir haben den 2. April 1970	False	aujourd’hui ?	False
+22	(neunzehnhundertsiebzig).	False	Nous sommes le 2 avril 0	False
+23	Ich komme am 1. Mai.	False	\.	False
+24	um den 2. Mai (zweiten Mai)	False	le viendrai le ai	True
+25	in der Nacht von Montag auf Dienstag	False	.	False
+26	in der Woche vom 10. auf den 17.	False	vers le 2 ai 	False
+27	am Morgen, am Abend, an dem ...	False	dans la nuit de lundi à ardi	False
+28		False	dans la semaine du 10 au 17	False
+29		False	le atin, le soir où …	True
+30		False		False

@@ -1,0 +1,64 @@
+	German_voc	deu_is_noun	French_voc	fra_is_noun
+0	der Höcker, - ; einhöckerig	True	l'ocelot 	True
+1	der Kameltreiber, - ; die Karawane, n	True	la panthère/le léopard	True
+2	die Gämse, n	True	le puma	True
+3	das Reh, e	True	le tigre	True
+4	der Damhirsch, &	True	> animaux à ourrure	False
+5	der Elch, s	True	la ourrure	True
+6	die Gazelle, n	True	le pelage/la peau	True
+7	die Giraffe, n	True	rayé, zébré ; tigré	False
+8	das Lama, s	True	tacheté	False
+9	der Mufflon, s/das Wildschaf, &	True	épais, ourni	False
+10	das Okapi, s	True	doux comme la soie ; soyeu	False
+11	das Rentier, e/Ren, e/s	True	la belette	True
+12	der Tapir, e	True	le blaireau	True
+13	der/das Zebu, s/der Buckelochse, n, n	True	la ouine	True
+14	das Zebra, 5	True	le uret	True
+15	der Dickhäuter, -	True	l'hermine 	True
+16	der Elefant, en, en	True	la loutre	True
+17	"die Elefantenkuh, ""e"	True	la loutre de er	True
+18	der junge Elefant	True	la art(r}e	True
+19	der Rüssel, -	True	la ouf(fette	True
+20	"der Stoßzahn, ""e ; das Elfenbein"	True	le sconse/le skuns	True
+21	trompeten ; das Trompeten	False	le putois	True
+22	der Elefantenführer, -	True	le raton laveur	True
+23	das Nil-/Flusspferd, e	True	le vison ; le vison d'Amériqu	True
+24	"das Nashorn, ""er"	True	la zibeline	True
+25	Rauıbtiere npl	False	> ammifères insectivores	False
+26	der Schakal, e	True	la chauve-souris	True
+27	"der Kojote, n, n/der Präriewolt, ""e"	True	la pipistrelle	True
+28	"der Fennek, s/ e/der Wüstenfuchs, ""e"	True	l'oreillard 	True
+29	der Vielfraß, e	True	le grand urin	True
+30	"der Wolf, ""e"	True	la noctule ; le vampire	True
+31	die Wölfin, nen ; das Wölfchen, -	True	le hérisson	True
+32	heulen ; das Heulen	False	la usaraigne	True
+33	"der (Rot)fuchs, ""e"	True	le pangolin	True
+34	der Eisfuchs	True	le tamanoir/le grand	True
+35	der Fuchsbau, e	True	fourmilier	False
+36	der (Braun)bär, en, en	True	le tatou	True
+37	die Bärin, nen ; der junge Bär	True	la taupe	True
+38	der Eisbär	True	la taupinière	True
+39	der Grislibär/Grizziybär	True	creuser, ouiller la terre	False
+40	brummen	False	l'animal ouisseur	True
+41	der Panda, s	True	le paresseux 	True
+42	der Waschbär	True	rongeurs 	False
+43	Großkatzen fpl	False	ronger +, grignoter tr	False
+44	der Rachen, -	True	le campagnol des champs	True
+45	die Tatze, n ; die Pranke, n	True	le castor	True
+46	der Prankenhieb, e	True	la civette	True
+47	Tauchen ; brüllen	False	le cochon d'Inde/le cobaye	True
+48	lauern (auf+A)	False	l'écureuil	True
+49	springen*, a, u, auf+A	False	l’éc. vlant/le platouche	False
+50	sich stürzen auf+A	False	le petit-gris ; le vair	True
+51	zerreißen, |, i	False	la genette	True
+52	die Höhle, n	True	la gerboise	True
+53	die Wildkatze, n	True	le hamster doré	True
+54	der Gepard, e	True	le lapin de garenne	True
+55	die Hyäne, n	True	le lapin	True
+56	der Jaguar, e	True	le lapin âle ; le lièvre âle	True
+57	der Löwe, n,n	True	la lapine	True
+58	die Mähne, n	True	le lapereau	True
+59	die Löwin, nen ; der junge Löwe	True	le terrier	True
+60	der Luchs, e	True	la galerie	True
+61		False	la chambre	True
+62		False		False

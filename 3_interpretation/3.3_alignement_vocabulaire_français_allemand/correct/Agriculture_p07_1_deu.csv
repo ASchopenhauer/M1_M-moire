@@ -1,0 +1,62 @@
+	German_voc	deu_is_noun	French_voc	fra_is_noun
+0	Holz spalten	False	fendre du bois	False
+1	"der Hau-/Hackklotz, ""e"	True	le billot	True
+2	das Holz (Material)	True	le bois	True
+3	das Hartholz	True	le bois dur	True
+4	das Weichholz	True	le bois tendre	True
+5	das Maserholz	True	le bois veiné	True
+6	die Maserung	True	la veinure	True
+7	rissig	False	fendillé	False
+8	"das Edelholz, ""er"	True	le bois précieux	True
+9	das Mahagoni(holz)	True	l'acajou 	True
+10	das Ebenholz	True	l’ébène 	False
+11	das Palisanderholz	True	le palissandre	False
+12	das Nutzholz	True	> le bois d'œuvre	False
+13	das Bauholz	True	le bois de construction, le bois de charpente	True
+14	das Rundholz	True	le bois rond	True
+15	das Rundholz mit Rinde	True	le bois en grume	True
+16	das geschälte Holz	True	le bois écorcé	True
+17	das Wurzelholz	True	le bois de souche	True
+18	der Knorren, - ; knorrig, astreich	True	la loupe ; noueux	True
+19	"der Ast, ""e ; astfrei, astrein"	True	le nœud ; sans nœuds	True
+20	das Schnittholz	True	le bois débité	True
+21	das Kantholz	True	le bois équarri	True
+22	das Schichtholz	True	le bais empilé	True
+23	der Balken, -	True	la pouire	True
+24	die Bohle, n	True	le adrier	True
+25	der Pfosten, -	True	le poteau, le ontant	True
+26	das Brett, er	True	la planche	True
+	B/retter zu-schneiden, i, i		débiter en planches	
+27	der Holzverschnitt	True	la perte de hois	False
+28	"der Holzabfall, ""e"	True	la chute de bois	True
+29	die Leiste, n	True	le liteau	True
+30	die Zier-/Profilleiste	True	la baguette	True
+31	die Latte, n	True	la latte	True
+32	das Furnierholz	True	le bois de placage	True
+33	die Furnierung	True	le placage	True
+34	das Sperrholz	True	le contreplaqué	True
+	die Tischlerplatte, n		le latté	True
+	die Holzfaserplatte		le panneau de ibres de boi	
+35	die Hartfaserplatte	True	l'isorel dur	
+36	die Holzspanplatte	True	le panneau aggloméré	True
+37	die Kunststoffplatie	True	le panneau élaminé	True
+38	die Holzwolle	True	la ibre de bois	True
+39	 D/as Holz arbeitet.	True	Le bois travaille.	True
+40	sich werfen, a, 0, i/sich verziehen, 0,0	True	se déformer	True
+	sich spalten		se endre	
+41	der Holzsplitter, -	False	l'éclat de bois	True
+42	quellen*, 0, 0, i	False	gonfler	True
+43	das Sägewerk, ©	True	la scierie	False
+44	sägen	False	scier	False
+45	die Kreissäge, n	True	la scie circulaire	True
+46	das Sägemehl	False	la sciure	False
+47	hobeln tr	True	raboter	True
+48	"der Span, ""e"	True	le copeau	False
+49	der Holzschliff/der Holzstoff	False	la pâte de bois	True
+50	der Holzzellstoff	True	la cellulose de hois	True
+51	das Kolophonium/Kolofonium	True	la colophane	False
+52	das Terpentinöl	True	l'essence de térébentine	True
+53	der Holzteer	True	le goudron végétal	True
+54	der Holzgeist	True	l'esprit-de-bois 	True
+55	der Holzessig	True	l'acide pyroligneux	True
+56	die Holzkohle	True	le charbon de bois	True

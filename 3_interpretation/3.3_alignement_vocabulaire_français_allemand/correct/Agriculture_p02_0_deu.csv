@@ -1,0 +1,57 @@
+	German_voc	deu_is_noun	French_voc	fra_is_noun
+	die Honigschleuder	True	l’extracteur centrifuge	
+	der (Bienen)honig	True	le miel	
+	der Wabenhonig/Scheibenhonig	True	le miel en rayon	
+	der Tropfhonig	True	le miel d’égouttage	
+	der Schleuderhonig	True	le miel de centrifugation	
+	der Presshonig	True	le miel de pressurage	
+0	die landwirtschaftliche Erzeugung	False	la production agricole	False
+1	die intensive Bodenbewirtschaftung	True	la culture intensive	True
+2	der Massenanbau von Gemüse	True	la production massive de légumes	True
+3	die Agrarüberschüsse mpi	True	les surplus agricoles	True
+4	die Anbaubeschränkung	True	la limitation des cultures	True
+5	der biologische Landbau	True	l'agro-bio	True
+6	der Öko-Hof	True	la ferme écologique	True
+7	das Bioprodukt, e	True	le produit biologique	True
+8	die Umstellung der Landwirtschaft	True	la reconversion de l'agriculture	True
+9	die Flurzersplitterung	True	le morcellement des terres	True
+10	die Flurbereinigung	True	le remembrement des terre	True
+11	die Parzelle, n	True	la parcelle	True
+12	der Großbetrieb, e	True	la grande exploitation	True
+13	die Monokultur	True	la monoculture	True
+14	der Anbau verschiedener Pflanzen	True	la polyculture	True
+15	die Bewässerung, en ; bewässern	True	l'irrigation # ; irriguer	True
+16	die Entwässerung, en	True	le drainage	True
+17	die Trockenlegung, en	True	l'assainissement	True
+18	die Berieselung, en	True	l'arrosage	True
+19	begießen, o, o, beregnen	True	arroser	False
+20	die Beregnungsanlage, n	False	le dispositif d'arrosage	True
+21	der Rasensprenger, -	True	l’arroseur automatique	False
+22	der Kreisregner, -	True	l'arroseur rotatif	True
+23	die Gießkanne, n	True	l'arrosoir	True
+24	die Schlauchhaspel, n	True	le dévidoir	True
+25	die Motorpumpe, n	True	la motopompe	True
+26	die Pumpe, n	True	la pompe	True
+27	die (Gießkannen)brause, n	True	la pomme d'arrosage	True
+28	der Brunnen, -	True	le puits	True
+29	das Düsenschwenkrohr, &	True	la rampe d'arrosage	True
+30	"der Gartenschlauch, ""e"	True	le tuyau d'arrosage	True
+31	die Landmaschine, n	True	la machine agricole	True
+32	die Rübenerntemaschine	True	l’arracheuse / de betteraves	False
+33	die (Kartoffel)rodemaschine	True	l’arracheuse de pommes de terre	False
+34	die Dreschmaschine	True	la batteuse	True
+35	die Hackmaschine	True	la bineuse	True
+36	die Lademaschine	True	le chargeur	True
+37	"der Pflug, ""e"	True	la charrue	True
+38	der Grubber, -	True	le cultivateur	True
+39	der Furchenzieher, -	True	la silonneuse	True
+40	der Häcksler, -	True	la hacheuse	True
+41	die Egge,n	True	la herse	True
+42	der Mähdrescher, -	True	la moissonneuse-batteuse	True
+43	der Mähbinder, -	True	la moissonneuse-lieuse	True
+44	der Düngerstreuer, -	True	lépandeur d'engrais	False
+45	der Düngereinleger, -	True	l'enfouisseur d'engrais	True
+46	der Güllewerfer, -	True	l’épandeur de lisier	False
+47	der Grasmäher, -	True	la faucheuse à herbe	True
+48	der Heuwender, -	True	la faneuse	True
+49	der Einachsschlepper, -, die Bodenfräse, n	True	le motoculteur	True

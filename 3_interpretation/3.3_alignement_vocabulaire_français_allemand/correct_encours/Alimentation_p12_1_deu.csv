@@ -1,0 +1,62 @@
+	German_voc	deu_is_noun	French_voc	fra_is_noun
+0	oissons	False	la ousse ; le aux col /f2m)	True
+1	"das Getränk, ""e"	True	une bière éventée	True
+2	"der Trank, ""e"	True	une bière sans alcool	True
+3	der Durst	True	la bière à ermentation haut	True
+4	Durst haben, durstig sein	False	la bière de alt	True
+5	den Durst löschen	False	la bière blanche 	True
+6	trinken, a, u	False	la bière à ermentation bass.	True
+7	gern trinken	False	la bière de Pilsen	True
+8	ein-schenken	False	le tonneau de bière	True
+9	an-stoßen, le, 0, ö	False	la bière à la pression	True
+10	aus-irinken	False	boire une bière au comptoir	False
+11	das Glas mit/in einem Zug	True	la bière en bouteille/en	True
+12	aus-trinken	False	canette	False
+13	ex trinken (fam)	False	le verre à bière	True
+14	hinunter-stürzen, hinunter-kippen (fam)	False	la chope, le pot à bière	True
+15	> die Erfrischungsgetränke mp!	False	un litre de bière 	True
+16	Erfrischungen fplreichen	False	un demi(-litre de bière blond:	True
+17	das Trinkwasser	True	un bock 	True
+18	Kein Trinkwasser !	False	le dessous-de-verre	True
+19	das Mineralwasser, ”, das Tafelwasser	True	(bière servie avec un verre d'alcool	False
+20	, das (Mineralwasser ohne	False	le panaché	True
+21	“Kohlensäure	False	le panaché 	True
+22	der Sprudel, -	True	le panaché 	True
+23	das Sodawasser	True	la bedaine 	True
+24	der Eiswürfel, -	True	être ivre ort	False
+25	die Limonade, n, die Brause, n	True	être sérieux comme un pape	False
+26	(Limonade mit Pfefferminzsirup)	False	les spiritueux 	True
+27	(Limonade mit Granatapfelsirup)	False	la distillation	True
+28	das Zitronenwasser	True	lalambic 	False
+29	"der Fruchtsaft, ""e"	True	le distillateur	True
+30	der Obstpresssaft	True	le houilleur de cru	True
+31	der Süßmost	True	|	False
+32	ser Orangensaft, O-Saft (fam)	False	|	False
+33	der Apfelsaft	True	|	False
+34	der Tomatensaft	True	 	False
+35	der konzentrierte Fruchtsaft	True	l’eau-de-vie 7	False
+36	der Fruchtsirup, e	True	l’eau-de-vie de vin	False
+37	das alkoholische Getränk, e	True	le cognac	True
+38	der Apfelwein, e, der Cidre/Zider	True	V.S.O.P.	False
+39	der Birnenwein, e	True	l’eau-de-vie blanche	False
+40	das Bier, e	True	leau-de-vie de arc	False
+41	"das Brauhaus, ""er/die Brauerei, en"	True	l’eau-de-vie de grain	False
+42	das Bierlokal, e ; die Gaststätte, n	True	(eau -de-vie de grain titrant	False
+43	der Bierbrauer, - ;brauen	True	au oins 38°)	False
+44	das Reinheitsgebot	True	la vodka	True
+45	das Malz	True	le whisky	True
+46	die Gerste	True	l'arac/arak 	True
+47	der Hopfen	True	le genièvre de Westphalie	True
+48	die Hefe	True	la gentiane	True
+49	die Gärung ;gären	True	le kirsch	True
+50	das helle Bier	True	le kummel /eau-de-vie parumée	True
+51	das dunkle Bier	True	au cumin)	False
+52	das Bockbier	True	l’eau-de-vie de quetsche	False
+53	das Starkbier	True	l'eau-de-vie de ramboise	True
+54	das Dünnbier, &	True	le rhum	True
+55		False	un élange de ruits au rhum	True
+56		False	la boisson chaude aicoolisée	True
+57		False	le punch	True
+58		False	le vin chaud	True
+59		False	le grog	True
+60		False		False

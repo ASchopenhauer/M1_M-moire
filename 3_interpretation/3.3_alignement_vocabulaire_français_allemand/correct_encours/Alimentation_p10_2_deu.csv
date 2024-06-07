@@ -1,0 +1,20 @@
+	German_voc	deu_is_noun	French_voc	fra_is_noun
+0	ein-schenken, aus-schenken	False	verser à boire	False
+1	die Speisen auf-tragen, u, a, ä	True	servir les plats	False
+2	die Warmhalteplatte, n	True	le chauffe-plats	True
+3	die Teller wechseln	True	changer les assiettes	False
+4	jdm etw servieren, vor-setzen	False	servir qc à qn	False
+5	zu-greifen, i,i	False	se servir	False
+6	Greifen Sie zu !/Bedienen Sie sich |	False	Servez-vous !	False
+7	etw reichen ; etw weiter-reichen	False	passer qc ; aire passer qc	False
+8	das Brot, den Braten	True	entamer le pain, le rôti	False
+9	an-schneiden, I, i	False	entamer une bouteille	False
+10	eine Flasche an-brechen, a, o, i	False	prendre de qe	False
+11	(sich) etw nehmen, a, o,i	False	reprendre de qe	False
+12	(sich) etw nach-nehmen	False	se lever de table	False
+13	vom Tisch auf-stehen*, a, a	False	faire la vaisselle	False
+14	das Geschirr spülen, ab-waschen, u, a,ä&	True	le lave-vaisselle	True
+15	die Geschirrspülmaschine, n	True	le torchon à vaisselle	True
+16	"das Geschirrtuch, ""er"	True	essuyer les verres	False
+17	die Gläser ab-trocknen	True		False
+18		False		False

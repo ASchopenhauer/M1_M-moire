@@ -1,0 +1,18 @@
+	German_voc	deu_is_noun	French_voc	fra_is_noun
+0	die Tapioka	True	le tapioca	True
+1	die Weizen-Orispies pl	True	> le blé soufflé	False
+2	der Brei, &	True	la bouillie	True
+3	die Haferflocken fol	True	les locons d'avoine	True
+4	das/der Porridge, der Haferflockenbrei	True	le porridge	True
+5	der Müsli	True	le üesli/musli	True
+6	der Grieß	True	la semoule	True
+7	der Maisgrieß	True	la semoule de aïs	True
+8	die Gerstengrütze	True	le gruau d'orge	True
+9	die Gerstengraupen fpl	True	l'orge ondé	True
+10	die Teigwaren fpl	True	> les pâtes	False
+11	der Hartgrieß	True	la semoule de blé dur	True
+12	die Nudeln fol	True	les nouilles 	True
+13	die Fadennudeln	True	les vermicelles 	True
+14	die Makkaroni pi	True	les acaronis 	True
+15	die Spaghetti/Spagetti pl	True	les spaghetti 	True
+16		False		False

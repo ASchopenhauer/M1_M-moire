@@ -1,0 +1,34 @@
+	German_voc	deu_is_noun	French_voc	fra_is_noun
+0	der Polei, e	True	» la plante cultivée	False
+1	das Johanniskraut/das Hartheu	True	la loriculture	True
+2	der Purgierkreuzdorn, e	True	la plante ornementale, décorative	True
+3	das Glaskraut	True	le jardin d'agrément	True
+4	der Schlafmohn, e	True	la leur coupée	True
+5	der Echte Haarstrang	True	la plante en pot	True
+6	der Große Wegerich, &	True	remonter ; remontant	False
+7	der Giersch, der Geißfuß	True	un rosier remontant	True
+8	die Blutwurz, en	True	une variété à leurs simples	True
+9	das Gänsefingerkraut	True	à leurs doubles	False
+10	der Ackerschachtelhalm, e/das Zinnkraut	True	résistant au gel	False
+11	das Lungenkraut	True	rustique, résistant	False
+12	das Echte Mädesüß, -	True	vivace, résistant	False
+13	der Schlangen-/Wiesenknöterich, e	True	précoce ; tardif	False
+14	der Blutweiderich, e	True	l'exposition lorale/ les loralies 	True
+15	der Große Wiesenknopf	True	le leuriste	True
+16	das Seifenkraut	True	le bouquet, la gerbe \(longues	True
+17	der Echte Salbei	True	tiges)	False
+18	die Scharfe Fetthenne, n	True	l’herbier 	False
+19	"der Stechapfel, """	True	la leur séchée, pressée	True
+20	der Rainfarn, e	True	herboriser	False
+21	der Huflattich, e	True	la leur de jardin	True
+22	der Baldrian, e	True	| l'amarante / queue-de-renard	False
+23	das Eisenkraut	True	l'anémone des leuristes	True
+24		False	l'aster 	True
+25		False	l'aster de Chine/la reine-	True
+26		False	marguerite	False
+27		False	l'aubrietia	True
+28		False	la balsamine	True
+29		False	le bégonia	True
+30		False	la belle-de-jour	True
+31		False	la belle-de-nuit/le irabilis	True
+32		False		False

@@ -1,0 +1,63 @@
+	German_voc	deu_is_noun	French_voc	fra_is_noun
+0	die Tara, ren	True	latare	False
+1	das Gewicht, e	True	le poids	True
+2	"der Gewichtssatz, ""&"	True	l'assortiment de poids	False
+3	die Präzisionswaage	True	la balance de précision	True
+4	die Personenwaage	True	le pèse-personne	True
+5	die Dichte	True	la densité	True
+6	die Senkwaage, n	True	le densimètre	True
+7	der Feingehalt	True	le titre 	True
+8	der Alkoholgehalt	True	le titre alcoométrique	True
+9	die Atommasse	True	la asse atomique	True
+10	die Stoffmenge	True	la quantité de atière	True
+11	das Mol, e	True	la le	True
+12	das molare Volumen	True	le volume laire	True
+13	die Menge, n, die Quantität, en	True	la quantité	True
+14	aus-reichen, genügen	False	suffire	False
+15	aus-kommen*, a, o, mit+D	False	avoir assez de, s’en sortir	False
+16	genug	False	avec	False
+17	genug Geld haben	False	suffisant	False
+18	reichlich	False	avoir suffisamment d'argent	False
+19	viel	False	copieux, abondant	False
+20	wenig ; knapp	False	beaucoup	False
+21	die mechanische Einheit	True	peu ; juste, à peine suffisant	False
+22	die Wärmemenge	True	ol’unité écanique	False
+23	die Druckmessung	True	la quantité de chaleur joule	True
+24	die elektrische Einheit	True	la esure des pressions, la anométrie	True
+25	die elektrische Kapazität	True	ol'unité électrique	False
+26	die elektrische Spannung	True	la capacité électrique	True
+27	der elektrische Leitwert	True	la orce électromotrice, la tension	True
+28	die elektrische Stromstärke	True	la conductance électrique	True
+29	das Ampere, -	True	l'intensité de courant	True
+30	die elektrische Ladung	True	électrique	False
+31	die Induktivität	True	l'ampère 	True
+32	die magnetische Einheit	True	la charge électrique	True
+33	der Magnetfeld, er	True	l'inductance 	True
+34	die magnetische Feldstärke	True	l'unité agnétique	True
+35	die magnetische Flussdichte	True	le champ agnétique	True
+36	die thermische Einheit	True	l'induction \( agnétique	True
+37	die thermodynamische Temperatur	True	le lux d'induction	True
+38	das Kelvin	True	magnétique	False
+39	die Celsius-Temperatur	True	l'unité thermique	True
+40	3°C/drei Grad m Celsius	False	la température	True
+41	die optische Einheit	True	thermodynamique	False
+42	das Licht	True	le kelvin	True
+43	die Beleuchtungsstärke ; das Lux, -	True	la température Celsius	True
+44	der Lichtstrom	True	3°C/trois degrés Celsius	False
+45	das Lumen, -/mina	True	l'unité optique	True
+46	die Lichtstärke	True	la lumière	True
+47	die Candela	True	l'éclairement lumineux ; le lu	False
+48	die Leuchtdichte	True	le lux lumineux	True
+49	die Lichtausstrahlung	True	le lumen	True
+50	die Strahlstärke	True	l'intensité lumineuse	True
+51	der Strahlungsfluss	True	le candela	True
+52	die Bestrahlungsstärke	True	la luminance	True
+53	die Brechkraft	True	la radiation de lumière	True
+54	die positive Brechkraft	True	l'intensité énergétique	True
+55	die negative Brechkraft	True	le lux énergétique	True
+56	die Dioptrie, n	True	l'éclairement énergétique	False
+57		False	la vergence	True
+58		False	la convergence	True
+59		False	la divergence	True
+60		False	la dioptrie	True
+61		False		False

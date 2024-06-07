@@ -1,0 +1,61 @@
+	German_voc	deu_is_noun	French_voc	fra_is_noun
+0	die Balgfrucht	True	le ollicule	True
+1	die Hülse, n	True	la gousse	True
+2	die Schote, n	True	la silique	True
+3	die Kapsel, n	True	la capsule	True
+4	die Schließfrucht	True	le ruit indéhiscent	True
+5	der Samenkern, e	True	l’akène 	False
+6	die Flügelfrucht	True	la samare 	True
+7	die Sammelfrucht	True	le ruit composé	True
+8	die Scheinfrucht	True	le aux ruit	True
+9	das Reifen	True	la aturation	True
+10	die Reife	True	la aturité	True
+11	reif werden, (aus-reifen*	False	mûrir	False
+12	reif , unreif	False	mûr ; pas ûr, vert	False
+13	überreif	False	trop ûr, blet	False
+14	fleckig	False	tavelé	False
+15	fruchtig	False	fruité	False
+16	schmelzend ; saftig	False	fondant ; juteux	False
+17	wässerig	False	aqueux	False
+18	mehlig	False	farineux	False
+19	> dickschalig ; dünnschalig	False	à peau épaisse ; à peau in	False
+20	"der Saft, ""e"	True	la sève	True
+21	der Rohsaft	True	la sève brute	True
+22	der aufbereitete Saft	True	la sève élaborée	True
+23	die Photosynthese	True	la phoiosynthèse	True
+24	das Blattgrün/das Chlorophyll	True	la chlorophylle	True
+25	das Wachstum	True	la croissance	True
+26	wachsen‘, u, a,ä	False	pousser	False
+27	(auf-)schießen*, o, 0	False	pousser vite ; onter en graine	False
+28	gut gedeihen*, ie, ie	False	pousser bien, venir bien	False
+29	wuchern*	False	proliférer	False
+30	verblühen* ; das Verblühen	False	défleurir ; la défloraison	False
+31	verwelken*	False	se aner	False
+32	vertrocknen*, verdorren*	False	se dessécher	False
+33	verkümmern*	False	dépérir	False
+34	stiolieren*, vergeilen*	False	s’étiler	False
+35	ein-gehen, i, a*	False	crever	False
+36	die Fortpflanzung (der Pflanzen)	True	la reproduction	True
+37	sich vermehren	False	se ultiplier	False
+38	die Knospung	True	la gemmation	True
+39	die Selbstbestäubung, en	True	la pollinisation directe	True
+40	die Fremdbestäubung	True	la p. indirecte/croisée	True
+41	die Befruchtung, en	True	la écondation	True
+42	fruchtbar ; unfruchtbar	False	fécond ; stérile	False
+43	die Fruchtentwicklung	True	la ructification	True
+44	Früchte tragen, u, a, ä	False	fructifier it, porter des ruits	False
+45	die Schmarotzerpflanze, n	True	la plante parasite	True
+46	der Falsche Mehltau	True	le ildiou	True
+47	der Echte Mehltau	True	l'oïdium , le blanc	True
+48	der Brand/die Brandkrankheit	True	la rouille	True
+49	der Mutterkornpilz, e	True	le claviceps	True
+50	"das Mutterkorn, ""er"	True	l'ergot du seigle	True
+51	die Flachsseide	True	la cuscute du lin	True
+52	der Ackerwachtelweizen	True	le élampyre des champs	True
+53	die Sommerwurz, en/der Würger, -	True	l'orobanche 	True
+54	die Schuppenwurz, en	True	la lathrée écailleuse	True
+55	arbre	False	la plante ligneuse	True
+56	das Holzgewächs, e, die Holzpflanze, n	True	l'arbre 	True
+57	"der Baum, ""e"	True	larbrisseau 	False
+58	"der Strauch, ""er"	True		False
+59		False		False

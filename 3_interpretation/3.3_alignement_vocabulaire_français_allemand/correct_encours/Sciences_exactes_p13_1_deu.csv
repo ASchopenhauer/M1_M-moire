@@ -1,0 +1,64 @@
+	German_voc	deu_is_noun	French_voc	fra_is_noun
+0	in der Nacht, in der ...	False	à cette époque	False
+1	heute Morgen ; gestern Morgen	False	à cette époque-là	False
+2	heute früh ; morgen früh	False	inactuel ; démodé	False
+3	heute Vormittag	False	un roid hors de saison	True
+4	heute Mittag ; gestern Mittag	False	être dépassé, dater itr	False
+5	heute Nachmittag	False	retarder itr	False
+6	heute Abend ; gestern Abend	False	 jadis, autrefois	False
+7	heute Nacht ; gestern Nacht	False	autrefois, jadis	False
+8	um 10 (Uhr) ;gegen 10 (Uhr)	False	ancien, d'autrefois	False
+9	gegen Mittag ; gegen Abend	False	ancien, antérieur, premier	False
+10	Mitte September	False	mes anciens collègues	True
+11	"der Anfang, ""e/der Beginn"	True	précédent, antérieur	False
+12	am, im Anfang, zu Anfang	False	hier ; avant-hier	False
+13	Antang Oktober	False	d'hier ; les événements d'hier	False
+14	anfangs	False	Cela s'est passé il y a	False
+15	von Antang an, von Beginn an	False	combien de temps ?	False
+16	an-fangen, i, a, ä/beginnen, a, o, (mit+D)	False	Il vient juste de sortir.	False
+17	von heute an/ab, ab heute	False	il y a peu, récemment	False
+18	von acht Uhr an	False	récent	False
+19	das Ende	True	dernièrement, l’autre jour	False
+20	Ende Juli	False	ces derniers temps	True
+21	am. des Krieges, bei Kriegsende	False	le ois dernier	True
+22	zu Ende gehen*, |, a	False	il y a longtemps que	False
+23	endlich	False	depuis longtemps	False
+24	der (Ab)schluss	True	de tout temps	False
+25	schließlich	False	dans la nuit des temps	False
+26	Er ist schließlich gekommen.	False	en son temps ; à l’époque	False
+27	enden ir; enden mit+D	False	avant l'hiver	False
+28	beend(ig)en	False	il y a un an	False
+29	zu Ende gehen*, |, a	False	la veille de la ête	True
+30	fertig sein mit+D	False	une heure avant	True
+31	auf-hören itr	False	la veille, le jour précédent	True
+32	gut, schlecht aus-gehen‘, |, a	False	l’avant-veille de Pâques/ de la ête	False
+33	die Gegenwart	True	un ois auparavant	True
+34	jetzt	False	l’année précédente	False
+35	heute	False	l'antériorité ; antérieur 	True
+36	heutzutage	False	prématuré	False
+37	heutig	False	prématurément, avant l'heure	False
+38	zuerst	False	l'avenir , le utur	True
+39	zunächst	False	futur, à venir	False
+40	gegenwärtig, jetzig	False	à l'avenir, dorénavant	False
+41	zeitgemäß	False	demain	False
+42	modern, neuzeitlich	False	après-demain	False
+43	mit der Zeit gehen”, i,a	False	dans quinze jours	False
+44	hinter dem Mond leben (fam)	False	dans une huitaine/quinzaine	False
+45	auf dem Laufenden sein	False	dans un an	False
+46	die Aktualisierung	True	l'année prochaine	True
+47	seiner Zeit weit voraus sein	False	à une date ultérieure	False
+48	seine Zeit prägen	False	le lendemain de la ête	True
+49	Epoche machen	False	le jour suivant, le lendemain	True
+50	die Simultaneität, die Gleichzeitigkeit	True	le soir suivant	True
+51	gleichzeitig	False	après l'été	False
+52	In demselben Augenblick	False	au bout d'un ois	False
+53	inzwischen, mittlerweile	False	au bout d'un oment	False
+54	unterdessen	False	le dimanche suivant	True
+55	In der Zwischenzeit	False	la semaine suivante	True
+56	zu gelegener Zeit kommen*, a, 0	False	trois ois plus tard/après	False
+57	zu ungelegener Zeit kommen	False	d'ici là	False
+58	zu ungehöriger Stunde	False	peu avant idi	False
+59	die Vergangenheit ; vergangen	True	d'ici peu	False
+60		False	à partir de aintenant	False
+61		False	d'aujourd'hui en huit	False
+62		False		False

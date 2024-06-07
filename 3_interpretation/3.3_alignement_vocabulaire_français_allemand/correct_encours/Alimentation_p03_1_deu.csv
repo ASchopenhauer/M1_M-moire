@@ -1,0 +1,50 @@
+	German_voc	deu_is_noun	French_voc	fra_is_noun
+0	der Käse aus Kuhmilch	True	le romage au lait de vache	True
+1	der frische Ziegenkäse	True	le romage de chèvre rais	True
+2	der Käse aus Schafsmilch	True	le romage de brebis	True
+3	der Blauschimmel	True	la oisissure bleue	True
+4	der Fett-, Magerkäse	True	le romage gras, aigre	True
+5	fett ; feltarın	False	gras ; allégé	False
+6	der Schnittkäse	True	le romage en tranches	True
+7	der geriebene Käse	True	le romage râpé	True
+8	der Schmelzkäse	True	le romage ondu	True
+9	der Edamer	True	l'édam 	True
+10	der Holländer Käse	True	le romage de Hollande	True
+11	der Schweizer Käse	True	le gruyère	True
+12	der Emmentaler	True	l'emmental 	True
+13	(ein Butterkäse)	False	le saint-paulin	True
+14	das Ei, er	True	l'œuf 	True
+15	das rohe Ei	True	l'œuf cru	True
+16	das Eigelb	True	le jaune d'œuf	True
+17	das Eiweiß	True	le blanc d'œuf	True
+18	die Eier auf-schlagen, u, a, ä	True	casser les œufs	False
+19	mit dem Besen schlagen	False	fouetter	False
+20	das Eiweiß schäumig schlagen	True	monter les blancs en neige	False
+21	die Rühreier	True	les œufs brouillés	True
+22	die weich gekochten Eier	True	les œufs à la coque	True
+23	die hart gekochten Eier	True	les œufs durs	True
+24	die gebackenen Eier	True	les œufs rits	True
+25	die wachsweichen Eier	True	les œufs ollets	True
+26	die Spiegeleier/Setzeier	True	les œufs sur le plat/au plat	True
+27	die pochierten/verlorenen Eier	True	les œufs pochés	True
+28	das Omelett, e/s	True	l'omelette 	True
+29	das Bauernomelett	True	l'omelette aux pornmes de terre	True
+30	die Fette npl	True	les atières grasses	True
+31	das Fett, e; fett	True	la graisse ; gras	True
+32	der Rindsrtalg, der Rinderfett	True	la graisse de bœuf	True
+33	das Gänsefett, das Gänseschmalz	True	la graisse d’oie	True
+34	das Schweineschmalz	True	le saindoux	True
+35	ein-fetten	False	graisser	False
+36	das (Speise)öl, e	True	l'huile de table	True
+37	das Pflanzenöl	True	l'huile végétale	True
+38	das Erdnussöl	True	l'huile d'arachide	True
+39	das Rapsöl	True	l'huile de colza	True
+40	das Maisöl	True	l'huile de ais	True
+41	das Walnussöl	True	l'huile de noix	True
+42	das Sojaöl	True	l'huile de soja	True
+43	das Olivenöl	True	lhuile d'olive	False
+44	das Sonnenblumenöl	True	l'huile de tournesol	True
+45	ein-ölen	False	huiler	False
+46	die Margarine	True	la argarine	True
+47		False	le	False
+48		False		False

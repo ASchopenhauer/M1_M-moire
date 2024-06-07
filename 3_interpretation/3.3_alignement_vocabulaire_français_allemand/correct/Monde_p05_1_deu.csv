@@ -1,0 +1,63 @@
+	German_voc	deu_is_noun	French_voc	fra_is_noun
+0	das (Fluss)bett, en	True	le lit	True
+1	"der Lauf, ""e"	True	le cours	True
+2	der Ober-, Unterlauf	True	le cours supérieur, inférieur	True
+3	die Strömung, en	True	le courant	True
+4	die Abflussmenge, n, die Wasserführung	True	le débit	True
+5	das Gefälle	True	la pente	True
+6	die Schleife, n	True	la boucle	True
+7	die Windung, en, der Mäander, -	True	le éandre	False
+8	en gewundener Lauf	False	un Cours sinueux	True
+9	sich schlängeln durch+A	False	serpenter à travers	False
+10	die Mündung, en	True	l'embouchure 	True
+11	die Trichtermündung, der Trichter, -	True	l'estuaire 	True
+12	(ein)münden*, sich ergießen, 0, 0, in+A	False	se jeter dans	False
+13	das Delta, s/ten	True	le delta	True
+14	das Stromgebiet, e	True	le bassin 	True
+15	bewässern	False	arroser/irriguer	False
+16	die Bewässerung	True	l'irrigation 	True
+17	de Alluvionen fpl, die Ablagerungen fpl	False	les alluvions 	True
+18	die Furt, en	True	le gué	True
+19	das Moor, e	True	le arais	False
+20	"der Sumpf, ""e"	True	le arécage	True
+21	"er Schlick, e, der Schlamm, e/""e"	False	la vase, la boue	True
+22	verschlamment itr ; verschlämmen tr	False	s'envaser ; envaser tr	False
+23	versanden* itr	False	s’enliser, s’ensabler	False
+24	der Wasserstand	True	la hauteur d'eau	True
+25	die Pegelhöhe/der Pegelstand	True	le niveau d’un cours d’eau	True
+26	der niedrigste Wasserstand	True	l'étiage 	True
+27	das Hochwasser	True	les hautes eaux, la crue	True
+28	cas Niedrigwasser	False	les basses eaux	True
+29	das Sinken, das Fallen des Wassers	True	la décrue	True
+30	an-stelgen*, ie, ie ; ab-sinken*, a, u	False	monter ; baisser, décroître	False
+31	Das Gewässer steigt an.	False	Les eaux ontent.	True
+32	Das Gewässer sinkt ab.	False	Les eaux baissent.	True
+33	über die Ufer treten*, a, e, |	False	déborder, sortir de son lit	False
+34	die Überschwemmung, en	True	l'inondation 	True
+35	eine Gegend überschwemmen	False	inonder une région	False
+36	Die Überschwemmung geht zurück.	False	C'est la décrue.	False
+37	die Trockenlegung	True	l’assèchement 	False
+38	ein Moor trocken-legen	False	assécher un arais	False
+39	der Abzugsgraben,', die Rinne, n	True	la rigle	True
+40	"der Graben, """	True	le ossé	True
+41	das Wadi, s	True	loued 	False
+42	versiegen* ; versiegt sein	False	se tarir ; être tari/à sec	False
+43	"der Kanal, ""e"	True	le canal	True
+44	die Schleuse, n	True	l'écluse 	True
+45	der Schleusenwärter, -	True	léclusier 	False
+46	das Schleusentor	True	la vanne	True
+47	die Schleusenkammer, n	True	le sas	True
+48	das Schleusenbecken, -	True	le bief	True
+49	strom-, flussaufwärts	False	en amont	False
+50	strom-, fluss-, talabwärts	False	en aval	False
+51	oberhalb+G	False	en amont de/au-dessus de	False
+52	unterhalb+G	True	en aval de/au-dessous de	True
+53	das Stauwerk, e, die Talsperre, n	True	le barrage	True
+54	"der Staudamm, ""e"	True	la digue de retenue	True
+55	"der Dammbruch, ""&"	True	la rupture de digue	True
+56	der (Binnen)see, n	True	le lac	True
+57	der Stausee	False	le lac de retenue	True
+58	ein künstlich angelegter See	True	un lac artificiel	False
+59	der Teich, e	False	l'étang 	False
+				False
+				False

@@ -1,0 +1,38 @@
+	German_voc	deu_is_noun	French_voc	fra_is_noun
+0	das Klima, s/te	False	le climat	True
+1	die Klimakunde |	False	la climatologie	True
+2	das Landklima/Kontinentalklima	True	le climat continental	True
+3	das Gebirgsklima/Höhenklima	True	le climat de ontagne	True
+4	das Seeklima	True	le climat aritime	True
+5	das ozeanische Klima |	True	le climat océanique	True
+6	das Tropanklima/das tropische Klima	True	le climat tropical	True
+7	in den Tropen fol Ä	True	sous les tropiques 	False
+8	ein rauhes Klima	True	un climat rude, rigoureux	True
+9	gesund	False	salubre, sain	False
+10	ungesund	False	insalubre	False
+11	das Wetter, /die Witterung	False	le temps 	True
+12	die Weiterkunde, der Wetterdienst	False	la étéo	True
+13	die \Vettervorhersage, n	True	les prévisions météorologiques	True
+14	der Wetterbericht, e	True	le bulletin étéorologique	False
+15	die Wetterlage, n	True	la situation du temps	True
+16	die \Vetterkarte, n	True	la carte étéorologique	True
+17	die Erdatmosphäre	True	l'atmosphère terrestre	True
+18	"die Luft, ""e"	True	l’air 	True
+19	die Luftschichten fpl	True	les couches ; d'air	False
+20	die Luftmassen	True	les asses d'air	True
+21	die Troposphäre	True	la troposphère	True
+22	die Straiosphäre	True	la stratosphère	True
+23	die Temperatur, en	True	la température	True
+24	steigen“, ie, ie	True	être en hausse	True
+25	fallen‘, ie, a,ä	False	être en baisse	False
+26	die Durchschnittstemperatur	False	la température oyenne	False
+27	das Thermometer	True	le thermomètre	True
+28	10 Grad über, unter null zeigen	True	Indiquer 10 degrés au-dessus, au-dessous de zéro	True
+29	der Luftdruck	False	la pression atmosphérique	False
+30	das Barometer, -	True	le baromètre	False
+31	die Quecksilbersäule	True	la colonne de ercure	True
+32	auf Regen, auf schön, beständig schön stehen, a, a	True	êire à la pluie, au beau, au beau ixe	True
+33	die Isobare, n	False	l'isgbare 	True
+34	das Tief, s	True	la dépression, le cyclone	False
+35	das Hoch, s	True	l'anticyclone 	True
+36	das Tiefdruckgebiet, e	True	la zone de basse pression	True

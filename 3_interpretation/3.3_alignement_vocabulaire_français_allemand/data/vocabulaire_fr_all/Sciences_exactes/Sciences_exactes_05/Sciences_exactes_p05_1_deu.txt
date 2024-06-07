@@ -1,0 +1,86 @@
+das Gel, e
+
+die Zustandsänderung, en
+
+das Schmelzen ; schmelzen*, 0, 0, |
+der Schmelzpunkt, e
+
+die Verdampfung | verdampfen*
+der Dampf, "e
+
+die Verdunstung ; verdunsten*
+
+der Siedepunkt, e ; sieden
+
+der Gefrierpunkt; gefrieren*, o, 0 |
+die Erstarrung ;erstarren* |
+die Kondensierung
+kondensieren*
+
+die Verflüssigung, en
+verflüssigt werden |
+die Sublimation, en |
+sublimieren* (zu+D)
+das Sublimat, e
+die Mechanik
+
+die Statik
+
+die Dynamik
+
+die Kraft, "e
+
+das Moment, e
+
+das Kräftepaar, e
+
+die Resultante, n
+
+die Arbeit
+
+die Leistung
+
+die Bewegungslehre/die Kinetik
+
+die kinetische Energie
+
+die Lageenergie, die potentielle
+Energie
+
+ 
+
+der Energieerhaltungssatz
+
+das Feld, er
+der Vektor, en
+der Effekt, e
+die Wirkung, en
+das Gleichgewicht
+das Gewicht, e, die schwere Masse
+der Schwerpunkt, e
+die (träge) Masse
+die Schwere, die Schwerkraft
+die Anziehungskraft, "e
+an-ziehen, 0, 0
+die Gravitation,
+die Massenanziehung
+
+das allgemeine Gravitationsgesetz
+
+die Trägheit
+die Reibung, en
+der Hebel, -
+die Spannung, en
+die Kompression, en
+die Kompressibilität
+ein kompressibler Körper
+inkompressibel
+die Zugspannung, en
+die Scherung, en
+die Dehnung, en
+die Drillung, en, die Torsion, en
+die Blegung, en
+die Deformation, en,
+die Verformung, en
+die Elastizität
+

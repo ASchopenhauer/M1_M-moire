@@ -1,0 +1,63 @@
+	German_voc	deu_is_noun	French_voc	fra_is_noun
+0	der Kalkspat, e/”e	True	la calcite	True
+1	der Karneol, e	True	la cornaline à	True
+2	der Zinnober, -	True	le cinabre, le vermillon	True
+3	die Kreide, n ; kreidig	True	la craie ; crayeux	True
+4	der (Berg)kristall, e	True	le cristal 	True
+5	der Diorit, e	True	la diorite	True
+6	der Dolomit, e	True	la dolomite	True
+7	der Meerschaum	True	l'écume de er	True
+8	der Schmirgel	True	l'émeri 	True
+9	der Feldspat, e/”e	True	le eldspath	True
+10	"der Flussspat, e/""e, der Fluorit, &"	True	la luorine	True
+11	der Bleiglanz	True	la galène	True
+12	der Gneis, e	True	le gneiss	True
+13	der Granit, e	True	le granit	True
+14	granithaltig ; Granit-	False	graniteux ; granitique	False
+15	der Graphit, e	True	le graphite	True
+16	der Kies, &	True	le gravier	True
+17	der Sandstein, e	True	le grès	True
+18	der Gips, e ; der gebrannte G.	True	le gypse ; le plâtre	True
+19	das Kaolin, e	True	le kaolin	True
+20	der Leuzit, e	True	la leucite	True
+21	der Löss/Löß, e	True	le lœss	True
+22	das Magneteisenerz	True	la agnétite	True
+23	der Marmor, e	True	le arbre	True
+24	marmoriert	False	marbré, jaspé	False
+25	marmorn	False	marmoréen, de arbre	False
+26	der Markasit, e	True	la arcassite	True
+27	der Mergel, -	True	la marne	True
+28	der Mühlstein, e	True	la eulière	True
+29	der Glimmer, -	True	le ica	True
+30	der Olivin, e/der Peridot, e	True	l'olivine 	True
+31	der Bimsstein, e	True	la pierre ponce	True
+32	der Porphyr, e	True	le porphyre	True
+33	der Quarz, e	True	le quartz	True
+34	der Rutil, e	True	le rutile	True
+35	der Sand, e; sandig	True	le sable ; sableux	True
+36	der Schiefer, -	True	le schiste	True
+37	der Tonschiefer	True	le schiste argileux	True
+38	der Feuerstein, e	True	le silex	True
+39	das Silikat/Silicat, e	True	le silicate	True
+40	die Kieselerde/Kieselgur	True	la silice	True
+41	kieselhaltig	False	siliceux	False
+42	der Antimonglanz/der Antimonit, e	True	la stibine	True
+43	das Steinsalz, e	True	le sel gemme	True
+44	der Serpentin, e	True	la serpentine	True
+45	der Talk	True	le talc	True
+46	der Lehm, e	True	la terre glaise	True
+47	die Schamotte ;feuerfest	True	_la terre réfractaire ; réfractair	False
+48	der Edelstein, e	True	la pierre précieuse, la gemme	True
+49	der Halbedelstein, e	True	la pierre ine, semi-précieuse	True
+50	der Schmuckstein, e	True	la pierre de joaillerie	True
+51	ein-fassen	False	sertir	False
+52	schleifen, i, i	False	tailler	False
+53	der Schliff, e	True	la taille	True
+54	die Facette/Fassette, n	True	la aceite	True
+55	das Karat, e	True	le carat	True
+56	klar	False	limpide, pur	False
+57	vom reinsten Wasser	False	de la plus belle eau	False
+58	der Fehler, -	True	le crapaud	True
+59	die Nachahmung, en	True	limitation	False
+60	-der Strass	False	le strass	True
+61	echt ; unecht, falsch	False	vrai ; aux	False

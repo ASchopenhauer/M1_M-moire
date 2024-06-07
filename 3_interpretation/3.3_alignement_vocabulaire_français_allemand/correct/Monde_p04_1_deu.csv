@@ -1,0 +1,43 @@
+	German_voc	deu_is_noun	French_voc	fra_is_noun
+0	die Ozeanographie/die Meereskunde	True	l'océanographie	True
+1	die Meeresströmungen fol	True	les courants océaniques	True
+2	der Meeresspiegel	True	le niveau de la er	True
+3	der Ozean, e/das Weltmeer, e	True	l'océan 	True
+4	das Meer, e/die See	True	la er	True
+5	das Binnenmeer	True	la er intérieure	True
+6	das Wasser	True	l’eau 	False
+7	das Salzwasser	True	l'eau salée	True
+8	der Salzgehalt	True	la salinité/la teneur en sel	True
+9	salzhaltig	False	salin	False
+10	"der Salzgarten, """	True	le arais salant	False
+11	die hohe See/die offene See	True	la haute er/le large	True
+12	aufhoher See	False	en pleine er	False
+13	das Küstengebiet, e	True	le littoral	True
+14	die Wasserkante/Waterkant (nord)	True	la région côtière	True
+15	die Meerenge, n	True	le détroit	True
+16	die Landenge	True	l'isthme 	True
+17	die Bucht, en	True	la baie	True
+18	die kleine Bucht	True	la crique/la calanque 	True
+19	die Einbuchtung, en	True	l'anse 	True
+20	der Meerbusen, -, der Golf, e	True	le golfe	True
+21	der Fjord, e	True	le fiord	True
+22	die Gezeiten ip//die Tiden fpl	True	les arées 	True
+23	die Ebbe, n	True	la marée descendante/ le reflux/le jusant	True
+24	die Flut, en	True	la marée montante/le lux/ le lot	True
+25	Ebbe und Flut	False	le flux et le reflux	True
+26	bei steigender Flut	False	à marée ontante	False
+27	bei Ebbe	False	à marée descendante	False
+28	das Still-/Stauwasser	True	l'étale 	True
+29	Das Meer ist im Stau.	False	La er est étale.	True
+30	das Hochwasser	True	la arée haute/la pleine e	True
+31	das Niedrigwasser	True	la arée basse	True
+32	die Springflut, en	True	les grandes arées/marées de vive-eau	True
+33	die Nippflut, en/Nipptide, n	True	les petites arées/marées de morte-eau	False
+34	die Welle, n	True	la vague	True
+35	die Brandung, en	True	le déferlement des vagues	False
+36	branden (an -+A/gegen-+A)	False	se briser/déferler	True
+37	schäumen, Schaumkronen bilden	False	écumer, outonner	True
+38	die Woge, n	True	la grosse vague, la lame	False
+39	die Grundses	True	la lame de ond	False
+40	der Brecher, -	True	- la lame brisante, le paquet de mer	True
+41	der/die Gischt	True	les embruns 	True

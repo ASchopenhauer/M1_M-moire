@@ -1,0 +1,61 @@
+	German_voc	deu_is_noun	French_voc	fra_is_noun
+0	af mesures	False	> POIDS ET NW	False
+1	Maße und Gewichte	False	poids	False
+2	das Maß, e	True	poids et esures	False
+3	die Maßeinheit, en	True	° la esure, la dimension	False
+4	die metrische Einheit	True	Funité de esure	False
+5	das Internationale Einheitensystem	True	l'unité étrique	True
+6	die Basiseinheiten	True	le système international	True
+7	die abgeleiteten Einheiten	True	d'unités	False
+8	die Genauigkeit ; die Ungenauigkeit	True	les unités ondamentales	True
+9	genau	False	les unités dérivées	True
+10	ungenau	False	la précision ; l'imprécision	True
+11	waag(e)recht	False	précis, exact	False
+12	senkrecht	False	imprécis, inexact	False
+13	messbar ; unmessbar	False	horizontal	False
+14	inkommensurabel	False	vertical	False
+15	der Messfehler, -	True	mesurable : immensurable	False
+16	der absolute Fehler	True	incommensurable, sans	False
+17	"der Maßstab, ""e"	True	limites	False
+18	im Maßstab 1:100 000	False	l'erreur de esure	True
+19	die Länge, n ; lang	True	l'erreur absolue	True
+20	die Längenmaße	True	Véchelle	False
+21	etw messen, a, &, |	False	au 1/ ° 	False
+22	nach Metern messen	False	+ la longueur ; long	False
+23	der/das (fam) Meter, -	True	les esures de longueur	True
+24	der/das Millimeter, -	True	mesurer qG	False
+25	der/das Zentimeter, -	True	métrer	False
+26	der/das Dezimeter, -	True	le ètre	True
+27	der/das Dekameter, -	True	le illimètre	True
+28	der/das Hektometer, -	True	le centimètre	True
+29	der Kilometer, -	True	le décimètre	True
+30	die nautische Einheit, en	True	le décamètre	True
+31	die Seemeile, n (1 852 m)	True	Vhectamètre 	False
+32	der Faden, -	True	le kilomètre	True
+33	die Kabellänge, n	True	la esure arine	True
+34	Wie lang war die Berliner Mauer ?	False	le ille arin	True
+35	Sie war 166 km lang.	False	la brasse	True
+36	die Entfernung, en	True	lencablure 	False
+37	Wie weit ist es von hier bis Berlin ?	False	Quelle était la longueur du	False
+38	die Strecke, n	True	mur de Berlin ?	False
+39	sich belaufen, ie, au, äu, auf+A	False	Il avait/faisait m) km d	False
+40	betragen, u, a,ä	False	longueur/de long.	False
+41	entfernt	False	+ la distance	False
+42	weit (von)	False	Quelle distance y a-t-il d’ici :	False
+43	in die Ferne schauen	False	Berlin ?	False
+44	in der Ferne liegen, a, e	False	la distance , le tral	True
+45	die Nähe ; nah( e)	True	s'élever à	False
+46	ganz nah	False	être de distant, éloigné	False
+47	Ich wohne hier in der Nähe.	False	loin	False
+48	die Höhe, n ; hoch	True	regarder au loin	False
+49	Wie hoch ist der Eiffelturm ?	False	être situé au loin	False
+50	Er ist:317 Meter hoch.	False	la proximité ; proche	True
+51	die Größe, n ; groß	True	tout près	False
+52	Wie groß sind Sie ?	False	J'habite tout près d'ici.	False
+53		False	la hauteur ; haut	True
+54		False	Quelle est la hauteur de la tour Eiffel ?	False
+55		False	Elle a/fait ètres d	False
+56		False	haut/hauteur, 	False
+57		False	la taille, la grandeur ; grand	True
+58		False	Combien esurez-vous ?	False
+59		False		False

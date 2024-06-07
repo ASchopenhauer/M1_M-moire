@@ -1,0 +1,55 @@
+	German_voc	deu_is_noun	French_voc	fra_is_noun
+1	die Forstwirtschaft	True	l'économie forestière	True
+2	der Waldbau	True	la sylviculture	True
+3	die Pflanzung, en	True	la plantation	True
+4	auf-forsten ; die Aufforstung	False	reboiser ; le reboisement	False
+5	einen Baum setzen	False	planter un arbre	False
+6	mit Bäumen besianden/bewachsen	False	planté d’arbres	False
+7	eine waldige Gegend	False	une région boisée	True
+8	die Schonung, en	True	la réserve	True
+9	einen Baum stutzen, beschneiden, I, I	False	tailler un arbre	False
+10	einen Baum aus-ästen, aus-putzen	False	élaguer, émonder un arbre	False
+11	einen Baum köpfen	False	étêter/écimer un arbre	False
+12	der (Revier)förster, -	True	le garde orestier	True
+13	der Forstmeister, -	True	l'inspecteur des eaux et forêts	True
+14	die Forstverwaltung (F)	True	les Eaux et Forêts	False
+15	der Staatsforst, e(n)	True	la forêt domaniale	True
+16	der Waldpfad, e	True	le sentier forestier, le layon	True
+17	die Schneise, n	True	la laie	True
+18	die Feuerschneise	True	le coupe-feu	True
+19	die Holzindustrie	True	l'industrie du bois	True
+20	der Forstbetrieb, &	True	l'exploitation forestière	True
+21	aus-roden ;die Ausrodung, en	False	défricher ; le défrichement	True
+22	ab-holzen ‚die Abholzung, en	False	déboiser ; le déboisement	False
+23	das Waldsterben	True	le dépérissement des forêts	False
+24	der Waldarbeiter, -	True	l'ouvrier orestier	True
+25	das Harz, e	True	la gemme, la résine	True
+26	harzen	False	être gemmifère	True
+27	das harzige Holz	True	le bois résineux	False
+28	der Harzarbeiter, -	True	le gemmeur, le résinier	True
+29	der Holzfäller, -	True	le bûcheron	True
+30	die Motorkettensäge, n	True	la tronçonneuse	True
+31	"die Fällaxt, ""e ; die Axt"	True	la cognée ; la hache	True
+32	fällen	False	abattre, couper	True
+33	einen Baum mit der Axt fällen	False	abattre un arbre à coups de hache	False
+34	das Fällen	True	l'abattage , la coupe	False
+35	(einen Baum) in Stücke (zer)sägen	False	scier en morceaux	True
+36	"der Holzeinschlag, ""s"	True	la coupe	False
+37	der Raubbau 	True	l'exploitation abusive	True
+	Raubbau treiben		rapprocher les coupes	
+38	der Kahlschlag	True	la coupe blanche, la coupe à blanc estoc	True
+39	das Langholz	True	le bois en long	False
+40	das Festmeter	True	le stère	True
+41	ein Raummeter Holz	False	un mètre cube de bois	False
+42	den Rauminhalt bestimmen	False	cuber du bois	True
+43	der Holzabschnitt, e	True	la bille, le tronçon	True
+44	"der Baumstumpf, ""e ; -strunk, ""e"	True	la souche	True
+45	das Scheit, e/er	True	la büche	False
+46	der Knüppel, -	True	le rondin	True
+47	das Reisig, e	True	le petit bois ; les brindilles :	True
+48	das Reisigbündel, -	True	le agot	True
+49	die Reisigbündel auf-schichten	True	empiler les agots	True
+50	dürres Holz auf-Iesen, a, e, ie	False	ramasser du bois ort	True
+51	das Brennholz	True	le bois de chauffage	True
+52	als Brennholz verwenden	False	Utiliser comme bois de chauffage	False
+53	ein Holzbündel	False	un ligot	False

@@ -1,0 +1,61 @@
+	German_voc	deu_is_noun	French_voc	fra_is_noun
+0	silbern ;versilbert	False	en argent, d'argent ; argenté	False
+1	das Platin	True	le platine	True
+2	die Metallindustrie, die Metall verarbeitende Industrie	True	la étallurgie	True
+4	die Eisen- und Stahlindustrie	True	la sidérurgie	True
+5	die Hüttenproduktion	True	la production sidérurgique	True
+6	der Hüttenarbeiter, -	True	l'ouvrier métallurgiste	True
+7	"der Hochofen, """	True	le haut ourneau	True
+8	das Stahlwerk, e	True	l'aciérie	True
+9	die Gießerei, en	True	la onderie	True
+10	schmelzen, o, 0, i/faible	False	fondre r, aire ondre	False
+11	schmelzen‘, o, 0, i	False	fondre itr	False
+12	flüssig werden	False	entrer en usion	False
+13	in geschmolzenem Zustand	False	en usion	False
+14	gießen, 0, 0	False	couler, ouler	False
+15	der Abstich, e	True	la coulée	True
+16	das Walzwerk, e; walzen	True	le laminoir ; laminer	True
+17	das Walzeisen, -	True	le laminé	True
+18	das Flach-, Rund-, Vierkanteisen, -	True	la barre plate, ronde, carrée	True
+19	das Profileisen	True	le profilé	True
+20	die Platte, n	True	la plaque	True
+21	die Stange, n	True	la tige	True
+22	das Rohr, e	True	le tube	True
+23	das Bandeisen, -	True	le euillard	True
+24	"der (Eisen)draht, ""e"	True	le il de er	True
+25	die Metallbearbeitung	True	l'usinage des étaux	True
+26	etw bearbeiten	False	usiner qc	False
+27	kalt-schmieden	False	écrouir	False
+28	kümpeln	False	emboutir	False
+29	stanzen	False	estamper à roid, découper	False
+30	strecken	False	étirer	False
+31	die Schmiede, n	True	la orge	True
+32	schmieden ; schmiedbar	False	forger ; alléable	False
+33	"der Fallhammer, """	True	le arteau-pilon	True
+34	hämmern	False	marteler	False
+35	die Presse, n	True	la presse	True
+36	aus-glühen	False	recuire	False
+37	zu Draht ziehen, 0, o	False	tréfiler	False
+38	härten	False	tremper	False
+39	der Rost	True	la rouille	True
+40	rostfrei, nicht rostend	False	inoxydable	False
+41	rosten, verrosten	False	 rouiller, s'oxyder	False
+42	rostig, verrostet	False	rouillé	False
+43	verschrotten	False	mettre à la erraille	False
+44	der Schrotthändler, -	True	le errailleur	True
+45	der Maschinenbau	True	la construction écanique	True
+46	der Roboter, -	True	le robot	True
+47	"das Fließband, ""er"	True	la chaîne de ontage	True
+48	"der Laufkran, ""e"	True	le pont roulant	True
+49	die Werkzeugmaschine, n	True	la achine-outil	True
+50	der Monteur, e	True	l’ajusteur-monteur 	False
+51	der Fräser, - ; die Fräsmaschine	True	le raiseur ; la raiseuse	True
+52	der Bohrer, - ; die Bohrmaschine	True	le perceur ; la perceuse	True
+53	bohren ;aus-bohren	False	percer ; aléser	False
+54	der Schleifer, - ; die Schleifmaschin	True	le rectifieur ; la rectifieuse	True
+55	der Schweißer, -	True	le soudeur	True
+56	schweißen	False	souder à l'autogène	False
+57	der Schweißbrenner	True	le chalumeau	True
+58	löten	False	souder à l'étain	False
+59	der Lötkolben	True	le er à souder	True
+60	"der Dreher, - ; die Drehbank, ""e"	True	le tourneur ; le tour	True

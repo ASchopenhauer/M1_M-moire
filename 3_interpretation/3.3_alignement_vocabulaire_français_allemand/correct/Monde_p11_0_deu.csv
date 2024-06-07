@@ -1,0 +1,57 @@
+	German_voc	deu_is_noun	French_voc	fra_is_noun
+1	die Bodenerosion, en	True	l'érosion du sol	True
+2	das Auslaugen des Bodens	True	le lavage du sol	True
+3	die Wesserverseuchung	True	la pollution des eaux	True
+4	das Abwasser, ”	True	les eaux usées	True
+5	die Abwasserbeseitigung	True	l'évacuation des eaux usé	True
+6	die Waschmittel ni	True	les lessives 	True
+7	die Detergentien npl	True	les détergents 	True
+8	das Altöl	True	les huiles usées	True
+9	die Trinkwasserversorgung	True	l'alimentation en eau potal	True
+10	der Bleigehalt	True	la teneur en plomb	True
+11	die Gewässer rein halten, ie, a, ä	True	préserver la propreté des eaux	False
+12	die Abwasserreinigung	True	l’épuration des eaux usée:	False
+13	die Kläranlage, n	True	la station d'épuration	False
+14	der Klärschlamm	True	les boues d'épuration	True
+15	die Meerssverschmutzung	True	la pollution arine	True
+16	die Küstenverschmutzung	True	la pollution du littoral	True
+17	die Tankreinigung, en	True	le dégazage	True
+18	die Ölpest/die Ölflut, en	True	la arée noire	True
+19	das Ölauffangschiff, e	True	le navire dépollueur	True
+20	Abfallstoffe verklappen	False	rejeter des déchets par immersion	True
+21	die Verklappung von Abfallstoffen	True	le rejet de déchets par immersion	False
+22	die Luftverseuchung/Luftverunreinigung	True	la pollution de l'air	False
+23	"der Immissionsschaden, """	True	la nuisance 	True
+24	der Immissionsschutz	True	la protection contre les nuisances	False
+25	die Abgase npl	True	les émissions gazeuses	True
+26	die Autoabgase	True	les gaz d'échappement	True
+27	die Industrieabgase	True	les umées industrielles	True
+28	das Aerosol, e	True	l'aérosal 	True
+29	das Ozon	True	l'ozone 	True
+30	die Ozonschicht	True	la couche d'ozone	True
+31	das Ozonloch	True	le trou d'ozone	True
+32	die Dunstglocke	True	la cloche de pollution	True
+33	der Treibhauseffekt	True	l'effet de serre	True
+34	die Wärmebelastung	True	la pollution thermique	True
+35	die Massenentfaltung der Algen	True	la prolifération des algues	True
+36	die Eutrophierung	True	l'eutrophisation 	True
+37	die Lärmbelästigung, en	True	la pollution sonore	True
+38	die Lärmbelastung, en	True	les nuisances sonores	True
+39	der Lärm	True	le bruit	True
+40	laut sein, Lärm machen/ verursachen	False	faire du bruit	True
+41	der Schall(druck)pegel, der Lärmpegel	True	le niveau sonore	True
+42	ein überhöhter Stand des Schallpegels	False	un niveau de bruit trop élev	True
+44	der Schalldruckmesser, -	True	le sonomètre	True
+45	ohrenbetäubend ; unerträglich	False	assourdissant ; insupportat	False
+46	die Lärmquelle, n	True	la source de bruit	True
+47	der Fluglärm	True	le bruit d'avions	True
+48	der Verkehrslärm	True	les bruits de la circulation	True
+49	die zulässige Phongrenze	True	le niveau de bruit toléré	False
+50	der Lärmschutz	True	la protection contre le bruit	True
+51	die Schallisolierung, en	True	l'islation phonique	True
+52	die Geruchsbelästigung, en	True	la nuisance par les odeurs	True
+53	"der Abfall, ""e"	True	+ les déchets , les détritus r	True
+54	der Hausmüll	True	les ordures énagères	True
+55	der Sperrmüll	True	les déchets encombrants	True
+56	die Industrieabfälle	True	les résidus/déchets industriels	True
+57	die Lagerung des Mülls	True	le stockage des ordures	False

@@ -1,0 +1,63 @@
+	German_voc	deu_is_noun	French_voc	fra_is_noun
+0	Montag in vierzehn Tagen	False	lundi en quinze	False
+1	die Dringlichkeit	True	ol'urgence 	False
+2	dringend, eilig	False	urgent	False
+3	Es eilt.	False	C’est urgent.	False
+4	dringendst ; dringlichst	False	de toute urgence	False
+5	Ich komme gleich wieder.	False	le reviens tout de suite.	True
+6	in Zeitnot geraten‘, ie, a, ä	False	être pris par le temps	False
+7	die Zeit gut nutzen	True	bien employer son temps	False
+8	bald	False	bientôt, sous peu, d'ici peu	False
+9	möglichst bald, so bald wie möglich	False	dès que possible	False
+10	die Zeitspanne, n	True	le laps de temps	True
+11	kurz	False	court, bref	False
+12	die Kürze ; sich kurz fassen	True	la brièveté ; être bref	True
+13	in Kürze	False	dans très peu de temps	False
+14	in kürzester Zeit, baldigst	False	dans les plus brefs délais	False
+15	unverzüglich	False	sans tarder, immédiatement	False
+16	in ein paar Minuten	False	dans quelques inutes	False
+17	so früh wie möglich/möglichst früh	False	le plus tôt possible	True
+18	je eher, desto besser	False	le plus tôt sera le ieux	True
+19	frühestens um 12 Uhr	False	au plus tôt à idi	False
+20	In spätestens/längstens einer Stunde	False	au plus tard dans une heure	False
+21	kurz darauf	False	peu de temps après	False
+22	bald darauf	False	bientôt après	False
+23	demnächst, nächstens	False	prochainement	False
+24	in absehbarer Zeit	False	dans un proche avenir	False
+25	rechtzeitig	False	temps, en temps utile	False
+26	beizeiten	False	en temps voulu	False
+27	zu früh ; zu spät	False	trop tôt ; trop tard	False
+28	reichlich Zeit haben	False	avoir tout son temps	False
+29	bevorstehend	False	imminent	False
+30	auf später verschieben, 0, o	False	remettre à plus tard	False
+31	von heute auf morgen, über Nacht	False	du jour au lendemain	False
+32	bei Gelegenheit	False	à l’occasion	False
+33	früher oder später	False	tôt ou tard	False
+34	über kurz oder lang	False	un jour ou l’autre	True
+35	vorübergehend	False	temporaire, passager	False
+36	provisorisch	False	provisoire	False
+37	die Vergänglichkeit	True	le caractère éphémère	True
+38	vergänglich	False	éphémère ; périssable	False
+39	flüchtig	False	iugitif, ugace	False
+40	die Ewigkeit	True	l'éternité 	True
+41	ewig	False	éternel, perpétuel	False
+42	für immer	False	à jamais, pour toujours	False
+43	die Dauerhaftigkeit, die Beständigkeit	True	la permanence, la durabilité	True
+44	dauerhaft, beständig	False	durable	False
+45	die Fortdauer ; fort-dauern	True	la persistance ; persister	True
+46	weiter-bestehen, a, a	False	continuer d'exister, subsiste	False
+47	sich halten, ie, a, ä, fort-bestehen	False	se aintenir	False
+48	die Frist,-, en	True	le délai, le terme	True
+49	kurzfristig ; langfristig	False	à court terme ; à long terme	False
+50	fristgerecht	False	dans les délais convenus	False
+51	in kürzester Frist	False	dans les eilleurs délais	False
+52	der Termin, &	True	la date, le terme	True
+53	einen Termin fest-setzen	False	fixer une date, un délai	False
+54	: einen späteren T. vereinbaren	False	convenir d'une date ultérieur	False
+55	einen Termin ein-halten, ie, a, ä	False	respecter un délai	False
+56	der Fälligkeitstag	True	la date de l'échéance	True
+57	der Stichtag	True	la date ixée	True
+58	nach Ablauf dieser Frist	False	passé ce délai	False
+59	die Fristverlängerung, en	True	la prolongation du délai	True
+60	der Aufschub	True	le report de délai	True
+61		False		False

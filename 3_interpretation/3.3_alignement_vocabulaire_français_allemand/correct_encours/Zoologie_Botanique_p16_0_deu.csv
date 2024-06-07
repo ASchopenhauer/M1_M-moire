@@ -1,0 +1,63 @@
+	German_voc	deu_is_noun	French_voc	fra_is_noun
+0	die Akazie, n	True	le tremble	True
+1	"der Götterbaum, ""e"	True	le peuplier noir	True
+2	der Judasbaum	True	le peuplier blanc/argenté	True
+3	die Erle, n ; die Grau-/Weißerle	True	le peuplier d'Italie	True
+4	die Schwarzerle	True	le pin sylvestre	True
+5	der Affenbrotbaum/der Baobab, s	True	le pin ugo	True
+6	die Birke, n	True	le pin noir ; le pin aritime	True
+7	die Warzen-/Hängebirke	True	le pin parasol/le pin pignon	True
+8	die Moor-/Haarbirke	True	le pin cembro	True
+9	die Zwergbirke	True	la pigne de pin	True
+10	"der Gelbe Trompetenbaum, ""e"	True	le pignon, la pigne	True
+11	die Zeder, n	True	la pinède	True
+12	die Libanonzeder	True	le platane	True
+13	die Himalajazeder	True	le robinier, le aux acacia	True
+14	die Sauerkirsche, n	True	le santal	True
+15	die Weichselkirsche	True	le sapin	False
+16	die Weiß-/Hainbuche, n	True	le sapin blanc/pectiné	False
+17	die (Edel)kastanie, n	True	le sapin bleu	False
+18	die (Ess)kastanie, die Marone, n	True	le sapin de Douglas	False
+19	der Fruchtbecher, -	True	la sapinette d'Orient	True
+20	die Eiche, n	True	l’épinette blanche	False
+21	die Stiel-/Sommereiche	True	la sapinière	True
+22	die Stein-/Wintereiche	True	le saule	True
+23	die Korkeiche	True	le saule pleureur	True
+24	die Flaumeiche	True	le saule arsault	True
+25	die Steineiche	True	le s. des vanniers/losier 	True
+26	die Eichel, n	True	l’osier [le rameau)	False
+27	die Gerberlohe, n ; der Gerbstoff, e	True	un saule tétard	True
+28	"der Eichenwald, ""er"	True	l'oseraie 	True
+29	die Kokospalme, n	True	le séquoia	True
+30	die Zypresse, n	True	le sorbier des oiseleurs	True
+31	die Fichte, n/die Rottanne, n	True	le s. domestique/le cormier	True
+32	der Ahorn, e	True	la sorbe/la corme	True
+33	der Bergahorn ; der Spitzahorn	True	le sycomore 	True
+34	der Feldahorn	True	le thuya/l'arbre de vie	True
+35	der Eukalyptus, ten/-	True	le tilleul	True
+36	die Esche, n	True	le tilleul à grandes euilles	True
+37	die Blumen-/Mannaesche	True	le tilleul à petites euilles	True
+38	das/die Manna	True	_le tulipier de Virginie	False
+39	die (Rot)buche, n	True	arbrisseaux 	False
+40	der Buchenwald	True	| l’airelle rouge	False
+41	die Buchecker, n	True	l'a. des arais/la canneberg	True
+42	der Ginkgo, s	True	l'ajonc 	True
+43	die Eibe, n	True	l’alisier blanc/l'alouchier 	False
+44	die Magnolie, n	True	l’alisier noir/torminal	False
+45	die Rosskastanie, n	True	l'ampélopsis /la vigne	True
+46	die Lärche, n	True	vierge	False
+47	die Vogelkirsche, n	True	l’arbousier 	False
+48	"der Weiße Maulbeerbaum, ""e"	True	l’argousier 	False
+49	der (Wal\nussbaum	True	l’aubépine /Pépine blanche	False
+50	"die Walnuss, ""e"	True	le baguenaudier	True
+51	die grüne Nussschale	True	le bois joli	True
+52	die Nussbeize	True	la bruyère \	True
+53	die Ulme, n/die Rüster, n	True	la callune	True
+54	die junge Ulme	True	la bruyère cendrée	True
+55	die Feldulme	True	le buddleia	True
+56	die Bergulme	True	le buis	True
+57	"der Mangrove(n)baum, ""e"	True	le buisson ardent	True
+58	die Palme, n	True	le caroubier	True
+59	die Dattelpalme	True	la caroube	True
+60	die Pappel, n	True	le chèvrefeuille	True
+61		False		False

@@ -1,0 +1,34 @@
+	German_voc	deu_is_noun	French_voc	fra_is_noun
+0	die feinen Backwaren fpı	True	la viennoiserie	True
+1	das Mehl	True	la arine	True
+2	der Klumpen, -, das Klümpchen, -	True	le grumeau	True
+3	die Krume, n	True	la ie	True
+4	der Krümel, -, der Brösel, -	True	la iette	True
+5	zerbröckeln, bröseln	False	émietter	False
+6	das Paniermehl, 	True	la chapelure, la panure	True
+7	die Semmelbrösel mpl	True	paner	False
+8	panieren	False	la croûte	True
+9	die Kruste, n	True	le croûton, le quignon	True
+10	der Knust, e/’e	True	la baguette, la lüte	True
+11	die Baguette, n	True	la icelle	True
+12	(kleine, dünne Baguette)	False	la boule 	True
+13	das Rundbrot	True	la iche	True
+14	der Laib, 	True	le pain de ie	True
+15	das Toastbrot, das Kastenbrot	True	le pain de campagne	True
+16	das Landbrot	True	le pain blanc	True
+17	das Weißbrot	True	le pain noir	True
+18	das Schwarzbrot	True	le pain bis	True
+19	das Graubrot, das Mischbrot	True	le pain de seigle	True
+20	das Roggenbrot/Bauernbrot	True	le pain complet	True
+21	das Vollkornbrot	True	le petit pain	True
+22	das Brötchen, -, der Wecken, -, der Semmel, -	True	\	False
+23	das Kümmelbrötchen	True	\	False
+24	das Mohnbrötchen	True	la biscotte	True
+25	der Zwieback, e/’e	True	la tartine	True
+26	die Brotscheibe, n	True	la tartine beurrée	True
+27	das Butterbrot, e	True	la tranche de pain grillée/ le toast	True
+28	die geröstete Brotscheibe, n	True	le pain rais	True
+29	das frisch gebackene/frische Brot	True	le pain rassis	True
+30	das altbackene Brot	True	croustillant, craquant	False
+31	knusprig, kross (Nord)	False		False
+32		False		False

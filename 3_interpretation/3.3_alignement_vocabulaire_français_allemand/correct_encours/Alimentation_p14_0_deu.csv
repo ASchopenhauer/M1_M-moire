@@ -1,0 +1,60 @@
+	German_voc	deu_is_noun	French_voc	fra_is_noun
+0	gustation	False	la	False
+1	in	False	la salle de dégustation	True
+2	die Probierstube, n	True	la confrérie vinicle	True
+3	die Weinbruderschaft, en	True	l'amateur de vin	True
+4	der Weinfreund, e ; der Weinkenner, -	True	le dégustateur	True
+5	der Verkoster, -	True	la sonde	True
+6	der Stechheber, -	True	la pipette, le tastevin pipet	True
+7	der Probenheber	True	la tasse à déguster, le taste	True
+8	die Probetasse, n	True	le crachoir ; cracher	True
+9	das Spuckbecken, - ;aus-spucken	True	déboucher une bouteille	False
+10	eine Flasche entkorken	False	le tire-bouchon	True
+11	der Korkenzieher, -	True	le bouchon	True
+12	der Korken, -	True	tempérer un vin	False
+13	einen Wein temperieren	False	frappé	False
+14	gekühlt	False	glacé	False
+15	eisgekühlt	False	frais	False
+16	frisch	False	chambrer un vin	False
+17	einen Wein chambrieren	False	le décantage ; décanter	True
+18	das Dekantieren ; dekantieren	True	les dépôts 	True
+19	der Bodensatz, der Niederschlag	True	la carafe à décantation	True
+20	die Weinkaraffe, n	True	le verre à déguster	True
+21	"das Probierglas, ""er"	True	remplir le verre au tiers	False
+22	das Glas zu einem Drittel füllen	True	° la dégustation	False
+23	die Verkostung, en, die Weinprobe, die Kostprobe, n	True	la dégustation à l’aveugle	True
+24	die verdeckte Weinprobe	True	le dégustaieur	True
+25	der Verkoster, -, der Degustator, en	True	goûter un vin	False
+26	einen Wein verkosten	False	identifier un vin	False
+27	einen Wein identifizieren, erkennen, a,a	False	déterminer l’âge	False
+28	das Alter bestimmen	True	la description du vin	True
+29	die Weinbeschreibung	True	ol'examen visuel	False
+30	die optische Prüfung	True	” irer le vin à contre-jour	False
+31	den Wein im Gegenlicht betrachten	False	la limpidité, la transparence	True
+32	die Klarheit	True	la brillance, l'éclat 	True
+33	die Brillanz	True	la couleur, la robe	True
+34	die Farbe, das Kleid	True	l'intensité 	True
+35	die Farbtiefe, die Farbintensität	True	la nuance	True
+36	"der Farbton, ""e, die Nuance, n"	True	la viscosité	True
+37	die Konsistenz	True	faire tourner le vin dans	False
+38	den Wein im Glas schwenken	False	le verre	True
+39	Tränen bilden sich.	False	Des larmes se orment.	True
+40	die Prüfung der Geruchsstoffe	True	l'examen olfactit	True
+41	die Geruchsanalyse	True	l'analyse olfactive	True
+42	die Geruchsstoffe mp!	True	les substances odoriférante:	True
+43	"der Geruch, ""e"	True	l'odeur 	True
+44	geruchsintensiv	False	odorant	False
+45	die Nase	True	le nez	True
+46	zurückhaltend	False	discret	False
+47	reserviert, verschlossen	False	réservé	False
+48	hochfein	False	subtil	False
+49	kräftig	False	puissant	False
+50	der Duft (des Weins), das Aroma, men	True	l'arôme 	True
+51	das Sortenaroma	True	l'arme primaire, l'arôme de cépage	True
+52	das Gäraroma	True	l'arôme secondaire/de	True
+53	das Bukett, das tertiäre Aroma	True	fermentation	False
+54	Bukett haben	False	le bouquet, l'arôme tertiaire	True
+55	ein mannigfaliges Bukett	False	avoir du bouquet	False
+56	die animalischen Gerüche mp/	True	un bouquet complexe	True
+57		False	les odeurs animales	True
+58		False		False

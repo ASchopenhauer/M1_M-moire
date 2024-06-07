@@ -1,0 +1,66 @@
+quatorze ; quinze ; seize
+dix-sept ; dix-huit ; dix-neuf
+vingt ; vingt et un
+vingt-deux ; vingt-trois
+trente ; trente et un ; quaran
+cinquante ; soixante
+soixante-dix
+soixante et onze
+saixante-douze
+quatre-vingts
+quatre-vingt-un
+quatre-vingt-dix
+quatre-vingt-onze
+cent ; cent un
+cent deux ; deux cents
+deux cent un ; mille
+deux mille ; cinq cent mille
+le million
+deux millions cinq cents
+le milliard
+le nombre ordinal
+le premier
+le deuxième ; le troisième
+le quatrième ; le cinquième
+le sixième ; le septième
+le huitième ; le neuvième
+le dixième ; le onzième
+le douzième ; le dix-neuvièr
+le vingtième
+le vingt et unième
+le vingt-deuxième
+le centième
+le millième
+le millionième
+o premièrement
+deuxièmement
+troisièmement
+quatrièmement
+dix-neuvièmement
+vingtièmement
+e la fraction
+la fraction ordinaire
+la fraction décimale
+le facteur premier
+la décomposition en facteur
+simplifier une fraction
+la fr. irréductible, réduite à s:
+plus simple expression
+l'expression r fractionnaire
+le numérateur
+le trait de fraction
+le dénominateur
+à dénominateur différent
+le dénominateur commun
+
+réduire au même
+dénominateur
+
+la fraction de fraction
+o un demi (1/2)
+un tiers (1/3)
+deux tiers (2/3)
+un quart (1/4)
+trois quarts (3/4)
+quatre cinquièmes (4/5)
+

@@ -1,0 +1,55 @@
+	German_voc	deu_is_noun	French_voc	fra_is_noun
+0	amphibiens	False	aerachnides, 	False
+1	das Kriechtier, e/das Reptil, ien	True	3 	False
+2	das Krokodil, e	True	of	False
+3	der Alligator, en	True	stique/la tégénaire	False
+4	der Kaiman, e	True	ètef	False
+5	der Gavial, e	True	ur/le aucheux	False
+6	die Eidechse, n	True	le	False
+7	die Zauneidechse/Smaragdeidechse	True	araignée	False
+8	die Mauereidechse	True	3 toile	False
+9	die Blindschleiche, n	True	de la Vierge	False
+10	der Chamäleon, s	True	on	False
+11	der Gecko, s/onen	True	; les. jaune	False
+12	der Leguan, e	True	m	False
+13	der Waran, e	True	te de la gale	False
+14	die Schlange, n	True	‘es /myriapodes x	False
+15	die Giftschlange	True	>, le ille-pattes	False
+16	giftig ; ungiftig	False	endre	False
+17	gefährlich ; harmlos	False	rrasitaire/parasite	False
+18	das Gift, e	True	m	False
+19	der Giftzahn, 'e	True	n	False
+20	die Giftdrüse, n	True	itaire/le ténia	False
+21	kriechent, o, o (über+A)	False	du oie	False
+22	sich winden, a, u, um+A	False	1e officinale	False
+23	sich schlängeln durch+A	False	8	False
+24	umschlingen, a, U (die Beute)	False	tavon la Inenbnoin	False
+25	züngeln	False		False
+26	zischen	False		False
+27	die Anakonda, s	True		False
+28	die Boa, s/Boaschlange, n	True		False
+29	die Königs-/Abgottschlange	True		False
+30	die Kobra, s/die Brillenschlange	True		False
+31	die Natter, n	True		False
+32	die Ringelnatter	True		False
+33	die Schling-/Glattnatter	True		False
+34	die Vipernatter	True		False
+35	die Klapperschlange, n	True		False
+36	der Python, s/en	True		False
+37	die Korallenotter, n	True		False
+38	die Viper, n/die Otter, n	True		False
+39	die Aspisviper	True		False
+40	die Kreuzotter	True		False
+41	die Schildkröte, n	True		False
+42	der Panzer, -	True		False
+43	das Schildpatt	True		False
+44	die Sumpfschildkröte	True		False
+45	die griechische Landschildkröte	True		False
+46	die Karettschildkröte	True		False
+47	die Lederschildkröte	True		False
+48	der Lurch, e	True		False
+49	ein amphibisches Tier	False		False
+50	die Kröte, n	True		False
+51	die Geburtshelferkröte	True		False
+52	die Krauzkröte	True		False
+53		False		False

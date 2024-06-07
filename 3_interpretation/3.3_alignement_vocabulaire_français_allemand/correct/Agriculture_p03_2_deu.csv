@@ -1,0 +1,17 @@
+	German_voc	deu_is_noun	French_voc	fra_is_noun
+0	der Gartenbau, die Gärtnerei	True	 l'horticulture	False
+2	die Gärtnerei, en	True	l'exploitation horticole	True
+3	der Gärtner, -	True	l'horticulteur	True
+4	die Gartenarbeit	True	le jardinage	True
+5	die Gartenschau	True	l'exposition d’horticulture	True
+6	die Blumenzucht	True	la culture florale, la floriculture	True
+7	der Blumengärtner, -, der Blumenzüchter, -	True	le jardinier fleuriste	True
+8	der Samenhandel	True	la graineterie	True
+9	die Samenhandlung, en	True	la graineterie	True
+10	"das Gewächshaus, das Treibhaus, ""er"	True	la serre	True
+11	das Frühbeetfenster, -	True	le châssis	True
+12	die Treibhauskultur	True	le forçage, la culture de serre	True
+13	die Baumschule, n	True	la pépinière	True
+14	der Baumzüchter, -/der Baumgärtner, -	True	le pépiniériste	True
+15	"der Garten, """	True	le jardin	True
+16	der Kleingarten	True	le jardinet	True

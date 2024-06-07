@@ -1,0 +1,65 @@
+	German_voc	deu_is_noun	French_voc	fra_is_noun
+0	plante	False	linflorescence 	False
+1	die Pflanze, n, das Gewächs, 	True	la grappe	True
+2	einhäusig ; zweihäusig	False	’ombelle 	False
+3	einjährig ; zweijährig	False	cyme bipare	False
+4	mehrjährig	False	le corymbe	True
+5	die Staude, n	True	le capitule	True
+6	die Wasserpflanze	True	épi ; l'épillet 	False
+7	die Fleisch fressende Pflanze	True	chaton	False
+8	der Epiphyt, en, en	True	le calice ; le sépale	True
+9	die Wurzel, n ; die Hauptwurzel ; die Adventivwurzel	True	la spathe	True
+10	die Pfahlwurzel	True	le spadice	True
+11	das Würzelchen, -	True	la panicule ; paniculé	True
+12	das Wurzelhaar, e	True	corolle	False
+13	die Wurzelhaubs, n	True	le pétale	True
+14	die Wurzelknolle, n	True	le carpelle	True
+15	Wurzeln schlagen, u, a, ä	False	bractée	False
+16	wurzeln (in+D)	False	'étamine 	False
+17	fest verwurzelt	False	ilet	False
+18	die Sprossachse, n	True	’anthère 	False
+19	sprießen*, 0, 0	False	le pollen	True
+20	der Spross, e, der Trieb, e	True	pistil	False
+21	der Wurzelspross/der Wurzelschössling, e	True	’ovaire 	False
+22	der Stängel, -, der Stiel, e	True	style	False
+23	eine stängellose Pflanze	False	le stigmate	True
+24	"der Wurzelstock, ""e"	True	la loraison	True
+25	die Zwiebel, n	True	fleurir	False
+26	die Sprossknolle, n	True	l’éclosion 	False
+27	die Kletterpflanze	True	éclater, éclore	False
+28	die Rankenpflanze	True	s'épanouir	False
+29	die Ranke, n	True	L'arbre va leurir.	True
+30	die Liane, n	True	être en ileur	False
+31	die Haftwurzel, n	True	un arbre couvert de leurs	True
+32	die Luftwurzel	True	un rameau en leur	True
+33	die Windepflanze	True	une prairie leurie	True
+34	die Kriechpflanze	True	à leurs, leuri 	False
+35	der Ausläufer, -	True	à grandes leurs ; à l, rouge	False
+36	"der Dorn, en/""er"	True	florifère ; ultiflore	False
+37	der Stachel, n	True	le parfum	True
+38	dornig, stachelig	False	dégager/exhaler un parfum	False
+39	die (Blatt)knospe, n	True	parfumé ; odor(iférjant	False
+40	Endknospe ; Achselknospe	False	GCetie rose embaume.	False
+41	die (Blüten)knospe	True	Le jardin embaume le lilas.	True
+42	"das Auge, n, der Knospenansatz, ""e"	True	la graine	True
+43	Knospen treiben, ie, ie	False	le cotylédon	True
+44	der Knoten, - ; das Internodium, ien	True	le germe	True
+45	"das Blatt, ""er"	True	la germination; germer	True
+46	gegenständig ; wechselständig	False	la plantule	True
+47	zusammengesetzt ; einfach	False	le ruit 	True
+48	gesägt ; gekerbt	False	le péricarpe	True
+49	gelappt ; dreilappig	False	la peau	True
+50	gefingert ; dreiblättrig	False	lendocarpe 	False
+51	pfeiltörmig	False	le pédoncule, la queue	True
+52	der Blattstiel, e, der Blattstängel, -	True	le ruit charnu	True
+53	gestielt ; ungestielt	False	la chair, la pulpe	True
+54	das Nebenblatt	True	la baie	True
+55	die Spreite, n	True	le pépin	True
+56	die (Blat/rippe, n, die (Blatt)ader, n	True	sans pépins	False
+57	die Blume, n/die Blüte, n	True	la drupe, le ruit à noyau	True
+58	ein einblütiger Stängel	False	le noyau	True
+59	die Blütenachse, n	True	l’amande 	False
+60		False	le ruit sec	True
+61		False	le ruit déhiscent	True
+62		False	 	False
+63		False		False

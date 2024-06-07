@@ -1,0 +1,72 @@
+	German_voc	deu_is_noun	French_voc	fra_is_noun
+0	das Gel, e	True	l	False
+1	die Zustandsänderung, en	True	î	False
+2	das Schmelzen ; schmelzen*, 0, 0, |	True	i	False
+3	der Schmelzpunkt, e	True	; Î	False
+4	die Verdampfung | verdampfen*	True	 	False
+5	"der Dampf, ""e"	True	i	False
+6	die Verdunstung ; verdunsten*	True	 	False
+7	der Siedepunkt, e ; sieden	True	le odule d'élasticité	True
+8	der Gefrierpunkt; gefrieren*, o, 0 |	True	la limite d'élasticité	True
+9	die Erstarrung ;erstarren* |	True	la limite de résistance	True
+10	die Kondensierung	True	le point de rupture	True
+11	kondensieren*	False	la écanique des luides	True
+12	die Verflüssigung, en	True	l'hydrostatique 	True
+13	verflüssigt werden |	False	l'hydrodynamique 	True
+14	die Sublimation, en |	True	luide	False
+15	sublimieren* (zu+D)	False	’écoulement 	False
+16	das Sublimat, e	True	'écoulement laminaire	False
+17	die Mechanik	True	l'écoulement turbulent	True
+18	die Statik	True	lux	False
+19	die Dynamik	True	surface de séparation	False
+20	"die Kraft, ""e"	True	tension superficielle	False
+21	das Moment, e	True	la capillarité	True
+22	das Kräftepaar, e	True	la viscosité ; visqueux	True
+23	die Resultante, n	True	la densité	True
+24	die Arbeit	True	la pression	True
+25	die Leistung	True	poussée	False
+26	die Bewegungslehre/die Kinetik	True	le principe d’Archimède	True
+27	die kinetische Energie	True	les vases communicanis	True
+28	die Lageenergie, die potentielle	True	le vide	True
+29	Energie	False	dans le vide	False
+30	der Energieerhaltungssatz	True	 	False
+31	das Feld, er	True	la cinématique	True
+32	der Vektor, en	True	le ouvement	True
+33	der Effekt, e	True	la quantité de ouvement	True
+34	die Wirkung, en	True	le ouvement cinétique en un	True
+35	das Gleichgewicht	True	point	False
+36	das Gewicht, e, die schwere Masse	True	le ouvement rectiligne	True
+37	der Schwerpunkt, e	True	le ouvement uniforme	True
+38	die (träge) Masse	True	le ouvement uniformément	True
+39	die Schwere, die Schwerkraft	True	accéléré	False
+40	"die Anziehungskraft, ""e"	True	le ouvement circulaire	True
+41	an-ziehen, 0, 0	False	en chute libre	False
+42	die Gravitation, die Massenanziehung	True	la vitesse	True
+43	das allgemeine Gravitationsgesetz	True	la vitesse initiale	True
+44	die Trägheit	True	la vitesse oyenne	True
+45	die Reibung, en	True	la vitesse instantanée	True
+46	der Hebel, -	True	la vitesse angulaire	True
+47	die Spannung, en	True	l'accélération 	True
+48	die Kompression, en	True	la résistance de l'air	True
+49	die Kompressibilität	True	la direction, le sens	True
+50	ein kompressibler Körper	False	la trajectoire circulaire	True
+51	inkompressibel	False	la orce centripète	True
+52	die Zugspannung, en	True	la orce centrifuge	True
+53	die Scherung, en	True	la chaleur	True
+54	die Dehnung, en	True	la thermodynamique	True
+55	die Drillung, en, die Torsion, en	True	l'énergie calorifique	True
+56	die Blegung, en	True	la capacité calorifique	True
+57	die Deformation, en, die Verformung, en	True	l’entropie 	False
+58	die Elastizität	True	la calorimétrie	True
+59		False	la température	True
+60		False	la chaleur assique	True
+61		False	le rayonnement thermique	True
+62		False	le corps noir	True
+63		False	la convection	True
+64		False	la dilatation	True
+65		False	dilater ; se dilater	False
+66		False	la conduction	True
+67		False	la conductibilité	True
+68		False	l'acoustique À	True
+69		False	le son	True
+70		False		False

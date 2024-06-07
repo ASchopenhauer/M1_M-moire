@@ -1,0 +1,65 @@
+	German_voc	deu_is_noun	French_voc	fra_is_noun
+0	das Gedeck, e	True	le couvert	True
+1	ein Gedeck hinzu-fügen	False	ajouter un couvert	False
+2	das (Ess)besteck, e	True	le couvert 	True
+3	das Silberbesteck	True	le couvert en argent	True
+4	der Löffel, -	True	la cuiller/cuillère	False
+5	der Tee-, Kaffeelöffel	True	la cuillère à thé, à café	True
+6	die Gabel, n	True	la ourchette	True
+7	das Messer, -	True	le couteau	True
+8	"der Besteckkasten, """	True	la énagère	True
+9	die Suppenkelle, n/der Schöpflöffel	True	la louche	True
+10	dis Tortenschauffel, n	False	la pelle à gâteau	True
+11	die Zuckerzange, n	True	la pince à sucre	True
+12	das Essservice, -, das Tafelgeschirr, das (Porzellan)geschirr	True	le service de table	True
+13	das Porzellan	True	la vaisselle 	True
+14	das Steingut	True	la porcelaine	True
+15	die Keramik, -	True	la aïence	True
+16	der Teller, - ;der flache Teller	True	la céramique	True
+17	der tiefe Teller, der Suppenteller	True	l'assiette 7 ; l'assiette plate	True
+18	von/aus einem Teller essen, a, &, |	False	l'assiette creuse, à soupe	True
+19	der Dessertteller, der Kuchenteller	True	manger dans une assiette	False
+20	die Platte, n/die flache Schüssel, n	True	l'assiette à dessert, l’assiett	True
+21	die tiefe, runde, ovale Schüssel	True	à géteau	False
+22	der Vorspeisenteller, der Salatteller	True	le plat plat	True
+23	die Salatschüssel	True	le plat creux, rond, ovale	True
+24	die Suppenschüssel	True	le ravier	True
+25	die Soßenschüssel	True	le saladier	True
+26	die Kompottschüssel	True	la soupière	True
+27	die Wasserschale, n	True	la saucière	True
+28	das Kaffeeservice	True	le compotier	True
+29	das Tesservice	True	le rince-doigts	True
+30	cie Kaffee-, die Teekanne, n	False	le service à café	True
+31	der/das Filter, -	True	le service à thé	True
+32	das Tessieb, e	True	la cafetière, la théière	True
+33	die Tasse, n	True	le iltre	True
+34	die Teetasse	True	la passoire à thé	True
+35	eine Tasse Tee	False	la tasse	True
+36	die Untertasse, n	True	la tasse à thé	True
+37	die Zuckerdose, n	True	une tasse de thé	True
+38	die Butterdose	True	la soucoupe	True
+39	die Käseglocke, n	True	le sucrier	True
+40	die Schale, n	True	le beurrier	True
+41	der Milchgießer, - ; das Mlilchkännchen, -	True	la cloche à romage	True
+42	der Eierbecher, -	True	la coupe ; le bol	True
+43	der Salzstreuer, -	True	e	False
+44	der Pfefferstreuer	True	le pot à lait	True
+45	die Menage, n	True	le coquetier	True
+46	"das Glas, ""er"	True	la salière	True
+47	das Wasserglas	True	la poivrière/le poivrier	True
+48	"das Weinglas, ""er"	True	l'huilier 	True
+49	das Stielglas	True	le verre	True
+50	der Stiel, e	True	le verre à eau	True
+51	"der Fuß, ""e"	True	le verre à vin	True
+52	die Scheibe, n	True	le verre à pied	True
+53	der Kelch, e	True	la tige	True
+54	"das Halbhallonglas, ""er"	True	le pied, la patte	True
+55	der Sektkelch, die (Sekt)schale, n	True	le disque	True
+56	aus einem Kristallglas trinken, a, u	False	la coupe, le calice	True
+57	die Flasche, n	True	le verre demi-ballon	True
+58	die Karaffe, n	True	la lûte, la coupe	True
+59		False	boire dans un verre en crista	False
+60		False	la bouteille	True
+61		False	la carafe	True
+62		False	ans	False
+63		False		False

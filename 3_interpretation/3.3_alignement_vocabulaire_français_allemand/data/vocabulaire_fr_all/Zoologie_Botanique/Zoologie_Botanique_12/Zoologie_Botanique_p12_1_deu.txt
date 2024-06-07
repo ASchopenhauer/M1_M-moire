@@ -1,0 +1,111 @@
+die Pardelkatze
+
+der Panther/Panter, -/
+der Leopard, en, en
+
+der Puma, s
+
+der Tiger, -
+
+Pelztiere np!
+
+der Pelz, e
+
+das Fall, e
+
+gestreift ; getigert
+gefleckt/gesprenkelt
+dichtbehaart
+
+seidenweich ; seidig
+
+das Mauswiesel, -/das Kleine Wiesel
+der Dachs, a
+
+der Stein-/Hausmarder
+
+das Frettchen, -
+
+das Große Wiesal, -/das Hermelin, e
+der (Fisch)otter, -
+
+der See-/Meerotter
+
+der Edel-/Baummarder, -
+
+das Stinktier, e/der Skunk, e/s
+der Skunk(s) mpi
+
+der Iitis, se/der Ratz, e
+
+der Waschbär, en, en
+
+der Narz, 8; der Mink, e
+
+der Zobel, -
+
+Insektenfresser mp!
+
+die Fledermaus, "e
+
+die Zwergfledermaus
+
+das braune Langohr, en
+
+das Großmausohr
+
+der Abendsegler, - ; der Vampir, &
+der Igel, -
+
+die Spitzmaus, "e
+
+das Schuppentier, e
+
+der Ameisenbär, en, en
+
+das Gürteltier, e
+
+der Maulwurf, "&
+
+der Maulwurfhügel, -
+
+in der Erde wühlen
+
+das Wühltier, e
+
+das Faultier (ein Blattfresser)
+Nagetiere nol
+
+nagen an+D
+
+die Feldmaus, "e
+
+der Biber, -
+
+die Zibetkatze, n
+
+das Meerschweinchen, -
+das Eichhörnchen, -
+das Flughörnchen
+
+das Feh, &
+
+die Ginsterkatze, n
+
+die Springmaus, "e
+
+der Goldhamster, -
+
+das Wildkaninchen, -
+das Kanin(chenfell), &
+der Rammler, -
+
+die Häsin, nen
+
+das junge Kaninchen, -
+der Bau, @
+
+die Röhre, n
+
+der Kessel, -/die Kammer, n
+

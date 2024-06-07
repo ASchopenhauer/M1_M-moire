@@ -1,0 +1,56 @@
+	German_voc	deu_is_noun	French_voc	fra_is_noun
+0	Spinnentiere npl	False	reptiles	False
+1	die Spinne, n	True	le reptile	True
+2	die Hausspinne/Winkelspinne	True	le crocodile	True
+3	die Wasserspinne	True	l'alligator 	True
+4	die Kreuzspinne	True	le caiman	True
+5	der WVeberknecht, e, der Kanker, -	True	le gavial	True
+6	die Vogelspinne	True	le lézard	True
+7	die Tarantel, n	True	le lézard commun/vert	True
+8	das Spinnengewebe, -/das Spinnennetz, e	True	le lézard gris/des urailles	True
+9	ein Neiz spinnen, a, 0	False	l'orvet /le serpent de verre	True
+10	die Marienfäden mpl	True	le caméléon	True
+11	der Skorpion, e	True	le gecko	True
+12	der Hausskorpion ; der Feldskorpion	True	l'iguane 	True
+13	die Milbe, n	True	le varan	True
+14	die Krätzmilbe	True	+ le serpent	False
+15	"die Zecke, n/der Holzbock, ""e"	True	le serpent venimeux	True
+16	Tausendfüßer mp/	False	venimeux ; non venimeux	False
+17	der Sieinkriecher, -	True	dangereux ; inoffensif	False
+18	der Skolopender, -	True	le venin	True
+19	"der Wurm, ""er"	True	le crochet à venin	True
+20	ein schmarotzender Wurm	False	la glande à venin	True
+21	der Spulwurm/die Askaris, iden	True	ramper	False
+22	der Madenwurm	True	s’enrouler autour de se aufiler, ramper à travers	False
+23	der Bandwurm	True	enlacer, enserrer [la proie)	False
+24	der Leberegel, -	True	darder sa langue	False
+25	der Medizinische Blutegel	True	siffler	False
+26	die Trichine, n	True	l'anaconda /l’eunecte 	True
+27	An Dannnuanırm	False	le boa	True
+28		False	le boa constrictor	True
+29		False	le cobra/le naja/le serpent	True
+30		False	à lunettes	False
+31		False	la couleuvre	True
+32		False	la couleuvre à collier	True
+33		False	la couleuvre lisse	True
+34		False	la couleuvre vipérine	True
+35		False	le crotale/le serpent à	True
+36		False	sonnettes	False
+37		False	le python	True
+38		False	le serpent corail	True
+39		False	la vipère	True
+40		False	la vipère aspic/l'aspic 	True
+41		False	la péliade	True
+42		False	la tortue	True
+43		False	la carapace	True
+44		False	l'écaille de tortue	True
+45		False	la cistude	True
+46		False	la tortue hermann	True
+47		False	la tortue caret	True
+48		False	la tortue-luth	True
+49		False	l'amphibien /le batracien	True
+50		False	un animal amphibie	True
+51		False	le crapaud	True
+52		False	le crapaud accoucheur	True
+53		False	18 cranaud ralamite	False
+54		False		False

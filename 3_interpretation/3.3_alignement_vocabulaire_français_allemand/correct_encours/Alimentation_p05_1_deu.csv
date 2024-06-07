@@ -1,0 +1,62 @@
+	German_voc	deu_is_noun	French_voc	fra_is_noun
+0	 	False	la lardoire	True
+1	die Spicknadal	True	la louche	True
+2	die (Suppen)kelle, n	True	l’ouvre-boîte 	False
+3	der Dosenöffner, -	True	le panier à salade	True
+4	"der Salatkorb, ""e"	True	la passoire ; passer	True
+5	das Sieb, e ; (durch-)sieben	True	le presse-citron	True
+6	die Zitronenpresse, n	True	presser un citron	False
+7	eine Zitrone pressen, aus-quetsch	False	la râpe ; ràper	True
+8	die Reibs, n ; reiben, ie, ie	True	le tire-bouchon	True
+9	der Korkenzieher, -	True	les ustensiles de cuisson	True
+10	das Kochgeschirr	True	l’autocuiseur 	False
+11	"der Dampfkochtopf, ""s"	True	la bouilloire	True
+12	der Wasserkessel, -	True	la casserle	True
+13	die Stielkasserolle, n	True	la cocotte	True
+14	der Bratentopf, der Schmortopf	True	la cocotte-minute	True
+15	der Schnellkochtopf	True	le couvercle	True
+16	der Topfdeckel, -	True	le aitout, la armite	True
+17	"der (schwere) Kochtopf, ""e"	True	la riteuse, la bassine à ritur:	True
+18	die Friteuse, n	True	le panier de la riteuse	True
+19	"der Drahteinsatz, ""e"	True	la poêle à rire	True
+20	die Bratpfanne, n	True	la poissonnière	True
+21	der Fischkessel, -	True	le plat à sauter, la sauteuse	True
+22	die Schmorpfanne	True	la terrine 	True
+23	"der Römertopf, ""e"	True	les ustensiles à pâtisserie	True
+24	die Backutensilien npl	True	le oule à gâteau	True
+25	die Kuchenform, en	True	le oule à cake	True
+26	die Kastenkuchenform	True	le oule à charnière	True
+27	die Springform	True	le oule à savarin	True
+28	die Kranzform	True	le oule à kouglof	True
+29	die Napfkuchenform	True	la planche à pâtisserie	True
+30	das Kuchenbrett, er	True	le rouleau à pâtisserie	True
+31	"das Nudelholz, ""er"	True	la roulette 	True
+32	das Teigrädchen, -	True	le oule à découper	True
+33	die Ausstechform, en	True	la spatule	True
+34	die Spachtel, n	True	le tamis à arine	True
+35	das Mehlsieb, e	True	tamiser la arine	False
+36	das Mehl sieben	True	la poche à douille	True
+37	die Teigspritze, n	True	les appareils de cuisine	True
+38	die Küchengeräte npl	True	la balance de énage	True
+39	die Küchenwaage, n	True	le batteur	True
+40	das Handrührgerät, e	True	la cafetière électrique	True
+41	der Kaffeemaschine, n	True	le distributeur de café	True
+42	der Kaffesautomat, en, en	True	l'essoreuse à salade	True
+43	die Salatschleuder, n	True	le grille-pain	True
+44	der Toaster, -	True	le hachoir à viande	False
+45	"der Fleischwolf, ""a"	True	le hachoir	False
+46	das Hackmesser, Hackbeil	True	la achine à trancher	True
+47	die Schneidemaschine	True	la andoline	True
+48	der Gemüsehobel, -	True	le ixer	True
+49	der Mixer, -	True	le oulin à café	True
+50	die Kaffeemühle, n	True	le oulin à légumes	True
+51	der Gemüsezerkleinerer, -	True	le presse-fruits	True
+52	der Entsafter, -	True	le robot	True
+53	die Küchenmaschine	True	la sorbetière	True
+54	die Speiseeismaschine, n	True	la prépar.	True
+55	tion des plats	False	la préparation	True
+56	die Zubereitung	True	le livre de cuisine	True
+57	"das Kochbuch, ""er"	True	la recette de cuisine	True
+58	das Kochrezept, e	True	les inargcdiente l'annarail ; 	True
+59	die Zutaten pl	True		False
+60		False		False

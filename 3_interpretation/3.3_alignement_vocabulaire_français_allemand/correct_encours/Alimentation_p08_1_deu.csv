@@ -1,0 +1,58 @@
+	German_voc	deu_is_noun	French_voc	fra_is_noun
+0	die Mandelsplitter mpi	True	la <	True
+1	der Streuselkuchen	True	la confiserie, les sucreries 	True
+2	der Quarkkuchen	True	la confiserie /magasin)	True
+3	der Mohnkuchen	True	la gourmandise	True
+4	cer Marmorkuchen	False	gourmand	False
+5	die Biskuitrolle	True	manger qc par gourmandise	False
+6	die Waffel, n	True	adorer les riandises	False
+7	cie Glasur ; glasieren	False	les sucreries , les choclats 	True
+8	der Kugelhupf	True	la bonbonnière	True
+9	die Makrone, n	True	le choclat	True
+10	das Baiser	True	le cacao	True
+11	(Cremeschnitte aus Blätterteig)	False	la poudre de cacao	True
+12	der Dresdner Stollen	True	la tablette de choclat	True
+13	der Honigkuchen, der Lebkuchen	True	la barre	True
+14	der Nürnberger Elisenlebkuchen	True	le choclat amer/à croquer	True
+15	die Printen fp! (Pfefferkuchen)	True	le choclai à cuire, de énac	True
+16	das Teegebäck, das Feingebäck	True	le choclat au lait	True
+17	das Kleingebäck, die Kekse mpl, die Plätzchen np/	True	le choclat aux amandes	True
+18	der Butterkeks, e	True	le choclat aux noisettes	True
+19	(gebackene Brandteigkügelchen)	False	le choclat ourré	True
+20	das Sandgebäck	True	fourré à la liqueur	False
+21	der Savarin	True	le bonbon au choclat}	True
+22	die Torte, n	True	la crotte en choclat	True
+23	die Baisertorte	True	une boîte de choclats	True
+24	die Obsttorte	True	la choclaterie	True
+25	entsteinen, entkernen	False	le bonbon	True
+26	entkernen	False	les bonbons acidulés/anglai	True
+27	entstielen	False	les caramels durs, ous	True
+28	knacken (Nüsse)	False	le bonbon à la gomme	True
+29	die Linzertorte	True	la dragée	True
+30	das Tortelett, en/Törtchen, -	True	le bonbon ondant	True
+31	"der Mohrenkopf, ""e, der Negerkuss, ""e"	True	le chewing gum/la gomme à	True
+32	(Baisertorte mit Eis und Sahne)	False	mâcher	False
+33	das Trockenobst	True	le nougat de Montélimar	True
+34	das Dörrobst	True	la nougatine	True
+35	die Backpflaume, n	True	la pastille de enthe	True
+36	die Rosinen fpl	True	la pête d'amandes, le assepain	True
+37	die Korinthen fol	True	la pâte de ruits	True
+38	das Studentenfutter	True	la praline	True
+39	das Speiseeis, Gefrorenes n	True	le praliné	True
+40	die Eisdiele, n, der Eissalon, s	True	le/la réglisse	True
+41	der Eiskonditor, en	True	la sucette	True
+42	der Eisverkäufer, -	True	le sucre d’orge	True
+43	die Speiseeismaschine, n	True	la barbe à papa	True
+44	das Fruchteis	True	° le iel	False
+45	das Eiskrem	True	le iel 	True
+46	das Softeis	True	le iel de bruyère	True
+47	das Vanilleeis	True	le iel en rayon	True
+48	das Haselnusseis	True	> la confiture	False
+49	das Eistütchen, -	True	la armelade d’oranges	True
+50	das Eis am Stiel	True	la gelée	True
+51	der Eisbecher, -	True	la compote	True
+52	der Eiskaffee, s	True	le coulis de ruits rais	True
+53	die Eisbombe, n	True	les ruits confits	True
+54		False	l'écorce d'orange confite	True
+55		False	l'écorce de citron confite	True
+56		False		False

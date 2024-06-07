@@ -1,0 +1,63 @@
+	German_voc	deu_is_noun	French_voc	fra_is_noun
+0	das (Stoffigemisch, e	True	le élange	True
+1	homogen ; heterogen	False	homogène ; hétérogène	False
+2	der Bestandteil, e	True	le composant/le constituant	True
+3	die lonenbindung, en	True	la liaison ionique	True
+4	die Atombindung	True	la liaison atomique	True
+5	die Doppelbindung	True	la double liaison	True
+6	die Metallbindung	True	la liaison étallique	True
+7	binden, a, u	False	lier	False
+8	die Verbindung, en	True	la combinaison	True
+9	verbinden, a, u	False	combiner	False
+10	die Zerlegung, en/die Analyse, n	True	l'analyse 	True
+11	zerlegen, analysieren	False	analyser	False
+12	qualitativ ; quantitativ	False	qualitatif ; quantitatif	False
+13	die Synthese, n	True	la synthèse	True
+14	die physikalische Eigenschaft, en	True	la propriété physique	True
+15	die chemische Eigenschaft	True	la propriété chimique	True
+16	"der chemische Vorgang, ""e"	True	le phénomène chimique	True
+17	die chemische Reaktion, en	True	la réaction chimique	True
+18	die Reaktionsgleichung, en	True	l'équation de réaction	True
+19	die Alommasse	True	la asse atomique	True
+20	die Molekularmasse	True	la asse oléculaire	True
+21	die Stöchiometrie	True	la stœchiométrie	True
+22	die Lösung, en	True	la solution	True
+23	(wasser)löslich	False	soluble 	False
+24	die Löslichkeit	True	la solubilité	True
+25	eine nicht wässrige Lösung	False	une solution non aqueuse	True
+26	die gesättigte Lösung	True	la solution saturée	True
+27	(auf-)lösen	False	dissoudre	False
+28	ab-gießen, 0,0	False	décanter	False
+29	das Solvat, e	True	le soluté	True
+30	das Lösungsmittel, -/das Solvens, zien	True	le solvant	True
+31	die Verdünnung, en ; verdünnen	True	la dilution ; diluer	True
+32	an-reichern	False	enrichir	False
+33	die Konzentration, en	True	la concentration	True
+34	die tnermochemische Reaktion	True	la réaction thermochimique	True
+35	exotherm	False	exothermique	False
+36	endotherm	False	endothermique	False
+37	der Katalysator, en	True	le catalyseur	True
+38	die Elektrolyse, n	True	Pélectrolyse 	False
+39	elektrolytisch	False	électrolytique	False
+40	der Elektrolyt, s/en, e/en	True	l'électrolyte 	True
+41	dissoziieren	False	dissocier	False
+42	die Säure, n	True	l’acide 	False
+43	säurefrei	False	non acide	False
+44	säurefest	False	résistant aux acides	False
+45	ätzend	False	corrosif	False
+46	sauer schrnecken	False	avoir un goût acide	False
+47	der Säuregrad	True	l'acidité 	True
+48	die saure Lösung	True	la solution acide	True
+49	die Essigsäure	True	l'acide acétique	True
+50	die Kohlensäure	True	l'acide carbonique	True
+51	die Salzsäure	True	l'acide chlorhydrique	True
+52	die Chlorsäure	True	l'acide chlorique	True
+53	die salpetrige Säure	True	l'acide nitreux	True
+54	die Salpetersäure	True	l'acide nitrique	True
+55	die Karbolsäure, das Phenol	True	l'acide phénique, le phénol	True
+56	die Phosphorsäure	True	l'acide phosphorique	True
+57	die Blausäure	True	l'acide prussique	True
+58	die Schwefel(wasserstoff)säure	True	l'acide sulfurique	True
+59	die schweflige Säure	True	l'acide sulfureux	True
+60	die Weinsäure	True	l'acide tartrique	True
+61		False		False

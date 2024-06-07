@@ -1,0 +1,57 @@
+	German_voc	deu_is_noun	French_voc	fra_is_noun
+0	die Schnecke, n	True	l'insecte 	True
+1	die Weinbergschnecke	True	l'aile 	True
+2	die Gesprenkelte Weinbergschneck	True	ailé ; aptère	False
+3	das Schneckengehäuse, -	True	membraneux	False
+4	die Nacktschnecke, n	True	l'écaille 	True
+5	die Egelschnecke/der Schnegel, -	True	recouvert d'écailles	False
+6	die Wegschnecke	True	l'ocelle 	True
+7	die (Gemeine) Strandschnecke	True	l'élyire 	True
+8	"die Wellhornschnecke/das Kinkhorn, ""er"	True	la nervure ; nervuré	True
+9	das Sescohr, en	True	les pièces buccales	True
+10	die Napfschnecke	True	les andibules 	True
+11	die Porzellan-/Kaurischnecke	True	le dard/l’aiguillon 	True
+12	das Steinchen, -	True	piquer ; la piqüre	False
+13	"das Tritonshorn, ""er"	True	la trompe ; sucer	True
+14	die Turmschnecke, n	True	la étamorphose	True
+15	der Kopffüßer, -	True	se étamorphoser	False
+16	das Papierboot, e	True	la larve	True
+17	der Kalmar, e	True	la chenille	True
+18	der Schulp, e	True	la ue ; uer itr	True
+19	der Nautilus, -/se	True	la chrysalide/la nymphe	True
+20	der Krake, n,n	True	la nymphose	True
+21	der Fangarm, e	True	le cocon	True
+22	"der Saugnapf, ""e"	True	s’enfermer dans le cocon	False
+23	der Tintenfisch ; der Schulp, e	True	sortir de son cocon	False
+24	die Seerose, n	True	l’imago /l'insecte parfait	False
+25	die Koralle, n ; die Edelkoralle	True	scarabées /coléoptères 	False
+26	das Korallenriff, e	True	phytophage : nécrophage	False
+27	das Atoll, e	True	coprophage ; xylophage	False
+28	der Seestern, e	True	percer des trous dans le bois	False
+29	der Schlangenstern	True	percer des galeries dans	False
+30	"der Schwamm, ""e"	True	le bois	True
+31	der Badeschwamm	True	la cantharide	True
+32	schwammig	False	le charançon du blé	True
+33	die Qualle, n	True	du blé charançonné	False
+34	die Leuchtqualle ; die Ohrenqualle	True	le grand capricorne	True
+35	die Segelqualle	True	le lamie tisserand	True
+36	die Spanische Galeere, n	True	le carabe doré	True
+37	der Seeigel, -	True	la cétoine dorée	True
+38	die Seescheide, n	True	la coccinelle, la bête à bon	True
+39	die Hochseefauna, nen	True	Dieu	False
+40	die Tieiseefauna	True	la coccinelle à sept points	True
+41	das Zooplarıkton	True	le dermeste du lard	True
+42	der Krill, die Planktonkrebse mpl	True	le doryphore	True
+43	das Meerleuchttierchen, -	True	le géotrupe, le bousier	True
+44	das Phytoplankton	True	le hanneton	True
+45	die Kieselalge, n/die Diatomee, n	True	le hanneton de ia Saint-Jean	True
+46		False	le hanneton oulon	True
+47		False	le ver blanc 	True
+48		False	le inotaure	True
+49		False	le lucane/le cerf-vlant	True
+50		False	le nécrophore	True
+51		False	le scarabée nasicorne	True
+52		False	le scarabée sacré	True
+53		False	le silphe obscur	True
+54		False	le ténébrion, le ver de arine	True
+55		False		False

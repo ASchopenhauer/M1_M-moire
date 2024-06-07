@@ -1,0 +1,61 @@
+	German_voc	deu_is_noun	French_voc	fra_is_noun
+0	die Aktenmappe, n	True	le porte-documents	True
+1	"der City-Rucksack, ""e"	True	le sac à dos de ville	True
+2	der (Regen)schirm, e	True	le parapluie, le pépin	True
+3	der Stockschirm	True	le parapluie-canne	True
+4	der Taschenschirm, der Knirps, e	True	le parapluie télescopique/ pliant	True
+5	das Gestell, e	True	la onture	True
+6	die Schlaufe, n	True	la dragonne	True
+7	die Schirmhülle, n, das Schirmfutteral, e	True	la gaine 	True
+8	der Sonnenschirm, e	True	l'ombrelle 	True
+9	der Fächer, - ‚sich Luft zu-fächeln.	True	l'éventail , s'éventer	True
+10	"der Spazierstock, ""&"	True	la canne	True
+11	der Schal, e/s	True	le châle	True
+12	"das Dreiecktuch, das Kopftuch, ""er"	True	le ichu	True
+13	das Halstuch	True	le oulard ; l'écharpe 	True
+14	der Wollschal	True	le cache-nez, le cache-col	True
+15	die Schuhe mpl	True	les chaussures 	True
+16	die Latschen mpl (fam)	True	les pompes / les godasses	True
+17	der Schuh, e	True	la chaussure, le soulier	True
+18	ein Paar Schuhe	False	une paire de chaussures	True
+19	die Schuhe an-ziehen, o, o	True	se chausser	False
+20	die Schuhe aus-ziehen	True	se déchausser	False
+21	barfuß sein	False	être nu-pieds	False
+22	die Schuhgröße, n	True	la pointure	True
+23	Schuhgröße 42 haben	False	chausser du 42	False
+24	der Lederschuh	True	la chaussure en cuir	True
+25	der Lackschuh	True	le soulier verni	True
+26	die Sohle, n	True	la semelle	True
+27	die Brandsohle	True	la première	True
+28	die Ledersohle	True	la semelle en cuir	True
+29	die Gummisohle	True	la semelle en caoutchouc	True
+30	die Kreppsohle	True	la semelle en crêpe	True
+31	"der Absatz, ""e, die Hacke, n (nord)"	True	le talon	True
+32	der hohe, flache Absatz	True	le talon haut, plat	True
+33	der Pfennigabsatz	True	le talon aiguille	True
+34	der Keilabsatz	True	la semelle compensée	True
+35	die Schneestiefel mpi	True	les après-ski 	True
+36	der Stiefel, -	True	la botte	True
+37	der Halbstiefel	True	le bottillon	True
+38	"der Schaft, ""e"	True	la tige	True
+39	der Hausschuh, e	True	le chausson, la pantoufle	True
+40	die Latschen mpl (fam)	True	les savates 	True
+41	der Schnürstiefel, -	True	la chaussure ontante	True
+42	der Nagelschuh	True	la chaussure cloutée	True
+43	der Joggingschuh	True	la chaussure de jogging	True
+44	die Pumps mpi	True	les escarpins 	True
+45	die Gamasche, n	True	la guêtre	True
+46	der Slipper, -/der Mokassin, s	True	le ocassin	True
+47	die Pantoletten fp/	True	les nu-pieds 	True
+48	der Pantoffel, -	True	la ule, la babouche	True
+49	der Holzschuh	True	le sabot	True
+50	die Sandale, n, die Sandaleite, n	True	la Sandaie, la sandalette	True
+51	der Schnürschuh	True	le soulier à lacets	True
+52	der Schnürsenkel, -	True	le lacet	True
+53	die Schuhe zu-schnüren, auf-schnüren	True	lacer, délacer ses chaussut	False
+54	der Schuster, -/der Schuhmacher, -	True	le cordonnier	True
+55	die Reparatur, en	True	la réparation	True
+56	die Schuhe reparieren	True	réparer les chaussures	False
+57	schief getretene Schuhe	False	des chaussures écuiées	True
+58	ı. Meine Schuhe lassen Wasser durch.	False	Mes chaussures prennent le	True
+59		False		False

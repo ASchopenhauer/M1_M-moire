@@ -1,0 +1,61 @@
+	German_voc	deu_is_noun	French_voc	fra_is_noun
+0	Mn m BE AN ER NE EN ERS ER EN U Na ER	False	la ga:	True
+1	tronomie	False	l'art culinaire, la cuisine	True
+2	die Kochkunst	True	° la gastronomie	False
+3	die Gastronomie, die Kochkunst	True	le gourmet, le gastronome	True
+4	der Feinschmecker, -, der Gourmet, s	True	la ine gueule	True
+5	"das Leckermaul, ""er (am)"	True	être gourmand	False
+6	ein Schlemmer sein	False	la cuisine	True
+7	die Küche	True	le cuisinier, le cuistot [fam)	True
+8	"der Koch, ""e"	True	la cuisinière	True
+9	die Köchin, nen	True	le cordon-bleu	True
+10	der Meisterkoch, die Meisterköchin	True	un aître queux	True
+11	ein ausgezeichneter Koch	False	le chef de cuisine	True
+12	der Küchenmeister, -	True	le pâtissier	True
+13	der Küchenkonditor, en	True	le poissonnier	True
+14	der Fischkoch	True	le rôtisseur	True
+15	der Bratenkoch	True	le armiton	True
+16	der Küchenjunge, n, n	True	le plongeur	True
+17	der Geschirrspüler, -	True	faire la plonge	False
+18	die Teller waschen, u, a, ä	True	le ourneau, le piano	True
+19	der Kochherd	True	le our électrique, à gaz	True
+20	"der Elektrofen, der Gasofen, """	True	le our	True
+21	der Backofen, Bratofen	True	mettre au our	False
+22	in den Backofen schieben, o, o	False	retirer du our	False
+23	aus dem Backofen nehmen, a, 0, i	False	la plaque à pâtisserie	True
+24	das Backblech, Kuchenblech, e	True	la grille	True
+25	der Rost, e	True	le gril ; le barbecue	True
+26	der Bratrost, der Grill, s	True	être invité à un barbecue	False
+27	zu einem Grillfest eingeladen sein	False	la rôtissoire	True
+28	das Grillgerät, e	True	 griller	False
+29	grilieren, grillen	False	la broche à rôtir	True
+30	der Bratspieß, e	True	le tournebroche	True
+31	der Bratenwender, -	True	à la broche	False
+32	am Spieß, Spieß-	False	la lèchefrite	True
+33	die Abtropfpfanne, n	True	la chaleur du our	True
+34	die Backhitze	True	préchauffer le our	False
+35	den Backofen vor-heizen	False	réduire la chaleur	False
+36	die Hitze drosseln	True	le eu	False
+37	die Flamme (Gas)	True	mettre qc à cuire/sur le eu	False
+38	etw auf-setzen	False	cuire à eu doux, vif	False
+39	auf kleiner, starker Flamme kochen	False	retirer du eu	False
+40	vom Herd nehmen, a, o, |	False	le our à icro-ondes	True
+41	das Mikrowellengerät, e	True	la batterie de cuisine	True
+42	das Küchengeschirr	True	l'aiguille à brider	True
+43	die Bindnadel, die Bridiernadel, n	True	le chinois	True
+44	das Spitzsieb, e	True	l'étamine	True
+45	"das Passiertuch, ""er"	True	le couteau de cuisine	True
+46	das Küchenmesser, -	True	le couteau d'office	True
+47	das Gemüsemesser	True	l'épluche-légumes 	True
+48	der Kartoffelschäler, -	True	le couteau à découper	True
+49	das Tran(s)chiermesser	True	le couteau à désosser	True
+50	das Ausbeinmesser	True	le couteau-scie	True
+51	das Sägemesser	True	la cuillère en bois	True
+52	der Rührlöffel, -	True	le décapsuleur	True
+53	der Flaschenöffner, -	True	l'écumoire 	True
+54	der Schaumlöffel	True	lentonnoir 	False
+55	der Trichter, -	True	le ouet 	True
+56	der (Schnee)besen, -	True	le usil ; aiguiser	True
+57	der Wetzstahl ; schärfen, wetzen	True	le hachoir	False
+58	das Hackmesser	True		False
+59		False		False

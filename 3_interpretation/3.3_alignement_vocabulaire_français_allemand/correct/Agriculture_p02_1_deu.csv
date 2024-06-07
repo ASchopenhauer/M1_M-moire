@@ -1,0 +1,62 @@
+	German_voc	deu_is_noun	French_voc	fra_is_noun
+0	die Pflanzmaschine, n	True	la planteuse	True
+1	die Strohpresss, n	True	la presse à paille	True
+2	die Scheibenegge, n	True	le pulvérisateur à disques	True
+3	der Wirbelwender, -	True	le roto-faneur	True
+4	die Walze, n	True	le rouleau	True
+5	die Sämaschine, n	True	le semoir	True
+6	die Drillmaschine	True	le semoir en ligne	True
+7	der Schlepper, -, der Traktor, en	True	le tracteur	True
+8	ab-schleppen	False	remorquer	False
+9	der Kippanhänger, -	True	la remorque basculante	True
+10	der Jauchewagen, -	True	la remorque-tonneau à purin	True
+11	der Kippkarren, -	True	ole tombereau	False
+12	die Karrenladung, en	True	le tombereau	True
+13	das Gespannfuhrwerk, e	True	le véhicule à traction animale	True
+14	der Karren, -	True	la charrette	True
+15	die Fuhre, n	True	la charretée	True
+16	der Leiterwagen, -	True	le chariot à ridelles	True
+17	die Deichsel, n	True	le timon	True
+18	die Schere, n	True	le brancard	True
+19	der Handwagen, -	True	la charrette à bras	True
+20	das landwirtschaftliche Gerät, e	True	l'outil agricole	True
+21	das Gartengerät, e	True	l'outil de jardinage	True
+22	der Rasenlüfter, -	True	l’aérateur à gazon	False
+23	der Gartenbesen, -	True	le balai à feuilles	True
+24	der Spaten, -	True	la bêche	True
+25	der Bügeljäter, -	True	la binette	True
+26	die Jäthacke, n	True	la binette sarcleuse	True
+27	der Schubkarren, -	True	la brouette	True
+28	die Häufelhacke, n ; (an-)häufeln	True	le buttoir ; butter	True
+29	die Baum-, die Heckenschere, n	True	la cisaille	True
+30	die Richtschnur, '®	True	le cordeau	True
+31	das Spargelmesser, -	True	le coupe-asperges	True
+32	das Kopuliermesser, -	True	le couteau greffoir	True
+33	die Astschere, n	True	l’élagueur 	False
+34	die Sichel, n	True	la faucille	True
+35	die Sense, n ; (ab-)mähen	True	la faux ; faucher	True
+36	die Sense dengeln	True	battre/marteler la faux	False
+37	der Dreschflegel, -	True	le fléau	True
+38	die Grab(e)gabel, n	True	la fourche à bêcher	True
+39	die Heugabel	True	la fourche à foin	True
+40	die (Mist)gabel, n/die Forke, n	True	la fourche 	True
+41	der Zinken, -	True	la dent 	True
+42	der Dreizinkgrubber, -	True	la griffe à trois dents	True
+43	die Egge, n ; eggen	True	la herse ; herser	True
+44	die Schlaghacke, n	True	la houe	True
+45	die Schaufel, n ; schaufeln	True	la pelle ; travailler à la pelle	True
+46	die Hacke, n ; hacken	True	la pioche ; piocher	True
+47	das Pflanzholz	True	le plantoir 	True
+48	der Rechen, -/die Harke, n	True	le râteau	True
+49	der Heurechen	True	le râteau à bras	True
+50	das Harken ; harken	True	le ratissage ; ratisser	True
+51	die Jäthacke, n ; jäten	True	le sarcloir ; sarcler	True
+52	die Garten-, Rosenschere, n	True	le sécateur	True
+53	die Sämaschine, n ;säen	True	le semoir ; semer	True
+54	die Hippe, n	True	la serpe	True
+55	das Gartenmesser, -	True	la serpette	True
+56	der Handrasenmäher, -	True	la tondeuse à gazon mécanique	True
+57	der elektrische Rasenmäher	True	la tondeuse électrique	False
+58	der Motorrasenmäher	True	la tondeuse à moteur	True
+59	die Pflanzkelle, n	True	le transplantoir	True
+60	die Feldarbeit, en	True	les travaux des champs	True

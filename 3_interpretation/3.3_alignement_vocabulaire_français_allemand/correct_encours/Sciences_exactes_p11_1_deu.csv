@@ -1,0 +1,37 @@
+	German_voc	deu_is_noun	French_voc	fra_is_noun
+0	ae dd	False	» le temps	False
+1	die Zeit, en	True	le temps slaire	True
+2	die (wahre) Sonnenzeit	True	le temps sidéral	True
+3	die Sternzeit	True	la division du temps	True
+4	die Zeiteinteilung	True	le calendrier	True
+5	der Kalender, -	True	l'almanach 	True
+6	der Almanach, e	True	l'année 	True
+7	das Jahr, e	True	l'année civile/commune	True
+8	das Gemeinjahr	True	l'année bissextile	True
+9	das Schaltjahr	True	annuel	False
+10	jährlich, Jahres-	False	le congé annuel	True
+11	der Jahresurlaub	True	le retour annuel des oiseau:	True
+12	die jährliche Wiederkehr der Vögel	True	un congé d’un an	True
+13	ein einjähriger Urlaub	False	la décade	True
+14	die Dekade, n	True	le lustre	True
+15	das Jahrfünft, e	True	la décennie	True
+16	das Jahrzehnt, e, das Dezennium, ien (lt)	True	le siècle	True
+17	das Jahrhundert, e	True	le illénaire	True
+18	das Jahrtausend, e	True	séculaire ; illénaire	False
+19	hundertjährig, tausendjährig	False	le centenaire /fôto)	True
+20	die Hundertjahrfeier, n	True	le illénaire 	True
+21	die Tausendjahrfsier	True	le jour	True
+22	der Tag, e	True	d’une demi-journée	False
+23	halbtägig, Halbtagsganztägig, Ganztagseine dreitägige Reise	False	d’une journée entière	False
+24	tagsüber	False	un voyage de trois jours	True
+25	das Tageslicht	True	pendant la journée ; de joui	False
+26	der Tagesanbruch	True	la lumière du jour	True
+27	beiTagesanbruch	False	le lever du jour	True
+28	an-brechen*, a, 0, |	False	au lever du jour	False
+29	die Dämmerung	True	se lever, poindre	False
+30	Es dämmert.	False	le demi-jour, le crépuscule	True
+31	das Morgengrauen	True	Il commence à aire jour, nu	False
+32	die Morgenröte, -	True	l'aube 	True
+33	Esist (lichter) Tag.	False	Faurore 	False
+34		False	Il ait jour.	False
+35		False		False

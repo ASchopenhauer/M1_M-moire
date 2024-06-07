@@ -1,0 +1,63 @@
+	German_voc	deu_is_noun	French_voc	fra_is_noun
+0	der Elastizitätsmodul	True	le gel	True
+1	die Elastizitätsgrenze	True	le changement d'état	True
+2	die Festigkeitsgrenze	True	la usion ; ondre itr	True
+3	der Bruchpunkt	True	le point de usion	True
+4	die Strömungslehre	True	la vaporisation ; se vaporise	True
+5	die Hydrostatik	True	la vapeur	True
+6	die Hydrodynamik	True	l'évaporation } ; s'évaporer	True
+7	das Fluid, s	True	le point d’ébullition ; bouilli	True
+8	die Strömung, en	True	le point de congélation; gel	True
+9	die laminare Strömung	True	la soliditication ; se solidifie	True
+10	die turbulente Strömung	True	la condensation	True
+11	"der Fluss, ""&"	True	se condenser	False
+12	die Trennunysfläche, n	True	la liquéfaction	True
+13	die Oberflächenspannung	True	se liquéfier	False
+14	die Kapillarität	True	la sublimation	True
+15	die Viskosität ; viskos	True	se sublimer	False
+16	die Dichte	True	le sublimé	True
+17	"der Druck, ""e"	True	la écanique	True
+18	der Auftrieb, e	True	la statique	True
+19	das Prinzip des Archimedes	True	la dynamique	True
+20	die kommunizierenden Röhren fpi	True	la orce	True
+21	das Vakuum, kua/kuen	True	le oment	True
+22	im luftleeren Raum	False	le couple	True
+23	die Kinematik	True	la résultante	True
+24	die Bewegung, en	True	le travail	True
+25	die Bewegungsgröße, n, der Impuls, e	True	la puissance	True
+26	der Drehimpuls	True	la cinétique	True
+27	die g(e)radlinige Bewegung, en	True	l'énergie \( cinétique	True
+28	die gleichförmige Bewegung	True	l'énergie potentielle	True
+29	die gleichförmig beschleunigte	True	le principe de la conservati	True
+30	Bewegung	False	de l'énergie	False
+31	die Kreisbewegung	True	le champ	True
+32	beim freien Fall	False	le vecteur	True
+33	die Geschwindigkeit, en	True	l'effet 	True
+34	die Anfangsgeschwindigkeit	True	l'action 	True
+35	die mittlere Geschwindigkeit	True	l'équilibre 	True
+36	die Momentangeschwindigkeit	True	le poids	True
+37	die Winkelgeschwindigkeit	True	le centre de gravité	True
+38	die Beschleunigung, en	True	la asse	True
+39	der Luftwiderstand	True	la pesanteur	True
+40	die Richtung, en	True	la orce d'attraction	True
+41	die Kreisbahn, en	True	attirer	False
+42	"die Zentripetalkraft, ""e"	True	la gravitation	True
+43	"die Zentrifugalkraft, ""e"	True	la loi de la gravitation	True
+44	die Wärme	True	universelle	False
+45	die Thermodynamik	True	l'inertie 	True
+46	die Wärmeenergie	True	le rottement	True
+47	die Wärmekapazität	True	le levier	True
+48	die Entropie	True	la contrainte	True
+49	die Wärmemessung	True	la compressi	True
+50	die Temperatur, en	True	la compressibilité	True
+51	die spezifische Wärme	True	un corps compressible	True
+52	die Wärmestrahlung	True	incompressible	False
+53	der schwarze Körper, -	True	la traction	True
+54	die Konvektion, en	True	le cisaillement	True
+55	die Ausdehnung, en	True	lallongement 	False
+56	aus-dehnen ; sich aus-dehnen	False	la torsion	True
+57	die Wärmeleitung	True	la lexion	True
+58	die Wärmeleitfähigkeit	True	la déformation	True
+59	die Akustik/die Schalllehre	True	l’élasticité 	False
+60	der Schall	True		False
+61		False		False

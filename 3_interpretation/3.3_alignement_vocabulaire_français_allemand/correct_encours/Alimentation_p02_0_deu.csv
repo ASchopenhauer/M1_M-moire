@@ -1,0 +1,45 @@
+	German_voc	deu_is_noun	French_voc	fra_is_noun
+0	, riz, pätes	False	légumes 	False
+1	Gemüse n	False	la garniture de légumes	True
+2	die Gemüsebeilage	True	les petits pois	True
+3	die Erbsen fpl	True	écosser des pois	False
+4	Erbsen enthülsen, aus-pahlen (nord)	False	les haricots verts	True
+5	die grünen Bohnen fl	True	les haricots beurre	True
+6	die Wachsbohnen	True	les légumes secs	True
+7	die Hülsenfrüchte fp/	True	écosser des haricots	False
+8	entbohnen	False	faire tremper	False
+9	ein-weichen	False	les haricots blancs, les ayots	True
+10	die weißen Bohnen	True	les lentilles 	True
+11	die Linsen fol	True	trier des légumes secs	False
+12	Hülsenfrüchte lesen, a, e, ie/verlesen	False	la soupe aux lentilles	True
+13	die Linsensuppe	True	la pomme de terre	True
+14	die Kartoffel, n	True	la peau, la pelure	True
+15	die Schale, n	True	peler : éplucher	False
+16	schälen, pellen (nord)	False	les épluchures \(de pommes	True
+17	die Kartoffelschalen fp/	True	de terre)	False
+18	die Gemüseschalen ; die Abfälle mpl	True	les épluchures	True
+19	das Kartoffelmehl	True	la écule de pommes de tert	True
+20	die Salzkartoffeln	True	les pommes de terre à	True
+21	die Pellkartoffeln	True	l’anglaise	False
+22	die Dampfkartoffeln	True	les p. de t. en robe de chambre/des champs	True
+23	die Bratkartoffeln/Röstkartoffeln	True	les p. de t. à la vapeur	True
+24	die Pommes frites pl, die Pommes (fam)	True	les p. de t. sautées	True
+25	der Kartoffelbrei, e/das Kartoffelpüree, s	True	les rites 	True
+26	"der Kartofellkloß, ""&, der Kartoffelknödel, -"	True	la purée de p. det.	True
+27	der Kartoffelsalat	True	la boulette de p. det.	True
+28	der Salat, e	True	les p. de t. en salade	True
+29	die Salatplatte, die Rohkost	True	la salade	True
+30	den Salat an-richten	False	les crudités 	True
+31	den Salat abtropfen lassen	False	préparer la salade	False
+32	ab-tropfen*	False	 égoutter la salade	False
+33	an-machen	False	s’égoutter	False
+34	mischen	False	assaisonner	False
+35	der Reis	True	tourner, brasser, atiguer	False
+36	tond ; long	False	le riz	True
+37	der Vollreis	True	rund ; lang	False
+38	der braune Reis	True	le riz complet	True
+39	der Reisbrei, der Milchreis	True	le riz brun	True
+40	der Sago	True	le riz au lait	True
+41		False	le sagou	True
+42		False	 	False
+43		False		False

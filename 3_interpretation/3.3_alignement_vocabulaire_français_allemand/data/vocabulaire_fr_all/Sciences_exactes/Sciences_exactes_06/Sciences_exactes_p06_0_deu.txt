@@ -1,0 +1,71 @@
+die Schallwelle, n
+
+die Wellenbewegung, en
+die Schallgeschwindigkeit
+die Stoßwelle, n
+
+die Lautstärke
+
+die Hörempfindung, en
+der Infraschall
+
+der Ultraschall
+
+die Schallausbreitung
+
+die Schallmauer
+durch-brechen, a, o, i
+
+der Überschallknall, e
+die Schwingung, en
+die Oszillation, en
+die gedämpfte Schwingung
+schwingen, a, u ; oszillieren
+die Schwingungsweite, n
+die Schwingungsdauer,
+die Periode, n
+die Frequenz, en
+die Phase, n
+die Welle, n
+die Wellenlänge, n
+die Schallabdichtung
+die Schalldammung
+das Echo
+die Optik
+die geometrische Optik
+die Wellenoptik
+die physikalische Optik
+die Elektronenoptik
+das Licht
+der Lichtstrahl, en
+das Stahlenbündel, -
+das Photon, en
+die Reflexion
+die Beugung, die Diffraktion
+die Lichtbrechung, die Refraktion
+die Brechzahl, en
+das Medium, dien
+der einfallende Strahl
+der reflektierte Strahl
+der gebrochene Strahl
+die Dispersion, en
+die Streuung, en
+das Prisma, men
+der ebene Spiegel/der Planspiegel,
+der Konvexspiegel, -
+der Hohlspiegel, -
+der Parabolspiegel, -
+das optische Bild, er
+die Linse, n
+bikonkav ; bikonvex
+plankonvex
+die Sammellinse
+die Zerstrauungslinse
+das Objektiv, e
+die Brennweite, n
+der Brennpunkt, e
+die Brennlinie, n
+die Fokussierung
+die optische Aberration, en
+die sphärische Aberration
+

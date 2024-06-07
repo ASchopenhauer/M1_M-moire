@@ -1,0 +1,61 @@
+	German_voc	deu_is_noun	French_voc	fra_is_noun
+0	ältere Maße	False	l'unité de la radioactivité	True
+1	der Morgen, -	True	le becquerel	True
+2	die Elle, n	True	la dose absorbée ; le gray	True
+3	der Scheffel, -	True	l'irradiation	True
+4	der/das Klafter, n (Holz)	True	l'équivalence de dose	True
+5	das Gran/Grän, e	True	absorbée	False
+6	die Meile, n	True	le lux d'énergie acoustique	True
+7	die Unze, n	True	le décibel	True
+8	der Fuß, -	True	mesures anciennes «	False
+9	der Schoppen, -	True	esures anciennes	False
+10	der Zoll, -	True	l'arpent 	True
+11	das Ries, e (Papier)	True	l'aune 	True
+12	der/das Klafter, -	True	le boisseau	True
+13	die Rute, n	True	la corde de bois	True
+14	das Messinstrument, e	True	le grain	True
+15	die Wasseruhr, en	True	le ille, la lieue	True
+16	die Gasuhr	True	l'once 	True
+17	der Elektrizitätszähler, -	True	le pied	True
+18	der Geigerzähler, -	True	la pinte	True
+19	"die Richtschnur, ""e"	True	le pouce	True
+20	das Bleilot, e	True	la rame de papier	True
+21	der Winkelpeiler, -	True	la toise	True
+22	dasLoc, e	True	la verge	True
+23	das Manometer, -	True	l'instrument de esure	True
+24	das Metermaß, e	True	le compteur à eau	True
+25	"der Zollstock, ""e"	True	le compteur à gaz	True
+26	das Bandmaß, e	True	le compteur d'électricité	True
+27	das Mikrometer, -	True	le compteur de Geiger	True
+28	das Mikroradiometer, -	True	le cordeau	True
+29	die Wasserwaage, n	True	le il à plomb, la sonde	True
+30	die Schublehre, n	True	le goniomètre	True
+31	der Funkkompass, &	True	le loch	True
+32	das Peilgerät, e	True	le anomètre	True
+33	der Nonius, ien	True	le ètre	True
+34	die Mikrometerschraube, n	True	le ètre pliant	True
+35	die Eichung	True	le ètre à ruban	True
+36	"das Eichamt, ""er"	True	le icromètre	True
+37	eichen	False	le icroradiomètre	True
+38	das Eichmaß, e	True	le niveau d’eau	True
+39	die Norm, en	True	le pied à coulisse	True
+40	Deutsche Industrie-Norm( en)	False	le radio-compas	True
+41	die Normung, en	True	le radiogoniomètre	True
+42	normen	False	le vernier	True
+43	das Format, e	True	la vis icrométrique	True
+44	der/das Kataster, -	True	la étrologie légale	True
+45	"das Vermessungsamt, ""er"	True	le bureau de vérification des	True
+46	die Vermessung, en	True	poids et des esures	False
+47	der Vermesser, -	True	graduer, étalonner	False
+48	den Flächeninhalt messen, a, e, |	False	la jauge, l'étalon 	True
+49		False	la norme	True
+50		False	la norme DIN	True
+51		False	la normalisation	True
+52		False	normaliser, standardiser	False
+53		False	le ormat	True
+54		False	le cadastre	True
+55		False	l'office topographique	True
+56		False	le relevé topographique	True
+57		False	le géomètre, l’arpenteur 	True
+58		False	arpenter	False
+59		False		False

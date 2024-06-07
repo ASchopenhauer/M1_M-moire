@@ -1,0 +1,66 @@
+	German_voc	deu_is_noun	French_voc	fra_is_noun
+0	Zr es HWEHMISD SL TANLTEUQUE - IE Calcul	False	quatorze ; quinze ; seize	False
+1	vierzehn ; fünfzehn ; sechzehn	False	dix-sept ; dix-huit ; dix-neuf	False
+2	siebzehn ; achtzehn ;neunzehn	False	vingt ; vingt et un	False
+3	zwanzig ; einundzwanzig	False	vingt-deux ; vingt-trois	False
+4	zweiundzwanzig ; dreiundzwanzig	False	trente ; trente et un ; quaran	False
+5	dreißig ; einunddreißig ; vierzig	False	cinquante ; soixante	False
+6	fünfzig ; sechzig	False	soixante-dix	False
+7	siebzig	False	soixante et onze	False
+8	einundsiebzig	False	saixante-douze	False
+9	zweiundsiebzig	False	quatre-vingts	False
+10	achtzig	False	quatre-vingt-un	False
+11	einundachtzig	False	quatre-vingt-dix	False
+12	neunzig	False	quatre-vingt-onze	False
+13	einundneunzig	False	cent ; cent un	False
+14	(ein)hundert ; (ein)hundert(und)eins	False	cent deux ; deux cents	False
+15	hundert(und)zwei ; zweihundert	False	deux cent un ; ille	False
+16	zweihundert(und)eins ; (ein)tausend	False	deux ille ; cinq cent ille	False
+17	zweitausend ;fünfhunderttausend	False	le illion	True
+18	die Million, en (Mio)	True	deux illions cinq cents	False
+19	zwei Millionen fünfhundert	False	le illiard	True
+20	die Milliarde, n	True	le nombre ordinal	True
+21	die Ordinalzahl/Ordnungszahl, en	True	le premier	True
+22	der erste, die erste, das erste	True	le deuxième ; le troisième	True
+23	der zweite ; der dritte	True	le quatrième ; le cinquième	True
+24	der vierte ; der fünfte	True	le sixième ; le septième	True
+25	der sechste ; der sieb(en)te	True	le huitième ; le neuvième	True
+26	der achte ; der neunte	True	le dixième ; le onzième	True
+27	der zehnte ; der elfte	True	le douzième ; le dix-neuvièr	True
+28	der zwölfte ; der neunzehnte	True	le vingtième	True
+29	der zwanzigste	True	le vingt et unième	True
+30	der einundzwanzigste	True	le vingt-deuxième	True
+31	der zweiundzwanzigste	True	le centième	True
+32	der hundertste	True	le illième	True
+33	der tausendste	True	le illionième	True
+34	der millionste	True	premièrement	False
+35	erstens	False	deuxièmement	False
+36	zweitens	False	troisièmement	False
+37	drittens	False	quatrièmement	False
+38	viertens	False	dix-neuvièmement	False
+39	neunzehntens	False	vingtièmement	False
+40	zwanzigstens	False	la raction	True
+41	"der Bruch, ""&"	True	la raction ordinaire	True
+42	der gemeine Bruch	True	la raction décimale	True
+43	der Dezimalbruch	True	le acteur premier	True
+44	der Primfaktor, en	True	la décomposition en acteur	True
+45	die Faktorzerlegung, en	True	simplifier une raction	False
+46	einen Bruch kürzen	False	la r. irréductible, réduite à s:	True
+47	der echte Bruch, der nicht mehr zu	True	plus simple expression	False
+48	kürzen ist	False	l'expression r ractionnaire	True
+49	der unechte Bruch	True	le numérateur	True
+50	der Zähler, -	True	le trait de raction	True
+51	der Bruchstrich, e	True	le dénominateur	True
+52	der Nenner, -	True	à dénominateur différent	False
+53	ungleichnamig	False	le dénominateur commun	True
+54	der gemeinsame Nenner	True	réduire au ême	False
+55	auf einen gemeinsamen Nenner	False	dénominateur	False
+56	bringen, a, a	False	la raction de raction	True
+57	"der Doppelbruch, ""e"	True	un demi 	True
+58	ein halb (1/2)	False	un tiers 	True
+59	ein Drittel (1/3)	False	deux tiers 	False
+60	zwei Drittel (2/3)	False	un quart 	True
+61	ein Viertel (1/4)	False	trois quarts 	False
+62	drei Viertel (3/4)	False	quatre cinquièmes 	False
+63	vier Fünftel (4/5)	False		False
+64		False		False

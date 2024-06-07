@@ -1,0 +1,37 @@
+	German_voc	deu_is_noun	French_voc	fra_is_noun
+0	das Gaststättengewerbe, die Gastronomie	True	la restauration	True
+1	in der Gastronomie arbeiten	False	travailler dans la restauratio	False
+2	der/das Party-Service, s	True	la restauration à domicile ; le traiteur	True
+3	das kalte Büfett, s	True	le buffet roid	True
+4	die Werkskantine, n	True	le restaurant d'entreprise	True
+5	die Mensa, sen	True	le restaurant universitaire	True
+6	(Speiselokale für Bedürftige) (F)	False	les restaurants du cœur	True
+7	die Schnellyastslälte, n, das Fast	True	la restauration rapide, le as	True
+8	food	False	food	False
+9	das Schnellgericht, e	True	le plat rapide	True
+10	der Hamburger, -	True	le hamburger	True
+11	der/das Sandwich, s/e	True	le sandwich	True
+12	das Schinkenbrötchen, -	True	le sandwich au jambon	True
+13	das getoastete Schinken-Käse-	True	le croque-monsieur	True
+14	Sandwich	False	la buvette	True
+15	"die Imbisshalle, n, der imbissstand, ""e"	True	le snack	True
+16	der (Schnell)imbiss, e	True	le libre-service	True
+17	das Selbstbedienungsrestaurant, das Fertiggericht, e	True	le plat cuisiné	True
+18	das Tablett, s	True	le plateau	True
+19	die Pizzeria, s	True	la pizzeria	True
+20	die Pizza, s	True	la pizza	True
+21	"der Würstchenstand, ""e, die Würstchenbude, n"	True	le stand de saucisses 	True
+22	"der Gasthof, ""e, das Gasthaus, ""er"	True	l'hôtel , 	True
+23	(elegantes Speiselokal im ländlichen Stil)	False	le restaurant	True
+24	das Feinschmeckerlokal/Schlemmerlokal, e	True	l'auberge 	True
+25	schlemmen	False	le restaurant gastronomique	True
+26	die Gastwirtschaft, en	True	se régaler de, savourer	False
+27	"die Raststätte, n, der Rasthof, ""e"	True	le restaurant	True
+28	die Gaststätte, n, die Bahnhofsgasistätte	True	le restorouie	True
+29	die Gaststube	True	le café-restaurant	True
+30	das Restaurant, s, das Speiselokal, &	True	le buffet de gare	True
+31	im Restaurant essen, a, &, |	False	la salle de restaurant	True
+32	der Gastwirt, e;	True	le restaurant	True
+33	der Gasironom, en, en	True	manger au restaurant	False
+34		False	le restaurateur	True
+35		False		False

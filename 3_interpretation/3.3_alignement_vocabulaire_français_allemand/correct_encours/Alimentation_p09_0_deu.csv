@@ -1,0 +1,58 @@
+	German_voc	deu_is_noun	French_voc	fra_is_noun
+0	Hamburger Aalsuppe f	False	insatiable	False
+1	Bauernfrühstück n	False	festoyer, gueuletonner /iam)	False
+2	Be(e)tensuppe f	False	se taper la cloche	False
+3	Biersuppe	False	être un gros angeur	False
+4	Dampfnudeln fol	False	le goinfre ; glouton, goinfre	True
+5	Erbspüree n	False	bouffer	False
+6	falscher Hase m	False	la nourriture ; le repas ; le anger	True
+7	Frikadellen fol	False	la boutfe/boustifaille	True
+8	Graupensuppe mit Backpflaumen	False	bäfrer, s'empifrer	False
+9	gebratene Kalbsleber auf Berliner	False	se gaver	False
+10	Art	False	dévorer	False
+11	Hackepeter m	False	ingurgiter	False
+12	halver Hahn m	False	l'appétit 	True
+13	Himmel und Erde	False	appétissant	False
+14	Kalbshaxe ? mit Gewürzgurkensoße	False	donner de l'appétit à qn	False
+15	Kalbsrolle f	False	manger de bon appétit	False
+16	Kartoffelklöße mol mit Pflaumenmus	False	couper l'appétit à qn	False
+17	Kartoffelpuffer m mit Apfelmus	False	le anque d’appétit	True
+18	Kasseler Rippenspeer m/n	False	manger du bout des lèvres	False
+19	Königsberger Klopse mpl	False	chipoter, grignoter	False
+20	Labskaus m	False	Vous n'avez presque rien pris.	False
+21	Leberkäs m	False	Bon appétit !	False
+22	Matjesfilets npl	False	le repas	True
+23	Pichelsteiner Fleisch n	False	le petit déjeuner	True
+24	Ragoüt fin n	False	prendre le petit déjeuner	False
+25	Sauerbraten m	False	le déjeuner ; déjeuner	True
+26	gedünstetes Sauerkraut m	False	le dîner ; le souper	True
+27	Fleisch(- und Wurst)aufschnitt m	False	dîner, souper	False
+28	Schwedenplatte f	False	le goûter, la collation, le quatre-heures	True
+29	strammer Max m	False	goûter, prendre le goûter	False
+30	Weingelee n	False	le repas du soir 	True
+31	westfälisches Blindhuhn n	False	le repas de ête, le estin	True
+32	Westfälischer Pfefferpotthast m	False	l'hôte ; l’hôtesse 	True
+33		False	une aison hospitalière	True
+34		False	inviter qn à diner	False
+35		False	inviter qn à prendre une tasse	False
+36		False	de café	False
+37		False	s’inviter	False
+38		False	le pique-assiette	True
+39		False	Le repas est prêt.	True
+40		False	Le repas est servi.	True
+41		False	À table !	False
+42		False	passer à table ; être à table	False
+43		False	Bon appétit !	False
+44		False	l'invité, l'hôte 	True
+45		False	le convive	True
+46		False	la voisine de table	True
+47		False	la table	True
+48		False	metire le couvert, dresser	False
+49		False	la table	True
+50		False	Le couvert est is.	True
+51		False	débarrasser 	False
+52		False	la nappe	True
+53		False	metire la nappe	False
+54		False	la serviette 	True
+55		False	déplier sa serviette	False
+56		False		False

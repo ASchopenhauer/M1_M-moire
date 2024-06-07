@@ -1,0 +1,32 @@
+	German_voc	deu_is_noun	French_voc	fra_is_noun
+0	das wild lebende Säugetier, e	True	le ammiiere Sauvage	True
+1	die Huftiere npl	True	les ongulés 	True
+2	der Hirsch, &	True	le cerf \	True
+3	der Rot-/Edelhirsch	True	le cerf	True
+4	das Geweih, e	True	les bois /la ramure	True
+5	"der Spieß, e ;der Spießbock, ""e"	True	la dague ; le daguet	True
+6	"das Horn, ""er"	True	la corne	True
+7	gehörnt ; horn(art)ig	False	à corne/cornu ; corné	False
+8	röhren/schreien ; das Röhren	False	bramer ; le brame	False
+9	äsen tr	False	paitre tr/pâturer 	False
+10	"die Hirschkuh, ""e"	True	la biche	True
+11	"das Hirschkalb, ""er"	True	le aon	True
+12	das Wildschwein, e	True	le sanglier	True
+13	der Keiler, -/der Eber, -	True	le sanglier âle	True
+14	ein alter Keiler	False	un Solitaire 	True
+15	"die Wildsau, ""e/en/die Bache, n"	True	la laie	True
+16	der Frischling, e	True	le arcassin	True
+17	"der (Wild)schweinskopf, ""e"	True	la hure	True
+18	der Hauer, -	True	la défense 	True
+19	das Rudel, -	True	la compagnie/la harde	True
+20	die Suhle, n	True	la bauge	True
+21	sich suhlen	False	se vautrer dans la bauge	False
+22	die Antilope, n	True	ol’antilope 	False
+23	der Wisent, e ;. der Bison, s	True	le bison ; le bison d'Amériq; 	True
+24	der Moschusochse, n, n	True	le bœuf usqué	True
+25	der Moschus	True	le usc 	True
+26	"der Steinbock, ""e"	True	le bouquetin	True
+27	der Büffel, -	True	le buffle	True
+28	„das Kamel, e ; die Kamelstute, n	False	le chameau : la chamelle	True
+29	das Dromedar, e	True	le dromadaire	True
+30		False		False

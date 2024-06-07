@@ -1,0 +1,44 @@
+	German_voc	deu_is_noun	French_voc	fra_is_noun
+0	lagern	False	stocker, être stocké	False
+1	ab-lagern	False	déposer	False
+2	die Deponie, n/die Müllkippe, n, die Müllhalde, n	True	la décharge	True
+3	die wilde Müllkippe, n	True	la décharge sauvage	True
+4	den Müll ab-laden, u, a, ä	False	décharger les ordures	False
+5	die Müllabfuhr	True	le ramassage/la collecte des	True
+6	der Müllarbeiter, -/Müllmänner (fam)	True	ordures	False
+7	die Vorsortierung ; vor-sortieren	True	l'éboueur n	True
+8	die Entsorgung des Mülls	True	le trifage) ; trie	True
+9	das Retycling/die Wiederverwertung	True	la récupération des ordures	True
+10	die wieder verwertbaren Abfallstoffe	True	le recyclage	True
+11	wieder verwerten	False	les déchets recyclables	True
+12	das Altpapier	True	recycler	False
+13	das Retyclingpapier	True	le papier à recycler	True
+14	das Altglas	True	le papier recyclé	True
+15	die Einwegilasche, n	True	le verre à recycler	True
+16	die Kunststoffabfälle	True	la bouteille non consignée	True
+17	in den Mülleimer werfen, a, 0, i	False	les déchets de atières	True
+18	etw weg-werfen, a, 0, |	False	plastiques	False
+19	der Müllzerkleinerer, -	True	ojeter à la poubelle	False
+20	die Zerkleinerung	True	jeter qc, se débarrasser de q	False
+21	der Müllschlucker, -	True	le broyeur d’ordures	True
+22	der Mülleimer/der Abfalleimer, -	True	le broyage	True
+23	die Mülltonne, n	True	le vide-ordures	True
+24	der Müllsack	True	la boîte à ordures/la poubell	True
+25	"der Plastiksack, ""e"	True	la poubelle	True
+26	der Müllbehälter, -/die Großraumtonne, n	True	le sac poubelle	True
+27	die Müllverbrennungsanlage, n	True	le sac en plastique	True
+28	verbrennen, a, a	False	le bac à ordures	True
+29	"der Giftmüll/der Sonderabfall, ""e"	True	l'usine / d’incinération	True
+30	giftig	False	incinérer	False
+31	der Giftstoff, e	True	les déchets toxiques |	True
+32	"das Dioxinfass, ""er"	True	toxique	False
+33	der Giftmüllexport	True	le produit toxique	True
+34	die Radioaktivität	True	le üt de dioxine	True
+35	die radioaktiven Abfälle	True	l'exportation des déchets	True
+36	schwach-, mittel-, hochradioaktiv	False	toxiques	False
+37	die atomare Entsorgung	True	la radioactivité	True
+38		False	les déchets radioactifs	True
+39		False	faiblement, oyennement, hautement radioactif	False
+40		False	l'évacuation 7 des substance	True
+41		False	radioactives	False
+42		False		False

@@ -1,0 +1,26 @@
+	German_voc	deu_is_noun	French_voc	fra_is_noun
+0	künstlich	False	artificiel	False
+1	der Achat, e	True	l'agate 	True
+2	der Aquamarin, e	True	l'aigue-marine 	True
+3	der Bernstein, e	True	l'ambre jaune	True
+4	der Amethyst, &	True	l'améthyste 	True
+5	der Beryll, e	True	le béryl	True
+6	die Koralle, n	True	le corail	True
+7	der Korund, e	True	le corindon	True
+8	der Diamant, en, en	True	le diamant	True
+9	der Brillant, en, en	True	le brillant	True
+10	der Smaragd, e	True	l'émeraude 	True
+11	der Granat, e	True	le grenat	True
+12	der/die Jade	True	le jade	True
+13	der Jaspis, se	True	le jaspe	True
+14	der Lapislazuli, -	True	le lapis	True
+15	der Malachit, e	True	la alachite	True
+16	das Katzenauge, n	True	l'œil-de-chat 	True
+17	der Onyx, e	True	l'onyx 	True
+18	der Opal, e	True	l'opale 	True
+19	der Mondstein, e	True	la pierre de lune	True
+20	der Rubin, e	True	le rubis	True
+21	der Saphir, e	True	le saphir	True
+22	der Topas, e	True	la topaze	True
+23	der Turmalin, e	True	la tourmaline	True
+24	der Türkis, e	True	la turquoise	True

@@ -1,0 +1,63 @@
+	German_voc	deu_is_noun	French_voc	fra_is_noun
+0	die Zitterpappel/die Espe, n	True	\(l'acacia , le imosa	False
+1	die Schwarzpappel	True	l'ailante /le vernis du Japo	True
+2	die Welß-/Silberpappel	True	l'arbre de Judée	True
+3	die Pyramidenpappel	True	l'au(I}ne n ; l'aulne blanc	True
+4	die (Wald)kiefer, n/die Föhre, n	True	l'aulne glutineux/le vergne	True
+5	die Bergkiefer/die Legföhre	True	le baobab	True
+6	die Schwarzkiefer ;die Strandkiefer	True	le bouleau	True
+7	die Pinie, n	True	le bouleau blanc/verruqueur	True
+8	die Zirbel(kiefer), n/die Arve, n	True	le bouleau pubescent	True
+9	der Pinienzapfen, -	True	le bouleau nain	True
+10	die Piniole, n/der Pinienkern, e	True	le catalpa	True
+11	"der Kiefernwald, ""er"	True	le cèdre	True
+12	die Platane, n	True	le c. du Liban	False
+13	die (Gemeine) Robinie, n	True	le c. de l'Himalaya	False
+14	"der Sandelbaum, ""&"	True	le cerisier acide/le griottier	True
+15	die Tanne, n	True	le c. ahaleb/de Sainte-Luci	False
+16	die Weiß-/Edeltanne	True	le charme	True
+17	die Blaufichte/die Stechfichte, n	True	le châtaignier, le arronnier	True
+18	die Douglastanne/die Douglasie, n	True	la châtaigne, le arron	True
+19	die Morgenländische Fichte	True	la bogue	True
+20	die Schimmel-/Weißfichte	True	le chêne	True
+21	"der Tannenwald, ""er"	True	le chêne pédonculé	True
+22	die Weide, n	True	le chêne rouvre/chêne sessi	True
+23	die Trauer-/Hängeweide	True	le chêne-liège	True
+24	die Salweide	True	le chêne pubescent	True
+25	die Korbweide	True	le chêne vert/l'yeuse 	True
+26	die Weidenrute, n	True	le gland	True
+27	eine Kopfweide	False	le tan ; le tanin	True
+28	der Weidenheger, -	True	la chênaie	True
+29	"der Mammuthbaum, ""e"	True	le cocotier	True
+30	die Eberesche, n/der Vogelbeerbaum	True	le cyprès	True
+31	der Spierling/Speierling, e	True	l'épicéa , le sapin	True
+32	die Vogelbeere, n	True	l'érable 	True
+33	die Eselsfeige, n/die Sykomore, n	True	l'ér. sycomore ; l'ér. plane	True
+34	die Thuja, jen/der Lebensbaum	True	l'ér. champèêtre/l'acéraille 	True
+35	die Linde, n	True	l'eucalyptus 	True
+36	die Sommerlinde	True	le rêne	True
+37	die Winterlinde	True	l'orne /le rêne à leurs	True
+38	der Tulpenbaum	True	la anne	True
+39	Sträucher mp/	False	le hêtre	True
+40	die Preiselbeere/die Kronsbeere, n	True	la hêtraie	True
+41	die Moosbeere	True	la aîne/faine	True
+42	der Stechginster, -	True	le ginkgo/l’arbre aux 40 écu:	True
+43	die Mehlbeere, n	True	lifm	False
+44	die Elsbeere, n	True	le agnolia	True
+45	der Wilde Wein/die Jungiernrebe, n	True	le arronnier ; le arron d'Inde	True
+46	"der Erdbeerbaum, ""e"	True	le élèze	True
+47	der Sanddorn, e	True	le erisier : la erise	True
+48	der Weißdorn/der Hagedorn	True	le ürier blanc	True
+49	"der Blasenstrauch, ""er"	True	le noyer	True
+50	der Gemeine Seidelbast, e	True	la noix	True
+51	die Heide/die Erika, s/ken	True	le brou	True
+52	die Besenheide/das Heidekraut	True	le brou de noix	True
+53	die Grauheide	True	l'orme 	True
+54	"der Schmetterlingsstrauch, ""er"	True	l'ormeau 	True
+55	"der Buchsbaum, ""e"	True	l'orme champétre/rouge	True
+56	der Feuerdorn, e	True	l'arme de ontagne/blanc	True
+57	"der Johannisbrotbaum, ""@"	True	le palétuvier	True
+58	das Johannisbrot, e/die Karube, n	True	le palmier	True
+59	das Geißblatt/die Heckenkirsche, n	True	le palmier-dattier	True
+60		False	le peuplier‘	True
+61		False		False

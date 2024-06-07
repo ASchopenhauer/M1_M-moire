@@ -1,0 +1,31 @@
+	German_voc	deu_is_noun	French_voc	fra_is_noun
+0	die Quarzuhr	True	la ontre à quartz	True
+1	die Taschenuhr	True	la ontre de poche	True
+2	die Taucheruhr ; wasserdicht	True	la ontre de plongée ; étanche	True
+3	die Pendeluhr	True	la pendule	True
+4	die Wanduhr	True	la pendule urale	True
+5	der Pendel, -	True	le pendule/le balancier	True
+6	der (Reise)wecker, -	True	le réveil 	True
+7	die Sanduhr	True	le sablier	True
+8	das Uhrwerk, e	True	le écanisme d’horlogerie	True
+9	das Gehäuse, -	True	le boîtier	True
+10	"das Zifferblatt, ""er"	True	le cadran	True
+11	die Digitalanzeige, n	True	l'affichage digital	True
+12	der Zeiger, -	True	l'aiguille r	True
+13	der Minutenzeiger	True	la grande aiguille	True
+14	der Stundenzeiger	True	la petite aiguille	True
+15	der Sekundenzeiger	True	la trotteuse	True
+16	die Sekunden an-zeigen	True	marquer les secondes	False
+17	im Uhrzeigersinn	False	dans le sens des aiguilles	False
+18	das Räderwerk, e	True	d’une ontre	False
+19	"das Zahnrad, ""er"	True	les rouages 	True
+20	die Hemmung, en/das Hemmwerk, e	True	la roue dentée	True
+21	das Pendel, -	True	l'échappement 	True
+22	die Schwingung, en	True	le balancier	True
+23	das Ticken ; ticken	True	l'oscillation 	True
+24	"der Piepton, ""e"	True	le tic-tac ; aire tic-tac	True
+25	auf-ziehen, o, 0 ; der Aufziehknopf	False	le bip	True
+26	die Batterie, n	True	remonter ; le remontoir	False
+27	der Uhrmacher, -	True	la pile	True
+28		False	l'horlager 	True
+29		False		False

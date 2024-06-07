@@ -1,0 +1,61 @@
+	German_voc	deu_is_noun	French_voc	fra_is_noun
+0	die Blaue Kugeldistel, n	True	la boule azurée/l'échinops 	True
+1	die Glockenblume	True	la campanule	True
+2	die Kanna, s/das Blumenrohr, e	True	le canna/le balisier	True
+3	die Kapuzinerkresse, n	True	la capucine	True
+4	die Mariendistel, n	True	le chardon Notre-Dame	True
+5	die Winterchrysantheme, n	True	le chrysanthème 	True
+6	"die Herzblume, n/""Tränendes Herz"	True	le cœur de Jeannette/ de Marie	True
+7	die Kaiserkrone, n	True	la couronne impériale	True
+8	der Krokus, -/se/der Safran, e	True	le crocus/le safran	True
+9	die Dahlie, n/die Georgine, n	True	le dahlia	True
+10	die Christ-/Schneerose, n	True	l’ellébore rose-de-Noël 	False
+11	der Winterling, e	True	l'éranthe d'hiver	True
+12	die Steppenlilie, n	True	l'érémure 	True
+13	die Schach(brett)blume	True	la ritillaire damier /fr. pintade	True
+14	die Kokardenblume	True	la gaillarde	True
+15	die Geranie, n/die Pelargonie, n	True	le géranium	True
+16	der Goldlack	True	la giroflée jaune	True
+17	die Levkoje, n	True	la atthile	True
+18	die Gladiole, n/die Siegwurz, en	True	le glaïeul	True
+19	das Schleier-/Gipskraut	True	la gypsophile	True
+20	das Heliotrop, e/die Sonnenwende, n	True	l’héliotrope 	False
+21	die Hortensie, n	True	l'hortensia 	True
+22	die Schleifenblume/das Schneekissen	True	l'iberis blanc	True
+23	die Strohblume/die Immortelle, n	True	l'immortelle \(	True
+24	das Fleißige Lieschen	True	limpatiens	False
+25	die Schwertlilie, n	True	Firis 	False
+26	die Hyacinthe, n	True	la jacinthe	True
+27	die Nachtviole, n	True	la julienne	True
+28	die Lilie, n	True	le lis/lys	True
+29	Türkenbundillie ; Feuerlilie	False	lis artagon ; lis jaune	False
+30	die Lotosblume/der Lotos, -	True	le lotus	True
+31	die Lupine, n	True	le lupin	True
+32	die Trichtermalve, n	True	la alope	True
+33	das Löwenmaul	True	le uflier/la gueule-de-loup	True
+34	die Traubenhyazinthe, n	True	le uscari	True
+35	die Weiße Narzisse, n	True	le narcisse des poètes	True
+36	die Gelbe Narzisse/die Osterglocke, n	True	le narcisse trompette, la jonquille	True
+37	die Nelke, n	True	l'œillet 	True
+38	die Federnelke ; die Bartnelke	True	l’o. ignardise ; lo. de poète	False
+39	die Sam(me)tblume/die Tagetes, -	True	l’œillet d'Inde, la rose d'Inde	False
+40	die Passionsblume	True	la passiflore/la leur de la Passion	True
+41	der Goldmohn, e	True	le pavot de Californie	True
+42	das Stiefmütterchen, -	True	la pensée	True
+43	die Petunie, n	True	le pétunia	True
+44	der Phlox, e/die Flammenblume, n	True	le phlox	True
+45	der Rittersporn, &	True	le pied-d’alouette/ le delphinium	True
+46	die Pfingstrose, n/die Päonie, n	True	la pivoine	True
+47	die Duftwicke, n/die Wohlriechende	True	le pois de senteur/la gesse	True
+48	Platterbse	False	odorante	False
+49	das Portulakröschen, -	True	le pourpier	True
+50	die Reseda, den/der Wau, e	True	le réséda	True
+51	die Zimmerkalla, s	True	le richardia, l'arum 	True
+52	die Rose, n	True	la rose ; le rosier	True
+53	"der Rosenstock, ""e"	True	le rosier	True
+54	eine Zucht-/Edelrose	False	une rose de culture	True
+55	der Rosenzlichter, -	True	le rosiériste	True
+56	"der Rosengarten, """	True	la roseraie	True
+57	die Stockrose, n/der Rote Eibisch, e	True	la rose trémière	True
+58	eg	False		False
+59		False		False

@@ -1,0 +1,60 @@
+	German_voc	deu_is_noun	French_voc	fra_is_noun
+0	die Weiße Taubnessel, n	True	la véronique	True
+1	der Lavendel	True	la vesce	True
+2	die Wasserlinse, n	True	la vilette	True
+3	die Ackarwinde, n	True	_le vulpin des prés	False
+4	"die Mondviole, n/das Silberblatt, ""er"	True	plantes	False
+5	die Hainsimse, n	True	les plantes édicinales/ officinales/les simples 	True
+6	die Kuckuckslichtnelke, n	True	utilisé en pharmacopée	False
+7	"die Wassernuss, ""e"	True	l'herboristerie 	True
+8	der Rohrkolben, -	True	l'herboriste 	True
+9	der Stein-/Honigklee (Bienenpflanze)	True	4 Fabsinthe 	False
+10	der Ackergauchheil, e	True	l’achillée millefeuille	False
+11	die Vogel(stern)miere, n	True	laconit n napel	False
+12	der Ackersenf, e	True	l'acore odorant	True
+13	das Maiglöckchen, -	True	laigremoine eupatoire	False
+14	das Vargissmeinnicht, -/e	True	l’alkékenge /le physalis	False
+15	die See-/\Wasserrose, n	True	lalchémille 	False
+16	die Gelbe Teichrose/die Mummel, n	True	l'angélique 	True
+17	die Komrade, n	True	lanis vert	False
+18	die Jungfer im Grünen	True	l’anis étoilé/la badiane	False
+19	der Ackerschwarzkümmel, -	True	l’arnica +	False
+20	die Frühlingsknotenblume, n	True	l’armoise commune	False
+21	das Knabenkraut	True	l'asaret 	True
+22	die Kleine Brennnessel, n	True	l'aunée 	True
+23	die Große Brennnessel	True	la ballote	True
+24	der Alpen-Mannstreu, -	True	la bardane	True
+25	die Stranddistel, n	True	la belladone	True
+26	das Gänseblümchen, -/das Maßliebchen, -	True	la berce sphondyle	True
+27	die Einbeere, n	True	le bouillon-blanc/la olène	True
+28	die Passionsblume, n	True	officinale	False
+29	das Schneeglöckchen, -	True	la baurdaine	True
+30	das Immergrün	True	la bourse-à-pasteur, la capselle	True
+31	der Löwenzahn	True	la busserolle/le raisin d'ours	True
+32	die (Sumpf)dotterblume, n	True	la camomille	True
+33	die Schlüsselblume, n/die Primel, n	True	la camomille romaine	True
+34	die Aurikel, n	True	la petite centaurée	True
+35	die Duftende Schlüsselblume	True	la chélidoine	True
+36	die Teufelskralle, n	True	la grande consoude	True
+37	der Hahnenfuß/die Ranunkel, n	True	la digitale pourprée	True
+38	der Scharfe Hahnenfuß	True	la douce-amère	True
+39	die Giftranunkel, n	True	le enouil	True
+40	das Schilfrohr, e	True	la icaire	True
+41	der Frauenschuh	True	la umeterre officinale	True
+42	das Pfeilkraut	True	la gentiane jaune/la grande	True
+43	das Glasschmalz, e/der Queller, -	True	gentiane	False
+44	"der Große Bocksbart, ""e"	True	la guimauve	True
+45	der Steinbrech, e	True	l'hamamélis 	True
+46	die Skabiose, n/das Grindkraut	True	l'hysope officinale	True
+47	das Salomonssiegel, -	True	la joubarbe	True
+48	der Blaustern, e	True	la jusquiame	True
+49	das Kreuzkraut	True	le lierre terrestre/ le gléc\ome	True
+50	das Leimkraut	True	la andragore	True
+51	die Wegrauke, n	True	le arrube blanc	True
+52	die Scldanelle, n/die Troddelblume, n	True	la auve sauvage/ la grande auve	True
+53	die Stellarie, n/Sternmiere, n	True	la élisse, la citronnelle	True
+54	der Klee	True	la enthe poivrée	True
+55	der Bitter-/Fieberklee	True		False
+56	die Trollblume, n .	True		False
+57	die Goldrute, n	True		False
+58		False		False

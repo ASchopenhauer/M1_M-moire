@@ -1,0 +1,63 @@
+	German_voc	deu_is_noun	French_voc	fra_is_noun
+0	die Schallwelle, n	True	l'aberration chromatique	True
+1	die Wellenbewegung, en	True	l'astigmatisme 	True
+2	die Schallgeschwindigkeit	True	la distorsion	True
+3	die Stoßwelle, n	True	l'interférence 	True
+4	die Lautstärke	True	la plarisation	True
+5	die Hörempfindung, en	True	le spectre	True
+6	der Infraschall	True	l’analyse spectrale	False
+7	der Ultraschall	True	la décomposition de la lumière	True
+8	die Schallausbreitung	True	l'infrarouge 	True
+9	die Schallmauer	True	lultravilet 	False
+10	durch-brechen, a, o, i	False	le spectroscope	True
+11	der Überschallknall, e	True	l’hologramme 	False
+12	die Schwingung, en	True	l’holographie 	False
+13	die Oszillation, en	True	l'instrument d'optique	True
+14	die gedämpfte Schwingung	True	le verre grossissant	True
+15	schwingen, a, u ; oszillieren	False	la loupe	True
+16	die Schwingungsweite, n	True	le icroscope	True
+17	die Schwingungsdauer, die Periode, n	True	l'oculaire 	True
+18	die Frequenz, en	True	la jumelle/les jumelles	True
+19	die Phase, n	True	la lunette d'approche/ la longue-vue	True
+20	die Welle, n	True	la lunette astronomique/ le réfracteur	True
+21	die Wellenlänge, n	True	le télescope/le réflecteur	True
+22	die Schallabdichtung	True	l'électricité	True
+23	die Schalldammung	True	la charge électrique	True
+24	das Echo	True	l'électron 	True
+25	die Optik	True	chargé négativement, positivement	False
+26	die geometrische Optik	True	la conductivité	True
+27	die Wellenoptik	True	la conductance	True
+28	die physikalische Optik	True	le semi-conducteur	True
+29	die Elektronenoptik	True	non conducteur	False
+30	das Licht	True	le non-conducteur	True
+31	der Lichtstrahl, en	True	l'islant 	True
+32	das Stahlenbündel, -	True	le courant	True
+33	das Photon, en	True	le courant alternatif	True
+34	die Reflexion	True	le courant continu	True
+35	die Beugung, die Diffraktion	True	le courant triphasé	True
+36	die Lichtbrechung, die Refraktion	True	le potentiel électrique	True
+37	die Brechzahl, en	True	la différence de potentiel	True
+38	das Medium, dien	True	la tension	True
+39	der einfallende Strahl	True	la résistance	True
+40	der reflektierte Strahl	True	l'intensité 	True
+41	der gebrochene Strahl	True	le condensateur	True
+42	die Dispersion, en	True	l'induction 	True
+43	die Streuung, en	True	le agnétisme	True
+44	das Prisma, men	True	le champ agnétique	True
+45	der ebene Spiegel/der Planspiegel, der Konvexspiegel, -	True	le pôle	True
+46	der Hohlspiegel, -	True	Faimant 	False
+47	der Parabolspiegel, -	True	l'onde électromagnétique	True
+48	das optische Bild, er	True	le radar	True
+49	die Linse, n	True	le laser	False
+50	bikonkav ; bikonvex	False	la physique atomique	True
+51	plankonvex	False	la physique nucléaire	True
+52	die Sammellinse	True	nucléaire	False
+53	die Zerstrauungslinse	True	atomique	False
+54	das Objektiv, e	True	la recherche nucléaire	True
+55	die Brennweite, n	True	la atière	True
+56	der Brennpunkt, e	True		False
+57	die Brennlinie, n	True		False
+58	die Fokussierung	True		False
+59	die optische Aberration, en	True		False
+60	die sphärische Aberration	True		False
+61		False		False

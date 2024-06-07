@@ -1,0 +1,24 @@
+	German_voc	deu_is_noun	French_voc	fra_is_noun
+0	der Ziegelrote Risspilz	True	l'inocybe de patouillard	True
+1	der Echte Reizker, -	True	le lactaire délicieux	True
+2	der Birkenreizker/der Zottige Reizker	True	le lactaire toisonné	True
+3	der Riesenschirmpilz/der Parasolpilz	True	la lépiote élevée/ la coulemelle	True
+4	der Fleischrötliche Schirmling, e	True	la lépiote brune	True
+5	die Speisemorchel, n	True	la orille commune	True
+6	der Orangenbecherling, e	True	la pezize orangée	True
+7	die Stinkmorchel	True	le phallus impudique/ _ le satyre puant	True
+8	der Austernseitling, e	True	le pleurote huître	True
+9	der Frauentäubling, e	True	la russule charbonnière	True
+10	der Speisetäubling	True	la russule comestible	True
+11	der Speitäubling	True	la russule émétique	True
+12	der Grünfelderige Täubling	True	la russule verdoyante	True
+13	der Grünling, e/der Edelritterling, e	True	le tricholome équestre	True
+14	der Violette Ritterling	True	le trich. nu/le pied-bleu	True
+15	der Rußiggestreifte Ritterling	True	le trich. prétentieux	True
+16	der Mairitterling	True	le trich. de la Saint-Georges	True
+17	der Tigerritterling	True	le ousseron	True
+18	die Trüffel, n	True	le tricholome tigré	True
+19	die Herbsttrompete, n	True	la truffe	True
+20	der Flaschenstäubling, e/der Flaschenbovist, e	True	la trompette des orts/ la corne d’abondance	True
+21		False	la vesse-de-loup perlée/ ___le lycoperdon perlé	True
+22		False		False

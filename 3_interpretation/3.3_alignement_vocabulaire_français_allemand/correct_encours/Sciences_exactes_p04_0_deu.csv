@@ -1,0 +1,62 @@
+	German_voc	deu_is_noun	French_voc	fra_is_noun
+0	der Erste von+D	True	| le premier de [le eilleur)	False
+1	die beiden ersten	True	les deux premiers \(d'un group	True
+2	die beiden Ersten	True	les deux premiers	True
+3	die ersten drei	True	les trois premiers	True
+4	die letzten drei	True	les trois derniers	True
+5	der erste Beste/der Erstbeste	True	le premier venu	True
+6	der Allererste, der Allerletzte	True	le tout premier, le tout dernie	True
+7	als Einziger ; ein einziger Mann	False	le seul ; un seul homme	True
+8	kein Einziger	False	pas un	False
+9	allein sein	False	être seul	False
+10	in ein oder zwei Tagen	False	dans un ou deux jours	False
+11	die Eins; die Zwei	True	le un, le deux	True
+12	Franz der Erste/Franz I.	False	François ler 	False
+13	Wilhelm der Zweite/Wilhelm Il, das Zweite Kaiserreich	False	Guillaume Il 	False
+14	die beiden Hände	True	le Second Empire	True
+15	wir beide ; alle beide	False	les deux ains	True
+16	einer von beiden	False	nous deux ; tous les deux	False
+17	keiner von uns beiden	False	l'un des deux	True
+18	Menschen beiderlei Geschlechts	False	aucun de nous deux	False
+19	ein Paar Schuhe	False	des personnes des deux	True
+20	ein schönes Paar	False	sexes	False
+21	ein paar/einige Kirschen	False	une paire de chaussures	True
+22	Wir haben den Elften. (Datum)	False	un beau couple	True
+23	Wir waren zu zweit.	False	quelques cerises	True
+24	zu zweit, dritt, viert, fünft, sechst	False	Nous sommes le onze.	False
+25	zu siebt, acht, neunt, zehnt	False	Nous étions deux.	False
+26	zu zweien/zweit ; zu dreien/dritt	False	à deux, trois, quatre, cinq, si	False
+27	Stellt euch zu viert/zu vieren auf !	False	à sept, huit, neuf, dix	False
+28	jeden zweiten Tag	False	deux par deux ; trois par trai	False
+29	jeder Dritte	False	Mettez-vous en rang par	False
+30	je einer, je zwei, je drei	False	quatre.	False
+31	eine kinderreiche Familie	False	tous les deux jours	False
+32	zahlreich erscheinen*, ie, ie	False	un sur trois	True
+33	ötre du nombre des invites	False	un, deux, trois à la ois	True
+34	eine unzählige Menge	False	une amille nombreuse	True
+35	der Größe nach ordnen	True	venir en nombre/nombreux	False
+36	das zweitälteste Kind	True	zu den Gästen zählen	False
+37	der drittgrößte Schüler	True	une oule innombrable	True
+38	unter vier Augen	False	classer par ordre de grandeur	False
+39	auf allen vieren gehen, i, a	False	le secand enfant par rang	True
+40	Wie oft ?	False	d'âge	False
+41	einmal, 1-mal ;zweimal, 2-mal	False	le troisième élève par rang de taille	True
+42	Einmal ist'keinmal.	False	en tête à tête/ entre quatre-z-yeux	False
+43	8s war einmal	False	marcher à quatre pattes	False
+44	zum ersten Mal	False	Combien de ois ?	False
+45	zum x-tenmal: (fam)	False	une ois ; deux ois	True
+46	mehrmals	False	Une ois n’est pas coutume, il était une ois	True
+47	jedes Mal	False	pour la première ois	False
+48	zum letzten Mal	False	pour la énième ois	False
+49	nicht:lange fackeln (fam)	False	à plusieurs reprises	False
+50	doppelt so teuer wie	False	chaque ois	True
+51	halb'so teuer wie	False	pour la dernière ois	False
+52	zum halben Preis	False	ne aire ni une ni deux	False
+53	auf halbem Wege	False	deux ois plus cher que	False
+54	die halbe Stadt	True	moitié oins cher que	False
+55		False	à oitié prix	False
+56		False	à i-chemin	False
+57		False	la oitié de la ville	True
+58		False	 	False
+59		False	 	False
+60		False		False

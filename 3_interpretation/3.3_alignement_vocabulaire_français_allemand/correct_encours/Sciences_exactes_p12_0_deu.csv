@@ -1,0 +1,58 @@
+	German_voc	deu_is_noun	French_voc	fra_is_noun
+0	heure	False	« l'heure 	False
+1	die Uhr(zeit)	True	l'indication de l'heure	True
+2	die Zeitangabe, n	True	le temps universel 	True
+3	die Weltzeit	True	l'heure locale	True
+4	die Ortszeit	True	le useau horaire	True
+5	die Zeitzone n	True	le décalage horaire	True
+6	die Zeitverschiebung	True	la esure du temps	True
+7	die Zeitmessung	True	l'heure 	True
+8	die Stunds, n	True	le quart d'heure	True
+9	die Viertelstunde	True	trois quarts d’heure	False
+10	drei Viertelstunden	False	la demi-heure	True
+11	die halbe Stunde	True	la inute	True
+12	die Minute, n	True	la seconde	True
+13	die Sekunde, n	True	le dixième de seconde	True
+14	die Zehntelsekunde	True	odemander l'heure	False
+15	nach der Uhr fragen	False	Quelle heure est-il ?	False
+16	Wie spät ist es ?//Wieviel Uhr ist es ?	False	regarder l'heure	False
+17	nach der Uhr sehen, a, e, I	False	Ma ontre est à l'heure.	True
+18	Meine Uhr geht richtig.	False	Elle avance de deux inutes	False
+19	Sie geht zwei Minuten vor.	False	Elle retarde.	False
+20	Sie geht nach.	False	Elle s'est arrêtée.	False
+21	Sie ist stehen geblieben.	False	mettre sa ontre à l'heure	False
+22	seine Uhr stellen	False	ne plus archer/être	False
+23	nicht mehr gehen‘, |, a	False	détraqué	False
+24	Es ist sechs (Uhr) /sechs Uhr	False	Ilest six heures/six heures d	False
+25	morgens.	False	matin, 	False
+26	Punkt sechs (Uhr)	False	six heures précises	False
+27	Es ist sechs vorbei.	False	ILest six heures passées/plu	False
+28	sechs Uhr fünfzehn (Minuten) /ein	False	de six heures.	False
+29	Viertel nach sechs/vlertel sieben	False	six heures quinze, six heures et quart/6 h 15	False
+30	(Sud) 6.15 Uhr	False	six heures vingt-cinq	False
+31	sechs Uhr fünfundzwanzig/fünfundzwanzig nach sechs/fünf	False	six heures trente/six heures	False
+32	vor halb sieben	False	et demi	False
+33	sechs Uhr dreißig/halb sieben	False	six heures trente-cinq	False
+34	sechs Uhr fünfunddreißig/fünf nach halb sieben	False	l'est six heures quarante/ sept heures oins vingi.	False
+35	Es ist sechs Uhr vierzig/zwanzig vor sieben.	False	six heures quarante-cinq/sel	False
+36	‚| sechs Uhr fünfundvierzig/|	False	heures oins le quart	False
+37	Um wieviel Uhr soll ich kommen ?	False	À quelle heure dois-le venir	False
+38	um zwölf (Uhr)	False	à idi	False
+39	um Mitternacht/um zwölf Uhr nachts	False	à inuit	False
+40	um eins/um dreizehn Uhr	False	à une heure/à treize heures	False
+41	gegen zehn (Uhr abends) /	False	vers dix heures / vers 22 heures	False
+42	gegen 22 Uhr	False	un peu avant, après	True
+43	kurz vor, nach zehn	False	dix heures	False
+44	die Zeitmessung	True	la esure du temps	True
+45	die Sonnenuhr, en	True	le cadran slaire	True
+46	das Chronomeler, -, die Sioppuhr	True	le chrono	True
+47	mit der Stoppuhr messen, a, e, |	False	chronométrer	False
+48	die Kuckucksuhr	True	le coucou	True
+49	die Turmuhr	True	la horloge	True
+50	das Glockenspiel, e ; das Geläute	True	le carillon	True
+51	schlagen, u, a, ä, läuten	False	sonner	False
+52	die Caesiumuhr	True	l'horloge à césium	True
+53	die (telefonische) Zeitansage	True	l'horloge parlante	True
+54	die Standuhr, en	True	l'horloge de parquet/à poide	True
+55	die Armbanduhr	True	la ontre-bracelet	True
+56		False		False

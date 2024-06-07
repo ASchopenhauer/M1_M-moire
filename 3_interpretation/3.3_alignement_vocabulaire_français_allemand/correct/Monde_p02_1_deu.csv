@@ -1,0 +1,61 @@
+	German_voc	deu_is_noun	French_voc	fra_is_noun
+0	der Stoßstrahl	True	l'onde de propagation	True
+1	"der Erdstoß, ""e"	True	le ouvement sismique	True
+2	die Erdbebenwelle, n	True	l'onde sismique	True
+3	die Stärke	True	la agnitude 	True
+4	nach der Richterskala	False	sur l'échelle de Richter	False
+5	der Seismograph, en, en	True	le sismographe	True
+6	die Erdspalte, n	True	la crevasse	True
+7	der Bodenriss, e	True	la issure	True
+8	der Ergrutsch, e	True	le glissement de terrain	True
+9	"der Einsturz, ""e"	True	l'éboulement 	True
+10	zusammen-stürzen*	False	s’ébouler, s’écrouler	False
+11	das Seebeben	True	le séisme océanique	True
+12	die Flutwelle, n/der Tsunami, s	True	le razdemarée/le tsunam	True
+13	die Naturkatastrophe, n	True	la catastrophe naturelle	True
+14	die gefährdeten Gebiete	True	les zones ; à risques	True
+15	/die Küste überfluten	True	submerger la côte	False
+16	der Vulkan, &	False	le volcan	True
+17	vulkanisch, Vulkan-	False	volcanique	False
+18	tätig ; erloschen	True	en activité ; éteint	False
+19	die Vulkanologie	True	la volcanologie	True
+20	der Vulkanologe, n, n	True	le volcanologue	True
+21	der Vulkanismus	True	le volcanisme	True
+22	der (Vulkan)krater, -	True	le cratère	True
+23	das Maar, e (erloschener Vulkan)	True	le cratère-lac 	True
+24	der Schlot, e	True	la cheminée	True
+25	"der Vulkanausbruch, ""&"	True	l'éruption volcanique	True
+26	"der Lavastrom, ""e"	True	la coulée de lave	True
+27	die Lava, en	True	la lave	True
+28	die Asche	True	les cendres 	True
+29	das Magma, men	True	le agma	True
+30	das Vulkangestein, e	True	la roche volcanique	True
+31	der Geysir, e/der Geiser, -	True	le geyser	False
+32	die Erakugel/der Erdball	True	le globe terrestre	True
+33	die Achse, n	True	l'axe 	True
+34	die Halbkugel, n	True	l'hémisphère 	True
+35	die Südhalbkugel	True	l'hémisphère austral	True
+36	die Nordhalbkugel	True	l'hémisphère boréal	True
+37	die Erdkarte, n	True	le planisphère, la appemonde	True
+38	die geographischen Koordinaten fpl	True	les coordonnées ; géographiques	True
+39	der Pol,e	True	le pôle	False
+40	der Nordpol ; der Südpol	False	le pôle Nord ; le pôle Sud	True
+41	Polar-, Pol-, polar	True	plaire	True
+42	die (geographische) Breite, n	True	la latitude	False
+43	der Breitengrad, e	False	le degré de latitude	True
+44	auf 48 Grad nördlicher Breite	True	à 48 degrés de latitude Nord	True
+45	der Breitenkreis, e	True	le parallèle	False
+46	der Polarkreis, e	True	le cercle plaire	True
+47	die Arktis ; die Antarktis	True	l'Arctique ; l’Antarctique 	True
+48	der Nordpolarkreis	True	le cercle plaire arctique	True
+49	der Südpolarkreis	True	le cercle plaire antarctique	True
+50	die polaren Eiskappen fp/	True	les calottes plaires	True
+51	der Wendekreis des Krebses	True	le tropique du Cancer	True
+52	der Wendekreis des Steinbocks	True	le tropique du Capricorne	True
+53	die Tropen pl	False	les tropiques 	True
+54	tropisch, Tropen-	True	tropical	True
+55	der Äquator	False	l'équateur 	False
+56	Äquator-, äquatorial	True	équatorial	True
+57	die (geographische) Länge, n	True	la longitude	False
+58	der Längengrad, e	True	le degré de longitude	True
+59	der Längenkreis, e/der Meridian, ©	False	le éridien	True

@@ -1,0 +1,63 @@
+	German_voc	deu_is_noun	French_voc	fra_is_noun
+0	verschieben, o, o (auf+A)	False	différer, reporter, 	False
+1	auf unbestimmte Zeit vertagen	False	repousser 	False
+2	die Frist verlängern	True	ajourner sine die	False
+3	eine Galgenfrist gewähren	False	prolonger un délai	False
+4	der Ablauf	True	accorder un délai de grâce	False
+5	sich in die Länge ziehen, 0, 0	False	l'expiration 	True
+6	die Verschleppung	True	traîner en longueur	False
+7	Ich komme erst morgen.	False	l'atermoiement 	False
+8	die Verspätung	True	le n'arriverai que demain.	True
+9	sich verspäten	False	le retard	True
+10	zu spät kommen“, a, 0	False	se ettre en retard, s'attardi	False
+11	der Nachzügler, -	True	arriver en retard	False
+12	die Verspätung auf-holen	True	le retardataire	True
+13	die Verzögerung, en	True	rattraper le retard	False
+14	eine Verzögerung erfahren, u, a, ä	False	le retard	True
+15	verzögern	False	subir un retard	False
+16	die Pünktlichkeit	True	retarder	False
+17	immer pünktlich sein	False	la ponctualité, l'exactitude	True
+18	immer rechtzeitig an-kommen*, a, o	False	être toujours ponctuel	False
+19	pünktlich kommen*	False	être toujours à l'heure	False
+20	10 Minuten zu früh kommen, a, o	False	arriver à l’heure	False
+21	das Warten	True	arriver avec 10 inutes	False
+22	warten auf jdn, etw	False	d'avance	False
+23	auf sich warten lassen, ie, a, ä	False	l'attente 	True
+24	jdn, etw erwarten	False	attendre qn, qc incertitude)	False
+25	ein Kind erwarten	False	se aire attendre	False
+26	Das war zu erwarten.	False	attendre qn, qc	False
+27	ab-warten	False	attendre un enfant	False
+28	Warten wir ab !	False	On pouvait s'y attendre.	False
+29	eine abwartende Haltung	False	laisser venir	False
+30	die Dauer	True	Attendons !	False
+31	auf die Dauer	False	une attitude d'expectative	True
+32	dauern	False	la durée	True
+33	Es dauert einen Monat.	False	à la longue	False
+34	andauernd	False	durer	False
+35	der Augenblick, e, der Moment, e	True	Cela dure un ois.	False
+36	bis auf weiteres, vorläufig	False	continuel, persistant	False
+37	fürs Nächste, momentan	False	l'instant , le oment	True
+38	in diesem Augenblick	False	pour le oment/l'instant	False
+39	einen A. lang, im ersten A.	False	momentanément	False
+40	von dem Augenblick an, wo	False	à ce oment-là	False
+41	Einen Moment/Augenblick, bitte !	False	sur le oment	False
+42	jeden Augenblick	False	à partir du oment où	False
+43	im Nu	False	Un instant, s’il vous plait.	True
+44	in null Komma nichts (fam)	False	d’un instant à l’autre	False
+45	vor einem Augenblick	False	en un instant	False
+46	alle Augenblicke	False	en oins de deux \/ en cinq sec	False
+47	zeitweise, ab und zu	False	il y a un instant	False
+48	Jetzt istes an der Zeit.	False	à tout instant, à tout bout de champ	False
+49	im richtigen Moment	False	par instants, par oments	False
+50	der entscheidende Augenblick	True	C'est le oment.	False
+51	Wie lange ?	False	au bon oment	False
+52	längstens, höchstens	False	l'instant décisif	True
+53	vier Monate lang	False	Pendant combien de temps	False
+54	stundanlang, monatelang	False	tout au plus	False
+55	eine Zeitlang	False	pendant quatre ois	False
+56	den ganzen Tag	False	pendant des heures, des c	False
+57	den ganzen Tag über	False	pendant un certain temps	False
+58	tagelang	False	toute la journée	False
+59		False	du atin	False
+60		False	pendant/durant des jours	False
+61		False		False

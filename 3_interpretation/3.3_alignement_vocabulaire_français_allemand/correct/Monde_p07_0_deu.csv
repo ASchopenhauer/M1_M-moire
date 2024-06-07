@@ -1,0 +1,61 @@
+	German_voc	deu_is_noun	French_voc	fra_is_noun
+0	Der Schnee ist geschmolzen.	False	La neige a ondu.	True
+1	der Schnegmatsch	True	la neige ondue	True
+2	der Eisgang	True	la débâcle	True
+3	die Wolke, n	True	le nuage	True
+4	die Bewölkung	True	les nuages , la nébulosité	True
+5	die Haufenwolke/der Kumulus, Ii	True	le cumulus	True
+6	die Federwolke/der Cirrus, ri	True	le cirrus	True
+7	der Cirrokumulus/die Schäfchenwolke	True	le cirro-cumulus/le nuage moutonné	True
+8	die Regenwolke/der Nimbus (vx)	True	le nimbus	False
+9	die Schichtwolke/der Stratus, ti	True	le stratus	True
+10	ein bewölkter Himmel	False	un ciel nuageux, un ciel bas	True
+11	ein wolkenloser Himmel	False	un ciel dégagé, sans nuages	True
+12	sich (mit Wolken) bedecken	False	se couvrir 	True
+13	der Regen; im Regen	True	la pluie; sous la pluie	False
+14	die Regenfälle mp/	True	les pluies, les chutes de pluie	True
+15	die Niederschläge mpl	True	les précipitations 	True
+16	die Niederschlagsmenge	True	la pluviosité	True
+17	der Niederschlagsmesser, -	True	le pluviomètre	True
+18	die Regenzeit	True	la saison des pluies	True
+19	ein regnerischer Tag	False	une journée pluvieuse	True
+20	ein trübes Wetter	False	un temps aussade	True
+21	regnen : es regnet	False	pleuvoir : il pleut	True
+22	der Regentropfen, -	True	la goutte de pluie	False
+23	tröpfeln : es tröpfelt	False	pleuvasser : il pleuvasse	True
+24	der Regenschauer, -, der Platzregen, -	True	l'averse 	False
+25	"der Regenguss, ""e"	True	l'ondée 	True
+26	der Aprilschauer, -	True	la giboulée de mars	True
+27	gießen, o, ossen	False	pleuvoir fort	True
+28	Es gießt (in Strömen).	False	Il pleut à verse/à torrents.	False
+29	"der Wolkenbruch,""e"	True	la pluie torrentielle, diluvienne	False
+30	die Sintflut	True	le déluge	True
+31	Was für ein Unwetter !	False	Quel auvais temps !	True
+32	das Gewitter	True	l’orage 	True
+33	gewittrig : es sieht gewittrig aus	False	orageux : il ait orageux	False
+34	ein heftiges Gewitter	False	un vilent orage	False
+35	drohen ;nahen*	False	menacer ; approcher	True
+36	weiter-ziehen”, 0, 0	False	s'éloigner	False
+37	los-brechen*, a, o, |	False	éclater	False
+38	nieder--gehen*, i, a (über+D)	False	s'abattre	False
+39	der Blitz, e	True	l'éclair ; la oudre	False
+40	Es blitzt.	False	Il ya des éclairs.	True
+41	Der Blitz hat eingeschlagen.	False	La oudre est tombée.	False
+42	vom Blitz getroffen/erschlagen werden	False	être oudroyé	True
+43	der Blitzableiter, -	False	le paratonnerre	False
+44	der Donner ; donnern	True	le tonnerre ; tonner	True
+45	Es donnert.	True	lltonne./Le tonnerre gronde.	True
+46	"der Donnerschlag, ""e"	False	le coup de tonnerre	False
+47	das Wetterleuchten	True	les éclairs de chaleur	True
+48	der Regenbogen, -	True	l’arc-en-ciel 	True
+49	"der Hagel ; das Hagelkorn, ""er"	True	la grêle ; le grêlon	False
+50	hageln : es hagelt	True	grêler : il grêle	True
+51	die Graupeln fpl: es graupelt	False	le grésil : il tombe du grésil	False
+52	der Nieselregen/der Sprühregen	True	la bruine/le crachin	True
+53	nieseln : es nieselt	True	bruiner : il bruine	True
+54	der Nebel, -	False	le brouillard	False
+55	der Frühnebel	True	le brouillard atinal	True
+56	der Frostnebel	True	le brouillard givrant	True
+57	eine Waschküche (fam)	True	une purée de poix	True
+58	der leichte Nebel, der Dunst	False	la brume	True
+59	der Rauhreif	True	le givre	True

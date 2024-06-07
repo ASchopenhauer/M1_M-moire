@@ -1,0 +1,63 @@
+	German_voc	deu_is_noun	French_voc	fra_is_noun
+0	um diese Zeit	False	la nuit où …	True
+1	damals	False	ce atin ; hier atin	True
+2	unzeitgemäß	False	ce atin ; demain atin 	True
+3	eine unzeitgemäße Kälte	False	ce atin 	True
+4	überholt sein	False	à idi ; hier idi	False
+5	rückständig sein	False	cet après-midi	True
+6	Anno dazumal	False	ce soir ; hier soir	True
+7	einst{mais), ehemals, vormals	False	cette nuit ; la nuit dernière	True
+8	ehemalig, einstig	False	à 10 heures ; vers 10 heures	False
+9	früher	False	vers idi ; dans la soirée	False
+10	meine früheren Kollegen	False	à la i-septembre	False
+11	vorhergehend, vorherig	False	le commencement, le début, le point de départ	False
+12	gestern ; vorgestern	False	au débui	False
+13	gestrig ; die gestrigen Ereignisse	False	au début d'octobre	False
+14	Wie lange ist das her ?	False	au commencement, tout	False
+15	Er ist eben aus dem Haus gegangen, vor kurzem, kürzlich	False	d'abord	False
+16	neu	False	dès le début	False
+17	neulich	False	commencer	False
+18	in der letzten Zeit, letztens	False	à partir d'aujourd'hui	False
+19	vorigen Monat/letzten Monat	False	à partir de huit heures	False
+20	es ist lange her, dass	False	elafin	False
+21	(schon) längst	False	à la in de juillet	False
+22	von jeher, seit jeher, schon immer	False	à la in de la guerre	False
+23	in grauer Vorzeit	False	toucher à sa in	False
+24	seinerzeit	False	enfin	False
+25	vor dem Winter	False	la in, la conclusion	True
+26	vor einem Jahr	False	finalement	False
+27	am Vorabend des Festes	False	IL a ini par venir.	False
+28	eine Stunde zuvor	False	finir ; se terminer par	False
+29	am Tag zuvor	False	terminer/mettre in à/achev	False
+30	zwei Tage vor Ostern/vor dem Fest	False	prendre in	False
+31	einen Monat zuvor	False	en avoir ini avec	False
+32	das Jahr zuvor	True	cesser, s'arrêter	False
+33	die Vorzeitigkeit ; älter (als)	True	finir bien, al	False
+34	verfrüht	False	le présent	True
+35	vor der Zeit, vorzeitig	False	à présent	False
+36	die Zukunft	True	aujourd’hui	False
+37	(zu)künftig	False	de nos jours	False
+38	in Zukunft, fortan	False	d'aujourd'hui, actuel	False
+39	morgen	False	d'abord	False
+40	übermorgen	False	en premier lieu, tout d’abort	False
+41	in vierzehn Tagen	False	présent, actuel	False
+42	in etwa acht/vierzehn Tagen	False	moderne, actuel	False
+43	in einem Jahr	False	moderne	False
+44	nächstes Jahr	False	être de son temps	False
+45	zu einem späteren Datum	False	ne plus être dans le coup	False
+46	am Tage nach dem Fest	False	être à la page ; être à jour	False
+47	am folgenden Tage/am Tag danach	False	la ise à jour	True
+48	am Abend darauf	False	être en avance sur son tem	False
+49	nach dem Sommer	False	marquer son temps	False
+50	nach einem Monat	False	faire époque	False
+51	nach einer Weile	False	la simuitanéité	True
+52	am folgenden Sonntag	False	simultané ; simultanément	False
+53	in der folgenden Woche	False	au ême oment	False
+54	drei Monate danach/später	False	entre(-}tzmps	False
+55	bis dahin	False	pendant ce temps	False
+56	kurz vor Mittag	False	dans l'intervalle	False
+57	binnen kurzem	False	arriver au oment opportur	False
+58	von jetztan	False	arriver à un auvais ome!	False
+59	heute in acht Tagen	False	à une heure indue	False
+60		False	° le passé ; passé	False
+61		False		False

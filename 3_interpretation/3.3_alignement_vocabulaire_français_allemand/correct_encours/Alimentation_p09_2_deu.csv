@@ -1,0 +1,17 @@
+	German_voc	deu_is_noun	French_voc	fra_is_noun
+0	a.	False	la aim	True
+1	der Hunger	True	avoir aim, avoir un creux	False
+2	Hunger haben, hungrig sein	False	avoir une aim de loup	False
+3	einen Heißhunger, Bärenhunger	False	le eurs de aim.	True
+4	haben	False	J’ai la ringale.	False
+5	Ich sterbe noch vor Hunger.	False	le la saute.	True
+6	Ich schiebe Kohldampf. (pop)	False	être affamé	False
+7	ausgehungert, verhungert sein	False	anger	False
+8	essen, a, 8, I, speisen	False	le casse-croûte, l’en-cas 	True
+9	der Imbiss, e	True	prendre un en-cas, anger un	False
+10	einen Imbiss zu sich nehmen, a, o, i	False	morceau	False
+11	futtern	False	casser la croûte/la graine	False
+12	im Stehen essen	False	manger sur le pouce	False
+13	sich satt essen	False	manger à sa aim	False
+14	satt	False	rassasié, repu	False
+15		False		False

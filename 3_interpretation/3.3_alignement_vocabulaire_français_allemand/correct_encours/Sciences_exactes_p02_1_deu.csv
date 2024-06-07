@@ -1,0 +1,49 @@
+	German_voc	deu_is_noun	French_voc	fra_is_noun
+0	mbres	False	 l'arithmétique 	False
+1	die Arithmetik	True	l'arithméticien 	True
+2	der Arithmetiker, -	True	le nombre ; le chifire	True
+3	die Zahl, en	True	pair ; impair	False
+4	gerade ; ungerade	False	le chiffre rond	True
+5	die runde Zahl	True	le nombre naturel	True
+6	die natürliche Zahl	True	le nombre réel	True
+7	die reelle Zahl	True	le nombre algébrique	True
+8	die algebraische Zahl	True	le nombre transcendant	True
+9	die transzendente Zahl	True	le nombre imaginaire	True
+10	die imaginäre Zahl	True	le nombre rationnel	True
+11	die rationale Zahl	True	le nombre irrationnel	True
+12	die Irrationale Zahl	True	le nombre relatif	True
+13	die relative Zahl	True	le nombre entier	True
+14	die ganze Zahl	True	le nombre premier	True
+15	die Primzahl	True	le nombre positif	True
+16	die positive Zahl	True	le nombre négatif	True
+17	die negative Zahl	True	le nombre complexe	True
+18	die komplexe Zahl	True	le nombre ractionnaire	True
+19	die gebrochene Zahl	True	la numération	True
+20	das Zahlensystem, e	True	le système décimal	True
+21	das Dezimalsystem	True	le nombre décimal	True
+22	die Dezimalzahl	True	la virgule	True
+23	das Komma, s/ta	True	la décimale	True
+24	die Dezimalstelle, n/die Dezimale, n	True	le chiffre des dixièmes	True
+25	die Zehntel npl	True	le chiffre des centièmes	True
+26	die Hundertstel np/	True	le chiffre des illièmes	True
+27	die Tausendstel np/	True	un nombre de trois chiffres	True
+28	eine dreistellige Zahl	False	l'unité 	True
+29	der Einer, -	True	le chiffre des unités	True
+30	die Einerstelle, n	True	la dizaine	True
+31	der Zehner, -	True	le chiffre des dizaines	True
+32	die Zehnerstelle, n	True	la centaine	True
+33	der Hunderter, -	True	le chiffre des centaines	True
+34	die Hunderterstelle, n	True	le chiffre, le nombre	True
+35	die Ziffer, n/das Zahlzeichen, -	True	en chiffres arabes	False
+36	in arabischen Ziffern	False	en chiffres romains	False
+37	in römischen Ziffern	False	numéroter les pages	False
+38	die Seiten beziffern/nummerieren	True	le numéro	True
+39	die Nummer, n	True	le numéro d’ordre	True
+40	die Ordnungsnummer	True	le nombre [la quantité)	True
+41	die Anzahl	True	un grand nombre de le nombre cardinal	True
+42	eine große Anzahl von+D	False	zéro ; un ; deux ; trois ; quatr	False
+43	die Kardinalzahl/die Grundzahl , an	True	cing ; six ; sept : huit ; neuf	False
+44	null ; eins ; zwei ; drei ; vier	False	dix ; onze ; douze ; treize	False
+45	fünf; sechs ;sieben ; acht ; neun	False		False
+46	zehn ; elf ; zwöff ; dreizehn	False		False
+47		False		False

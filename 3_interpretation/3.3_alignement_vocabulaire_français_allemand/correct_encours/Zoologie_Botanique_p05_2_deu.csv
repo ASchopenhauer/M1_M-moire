@@ -1,0 +1,24 @@
+	German_voc	deu_is_noun	French_voc	fra_is_noun
+0	die Filz-/Schamlaus	True	3	False
+1	die Nisse, n	True	2 des lits	False
+2	"der Floh, ""e"	True	à des hois	False
+3	die Wanze, n	True	: rouge, le gendarm	False
+4	die Bettwanze	True	n	False
+5	die Baumwanze	True	3	False
+6	die Fauerwanze	True	ille	False
+7	"die Blattlaus, ""e"	True	vert	False
+8	das Silberfischchen, -	True	éra	False
+9	"die Koschenilleschildlaus, ""e"	True	aquatiques	False
+10	die Kermesschildlaus	True	1e bordé	False
+11	die Reblaus	True	rem	False
+12	Wasserinsekten nol	False	laraïgnée \( d’eau	False
+13	der Gelbrandkäfer, -	True	ageur, le tournique	False
+14	die Eintagsfliege, n	True	ètre 	False
+15	der \Vasserschneider, -	True	ile brun	False
+16	der Taumelkäfer, -	True	3, la demoiselle	False
+17	der Teichläufer, -	True	usse	False
+18	der Große Kolbenwasserkäfer	True	ne	False
+19	die Libelle, n, die Wasserjungfer, n	True		False
+20	der Wasserskorpion, e	True		False
+21	die Wassermotte, n	True		False
+22		False		False

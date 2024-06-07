@@ -1,0 +1,50 @@
+	German_voc	deu_is_noun	French_voc
+0	der Heuboden	True	le grenier à foin, le fenil
+1	der Schuppen	True	le hanga, la remise
+2	die Tierzucht	True	e la production animale, l'élevage
+3	der Viehzüchter, -	True	l’éleveur de hétail
+4	"der Tierarzt, ""e"	True	le vétérinaire
+5	die Tierpflege	True	les soins des animaux
+6	die Hormonbehandlung, en	True	le traitement hormonal
+7	die Maul- und Klauenseuche	True	la fièvre aphteuse
+8	der Rinderwahnsinn (BSE)	True	la maladie de la vache folle (ESB)
+9	die Schweinepest	True	la peste porcine
+10	die Schafseuche Scrapie	True	la tremblante du mouton
+11	die Notschlachtung, en	True	l'abattage forcé, d'urgence
+12	Viehzucht betreiben, ie, ie, Vieh züchten	False	faire de l'élevage, pratiquer l'élevage
+13	das Zuchttier, e	True	l'animal reproducteur
+14	ein Tier zur Zucht benutzen	False	utiliser un animal pour la reproduction
+15	eine Rasse veredeln	False	améliorer une race
+16	aus einer Kreuzung hervor-gehen*, , a	False	être issu d'un croisement
+17	(künstlich) besamen	False	inséminer tr
+18	die (künstliche) Besamung, en	True	l’insémination
+19	der Samen, -	True	le sperme
+20	brünstig sein	False	être en chaleur
+21	paaren	False	accoupler
+22	das Decken	True	la saillie
+23	begatten/decken	False	monter {une femelle)
+24	ein trächtiges Weibchen	False	une femelle pleine/grosse
+25	die Trächtigkeit(sdauer)	True	la gestation
+26	werfen, a, o, i/gebären, a, o	False	mettre bas/mettre au monde
+27	"der Wurf, ""@"	True	la parturition ; la portée
+28	das Vieh	True	le bétail, les bestiaux
+29	die Viehzucht	True	l'élevage
+30	"der Viehbestand, ""e"	True	le cheptel
+31	das lebende Vieh	True	le bétail sur pied
+32	das Großvieh	True	le gros bétail
+33	das Kleinvieh	True	le petit/menu bétail
+34	das Mastvieh	True	le bétail d’embouche, les animaux à l'engrais
+35	der Mastbetrieb, &	True	l'entreprise r d’engraissemer
+36	mästen	False	engraisser
+37	das Mästen	True	lengraissement
+38	die Fleischmast	True	l’engraissement pour la production de viande
+39	das Stallvieh	True	le bétail en stabulation
+40	die Massentierhaltung, die Batteriehaltung	True	l'élevage en batterie
+41	die Mastbox, en	True	le box d'engraissement
+42	"der Stall, ""e"	True	l'étable
+43	"der Anbindestall, ""e"	True	l'étable entravée
+44	die Futtermittel npr	True	les aliments pour le bétail
+45	der Futterbedarf	True	les besoins fourragers
+46	der Futtervorrat	True	les provisions fourragères
+47	das Futter	True	le fourrage
+48	der Futterkuchen	True	le tourteau

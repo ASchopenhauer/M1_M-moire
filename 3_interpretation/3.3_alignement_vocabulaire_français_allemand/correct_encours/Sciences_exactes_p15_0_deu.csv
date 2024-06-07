@@ -1,0 +1,74 @@
+	German_voc	deu_is_noun	French_voc	fra_is_noun
+0	rund um die Uhr	False	24 heures sur 24	False
+1	das Entschwinden der Zeit	True	la uite du temps	True
+2	entschwinden*, a, u	False	fuir, s'écouler	False
+3	vergehen‘, i,a	False	os'écouler, passer	False
+4	verlaufen“, ie, au, äu	False	se dérouler, se passer	False
+5	einen angenehmen Abend	False	passer une soirée agréable	False
+6	verbringen, a, a	False	passer son temps à lire	False
+7	sich die Zeit mit Lesen	False	Cela demande du temps.	False
+8	vertreiben, ie, ie	False	Il était temps.	False
+9	Das braucht viel Zeit.	False	C'était oins cinq.	False
+10	Es war höchste Zeit.	False	prendre son temps	False
+11	Es wäre fast passiert.	False	le trouve le temps long.	True
+12	sich Zeit nehmen, a, 0, i	False	tuer le temps	False
+13	Mir wird die Zeit lang.	False	jusqu'au ois prochain	False
+14	die Zeit tot-schlagen, u, a, ä	True	jusqu'à présent	False
+15	bis zum nächsten Monat	False	jusqu'à nouvel ordre	False
+16	bis heute/bis jetzt	False	jusque tard dans la nuit	False
+17	bis auf weiteres	False	à partir de demain	False
+18	bis in die späte Nacht hinein	False	ouvert sans interruption de ghaïgh	False
+19	von morgen ab/ab morgen	False	fermé entre 12het13h	False
+20	von 9 bis 18 Uhr durchgehend	False	du jour au lendemain	False
+21	geöffnet	False	du 10 ars au 10 ai	False
+22	zwischen 12 und 13 Uhr geschlossen	False	depuis un ois	False
+23	von heute auf morgen	False	depuis longtemps	False
+24	vom 10. März bis zum 10. Mai	False	il y a bien longtemps, il y a	False
+25	seit einem Monat	False	belle lurette 	False
+26	schon lange, seit geraumer Zeit	False	oublié depuis longtemps	False
+27	|	False	jusqu'à une date récente	False
+28	|	False	jusqu’à ce jour	False
+29	|	False	le ais le trajet en trois jours.	True
+30	|	False	le reviendrai dans trois jours	True
+31	|	False	en l’espace de, dans un	False
+32	|	False	délai de 	False
+33	|	False	pendant tout ce temps	False
+34	|	False	avec le temps	False
+35	|	False	au cours de la conversation	False
+36	|	False	dans le courant du ois	False
+37	1	False	progressivement	False
+38	es ist (schon) lange her	False	peu à peu	False
+39	längst vergessen	False	durant tout ce temps	False
+40	bis vor kurzem	False	la répétition	True
+41	bis zum heutigen Tag \	False	la réquence	True
+42	Ich schaffe die Strecke in drei Tagen. |	False	fréquent, réquemment	False
+43	Ich komme in drei Tagen zurück. |	False	souvent, réquemment	False
+44	innerhalb (+G), innerhalb vor (+D)	False	la plupart du temps/les trois	True
+45	während der ganzen Zeit	False	quarts du temps	False
+46	im Laufe der Zeit, mit der Zeit	False	Combien de ois ?	False
+47	im Laufe des Gesprächs	False	une ois ; deux ois ; trois ois	True
+48	im Laufe des Monats	False	pour la première ois	False
+49	allmählich	False	la dernière ois	True
+50	nach und nach, allmählich	False	pour la dernière ois	False
+51	die ganze Zeit über |	True	plusieurs ois	True
+52	die Wiederholung |	True	à nouveau	False
+53	die Häufigkeit j	True	de nouveau	False
+54	häufig	False	de temps en temps/de temps	False
+55	oft	False	à autre/par oments	False
+56	|	False	toutes les demi-heures	False
+57	|	False	ioutes les heures	False
+58	meist/meistens/die meiste Zeit |	False		False
+59	|	False		False
+60	Wie oft ? |	False		False
+61	einmal ; zweimal ; dreimal ı	False		False
+62	zum ersten Mal |	False		False
+63	das vorige Mal !	True		False
+64	zum letzten Mal |	False		False
+65	ein paarmal	False		False
+66	aufs Neue, erneut	False		False
+67	abermals, nochmals	False		False
+68	von Zeit zu Zeit/ab und zu/dann und |	False		False
+69	wann/hin und wieder |	False		False
+70	alle halbe Stunde(n) |	False		False
+71	stündlich |	False		False
+72		False		False

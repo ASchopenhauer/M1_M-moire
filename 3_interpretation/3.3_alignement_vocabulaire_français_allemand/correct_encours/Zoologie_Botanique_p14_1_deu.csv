@@ -1,0 +1,64 @@
+	German_voc	deu_is_noun	French_voc	fra_is_noun
+0	"der Blütenstand, ""e"	True	la plante, le végétal	True
+1	die Traube, n	True	monoïque ; dioïque	False
+2	die Dolde, n	True	annuel ; bisannuel	False
+3	die Trugdolde	True	vivace, pluriannuel	False
+4	die Doldentraube, n	True	la plante herbacée vivace	True
+5	das Körbchen, -, das Köpfchen, -	True	la plante aquatique	True
+6	die Ähre, n ; das Ährchen, -	True	la plante carnivore	True
+7	das Kätzchen, -	True	la pl. épiphyte/l'épiphyte 	True
+8	"der Kelch, e ; das Kelchblatt, ""er"	True	la racine ; la r, principale ; la r, adventive	True
+9	die Scheide, n	True	la racine pivotante/le pivot	True
+10	der Blütenkolben, -	True	la radicelle	True
+11	die Rispe, n ;rispenförmig	True	le poil absorbant	True
+12	die Blumenkrone, n	True	la coiffe	True
+13	"das Blütenblall, ""er"	True	la racine tubéreuse	True
+14	das Fruchtblatt	True	prendre racine	False
+15	die Braktee, n	True	avoir ses racines	False
+16	"das Staubblatt, ""er"	True	solidement enraciné	False
+17	der Staubfaden, ”	True	la tige 	True
+18	der Staubbeutel, -	True	sortir de terre	False
+19	der Blütenstaub/der Pollen, -	True	la pousse	True
+20	der Stempel, -	True	le drageon	True
+21	der Fruchtknoten, -	True	la tige 	True
+22	der Griffel, -	True	une plante acaule	True
+23	die Narbe, n	True	le rhizome	True
+24	die Blütezeit, das Blühen	True	le bulbe, l'oignon 	True
+25	blühen	False	le tubercule	True
+26	das Aufblühen	True	la plante grimpante	True
+27	auf-springent, a, U	False	la plante sarmenteuse	True
+28	auf-blühen*	False	la vrille	True
+29	Der Baum steht vor der Blüte.	False	la liane	True
+30	in (voller) Blüte stehen, a, a	False	le crampon	True
+31	ein Baum voller Blüten	False	la racine aérienne	True
+32	ein Blütenzweig	False	la plante volubile	True
+33	eine blumige Wiese	False	la plante rampante	True
+34	geblümt	False	le stolon, le coulant	True
+35	großblütig ; rotblütig	False	l’épine , le piquant	False
+36	blütentragend ; vielblütig	False	l’aiguillon , le piquant	False
+37	"der Duft, ""e"	True	épineux, piquant	False
+38	einen Duft aus-strömen	False	le bourgeon	True
+39	duftend ; wohlriechend	False	b. terminal ; b. axillaire	False
+40	Diese Rose duftet.	False	le bouton, le bourgeon lora	True
+41	Der Garten duftet nach Flieder.	False	l'œil, le bourgeon naissant	True
+42	der Samen, -	True	bourgeonner itr	False
+43	"das Keimblatt, ""er"	True	le nœud ; l’entre-nœud 	True
+44	der Keim, e	True	la euille	True
+45	die Keimung, en; keimen	True	opposé ; alterne	False
+46	der Keimling, e	True	composé ; simple	False
+47	"die Frucht, ""e"	True	denté ; crénelé	False
+48	"die Fruchtwand, ""e"	True	lobé ; trilobé	False
+49	die Schale, n	True	palmé ; trifolié	False
+50	das Endokarp, 8	True	sagitté, lancéoié	False
+51	der Stiel, e	True	le pétile, la queue	True
+52	die fleischige Frucht	True	pédonculé ; sessile	False
+53	das Fruchtfleisch	True	la stipule	True
+54	die Beere, n	True	le limbe	True
+55	der Kern, &	True	la nervure	True
+56	kernlos	False	la leur	True
+57	die Steinfrucht	True	une tige à leur solitaire	True
+58	der Stein, e, der Kern	True	le pédoncule	True
+59	"die Nuss, ""e"	True		False
+60	die Trockanfrucht	True		False
+61	die Öffnungsfrucht, die Springfrucht	True		False
+62		False		False

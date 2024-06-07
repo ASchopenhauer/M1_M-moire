@@ -1,0 +1,28 @@
+	German_voc	deu_is_noun	French_voc	fra_is_noun
+0	der Erdteil, e/der Kontinent, e	True	le continent	True
+1	das Land	True	la terre 	True
+2	das Festland	True	la terre erme	True
+3	der (Erd)boden	True	le sol	True
+4	die Oberfläche, die Fläche, n	True	la surface	True
+5	"der Untergrund, ""e"	True	le sous-sol	True
+6	die Bodenbeschaffenheit	True	la nature du sol	True
+7	die Zone, n	True	la zone	True
+8	die heiße/tropische, gemäßigte Zone	True	la zone tropicale, tempérée	True
+9	die Polarzone	True	la zone plaire	True
+10	die Landschaft, en	True	le paysage, le site naturel	True
+11	die Wüste, n	True	le désert	True
+12	die Oase, n	True	l'oasis /m	True
+13	die Luftspiegelung, en/die Fata Morgana, nen	True	le irage	True
+14	die Pampa, s	True	la pampa	True
+15	die Savanne, n	True	la savane	True
+16	die Steppe, n	True	la steppe	True
+17	die Taiga	True	la taïga	True
+18	die Tundra, ren	True	la toundra	True
+19	das Gebiet, e	True	le territoire ; la région	True
+20	das Staatsgebiet	True	le territoire national	True
+21	die Region, en, die Gegend, en	True	la région, la contrée	True
+22	der Landstrich, e	True	la contrée 	True
+23	der Ort, e	True	le lieu, le coin	True
+24	die Stelle, n	True	l'endroit 	True
+25	der Standort	True	l'emplacement ; la positic	True
+26	die Lage, n	True	la situation, le site, l'emplacement 	True

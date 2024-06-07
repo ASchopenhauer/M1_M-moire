@@ -1,0 +1,59 @@
+	German_voc	deu_is_noun	French_voc	fra_is_noun
+0	die Goldgrube, n	True	la ine d’or	True
+1	goldhaltig	False	aurifère	False
+2	die Golagewinnung	True	la production aurifère	True
+3	der Goldsucher, -, der Goldgräber, -	True	le chercheur d'or	True
+4	der Goldstaub	True	la poudre d’or	True
+5	der Goldklumpen, -	True	la pépite d’or	True
+6	das Eisenbergwerk, e	True	la ine de er	True
+7	die Schwefelgrube, n	True	la soufrière	True
+8	die Kaligrude, n	True	la ine de potasse	True
+9	die Torigrube, n ; der Torf	True	la tourbière ; la tourbe	True
+10	das Kohlenbergwerk, e	True	la ine de charbon	True
+11	die Kohle, n	True	le charbon	True
+12	die Steinkohle	True	la houille	True
+13	die Braunkohle	True	le lignite	True
+14	der Anthrazit	True	Fanthracite 	False
+15	das Steinkohlenbergwerk, e	True	la houillère	True
+16	das Kohlenrevier, e	True	le bassin houiller	True
+17	die Grube, n, die Zeche, n	True	la osse	True
+18	"der Grubeneingang, ""e"	True	le carreau de la ine	True
+19	"der Schacht, ""e"	True	le puits de ine	True
+20	der Stollen, - ; die Strecke, n	True	la galerie	True
+21	das Grubengas	True	le grisou	True
+22	die Schlagwetterexplosion, en	True	le coup de grisou	True
+23	die Kohlenhalde, n	True	le terril	True
+24	der Koks	True	le coke	False
+25	die Verkokung ; verkoken	True	la cokéfaction ; cokéfier	True
+26	das Erdöl	True	le pétrle	True
+27	das Ölfeld, er	True	le champ pétrolifère	True
+28	die Erdölgesellschaft, en	True	la compagnie pétrolière	True
+29	die Bohrung, en	True	le orage	True
+30	bohren	False	forer, prospecter	False
+31	eine fündige Bohrung	False	un orage positif	True
+32	die Off-shore-Bohrung	True	le orage en er	True
+33	die Bohrplattform, en, die Bohrinsel, n	True	la plate-forme de orage	True
+34	die Erdölgewinnung, die Erdölförderung	True	la production pétrolière	True
+35	"der Bohrturm, ""e"	True	le derrick	True
+36	der Bohrmeißel, -	True	le trépan	True
+37	der Bohrkern, &	True	la carotte	True
+38	die Ölschicht, en	True	la nappe de pétrle	True
+39	"der Förderturm, ""e"	True	la tour d'extraction	True
+40	die Pumpe, n	True	la pompe	True
+41	das Barrel, 	True	le baril	True
+42	die Erdölleitung, en	True	loléoduc 	False
+43	der Tanker, -	True	le pétrolier	True
+44	die Petrochemie	True	la pétrochimie	True
+45	die Erdölraffinerie, n	True	la raffinerie de pétrle	True
+46	die frakilonierte Destillation	True	la distillation ractionnée	True
+47	das Kracken	True	le craquage	True
+48	die Erdölerzeugnisse npi	True	les produits dérivés du petrle 	True
+49	das Petroleum	True	le pétrle lampant	False
+50	das Heizöl	True	le uel, le azout	True
+51	das Benzin	True	l'essence 	True
+52	das Dieselöl	True	le gazle/gas-oil	True
+53	das Kerosin	True	le kérosène	True
+54	das Erdgas	True	le gaz naturel	True
+55	das Erdgasvorkommen	True	le gisement de gaz naturel	True
+56	die Ferngasleitung, en	True	le gazoduc	True
+57	der Methantanker, -	True	le éthanier	True

@@ -1,0 +1,56 @@
+	German_voc	deu_is_noun	French_voc	fra_is_noun
+0	der Steinpicker, -	True	le chabot cuirassé	True
+1	der Seeskorpion, e	True	le grand chabot de er	True
+2	die Seeratte, n/die Snöke, n	True	la chimère	True
+3	der Seelachs, e/der Köhler, -	True	le colin/le lieu noir	True
+4	der Meeraal, e	True	le congre	True
+5	der Schwarze Umber, -	True	le corb	True
+6	der Klippenbarsch, e	True	le cténlabre des roches	True
+7	der Seehase, n	True	le cycloptère/le lompe	True
+8	der Goldbrassen, -	True	la dorade/daurade	True
+9	der Nordische Meerbrassen	True	la dorade commune/le pag:	True
+10	der Leierfisch, e	True	le dragonnet	True
+11	der Schellfisch	True	l'églefin 	True
+12	der Glatthai, e	True	l'émissle /le chien de er	True
+13	der Stint, e	True	l'éperlan 	True
+14	der Sesstichling, e	True	l'épinoche ; de er	True
+15	der Kleine Sandaal, e	True	l'équille 	True
+16	der Schwertfisch, e	True	l'espadon 	True
+17	der Fleder-/Schwalbenfisch	True	l'exocet 	True
+18	die Flunder, n/der Butt, e	True	le let	True
+19	der Heilbutt, e	True	le létan	True
+20	der Schwarzküling, e	True	le gobie noir	True
+21	der Butterfisch, e	True	la gonelle	True
+22	"der Knurrhahn, ""e"	True	le grondin	True
+23	der Hering, e	True	le hareng	True
+24	das Seepferdchen, -	True	l'hippocampe 	True
+25	das Meerneunauge, n	True	la lamproie arine	True
+26	der Große Sandaal, e	True	le lançon	True
+27	der Pollack, s	True	le lieu jaune	True
+28	der Seelachs, e/der Köhler, -	True	le lieu noir, le colin	True
+29	die Kliesche, n/die Scharbe, n	True	la limande	True
+30	die Echte Rotzunge, n	True	la limande-sle	True
+31	der Leng, e/der Lengfisch, e	True	la lingue/la julienne	True
+32	die Makrele, n	True	le aquereau	True
+33	der Wittling, e	True	le erlan	True
+34	der Blaue Wittling	True	le erlan bleu/le poutassou	True
+35	der Seehecht, e/der Hechtdorsch, e	True	le erlu	True
+36	der Hundshai, e	True	le ilandre	True
+37	die Meeräsche, n	True	le uge, le ulet	True
+38	die Muräne, n	True	la urène	True
+39	der Hornhecht, e	True	l'orphie 	True
+40	die Rotbrasse, n	True	le pageau commun	True
+41	die Scholle, n/der Goldbutt, e	True	la plie/le carrelet	True
+42	der Katfisch/der gestreifte	True	le poisson loup	True
+43	"Seewolf, ""e"	False	le poisson-lune/la êle	True
+44	der Mondfisch, e	True	le poisson pilote	True
+45	der Lotsenfisch	True	le prêtre	True
+46	der Streifenfisch	True	la raie	True
+47	der Rochen, -	True	raie cendrée ; raie bouclée	False
+48	Glattrochen ; Nagelrochen	False	la pastenague	True
+49	der Stechrochen	True	raie torpille ; raie anta	False
+50	Zitterrochen ; Mantarochen	False	la rascasse rouge	True
+51	"die Meersau, ""e"	True	le requin, le squale jt gén)	True
+52	der Hai, e	True	le requin-baleine	True
+53	der Walhai	True	feu nt	False
+54		False		False

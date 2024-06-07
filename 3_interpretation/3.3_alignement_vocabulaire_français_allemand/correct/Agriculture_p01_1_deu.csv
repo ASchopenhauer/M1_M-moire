@@ -1,0 +1,58 @@
+	German_voc	deu_is_noun	French_voc	fra_is_noun
+0	die Geflügelzucht	True	l'aviculture	False
+1	das Geflügel	True	la volaille	True
+2	die Hühnerfarm, en	True	la ferme à poulets	True
+3	die Hühnerhaltung	True	l'élevage de poulets	True
+4	die Bodenhaltung	True	l'élevage sur litière	True
+5	"der Hühnerstall, ""e ; der Scharraum, ""e"	True	le poulailler	True
+6	die Freilandhaltung	True	l'élevage de plein air	True
+7	"der Hühnerhof, ""e"	True	la basse-cour	True
+8	"das Freilandhuhn, ""er"	True	le poulet élevé en plein air	True
+9	das Kornmasthühnchen, -	True	le poulet de grain	True
+10	das Batteriekuhn	True	le poulet de batterie	True
+11	das Fleischhuhn	True	le poulet de chair	True
+12	"der junge Hahn, ""e"	True	le coquelet	True
+13	das Masthuhn	True	la poularde	True
+14	der Kapaun, e	True	le chapon	True
+15	die Legehenne, n	True	la poule pondeuse	True
+16	die Glucke, n	True	la poule couveuse	True
+17	die Kükenbrutmaschine, n	True	la couveuse	True
+18	die Eierproduktion	True	la production d'œufs	True
+19	die Batteriehaltung, en	True	la batterie de ponte	False
+20	die Eier durchleuchten	True	mirer les œufs	True
+21	die Durchleuchtung	True	le mirage	True
+22	die Klassensortierung	True	le calibrage	True
+23	"der Taubenschlag, ""e"	True	le pigeonnier	True
+24	"der Kaninchenstall, ""e"	True	le clapier	False
+25	"das Schlachthaus, ""er"	True	l’abattoir	True
+26	das Schlachttier, e	True	l'animal de boucherie	True
+27	die Schlachtung, en	True	l'abattage	False
+28	schlachten	True	abattre	True
+29	die Zerlegung	False	le découpage	True
+30	das Entbeinen	True	le désossage	False
+31	der Tierkörper, -	True	là carcasse	True
+32	der enthäutete Tierkörper	True	la carcasse dépouillée	True
+33	das Tierkörperviertel, -	True	le quartier	True
+34	die Innereien fol	True	les abats	True
+35	der Abdecker, -	True	l'équarisseur	False
+36	das Abdecken ; die Tierkörperbeseitigung	True	l'équarissage	True
+37	die Fleischbeschau	True	l’inspection sanitaire	True
+38	der Fleischbeschauer, -	True	l'inspecteur sanitaire	False
+39	die Veterinärkontrollnummer, n	True	le numéro de contrôle vétérinaire	False
+40	der Stempel, -	True	l’estampille	True
+41	die Genusstauglichkeitsbescheinigung	True	l'attestation  de consommabilité	True
+42	die Trichinenuntersuchung	True	le dépistage des trichines	True
+43	der Zerlegungsbetrieb, e	True	l'établissement de découpage	True
+44	"das Kühlhaus, ""er"	False	l'entrepôt frigorifique	False
+45	die Gefriereinrichtung, en	True	l’entrepôt de congélation	True
+46	der Fleischgroßhändler, -	True	le chevillard, le grossiste en viande 	False
+47	die Bienenzucht	True	l'apiculture	False
+48	der Imker, -	True	l'apiculteur	True
+49	die Biene, n	True	l'abeille	True
+50	das Bienenvolk	True	la ruchée	True
+51	"das Bienenhaus, ""er"	True	le rucher	True
+52	"der Bienenstock, ""e"	True	la ruche	True
+53	"der Bienenkasten, """	True	la ruche en bois	True
+54	die Wabe, n	True	le rayon de miel	False
+55	die Zelle, n	True	l'alvéole	False
+56	das Wachs, e	True	la cire	False

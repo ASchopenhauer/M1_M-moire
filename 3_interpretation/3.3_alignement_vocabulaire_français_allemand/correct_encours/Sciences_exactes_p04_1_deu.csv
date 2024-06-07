@@ -1,0 +1,37 @@
+	German_voc	deu_is_noun	French_voc	fra_is_noun
+0	die Physik	True	la physique	True
+1	der Physiker, -	True	le physicien	True
+2	die Erfindung, en ; erfinden, a, u	True	l'invention ; inventer	True
+3	der Erfinder, -	True	l'inventeur 	True
+4	der Wissenschaftler, -	True	le scientifique	True
+5	der (namhafte) Wissenschaftler	True	le savant	True
+6	die Entdeckung, en ; entdecken	True	la découverte ; découvrir	True
+7	"ein physikalischer Vorgang, ""e"	False	un phénomène physique	True
+8	die klassische Physik	True	la physique classique	True
+9	die moderne Physik	True	la physique oderne	True
+10	die Quantenphysik	True	la physique quantique	True
+11	die allgemeine Relativitätstheorie	True	la théorie de la relativité	True
+12	die Quantenmechanik	True	générale	False
+13	der Aggregatzustand	True	la écanique quantique	True
+14	der feste Zustand	True	ol'état d'agrégation	False
+15	der Festkörper, - ; Fest-, fest	True	l’état solide	False
+16	der Kristall, @	True	le solide ; solide	True
+17	kristallin	False	le cristal	True
+18	das Kristallgitter, -	True	cristallin	False
+19	die flüssigen Kristalle mpl	True	le réseau cristallin	True
+20	anisotrap	False	les cristaux liquides	True
+21	amorph	False	anisotrope	False
+22	der flüssige Zustand	True	amorphe, vitreux	False
+23	die Flüssigkeit, en	True	l’état liquide	False
+24	flüchtig	False	le liquide	True
+25	der gasförmige Zustand	True	vlatil	False
+26	das Gas, &	True	l’état gazeux	False
+27	das ideale Gas	True	le gaz	True
+28	das reale Gas	True	le gaz parfait, idéal	True
+29	das Plasma, men	True	le gaz réel	True
+30	das Kolloid, e ; kolloidal	True	le plasma	True
+31	die Koagulation, en	True	le colloïde ; colloïdai	True
+32	die Ausflockung, en	True	la coagulation	True
+33	das Sol, &	True	la loculation	True
+34		False	le soi	True
+35		False		False

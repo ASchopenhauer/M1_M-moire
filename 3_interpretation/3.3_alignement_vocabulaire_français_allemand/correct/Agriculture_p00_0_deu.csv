@@ -1,0 +1,47 @@
+	German_voc	deu_is_noun	French_voc
+1	die Landwirtschaft	True	e l'agriculture{v plantes cultivées, p. )
+2	die Agrarwissenschaften fo/	True	l’agronomie
+3	das landwirtschaftliche Forschungsinstitut	True	l'institut de recherche agronomique
+4	das landwirtschaftliche Gymnasium (F)	True	le lycée agricole
+5	die Landwirtschaftsschule, n	True	l'école ; d'agriculture
+6	das Land	True	la campagne
+7	ländlich	False	campagnard, paysan
+8	Land-, landwirtschaftlich	False	rural, de campagne
+9	aufdem Land leben	False	vivre à la campagne
+10	das Landleben	True	la vie rurale
+11	aufs Land ziehen“, 0, 0	False	S'installer à la campagne
+12	die Landflucht	True	l'exode rural
+13	die Verstädterung des Landes	True	l'urbanisation de la campagne
+14	die Landbevölkerung, en	True	la population rurale, les ruraux
+15	die Landgemeinde, n	True	la commune rurale
+16	"das Dorf, ""er"	True	le village
+17	der Dorfbewohner, -	True	le villageois
+18	der Marktflecken, -	True	le bourg
+19	der Weiler, -	True	le hameau
+20	"das Kuhdorf, ""ar (fam, pe)"	True	le bled, le trou
+21	der Landwirt, e	True	l'agriculteur le cultivateur
+22	der Diplomlandwirt, der Agraringenieur, e	True	l'ingénieur agronome
+23	der Landarbeiter, -	True	l'ouvrier agricole
+24	der Tagelöhner, -	True	le journalier
+25	der Bauer, n, n ; die Bäuerin, nen	True	le paysan ; la paysanne
+26	der Bauernstand	True	la paysannerie
+27	der Nebenerwerbsbauer, n, n	True	le paysan-ouvrier ; le cultivateur à temps partiel
+28	der Pächter, -	True	le fermier, le métayer
+29	der Gutsherr, n, en, der Gutsbesitzer, -	True	le propriétaire terrien
+30	der Verwalter, -	True	le régisseur
+31	der Hinterwäldier, -	True	le campagnard
+32	der Kuhbauer, n (pej)	True	le bouseux
+33	der Bauerntölpel, -, der ungshobelte Mensch, en, en	True	le cul-terreux, le plouc/ le péquenaud
+34	bäurisch	False	rustre, grossier, paysan/ campagnard
+35	der landwirtschaftliche Betrieb, e	True	l'exploitation agricole
+36	"der Bauernhof, ""e |"	True	la ferme
+37	der Pachthof |	True	la métairie
+38	"das Gut, ""er"	True	le domaine
+39	ein Gut bewirtschaften	False	exploiter un domaine
+40	die Nebengebäude no/ |	True	les dépendances ;
+41	der/das Futtersilo, s	True	le silo à fourrage
+42	das Silofutter	True	le fourrage ensilé
+43	die Einlagerung in Silos, die Silage	True	l’ensilage
+44	in Silos ein-lagern, silieren	False	ensiler
+45	die Scheune, n	True	la grange
+46	die Tenne, n	True	l’aire

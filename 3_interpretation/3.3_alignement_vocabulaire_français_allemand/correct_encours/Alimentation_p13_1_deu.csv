@@ -1,0 +1,57 @@
+	German_voc	deu_is_noun	French_voc	fra_is_noun
+0	en DAS Seen Eupen	False		False
+1	der schlechte Rotwein	True	(café additionné de rhum et de crèm	False
+2	der Krätzer, -	True	fouettée)	False
+3	der (Trauben)schaumwein	True	la liqueur	True
+4	der Schaumwein mit zugesetzter	True	la crème de cassis	True
+5	Kohlensäure	False	le bitter	True
+6	der Champagner, -	True	le tord-boyaux	True
+7	das Flaschengärverfahren	True	le café ; les cafés	True
+8	die Dosierung	True	le caféier	True
+9	der Sekt, e	True	le café vert	True
+10	der Perlwein	True	le grain de café	True
+11	die Perls, das Bläschen	True	la torréfaction ; torréfier	True
+12	der Schaum	True	le torréfacteur	True
+13	leicht moussierend	False	moudre le café	False
+14	der Likörwein, e	True	le café oulu	True
+15	der Dessertwein/Süßwein	True	le café soluble	True
+16	der Portwein	True	soluble	False
+17	der Sherry	True	(verser de l'eau bouillante sur le cat	False
+18	der Wermutwein	True	moulu)	False
+19	die Weinqualität	True	le arc de café	True
+20	die Bezeichnung	True	la cafetière automatique	True
+21	der Tafelwein	True	le perclateur ; le perco	True
+22	das Gewächs, e, die Appellation, en	True	l'express ; un express bien serré	True
+23	die Spitzenweine/die Spitzengewächse	True	le iltre en papier	True
+24	ein Wein gehobener Qualität	False	la caféine ; décaféiné	True
+25	die geprüfte Herkunftsbezeichnung	True	un café noir/un café nature	True
+26	Qualitätswein bestimmter	False	le café crème/au lait	True
+27	Anbaugebiete (QbA)	False	un café glacé	True
+28	Qualitätswein mit Prädikat :	False	le café de alt	True
+29	Kabinett	False	la chicorée	True
+30	Spätlese	False	le café, le jus	True
+31	Auslese	False	la lavasse \	True
+32	Besrenauslese	False	elethé	False
+33	Trockenbeeren-Auslese	False	le théier	True
+34	der Eiswein	True	faire du thé	False
+35	"der Jahrgang, ""e"	True	prendre le thé	False
+36	ein großer Jahrgang	False	le thé vert	True
+37	der neue Wein	True	la euille de thé	True
+38	auf Vorbestellung verkaufen	False	le élange de thé	True
+39	die Flasche, n	True	le sachet de thé	True
+40	"der Flaschenhals, ""a"	True	la boîte à thé	True
+41	"der Flaschenboden, """	True	la théière	True
+42	die Korbflasche	True	la tisane, l’infusion 	True
+43	der Flascheninhalt, e	True	laisser infuser	False
+44	die 1/2-Flasche (die halbe Flasche)	True	l'infusion de enthe	True
+45	die Flasche	True	l'infusion de tilleul	True
+46	die Doppelflasche	True	la décoction	True
+47	das Etikett, en/s	True		False
+48	die Halsschleife, n	True		False
+49	das Rückenetikett, en/s	True		False
+50	die Auszeichnung, en ; die Prämierung, en	True		False
+51	Großer Preis m, Siberner Preis, Bronzenar Preis	False		False
+52	die Erzeugerabfüllung, en	True		False
+53	; auf dem Weingut abgefüllt	False		False
+54	im Weinanbaugebiet abgefüllt	False		False
+55		False		False

@@ -1,0 +1,60 @@
+	German_voc	deu_is_noun	French_voc	fra_is_noun
+0	die Zistrose, n	True	l'écaille	True
+1	die Waldrebe, n/die Klematis, -	True	la spore	True
+2	die Gemeine Waldrebe, n	True	le tube	True
+3	die Japanische Quitte, n	True	le pied	True
+4	die Komnelkirsche, n	True	l'anneau 	True
+5	der Rote Hartriegel, -	True	la volve	True
+6	die Steinmispel, n	True	le ycélium	True
+7	der Goldregen, -	True	les ascomycètes 	True
+8	die Hecken-/Hundsrose, n	True	les basidiomycètes 	True
+9	die Hagebutte, n	True	le champignon comestible	True
+10	die Berberitze, n/der Sanddorn, e	True	le ch. non comestible	True
+11	die Forsythie, n	True	le ch. vénéneux/toxique	True
+12	der Spindelbaum, 	True	ramasser, cueillir des ch.	False
+13	das Pfaffenhütchen, -	True	ochampignons 	False
+14	die Fuchsie, n	True	J l'agaric /la psalliote	False
+15	der Ginster, -	True	l’a. champêtre/le rosé	False
+16	‚der Binsenginster ; der Besenginster	False	des prés	True
+17	der Wacholder, -	True	lagaric des bois	False
+18	die \Yacholderbeere	True	l’agaric des jachères/ la boule-de-neige	False
+19	die Glyzin(i)e, n	True	l’agaric des orêts	False
+20	die Mistel, n	True	lagaric jaunissant	False
+21	die Stechpalme, n	True	l’amanite 	False
+22	der (Echte) Jasmin, e	True	l’amanite des Césars/ l'oronge vraie	False
+23	der Lorbeer, en	True	l’amanite citrine	False
+24	der Kirschlorbeer/die Lorbeerkirsche	True	l'amanite engainée	True
+25	der Edle Lorbeer	True	l’amanite panthère	False
+26	der Echte Oleander, -	True	l’amanite phalloïde	False
+27	der Efeu	True	l’amanite printanière	False
+28	der Flieder, -	True	l’amanite tue-mouches	False
+29	die Myrte, n	True	l’amanite vineuse	False
+30	die Heidelbeere, n/die Blaubeere	True	l’amanite vireuse	False
+31	die Mispel, n	True	l’armillaire de iel	False
+32	"der Haselstrauch, ""er"	True	le blet bai brun/le cèpe des	True
+33	"die Haselnuss, ""e"	True	châtaigniers	False
+34	"der Mastixstrauch, ""er"	True	le blet élégant	True
+35	die Terebinthe, n	True	le blet granulé	True
+36	der Schwarzdorn, e	True	le b. jaune/la nonnette voilée	True
+37	die Schlehe, n	True	le blet à pied rouge	True
+38	der/das Rhododendron, ren	True	le blet rude	True
+39	die Alpenrose, n	True	le blei satan	True
+40	"der Brombeerstrauch, ""er"	True	le cèpe de Bordeaux	True
+41	die Brombeere, n	True	le cèpe bronzé/tête-de-nègre	True
+42	der Pfeifenstrauch/der Falsche	True	le cèpe roux/le blet orangé	True
+43	Jasmin, e	False	la chanterelle/la girolle	True
+44	der Spierstrauch	True	la clavaire élégante	True
+45	der Traubenholunder, -	True	le clitocybe blanchi	True
+46	der Schwarze Holunder	True	le clitocybe nébuleux	True
+47	die Schneebeere, n	True	le clitocybe de l’olivier/ le pleurote de l’ollvier	True
+48	die Tamariske, n	True	le clitopile petite prune/ le eunier	True
+49	der Liguster, -/die Rainweide, n	True	le coprin chevelu	True
+50	der (Gemeine) Schneeball, en	True	le coprin noir d'encre	True
+51	der Gartenschneeball	True	l’entolome livide	False
+52	der Lorbeerschneeball	True	l’helvelle crêpue	False
+53	npignons	False	Fhydne commun/ le pied-de-mouton	False
+54	die Pilzkunde	True	l’hypholome en touffes	False
+55	der Pilz, e	True		False
+56	"der Hut, ""e"	True		False
+57	die Lamelle, n	True		False
+58		False		False

@@ -1,0 +1,7 @@
+	German_voc	deu_is_noun	French_voc	fra_is_noun
+0	der Nachrichtensatellt |	True	le satellite de communicatio:	False
+1	das Satellitenfernsehen |	True	la télévision par satellite	True
+2	die Raumstation, en	True	la station orbitale	True
+3	in/ auf eine Umlaufbahn bringen, a, a ı	False	mettre en orbite	True
+4	landen* auf+D	False	atterrir, se poser sur	False
+5	die Mondlandung	True	l'atterrissage sur la lune	False

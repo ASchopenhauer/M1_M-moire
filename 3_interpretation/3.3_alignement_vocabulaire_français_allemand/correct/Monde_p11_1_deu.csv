@@ -1,0 +1,53 @@
+	German_voc	deu_is_noun	French_voc	fra_is_noun
+1	die Umwelt	True	l'environnement n ; le cadre de vie	True
+2	die Lebensqualität	True	la qualité de la vie	True
+3	die Konsumgesellschaft	True	la société de consommation	False
+4	die Wegwerfgesellschaft	True	la société de gaspillage	True
+5	die Umweltfragen fpl	True	les problèmes de l'environnement	True
+6	die Ökologie	True	l'écologie 	True
+7	der Umweltschutz	True	la protection de l'environnement	True
+8	der Umweltschützer, -	True	l'écologiste , l'écolo	True
+9	das Ökosystem, e	True	l'écosystème 	True
+10	das biologische Gleichgewicht	True	l'équilibre biologique	True
+11	der Naturhaushalt	True	l'équilibre naturel	True
+12	die Nahrungskette	True	la chaîne alimentaire	True
+13	der Naturschutz	True	la protection de la nature	True
+14	das Naturschutzgebiet, e	True	la réserve naturelle	True
+15	unter Naturschutz stehen, a, a	False	être classé site naturel protégé	True
+16	die Landschaftspflege	True	protection des sites	True
+17	der Artenschutz	True	protection des espèces	False
+18	die Bekämpfung	True	la lutte anti-pollution	False
+19	der Umweltverschmutzung	True	principe « pollueur-	False
+20	das Verursacherprinzip	True	payeur »	False
+21	Wer verunreinigt, muß zahlen.	False	Qui pollue, doit payer.	True
+22	die Umweltverschmutzung	True	pollution de l'environnement	False
+23	die Verseuchung, en/Verpestung, en/Vergiftung, en/Verunreinigung, en (durch+A)	True	pollution	False
+24	der Umweltsünder, -, Umweltverschmutzer, -	True	le pollueur	False
+25	verschmutzen/verseuchen/verpesten/vergiften	False	polluer	False
+26	die Umweltschäden mpl	True	es nuisances 	False
+27	das Umweltdelikt, e	True	le délit contre l'environnement	True
+28	die Schadstoffe mp/	True	les polluants , les produits toxiques	False
+29	umweltverschmutzend	False	polluant	True
+30	belästigend	False	gênant	True
+31	schädlich	False	nuisible	True
+32	gefährlich	False	dangereux	True
+33	gesundheitsgefährdend	False	nuisible à la santé	False
+34	umweltfreundlich, schmutzarm	False	écologique, non polluant	False
+35	biologisch abbaubar/zersetzbar	False	biodégradable	False
+36	nicht abbaubar/nicht zersetzbar	False	non dégradable	False
+37	die Bodenbelastung	True	la pollution du sol	False
+38	die Überdüngung der Böden	True	l'emploi abusif d'engrais	False
+39	die Nitrate npl	True	les nitrates 	False
+40	die Phosphate npl	True	les phosphates 	False
+41	das Pestizid, &	True	le pesticide	True
+42	die übermäßige Verwendung	True	 	True
+43	(von+D)	False	l'emploi abusif	True
+44	das Schädlingsbekämpfungsmittel, -	True	linsecticide 	True
+45	das Unkrautvernichtungsmittel, -	True	lherbicide /le désherbant	True
+46	das Fungizid, e	True	le ongicide	False
+47	der saure Regen	True	les pluies acides	True
+48	die Entlaubung	True	la défoliation	False
+49	das Waldsterben	True	le dépérissement de la orêt	False
+50	die Abholzung, en	True	le déboisement	True
+51	die Entwaldung	True	la déforestation	True
+52	die Desertifikation/die Verwüstung	True	la désertification	True

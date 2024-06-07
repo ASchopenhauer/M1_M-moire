@@ -1,0 +1,61 @@
+	German_voc	deu_is_noun	French_voc	fra_is_noun
+0	Ich bin 1,80 (ein Meter achtzig), klein; winzig	False	le esure/fais 1 80.	True
+1	die Breite, n; breit	True	petit; inuscule	False
+2	Wie breit ist der Fluss ?	False	la largeur ; large	True
+3	Er ist 8 Meter breit.	False	Quelle est la largeur de la rivière ?	False
+4	eng, schmal	False	Elle a/fait 8 ètres de large/largeur.	False
+5	die Tiefe, n ;tief	True	étroit	False
+6	Wie tief ister ?	False	la profondeur ; profond	True
+7	Er ist 4 Meter tief, die Stärke/Dioke ; stark/dick	False	Quelle profondeur a-t-elle ?	False
+8	ein Brett von 20 mm Dicke/Stärke	False	Elle a/fait 4 de profondeur.	False
+9	"der Umfang, ""e"	True	’épaisseur ; épais	False
+10	der Durchmesser, -	True	une planche de 20	True
+11	die (Ober)fläche	True	d'épaisseur	False
+12	die Fläche, der Flächeninhalt	True	circonférence, le périmètr	False
+13	die Flächenmaße npl	True	diamètre	False
+14	der/das Quadratmeter, -	True	surface	False
+15	das Ar, e	True	superficie, l'aire 	False
+16	das Hektar	True	es esures de surface	True
+17	der ebene Winkel	True	le ètre carré	True
+18	der Radiant, en, en	True	’are 	False
+19	der räumliche Winkel	True	hectare 	False
+20	der Steradiant	True	l'angle plan	True
+21	das Volumen, der Rauminhalt	True	le radian	True
+22	den Rauminhalt berechnen	False	angle solide	False
+23	der Rauminhalt, &	True	le stéradian	True
+24	die Tonnage bestimmen	True	le volume 	True
+25	der/das Kubikmeter	True	cuber	False
+26	der/das Raummeter, der Ster, e/s	True	cubage	False
+27	die Hohlmaße	True	jauger	False
+28	das/der Liter, -	True	ètre cube	False
+29	das/der Hektoliter, -	True	le stère	True
+30	das Gefäß, e ; der Behälter, -	True	les esures de capacité	True
+31	das Fassungsvermögen	True	le litre	True
+32	fassen tr	False	l’hectolitre	False
+33	enthalten, ie, a, ä, fassen	False	le récipient	True
+34	voll ;Ieer	False	la contenance	True
+35	halb voll	False	avoir une contenance de contenir	False
+36	füllen ; leeren	False	plein ; vide	False
+37	über-laufen*, ie, au, äu	False	à oitié plein	False
+38	die Maßeinheit der Masse	True	remplir ; vider	False
+39	das Gramm, e	True	déborder	False
+40	das Kilogramm, e/das Kilo, s	True	ol’unité de asse	False
+41	das Milligramm	True	le gramme	True
+42	das Pfund, e (Pfd)	True	le kilogramme, le kilo	True
+43	der Zentner, - (Zir)	True	le illigramme	True
+44	der Doppelzentner (dz)	True	la livre	True
+45	die Tonne, n	True	le demi-quintal	True
+46	wiegen, 0, 0 ; schwer wiegen, o, 0 itr	False	le quintal	True
+47	schwer ; leicht	False	la tonne	True
+48	das Nettogewicht ; das Rohgewicht	True	peser qc ; peser lourd	False
+49	die Waage, n	True	lourd : léger	False
+50	die Laufgewichtswaage	True	le poids net ; le poids brut	True
+51	das Laufgewicht, e	True	la balance, la bascule	True
+52	die Balkenwaage, n	True	la balance romaine	True
+53	die Waagschale, n	True	le curseur	True
+54	der Balken, -	True	la balance à léau	True
+55	das Zünglein, -	True	le plateau 	True
+56		False	le léau	True
+57		False	l'aiguille 	True
+58		False	 	False
+59		False		False

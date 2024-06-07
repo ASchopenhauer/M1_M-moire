@@ -1,0 +1,62 @@
+	German_voc	deu_is_noun	French_voc	fra_is_noun
+0	die Hundepflege	True	le bouledogue	True
+1	die Tollwut ; tollwütig	True	le bouvier	True
+2	die Staupe	True	le braque	True
+3	die Katze, n	True	le caniche	True
+4	der Kater, -	True	le carlin	True
+5	der kastrierte Kater	True	le chien-loup	True
+6	die junge Katze	True	le cocker	True
+7	die Miezekatze (voc eni)	True	le dogue	True
+8	miauen ; schnurren ; fauchen	False	l'épagneul 	True
+9	die Schnurrhaare npi	True	le petit épagneul allemand	True
+10	die Kralle, n ; zurückziehbar	True	la levrette	True
+11	kratzen	False	le lévrier	True
+12	Milch schlecken	False	le lévrier afghan/l'afghan 	True
+13	einen Buckol machen	False	le pékinois	True
+14	die (europäische) Hauskatze	True	le saint-bernard	True
+15	die Angorakatze ; die Kartäuserkatze	True	le spitz/le loulou	True
+16	die Perserkatze ; die Siamkatze	True	le teckel	True
+17	die verwilderte Katze	True	le terre-neuve	True
+18	eine K. unbestimmter Rasse	False	le bâtard/le corniaud/le chier	True
+19	die Kurzhaarkatze	True	croisé/mâtiné	False
+20	die Langhaarkatze	True	le cabot/clebs/clébard	True
+21	die Zuchttiere np/	True	le roquet	True
+22	das Pferd, e	True	l'élevage de chiens	True
+23	der Hengst, e	True	le chenil	True
+24	die Stute, n ; die Zuchtstute	True	la niche	True
+25	das Fohlen, -/das Füllen, -;	True	odresser un chien	False
+26	das Stutenfohlen	True	dressé à rapporter le gibier	False
+27	der Wallach, e (kastriert)	True	le dresseur	True
+28	das Vollblut ; das Halbblut	True	le dressage	True
+29	das Zugpferd	True	obéir à son aître	False
+30	das Pony, s	True	obéir à la voix	False
+31	das Ross, e (poeı)	True	Au pied ! ; Assis !	False
+32	"der Gaul, ""e"	True	Couché !/Terre !/À ta place !	False
+33	die Nüster, n	True	Cherche ! ; Apporte !	False
+34	der Pferdekamm	True	 la patte !	False
+35	die Mähne, n	True	Attaque !	False
+36	der Widerrist	True	faire le beau	False
+37	die Kruppe, n	True	le chien d’aveugle	True
+38	die Weiche, n/die Flanke	True	le chien de chasse	True
+39	das Vorder-, Hinterbein, e	True	le chien de compagnie	True
+40	der Unterschenkel, -, die Hosen (pl)	True	le chien-guide	True
+41	das Sprunggelenk	True	le ch. policier ; le limier	True
+42	der Huf, e	True	le ch. de garde	True
+43	das Haar, e ‚das Rosshaar	True	le ch. de défense	True
+44	der Schweif, e	True	un olosse	True
+45	das Fell, e	True	le petit chien d'agrément	True
+46	"der Fuchs, ""e"	True	le collier	True
+47	der Braune (adj) ; der Schimmal, der Apfelschimmel	True	la uselière	True
+48	der Rappe, n,n	True	museler un chien	False
+49	rassig	False	la laisse	True
+50	(un)gezähmt ; unzähmbar	False	tenir un chien en laisse	False
+51	fromm	False	sortir le chien	False
+52	bockig/störrisch	False	promener le chien	False
+53	feurig ‚ dämpfig	False	les crottes de chien	True
+54	scheu ; widerspenstig	False	s'échapper	False
+55	sich bäumen	False	sans aître ; perdu	False
+56	durch-gehen“, i, a	False	un chien errant	True
+57	schnauben	False	le tatouage	True
+58	wiehern ; das Wiehern	False	tatouer	False
+59	mit den Hufen stampfen	False	le propriétaire d'un-chien	True
+60		False		False

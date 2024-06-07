@@ -1,0 +1,61 @@
+	German_voc	deu_is_noun	French_voc	fra_is_noun
+0	die Wicke, n	True	le lamier blanc	True
+1	das Veilchen, -	True	la lavande	True
+2	"der Wiesenfuchsschwanz, ""e"	True	la lentille d’eau	True
+3	medicinales	False	le liseron des champs	True
+4	die Heilpflanzen fpl/die Heilkräuter npl	True	la lunaire/la onnaie-du-	True
+5	offizinell gebraucht	False	pape	False
+6	die (Heil)kräuterhandlung, en	True	la luzule	True
+7	der (Heil)kräuterhändler, -	True	le lychnis leur de coucou	True
+8	der Wermut	True	la acre/la cornuelle	True
+9	die Schafgarbe, n	True	la assette/le typha	True
+10	"der Blaue Eisenhut, ""e"	True	le élilot 	True
+11	der Kalmus, se	True	le ouron des champs	True
+12	der Kleine Odermennig, e	True	le ouron des oiseaux	True
+13	die Blasen-/Judenkirsche, n, die Lampionpflanze, n	True	la outarde des champs	True
+14	der Frauenmantel, ”	True	le uguet	True
+15	die Angelika, ken/s	True	le yosotis	True
+16	der Anis, e	True	le nénuphar	True
+17	der Sternanis	True	le nénuphar jaune	True
+18	die Arnika, s/der Wohlverleih, -/e	True	la nielle des biés	True
+19	der Gemeine Beifuß	True	la nigelle de Damas	True
+20	die Haselwurz, en	True	la nigelle des champs	True
+21	der Echte Alant, en, en	True	la nivéle du printemps	True
+22	der Stinkandorn, e	True	l’orchis 	False
+23	die Große Klette, n	True	la petite ortie/l 0. brülante	True
+24	die Tollkirsche, n/die Belladonna, nen	True	la grande ortie/l’ o. dioïque	True
+25	die/der Wiesenbärenklau	True	le panicaut des Alpes/ le chardon bleu des Alpes	True
+26	die Kleinblütige Königskerze, n/die Wollblume, n	True	le panicaut aritime	True
+27	"der Faulbaum, ""e/das Pulverholz"	True	la pâquerette	True
+28	das Hirtentäschelkraut	True	la parisette	True
+29	die Bärentraube, n	True	la passiflore	True
+30	die Echte Kamille, n	True	le /la perce-neige	True
+31	die Römische Hundskamille	True	la pervenche	True
+32	das (Echte) Tausendgüldenkraut	True	le pissenlit	True
+33	das Schöllkraut	True	le papulage, le souci d'eau	True
+34	der Beinwell/Beinwurz	True	la primevère	True
+35	"der Rote Fingerhut, ""e"	True	la primevère auricule	True
+36	das Bittersüß	True	la pr. officinale, le coucou	True
+37	der Fenchel	True	ke raiponce	False
+38	das Scharbockskraut	True	la renoncule	True
+39	der Gemeine Erdrauch	True	la renoncule âcre/ le bouton-d’or	True
+40	der Gelbe Enzian, e	True	la renoncule scélérate	True
+41	der Echte Eibisch, e/die Althee, n	True	le roseau commun	True
+42	die Zaubernuss/die Hamamelis	True	le sabot de Vénus	True
+43	der Ysop, &	True	la sagiïtaire/la lèche d'eau	True
+44	die Hauswurz, en	True	la salicore	True
+45	das Bilsenkraut	True	le salsifis sauvage	True
+46	der Gundermann/die Gundelrebe, n	True	la saxifrage	True
+47	die Mandragora, ren/die Alraunwurzel, n	True	la scabieuse	True
+48	der Gemeine Andorn, e	True	le sceau-de-Salomon	True
+49	die Wilde Malve, n	True	la scille	True
+50	die (Zitronen)melisse, n	True	le séneçon	True
+51	die Pfefferminze	True	le silène	True
+52		False	le sisymbre	True
+53		False	la soldanelle	True
+54		False	la stellaire	True
+55		False	le trèfle	True
+56		False	le trèfle d’eau/le ényanthe	True
+57		False	la trolle 	True
+58		False	la verge d’or/la solidage	True
+59		False		False

@@ -1,0 +1,24 @@
+	German_voc	deu_is_noun	French_voc	fra_is_noun
+0	die Chemie	True	la chimie	True
+1	der Chemiker, -	True	le chimiste	True
+2	die Alchimie ; der Alchimist, en, en	True	l'aichimie ; l'alchimiste 	True
+3	die angewandte Chemie	True	la chimie appliquée	True
+4	die Biochemie	True	la biochimie	True
+5	die Substanz, en	True	la substance	True
+6	das lon, en	True	l'ion 	True
+7	die Wertigkeit, en/die Valenz, en	True	la valence	True
+8	einwertig ; zweiwertig	False	monovalent ; bivalent	False
+9	die elektrochemische Valenz	True	l'électrovalence 	True
+10	das Zeichen, -	True	le symble	True
+11	die Formel, n	True	la ormule	True
+12	die chemische Nomenklatur	True	la nomenclature chimique	True
+13	der Trivialname, ns, n	True	le nom trivial	True
+14	das periodische System	True	la classification périodique	True
+15	die Ordnungszahl, en	True	le nombre atomique	True
+16	das Mol, e	True	la le	True
+17	die avogadrosche Zahl	True	le nombre d’Avogadro	True
+18	die Molmasse, n	True	la asse laire	True
+19	das Element, e	True	l'élément 	True
+20	der Grundstoff, e	True	le corps simple	True
+21	der Reinstoff	True	le corps pur	True
+22		False		False

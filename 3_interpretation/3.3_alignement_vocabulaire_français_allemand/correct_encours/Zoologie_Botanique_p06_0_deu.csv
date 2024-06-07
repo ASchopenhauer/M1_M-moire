@@ -1,0 +1,56 @@
+	German_voc	deu_is_noun	French_voc	fra_is_noun
+0	der Bürzel, -	True	le croupion	True
+1	das Gefieder, -	True	le plumage	True
+2	der Flügel, -	True	l'aile 	True
+3	geflügelt ; flügellos	False	ailé ; aptère	False
+4	flug(un)fähig	False	apte au vol	False
+5	die Feder, n	True	la plume	True
+6	gefiedert ; ungefiedert	False	couvert de plumes ; sans pl.	False
+7	die Konturfeder	True	la penne	True
+8	die Schwungfeder	True	la rémige	True
+9	die Schwanzfeder	True	la rectrice	True
+10	die Haube, n	True	la huppe	True
+11	"der Federbusch, ""e"	True	V’aigrette	False
+12	die Fiaumfeder/die Daune, n	True	le duvet	True
+13	flaumig	False	couvert de duvet/duveteux	False
+14	flaumweich	False	duveté	False
+15	sich federn	False	perdre ses plumes/ se déplumer	False
+16	die Mauser ; sich mausern	True	la ue ; uer	True
+17	"der Flug, ""e"	True	le vol	True
+18	ein Flug von Wildenten	False	un vol de canards sauvages	True
+19	ein Schwarm Spatzen	False	une volée de oineaux	True
+20	im Flug	False	au vol/en plein vol	False
+21	aus der Vogelperspektive	False	à vol d'oiseau	False
+22	die Spannweite, n	True	l'envergure 	True
+23	die Flügel spreizen	True	déployer les ailes	False
+24	flügge werden*	False	être prêt à quitter le nid	False
+25	fliegen*, 0,0	False	vler	False
+26	aus-fliegen*	False	s'envler du nid, quitter le nic	False
+27	davon-fliegen*, weg-fliegen*	False	s'envler, prendre sonvo	False
+28	mit kräftigem Flügelschlag	False	à tire-d’aile	False
+29	flattern* ; kreisen*	False	voltiger ; tournoyer	False
+30	schweben ; segeln*	False	planer ; vler en planant	False
+31	"der Gleitflug, ""e"	True	le vol plané	True
+32	überfliegen ;durchfliegen	False	survler ; traverser	False
+33	sich setzen auf+A	False	se poser sur	False
+34	sitzen, a, e auf+D	False	être perché/juché sur	False
+35	überwintern	False	hiverner	False
+36	ziehen*, 0, o nach+D/in+A	False	s’en aller vers/migrer vers	False
+37	"der Zugvogel, """	True	l'oiseau igrateur	True
+38	der Durchzügler, -	True	l'oiseau de passage	True
+39	"der Standvogel, """	True	l'oiseau sédentaire	True
+40	der Teilzieher, -	True	le igrateur partiel	True
+41	"der Singvogel, """	True	l’oiseau chanteur	False
+42	die Stimme, n	True	la voix	True
+43	"der Gesang, ""e"	True	le chant, le ramage	True
+44	singen, a, u	False	chanter	False
+45	zwitschern	False	gazouiller	False
+46	das Zwitschern/das Gezwitscher	True	le gazouillement/le gazouillis	True
+47	trillern	False	lancer des trilles	False
+48	Vogelstimmen ip/	False	cris des oiseaux	False
+49	tirilieren	False	grisoller	False
+50	schreien, ie, ie	False	cancaner	False
+51	krähen (Hahn)	False	ululer	False
+52		False	craqueter	False
+53		False	chanter	False
+54		False		False

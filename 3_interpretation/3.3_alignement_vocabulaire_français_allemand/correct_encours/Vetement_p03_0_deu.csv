@@ -1,0 +1,63 @@
+	German_voc	deu_is_noun	French_voc	fra_is_noun
+0	das Dekolletee, s/Dekollete, s	True	 	False
+1	ausgeschnitten, dekolletiert	False	les pantalons	True
+2	das Etuikleid, das Futteralkleid, er	True	tirebouchonnés	False
+3	hauteng	False	le jean	True
+4	das Dirndikleid	True	délavé ; prélavé	False
+5	das Umstandskleid	True	le bermuda	True
+6	das Kostüm, e	True	le veston ; la veste	True
+7	das Jackenkleid, das zweiteilige	True	le costume, le complet	True
+8	Kleid	False	un costume trois pièces	True
+9	"der Hosenanzug, ""&"	True	le gilet	True
+10	die Jacke, n	True	le gousset	True
+11	"der Rock, ""e"	True	le veston	True
+12	der Schlitz, e	True	le revers	True
+13	die Falte, n	True	la poche intérieure	True
+14	"der Faltenrock, ""e"	True	le veston droit	True
+15	der Plisseerock	True	le veston croisé	True
+16	der Wickelrock	True	la tenue de soirée	True
+17	der Hosenrock	True	l'habit , le rac	True
+18	der Minirock	True	en rac	False
+19	die Hemdbluse, n	True	habit de rigueur	False
+20	die Bluse	True	le smoking	True
+21	die Wollsachen fpl	True	le blazer	True
+22	der Pullover, -/der Pulli, s (fam)	True	la veste de cuir	True
+23	ein dicker Pullover	False	le blouson	True
+24	handgestrickt/selbstgestrickt	False	la veste d'intérieur	True
+25	der Pullunder, -	True	le vêtement éminin	True
+26	der Rollkragen, -	True	la lingerie éminine, les dessous	True
+27	der Halsausschnitt, e	True	la parure	True
+28	der runde Ausschnitt	True	la culotte	True
+29	der V-Ausschnitt	True	le slip	True
+30	das Twin-set, s	True	le soutien-gorge	True
+31	die Wolljacke, n	True	le bonnet	True
+32	die hochgeschlossene Strickjacke	True	la bretelle	True
+33	"der Mantel, """	True	la combinaison	True
+34	der Herrenmantel	True	le jupon	True
+35	der Regenmantel, der Wettermantel	True	le body, le justaucorps	True
+36	der Trenchcoat, s	True	le bustier	True
+37	der Lodenmantel	True	le panty, la gaine-culotte	True
+38	den Kragen hoch-schlagen, u, a, ä	False	la gaîne	True
+39	(sich) ein-mummen	False	le corset	True
+40	das Ölzeug	True	le porte-jarretelles	True
+41	die Kapuze, n	True	la jarretelle	True
+42	"der Umhang, ""e, das Cape, s"	True	le bas	True
+43	der Raglan, s	True	la jarretière	True
+44	der dreiviertellange Mantel	True	le collant	True
+45	der Steppmantel	True	le talon	True
+46	der Duffelcoat, 	True	la aille qui ile	True
+47	"der Schnurbesatz, ""e"	True	le caleçon, les leggins 	True
+48	die lammgefütterte Jacke, n	True	le useau	True
+49	der Pelzmantel	True	le pyjama	True
+50	die Pelzstola, len	True	la chemise de nuit	True
+51	der pelzgefütterte Mantel	True	le déshabillé	True
+52	der Handschuh, e	True	la liseuse	True
+53	die gefütterten Handschuhe	True	la robe de chambre	True
+54	der Handumfang	True	le peignoir	True
+55	Handschuhe an-haben	False	le peignoir de bain	True
+56	(die) Handschuhe an-ziehen, aus-ziehen, 0, 0	False	la robe	True
+57	der Fausthandschuh/der Fäustling, e	True	la robe de ariée	True
+58	der Muff; e	True	la traîne	True
+59	"der Hut, ""&"	True	la robe du soir	True
+60		False	l’échancrure, le décolleté	False
+61		False		False

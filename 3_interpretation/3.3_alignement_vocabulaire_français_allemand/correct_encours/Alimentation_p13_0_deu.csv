@@ -1,0 +1,59 @@
+	German_voc	deu_is_noun	French_voc	fra_is_noun
+0	Tee m mit Rum	False	le picrate	True
+1	der Pharisäer, -	True	la piquette	True
+2	der Likör, e	True	> le ousseux	False
+3	der schwarze Johannisbeerlikör	True	le vin ousseux gazéifié	True
+4	der Magenbitter, -	True	le champagne	True
+5	der Fusel, -	True	la éthode champenoise	True
+6	der Kaffee ;die Kaffeesorten pl	True	le dosage	True
+7	"der Kaffeestrauch, ""er"	True	le ousseux	True
+8	der Rohkaffee	True	le vin pétillant	True
+9	die Kaffeebohne, n	True	la bulle, la perle	True
+10	das Rösten ; rösten	True	la ousse	True
+11	der (Kaffee-)Röster, -	True	crémant	False
+12	den Kaffee mahlen	False	le vin de liqueur/vin liquoreu	True
+13	der gemahlene Kaffe	True	le vin doux	True
+14	der Pulverkaffee	True	le porto	True
+15	löslich	False	le jerez/xérès	True
+16	den Kaffee auf-gießen, 0, 0	False	le vermouth	True
+17	e	False	la qualité du vin	True
+18	der Kaffeesatz	True	l'appellation 	True
+19	die Kaffeemaschine, n	True	le vin de table	True
+20	die (große) Kaffeemaschine	True	le cru	True
+21	der Espresso, s/ssi	True	les grands crus	True
+22	ein starker Espresso	False	un vin de cru	True
+23	der Papierfiter, -	True	le vin d'appellation contrôlée	True
+24	das Koffein ; koffeinfrei	True	(AOC	False
+25	ein schwarzer Kaffee	False	(vin de qualité produit dans des	False
+26	der Milchkaffee	True	régions déterminées)	False
+27	ein eisgekühlter Kaffee	False	(AOC, vin non chaptalisé -	False
+28	der Malzkaffee	True	la classification allemande se	True
+29	der Zichorienkaffee	True	réfère à la densité du oût	False
+30	der Kaffee (Getränk)	True	mesurée en degrés Occhslc)	False
+31	der Blümchenkaffee, die Kaffeebrühe (fam)	True	\(minimum 73° Oechsle = 9, 5%	False
+32	der schwarze Tee	True	d'alcool)	False
+33	"der Tesstrauch, ""er"	True	le illésime	True
+34	Tee kochen	False	un vin illésimé	True
+35	Tee trinken, a, u	False	le vin primeur, vin de l'annés	True
+36	der grüne Tee	True	vin nouveau	False
+37	"das Teeblatt, ""er"	True	vendre en primeur	False
+38	die Teemischung, en	True	la bouteille	True
+39	der Teebeutel, -	True	le goulot	True
+40	die Teedose, n	True	le cul	True
+41	die Teekanne, n	True	la bonbonne	True
+42	"der Kräutertee, der Aufguss, ""e"	True	la contenance	True
+43	ziehen lassen	False	la demi-bouteille 	True
+44	der Pfefferminztee	True	la bouteille 	True
+45	der Lindenblütentee	True	le agnum \	True
+46	die Abkochung, en, der Absud, e (vx)	True	l'étiquette 	True
+47	vin	False	la collerette	True
+48	der Wein, e	True	la contre-etiquette	True
+49	der Rotwein	True	la distinction honorifique	True
+50	der Weißwein	True	la édaille d'or, d'argent, de 	True
+51	der Bleichert	True	bronze	False
+52		False	la ise au	True
+53		False	château	False
+54		False	mis en bouteille à la proprié	False
+55		False	mis en bouteille dans	False
+56		False	la région de production	True
+57		False		False

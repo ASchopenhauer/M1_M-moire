@@ -1,0 +1,63 @@
+	German_voc	deu_is_noun	French_voc	fra_is_noun
+0	ranzig schmecken	False	la pâtisserie	True
+1	angebrannt schmecken	False	le pâtissier	True
+2	probieren, versuchen, schmecken	False	faire de la pâtisserie	False
+3	(eine Speise)	False	la pâie 	True
+4	ab--schmecken	False	travailler la pâte	False
+5	gratinieren, überbacken/überkrusten	False	lever 	False
+6	‘hacken	False	laisser onter	False
+7	fein gehackt	False	laisser reposer	False
+8	grob gehackt	False	l'abaisse 	True
+9	das Hack	True	abaisser la pâte	False
+10	(dureh)tränken (mit+D)	False	foncer un oule	False
+11	ein-schneiden, |, i, ein-ritzen	False	la pâte à oncer, la pâte brisée	True
+12	bei-mengen, zu-setzen	False	la pâte brisée	True
+13	spicken	False	la pâte à choux	True
+14	die Bindung, en	True	la pâte euilletée	True
+15	binden, a, u, legieren, sämig machen	False	la pâte levée	True
+16	rühren	False	la pâte sablée	True
+17	vermischen, vermengen	False	passer au pinceau	False
+18	(ver)quirlen	False	le gâteau	True
+19	verrühren	False	| le baba au rhum	False
+20	ab-ziehen, 0, 0 (Mandeln, Tomaten)	False	le beignet	True
+21	nappieren, übergießen, o, o (mit+D)	False	le beignet soufflé	True
+22	mörsern	False	le biscuit	True
+23	reduzieren, ein-kochen lassen	False	le biscuit à la cuiller	True
+24	erkalten*	False	le biscuit à l’anis	True
+25	kalt stellen	False	la büche de Noël	True
+26	im Kühlschrank ab-kühlen	False	la brioche	True
+27	die Reste verwerten	True	le calisson	True
+28	den Braten wenden	False	le cake	True
+29	bräunen, leicht an-rösten	False	le chausson aux pommes	True
+30	rösten	False	le chou à la crème	True
+31	In Mehl wenden	False	le clafoutis aux cerises	True
+32	die Mehlschwitze	True	la crème anglaise	True
+33	Mehl an-schwitzen	False	la crème au beurre	True
+34	die Soße, die Sauce, n, die Tunke, n	True	la crème chantilly	True
+35	eine Soße verdünnen, strecken	False	la crème ouetiée	True
+36	die weiße Rahmsauce	True	la crème pâtissière	True
+37	mit brauner Butter	False	la crêpe	True
+38	auf Jägerart	False	la crêpe lambée	True
+39	in Rahmsauce	False	le cornet à la crème	True
+40	mit feinen Kräutern	False	le croissant	True
+41	die Majonäse/Mayonnaise	True	la crème au beurre	True
+42	die Knoblauchmayonnaise	True	l'éclair 	True
+43	auf provenzalische Art	False	l'éclair au café	True
+44	(mit Peperoni gewürzte Knoblauchsuße)	False	l'entremeis 	True
+45	das Dressing, s	True	le lan	True
+46	die Tomatensauce	True	la orêt-noire	True
+47	die Essig- und Öl-Sauce	True	la rangipane	True
+48	streuen	False	(gâteau sur plaque, aux amandes	False
+49	(in Fett) schwenken	False	cffilées)	False
+50	"der Auflauf, ""e"	True		False
+51	die Suppe, n	True		False
+52	die Fleischbrühe, n/die Bouillon, s	True		False
+53	die Kraftorühe, n/das Consomme, s	True		False
+54	klären	False		False
+55	die Cremesuppe ; sämig	True		False
+56	die Brotsuppe	True		False
+57	(Marssiller Fischsuppe)	False		False
+58	das Suppengrün	True		False
+59	die Beutelsuppe, n	True		False
+60	der Brühwürfel, -	True		False
+61		False		False

@@ -1,0 +1,34 @@
+	German_voc	deu_is_noun	French_voc	fra_is_noun
+0	die Antimaterie	True	l'antimatière 	True
+1	der Atomkern, e/der Nukleus, ei	True	le noyau atomique	True
+2	das Molekül, e	True	la olécule	True
+3	das Atom, e	True	l'atome 	True
+4	das Elementarteilchen, -	True	la particule élémentaire	True
+5	das Antiteilchen	True	l'antiparticule	True
+6	das Elektron, en	True	l'électron 	True
+7	das Proton, en	True	le proton	True
+8	das Neutron, en	True	le neutron	True
+9	die Strahlung, en	True	la radiation	True
+10	die Radioaktivität	True	la radioactivité	True
+11	das Isotop, e	True	l'isotope 	True
+12	die Röntgenstrahlen/die X-Strahlen mp/	True	les rayons X	True
+13	die Gammastrahlen	True	les rayons gamma	True
+14	die ionisierende Strahlung	True	le rayonnement ionisant	True
+15	die Emission, en ; emittieren	True	l'émission 7 ; émettre	True
+16	die Absorption, en ; absorbieren	True	l'absorption ; absorber	True
+17	die Kernfusion	True	la usion nucléaire	True
+18	die Kernspaltung	True	la ission nucléaire	True
+19	der Kernzerfall/die Kernzertrümmerung, en	True	la désintégration nucléaire	True
+20	die Kettenumwandlung, en	True	la désintégration en chaîne	True
+21	die Kettenreaktion, en	True	la réaction en chaîne	True
+22	der Teilchenbeschleuniger, -	True	l'accélérateur de particul	True
+23	das Zyklotron, e	True	le cyclotron	True
+24	die Blasenkammer, n	True	la chambre à bulles	True
+25	die Kernenergie/Atomenergie	True	l'énergie atomique	True
+26	das Kernkraftwerk, e	True	la centrale nucléaire	True
+27	der Kernreaktor	True	le réacteur nucléaire	True
+28	der schnelle Brüter, -	True	le surrégénérateur/ surgénérateur	True
+29	der Reaktorkern	True	le cœur du réacteur	True
+30	"der Brennstoffstab, ""e"	True	la barre de combustible	True
+31	die Abschirmung	True	l'enceinte de confinement	True
+32		False		False

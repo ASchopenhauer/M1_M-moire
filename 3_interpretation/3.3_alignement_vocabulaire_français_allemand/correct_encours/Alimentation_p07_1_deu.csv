@@ -1,0 +1,62 @@
+	German_voc	deu_is_noun	French_voc	fra_is_noun
+0	tisserie	False	avoir un goût de rance	False
+1	die Backwaren fpl	True	avoir un goût de brûlé	False
+2	der Konditor, der Feinbäcker	True	goûter 	False
+3	Kuchen backen, u, a, ä/faible	False	goûter 	False
+4	der (Kuchen)teig, e	True	 gratiner	False
+5	den Teig rühren	False	hacher	False
+6	auf-gehen‘, i, a (Teig)	False	haché enu/fin	False
+7	aufgehen lassen	False	haché grossièrement	False
+8	tuhen lassen	False	le hachis	True
+9	der flach gerollte Teig	True	imbiber	False
+10	den Teig aus-rollen	False	inciser	False
+11	eine Form mit Teig aus-Iegen	False	incorporer	False
+12	der Auslegeteig	True	larder	False
+13	der Mürbfe)teig	True	la liaison	True
+14	der Brandteig	True	lier	False
+15	der Blätterteig	True	malaxer	False
+16	der Hefeteig	True	mélanger	False
+17	der Sandteig	True	mélanger en battant	False
+18	bepinseln	False	mélanger en remuant	False
+19	der Kuchen, -	True	monder 	False
+20	(mit Rumsirup übergossener	False	napper	False
+21	Hefenapfkuchen)	False	piler	False
+22	der Krapfen, -	True	faire réduire	False
+23	der Brandteigkrapfen	True	 refroidir	False
+24	das/der Biskult, s	True	mettre à refroidir	False
+25	das Löffelbiskuit	True	réfrigérer	False
+26	das Springerle, -	True	utiliser les restes	False
+27	der Spekulatius, -	True	retourner le rôti	False
+28	(Biskuitrolle mit Butterereme)	False	faire revenir	False
+29	die Brioche, s	True	faire rissler	False
+30	(Mandelgebäck mit Zuckerguss)	False	rouler, passer dans la arine	False
+31	(Sandkuchen mit Rosinen und kandierten	False	le roux	True
+32	Früchten)	False	faire un roux	False
+33	die Apfeltasche, n	True	la sauce	True
+34	der Windbeutel, -	True	allonger une sauce	False
+35	(Pfannkuchenteig mit Kirschen)	False	la béchamel	True
+36	die englische Creme	True	au beurre noir	False
+37	die Buttercreme	True	 chasseur	False
+38	(Schlagsahne mit Vanillezucker)	False	à la crème	False
+39	die Schlagsahne	True	aux ines herbes	False
+40	die Konditorcreme	True	la ayonnaise	True
+41	der Pfannkuchen, -, der Eierkuchen	True	l'ailloli/afloli 	True
+42	der flambierte Pfannkuchen	True	à la provençale	False
+43	die Schillerlocke, n	True	la rouille	True
+44	das Hörnchen, -, das Croissant, s	True	la sauce salade	True
+45	die Buitercreme	True	la sauce tomate	True
+46	das Eclair, s/der Blitzkuchen/Liebesknochen, -	True	la sauce vinaigrette	True
+47	das Eolair mit Mokkacremefüllung	True	saupoudrer	False
+48	die Süßspeise, n	True	faire sauter	False
+49	der Pudding, e	True	le soufflé	False
+50	die Schwarzwälder Kirschtorte	True	la soupe, le potage	True
+51	die Mandelcreme	True	le bouillon	True
+52	der Bienenstich	True	le consommé	True
+53		False	clarifier	False
+54		False	le velouté ; velouté	True
+55		False	la panade	True
+56		False	la bouillabaisse	True
+57		False	les légumes pour la soupe 	True
+58		False	la soupe en sachet	True
+59		False	le cube de consommé	True
+60		False		False

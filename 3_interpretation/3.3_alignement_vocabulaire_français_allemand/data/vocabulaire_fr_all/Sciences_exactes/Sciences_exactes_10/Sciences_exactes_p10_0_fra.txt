@@ -1,0 +1,106 @@
+latare
+le poids
+l'assortiment m de poids
+la balance de précision
+le pèse-personne
+
+ola densité
+le densimètre (liquides)
+le titre (métaux précieux)
+le titre alcoométrique
+la masse atomique
+la quantité de matière
+la mole
+le volume molaire
+
+ola quantité
+suffire
+
+avoir assez de, s’en sortir
+avec (am)
+
+suffisant
+
+avoir suffisamment d'argent
+
+copieux, abondant
+
+beaucoup
+
+peu ; juste, à peine suffisant
+ol’unité mécanique
+
+la quantité de chaleur joule
+
+la mesure des pressions,
+la manométrie
+
+ol'unité électrique
+la capacité électrique
+
+la force électromotrice,
+la tension
+
+la conductance électrique
+
+l'intensité de courant
+électrique
+
+l'ampère m
+
+la charge électrique
+
+l'inductance f
+
+l'unité magnétique
+
+le champ magnétique
+
+l'induction { magnétique
+
+le flux d'induction
+magnétique
+
+o l'unité thermique
+
+la température
+thermodynamique
+
+le kelvin
+
+la température Celsius
+
+3°C/trois degrés m Celsius
+
+o l'unité optique
+
+la lumière
+
+l'éclairement lumineux ; le lu
+
+le flux lumineux
+
+le lumen
+
+l'intensité lumineuse
+
+le candela
+
+la luminance (lumineuse)
+
+la radiation de lumière
+
+l'intensité f énergétique
+
+le flux énergétique
+
+l'éclairement énergétique
+
+la vergence
+
+la convergence
+
+la divergence
+
+la dioptrie
+

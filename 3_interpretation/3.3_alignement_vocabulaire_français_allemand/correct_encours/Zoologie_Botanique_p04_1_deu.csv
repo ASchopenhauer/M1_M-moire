@@ -1,0 +1,63 @@
+	German_voc	deu_is_noun	French_voc	fra_is_noun
+0	die Zelle,n	True	le ver luisant/le lampyre	True
+1	die Wabe, n	True	la vrillette	True
+2	das Wachs, e	True	° papillons /lépidoptères 	False
+3	der Honig, e	True	le papillon	True
+4	die Hurmel, n	True	le p. diurne ; le p. nocturne	True
+5	summen	False	le papillon crépusculaire	True
+6	das Summen	True	| l'apollon 	False
+7	die Wespe, n	True	l'aurore 	True
+8	das \Vespennest, er	True	l'argus /la lycène	True
+9	die Hornisse, n	True	la belle dame	True
+10	die Ameise, n	True	le bombyx du ûrier	True
+11	die Rote Waldameise	True	le ver à soie	True
+12	der Ameisenhaufen, -	True	le citron	True
+13	wimmeln (von+D)	False	le cossus gâte-bois	True
+14	die Termite, n	True	l'écaille artre 	True
+15	der Termitenhügel, -	True	l'échancré 	True
+16	Gradflügler mpl	False	la euille orte du chêne	True
+17	die Grille, n	True	la iancée	True
+18	die Feldgrille	True	le lambé	True
+19	die Hausgrille/das Heimchen, -	True	la géomètre papillonnaire	True
+20	die Maulwurfgrille	True	la chenille géomètre/ arpenteuse	True
+21	die (Laub)heuschrecke, n	True	la lichénée rouge/la Mariée	True
+22	das Grüne Heupferd, e	True	le achaon	True
+23	die Feldheuschrecke, der Grashüpfer, - (fam)	True	le grand ars changeant	True
+24	die Wanderheuschrecke, n	True	la ite des tapisseries	True
+25	"ein Heuschrackenschwarm, ""e@"	False	le orio	True
+26	die Gottesanbeterin, nen	True	le grand nacré	True
+27	"der Ohrwurm, ""er"	True	la noctuelle du pin	True
+28	die Stabheuschrecke, n	True	le paon de jour	True
+29	die Zikade, n (ein Gleichflügler)	True	le demi-paon	True
+30	zirpen ; das Zirpen	False	la phalène du bouleau	True
+31	die Ameisenjungfer, n (ein Netztlügler)	True	la phalère bucéphale	True
+32	der Ameisenlöwe, n	True	la piéride du chou	True
+33	schädliche Insekten npl	False	la piéride de l’aubépine/ le gazé	True
+34	der Schmarotzer, -/der Parasit, en, en	True	la processionnaire du chêne	True
+35	das Ungeziefer	True	la pyrale des pommes	True
+36	Obstbäume schädigen tr	False	le robert-le-Diable/le gamma	True
+37	schädlich (+D) ; nützlich (+D)	False	le satyre hermione	True
+38	vertilgen	False	la sésie du peuplier	True
+39	das (Insekten)vertilgungsmnittel, -	True	le souci	True
+40	die Schabe, n/	True	le soufré	True
+41	der Kakerlak, s/en, en	True	le sphinx du pin	True
+42	die Eichengallwespe	True	le sphinx tête-de-mort	True
+43	die Eichengalle, n	True	le grand sylvain	True
+44	die Rosengallwespe, n	True	le tabac d'Espagne	True
+45	die Rosengalle, n	True	la teigne des vêtements	True
+46	die Fliege, n (ein Zweiflügler)	True	la tordeuse verte du chêne	True
+47	die Stubentliege	True	la petite tortue	True
+48	die Stechfliege/der Wadenstecher, -	True	le vulcain/la Vanesse atalant	True
+49	die Fleischfliege	True	_la zygène de la spirée	False
+50	die blaue Schmeißfliege	True	insecies sociaux	False
+51	die Goldfliege ; die Fleischmade, n	True	l'abeille ; l'abeille à iel	True
+52	die Essigfliege, n	True	l’essaim ; essaimer	False
+53	die Bremse, n/die Bremsfliege	True	la reine	True
+54	eine kleine Fliege, eine kl. Mücke	False	le aux-bourdon	True
+55	die Stechmücke, n/die Schnake, n	True	l'ouvrière 	True
+56	von Stechmücken befallen sein	False	butiner itr	False
+57	die Malariamücke	True	le iellat	True
+58	die Kohlschnake	True	la ruche	True
+59	die Laus, 'e	True		False
+60	die Kopflaus	True		False
+61		False		False

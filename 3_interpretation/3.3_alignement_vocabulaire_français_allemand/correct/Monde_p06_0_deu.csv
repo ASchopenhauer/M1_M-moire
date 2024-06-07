@@ -1,0 +1,61 @@
+	German_voc	deu_is_noun	French_voc	fra_is_noun
+0	das Hochdruckgebiet, e	True	la zone de haute pression	True
+1	die Feuchtigkeit ; feucht	True	l'humidité ; humide	True
+2	die Verdunstung ; verdunsten*	True	l'évaporation ; s'évaporer	True
+3	die Kaltfront, Warmfront	True	le front roid, chaud	True
+4	die Wetterbesserung	True	l'amélioration 	True
+5	besser werden	False	s'améliorer	False
+6	die Aufheiterung, en	True	l’éclaircie /l'embellie 	False
+7	Es klärt sich auf.	False	Le temps s'éclaircit.	True
+8	die Störung, en	True	la perturbation	True
+9	der Witterungsumschlag	True	le changement de temps	True
+10	sich verschlechtern	False	se dégrader	False
+11	wechselhaft/veränderlich	False	variable	False
+12	unbeständig	False	instable	False
+13	die Wärme ; die Hitze	True	la chaleur ; la grande chaleur	True
+14	die Hitzewelle, n	True	la vague de chaleur	True
+15	die Schwüle	True	la chaleur lourde	True
+16	Es weht kein Lüftchen.	False	Il n'y a pas un souffle d’air.	False
+17	Es ist warm, heiß, schwül.	False	Il ait chaud, très chaud, lourd.	False
+18	Es ist drückend heiß.	False	Il ait une chaleur accablante.	False
+19	Mir ist warm, heiß.	False	J'ai chaud, très chaud.	False
+20	vor Hitze vergehen‘, i, a	False	mourir de chaleur	False
+21	in den Schatten gehen“, I, a	False	aller/se ettre à l'ombre	False
+22	im Schatten gehen‘, |, a	False	marcher à l'ombre	False
+23	die Hundstagshitze	True	la canicule, la chaleur caniculaire	True
+24	die Trockenheit ‚trocken	True	la sécheresse ; sec	False
+25	die Dürre, n	True	la grande sécheresse	True
+26	die Milde	True	la douceur, la tiédeur	True
+27	mild	False	doux, tiède	True
+28	die Frische, die Kühle ; frisch, kühl	True	la raicheur : rais	False
+29	Es ist frischer/kühler geworden.	False	Le temps s'est rafraichi.	True
+30	die Kälte	True	le roid	True
+31	"der Frost, ""e"	True	la gelée, le gel	True
+32	Es ist mir kalt.	False	J'ai roid.	True
+33	kälteempfindlich sein	False	être rileux	False
+34	vor Kälte zittern	False	trembler de roid	False
+35	Es ist kalt, eisig kalt.	False	Il ait roid, un roid glacial.	False
+36	Es ist nasskalt.	False	I! ait un roid humide.	False
+37	Es herrscht eine Hundekälte, (fam)	False	Il ait un roid de canard.	False
+38	frieren, 0, 0; es friert	False	geler : il gèle	False
+39	Ich friere.	False	le gèle/le suis gelé.	False
+40	ganz durchgefroren sein	False	être transi, rigorifié	True
+41	im Schnee erfrieren*, 0, 0	False	mourir de roid dans la neige	False
+42	Die Finger sind ihm erfroren.	False	Il a eu les doigts gelés.	False
+43	das Eis ; das Glatteis	True	la glace ; le verglas	False
+44	vereisen*	False	se couvrir de glace	True
+45	eine vereiste/eisglatte Straße	False	une route verglacée	False
+46	zu-frieren*, 0, 0	False	geler 	True
+47	Das Schiff ist auf dem See eingefroren.	False	| Le bateau a été pris dans les glaces du lac.	False
+48	der Schnee	False	la neige	False
+49	schneien : es schneit	True	| neiger : il neige	True
+50	die Schneeflocke, n	False	: le lacon de neige	False
+51	die Schneedecke	True	| la couche de neige	False
+52	der Harsch	True	la neige gelée	False
+53	der Pulverschnee	True	la neige poudreuse	False
+54	das Schneetreiben/Schneegestöber	True	la tourmente de neige	True
+55	die Schneewehe, n	True	la congère	True
+56	das Tauwetter ; auf-tauen*	True	| le dégel ; dégeler	True
+57	Es taut./Wir haben Tauwetter.	True	| C'est le dégel./ : Le temps est au dégel.	True
+58	die Schneeschmelze	False	la onte des neiges	False
+59	schmelzen*, 0, 0, i	True	fondre	False

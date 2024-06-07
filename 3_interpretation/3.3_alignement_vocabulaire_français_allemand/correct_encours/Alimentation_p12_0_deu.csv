@@ -1,0 +1,59 @@
+	German_voc	deu_is_noun	French_voc	fra_is_noun
+0	der Schaum	True	la boisson	True
+1	ein abgestandenes Bier	False	le breuvage	True
+2	ein alkoholfreies Bier	False	la soif	True
+3	das obergärige Bier	True	avoir soif, être assoiffé	False
+4	das Malzbier	True	se désaitérer	False
+5	das Rauchbier	True	boire	False
+6	das Weißbier/Weizenbier	True	aimer boire	False
+7	die Berliner Weiße mit Schuss	True	verser à boire	False
+8	das untergärige Bier	True	trinquer	False
+9	das Pilsener Bier	True	vider son verre	False
+10	"das Bierfass, ""er"	True	boire le verre d’un trait	False
+11	das Bier vom Fass	True	 cul sec	False
+12	ein Stehbier trinken, a, u	False	ingurgiter, siffler	False
+13	das Flaschenbier	True	les boissons rafraîchissant	True
+14	"das Bierglas, ""er"	True	servir des	False
+15	"der Bierkrug, ""e, das"	True	rafraïichissements 	False
+16	ein Bier/ein Glas Bier/ein Helles	False	Peau potable	False
+17	ein kleines Bier	False	Eau non potable.	False
+18	der Bierfilz, e/der Bierdeckel, -	True	l’eau inérale	False
+19	die lüttje Lage	True	l'eau plate, l'eau non gazeus	True
+20	das Fliegerbier	True	l'eau gazeuse	True
+21	die Radlermaß	True	l'eau gazeuse/de Seltz	True
+22	das Alsterwasser	True	le glaçon	True
+23	der Ruß	True	la limonade	True
+24	der Bierbauch (fam)	True	le diabolo enthe	True
+25	eine Bierleiche sein (fam)	False	le diabolo grenadine	True
+26	bierernst sein	False	la citronnade	True
+27	die Spirituosen p/	True	le jus de ruits	True
+28	das Destillieren	True	le jus de ruit pressé	True
+29	der Destillierapparat, e	True	le jus de ruits naturel non	True
+30	der Branntweinbrenner, -	True	fermenté	False
+31	der private Eigenbrenner	True	le jus d’orange	True
+32	der Branntwein, e;;	True	le jus de pomme	True
+33	"der Schnaps, ""e (fam)"	True	le jus de tomate	True
+34	der Weinbrand	True	le jus de ruit concentré	True
+35	der Kognak, s	True	le sirop de ruits	True
+36	Very Superior Old Pale	False	la boisson alcoolisée	True
+37	der Obstbranntwein	True	\	False
+38	der Tresterbranntwein	True	le cidre	False
+39	der Aquavit, e	True	le poiré	True
+40	der Kornbrandwein, der Korn (fam)	True	la bière	True
+41	der Doppelkorn	True	la brasserie	True
+42	die Wodka, s	True	la brasserie	True
+43	der Whisky, s	True	le brasseur ; brasser	True
+44	der Arak, e/s	True	le alt	True
+45	der Steinhäger	True	l'orge 	True
+46	der Enzian	True	le houbion	True
+47	das Kirschwasser	True	la levure	True
+48	der Kümmel	True	la ermentation ; ermenter	True
+49	das Zwetsch(g)enwasser	True	la bière blonde	True
+50	der Himbeergeist	True	la bière brune	True
+51	der Rum, s	True	la bière brune /brassée en hiver)	True
+52	"ein Rumtopf, ""e"	False	la bière orte	True
+53	das alkoholische Heißgetränk, e	True	la bière légère	True
+54	der Punsch, e	True	 	False
+55	der Glühwein	True		False
+56	der Grog	True		False
+57		False		False

@@ -1,0 +1,56 @@
+	German_voc	deu_is_noun	French_voc	fra_is_noun
+0	na	False	 	False
+1	das Insekt, en/das Kerbtier, e	True	l'escargot /lelimaçon	True
+2	der Flügel, -	True	l'escargot de Bourgogne	True
+3	geflügelt ; flügellos	False	le petil gris	True
+4	häutig	False	la coquille d'escargat	True
+5	die Schuppe, n	True	la limace /1 gén)	True
+6	beschuppt	False	la limace grise, la loche	True
+7	der Augenfleck, e, das Auge, n	True	l'arion 	True
+8	der Deckllügel, -	True	le bigorneau/le vigneau	True
+9	die Ader, n ; geädert	True	le buccin/le bulot	True
+10	die Mundwerkzeuge np!	True	l'ormeau /l'oreille \( de er	True
+11	die Kiefer mpl	True	la patelle/la bernicle	True
+12	der Stachel, -	True	la porcelaine/la cyprée	True
+13	stechen, a, o, i ; der Stich, e	False	le pourpre petite pierre	True
+14	der Rüssel, - ; saugen, 0, 0	True	le triton, la conque	True
+15	die Verwandlung, en	True	la turritelle	True
+16	sich verwandeln (in+A)	False	le céphalopode	True
+17	die Larve, n	True	l’argonaute 	False
+18	die Raupe, n	True	le calmar/l’encornet 	True
+19	die Häutung, en ; sich häuten	True	la plume de calmar	True
+20	die Puppe, n	True	le nautile	True
+21	die Verpuppung, en	True	la pieuvre/le poulpe	True
+22	der Kokon, s	True	le ientacule	True
+23	sich ein-spinnen	False	la ventouse	True
+24	sich entpuppen	False	la seiche ; l'os de seiche	True
+25	die Imago, gines	True	l’anémone de er/lactinie	False
+26	Käfer mpl/Deckflügler mpi	False	le corail ; le corail rouge	True
+27	Pflanzen fressend ; Aas fressend	False	le récif corallien	True
+28	Kot fressend ; Holz fressend	False	latoll 	False
+29	das Holz an-bohren	True	l'étoile de er/l’astérie	True
+30	Gänge im Holz bohren	False	l'ophiure 	True
+31	der Fliegenkäfer, -	True	l'éponge 	True
+32	der Kornkäfer/der Kornrüßler, -	True	l'éponge de toilette	True
+33	vom K. angefressenes Getreidekorn	False	spongieux	False
+34	"der Große Eichen-/Heldbock, ""e"	True	la éduse	True
+35	der Weberbock	True	la pélagie ; l'aurélie 	True
+36	der Goldlaufkäfer/der Goldschmied, e	True	le bateau de Saint-Pierre	True
+37	der Rosenkäfer, -	True	la régate portugaise	True
+38	der Marienkäfer	True	l'oursin ri	True
+39	der Siebenpunkt, e	True	l’ascidie	False
+40	der Speckkäfer	True	la aune pélagique	True
+41	der Kartoffelkäfer	True	la aune abyssale	True
+42	der Rosskäfer, der Mistkäfer	True	le plancton animal/ le zooplancton	True
+43	der Maikäfer	True	le krill	True
+44	der Junikäfer	True	la noctiluque	True
+45	der Walker, -	True	le plancton végétal/ le phytoplancton	True
+46	der Engerling, e	True	la diatomée	True
+47	der Dreihornkäfer	True		False
+48	der Hirschkäfer	True		False
+49	der Totengräber, -	True		False
+50	der Nashornkäfer	True		False
+51	der Heilige Pillendreher, -	True		False
+52	der Schwarze Aaskäfer	True		False
+53	der Mehlkäfer	True		False
+54		False		False

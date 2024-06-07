@@ -1,0 +1,19 @@
+	German_voc	deu_is_noun	French_voc	fra_is_noun
+0	die Lebensmittel npf	True	les produits alimentaires 	True
+1	die Lebensmittelüberwachung	True	le contrôle alimentaire	True
+2	das Naturprodukt, e	True	le produit naturel	True
+3	die Biokost	True	les produits alimentaires	True
+4	die Packung, en	True	naturels	False
+5	die Fertigpackung	True	le conditionnement	True
+6	die Einzelpackung	True	la archandise préemballée	True
+7	die Füllmenge, n	True	l'emballage individuel	True
+8	das Abtropfgewicht	True	le poids /le volume de remplissage	True
+9	die Konservierung	True	le poids d’égoutiage	True
+10	konservieren	False	la conservation	True
+11	die Trocknung	True	conserver	False
+12	das Pasleurisieren	True	le séchage	True
+13	das Sierllisieren	True	la pasteurisation	True
+14	die Kühlung ; gekühlt	True	la stérilisation	True
+15	das Einfrieren/das Gefrieren	True	la réfrigération ; réfrigéré	True
+16		False	la congélation	True
+17		False		False

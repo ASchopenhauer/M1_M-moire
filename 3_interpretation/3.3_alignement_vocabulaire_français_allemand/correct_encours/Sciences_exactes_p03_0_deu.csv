@@ -1,0 +1,58 @@
+	German_voc	deu_is_noun	French_voc	fra_is_noun
+0	das Dreifache (adj) ; verdreifachen	True	le triple ; tripler	True
+1	dreifach ; vierfach	False	triple ; quadruple	False
+2	das Vierfache (adj)	True	le quadruple	True
+3	das Fünffache (adj)	True	le quintuple	True
+4	das Hundertfache (adj)	True	le centuple	True
+5	einmal, zweimal, dreimal (adv)	False	une ois, deux ois, trois ois	True
+6	das Einmaleins	True	la table de ultiplication	True
+7	die Division, en/die Teilung, en	True	la division	True
+8	dividieren/teilen (durch+A)	False	diviser	False
+9	teilbar	False	divisible	False
+10	das Divisionszeichen	True	le signe de division	True
+11	der Teller, -	True	le diviseur	True
+12	größter gemeinsamer Teiler	False	plus grand commun diviseur	False
+13	kleinstes gemeinsames Vielfaches	False	plus petit commun ultiple	False
+14	der Quotient, en, en	True	le quotient	True
+15	der Durchschnitt (liegt bei)	True	la oyenne 	True
+16	durchschnittlich ;im Durchschnitt	False	moyen ; en oyenne	False
+17	Es geht auf.	False	C'est divisible sans reste.	False
+18	Die Rechnung geht auf.	False	Le compte est bon, 	True
+19	Wieviel ist... ?	False	Combien ont … ?	False
+20	1 und/plus 3 macht/ist 4, 	False	1et3 ont4.	False
+21	16 weniger/minus 11 macht/ist 5.	False	16 oins 11 ont 5.	False
+22	3 mal 4 ist 12.	False	3 ois 4 ont 12.	False
+23	100 (geteilt) durch 10 ist 10, 	False	 divisé par 10 ont 10.	False
+24	die Dreisatzrechnung	True	la règle de trois	True
+25	"der Prozentsatz, ""e"	True	le pourcentage	True
+26	fünf vom/pro Hundert, 5 Prozent	False	cinq pour cent	False
+27	fünf vom/pro Tausend, 5 Promille	False	cinq pour ille	False
+28	die Prozentrechnung	True	le calcul des intérêts	True
+29	der Kugelschieber, -	True	le boulier	True
+30	der Rechenschieber	True	la règle à calculer	True
+31	der Taschenrechner, -	True	la calculatrice, la calculette	True
+32	zählen	False	compter	False
+33	sein Geld zählen	False	compter son argent	False
+34	auf-zählen	False	énumérer	False
+35	ab-zählen	False	compter/dénombrer	False
+36	sich verzählen	False	se tromper en comptant	False
+37	nach-zählen	False	recompter	False
+38	zählbar	False	dénombrable	False
+39	die Schätzung, en	True	ol'évaluation , l'estimation 	True
+40	schätzen (auf+A)	False	évaluer/estimer 	False
+41	überschlagen, u, a, ä, ab-schätzen	False	évaluer approximativement	False
+42	schätzungsweise	False	approximativement	False
+43	über den Daumen gepeilt (fam)	False	estimé à vue de nez	False
+44	eine geschätzte Zahl	False	un nombre approximatif	True
+45	etwa/ungefähr/an die dreißig	False	une trentaine de personnes	True
+46	Personen	False	en grand nombre	False
+47	in großer Zahl	False	des centaines, des illiers de un nombre précis	True
+48	Hunderte, Tausende von+D	False	une douzaine d'oeufs	True
+49	eine genaue Zahl	False	au nombre de cent	False
+50	ein Dutzend Eier	False	surévaluer ; sous-évaluer	False
+51	hundert an der Zahl	False	arrondir un nombre	False
+52	überschätzen ; unterschätzen	False	corriger une évaluation	False
+53	eine Zahl ab-runden	False	nes TETE SEE	False
+54	eine Schätzung berichtigen	False		False
+55	anzaln an inmmank ie m	False		False
+56		False		False

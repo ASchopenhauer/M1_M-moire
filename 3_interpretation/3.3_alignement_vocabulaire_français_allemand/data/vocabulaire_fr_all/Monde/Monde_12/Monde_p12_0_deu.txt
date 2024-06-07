@@ -1,0 +1,67 @@
+lagern
+ab-lagern
+die Deponie, n/
+die Müllkippe, n, die Müllhalde, n
+die wilde Müllkippe, n
+den Müll ab-laden, u, a, ä
+
+die Müllabfuhr
+
+der Müllarbeiter, -/Müllmänner (fam)
+die Vorsortierung ; vor-sortieren
+die Entsorgung des Mülls
+
+das Retycling/
+die Wiederverwertung
+
+die wieder verwertbaren Abfallstoffe
+wieder verwerten
+
+das Altpapier
+
+das Retyclingpapier
+
+das Altglas
+
+die Einwegilasche, n
+
+die Kunststoffabfälle
+
+in den Mülleimer werfen, a, 0, i
+etw weg-werfen, a, 0, |
+
+der Müllzerkleinerer, -
+
+die Zerkleinerung
+
+der Müllschlucker, -
+
+der Mülleimer/der Abfalleimer, -
+die Mülltonne, n
+
+der Müllsack
+
+der Plastiksack, "e
+
+der Müllbehälter, -/
+die Großraumtonne, n
+
+die Müllverbrennungsanlage, n
+verbrennen, a, a
+
+der Giftmüll/der Sonderabfall, "e
+giftig
+
+der Giftstoff, e
+
+das Dioxinfass, "er
+
+der Giftmüllexport
+
+die Radioaktivität
+die radioaktiven Abfälle
+
+schwach-, mittel-, hochradioaktiv
+
+die atomare Entsorgung
+

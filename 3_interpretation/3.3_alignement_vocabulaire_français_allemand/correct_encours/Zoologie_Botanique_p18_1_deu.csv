@@ -1,0 +1,31 @@
+	German_voc	deu_is_noun	French_voc	fra_is_noun
+0	der rarn, e/das rarnkraut, er	True	la ougère	False
+1	der Wedel, -	True	la ronde	True
+2	der Gemeine Farn	True	la ougère âle	True
+3	der Waldfrauenfarn	True	la ougère emelle	True
+4	die Hirschzunge, n	True	la scolopendre	True
+5	der Tüpfelfarn	True	le polypode commun	True
+6	der Schwarze Streifenfarn	True	le capillaire noir	True
+7	der Haarfarn	True	le cheveu-de-Vénus/ ladiante 	True
+8	der Baumfarn	True	la ougère arborescente	True
+9	der Moosfarn	True	la sélaginelle	True
+10	das Moos, e	True	la ousse	True
+11	das Torfmoos	True	la sphaigne	True
+12	das Frauenhaar/das Widertonmoos	True	le polyiric commun	True
+13	das Weißmoos	True	le leucobryum glauque	True
+14	die Lebermoose npl	True	les hépatiques 	True
+15	die Bärlappe mpll	True	les lycopodes 	True
+16	die Schlangenmoose	True	le lichen	True
+17	die Flechte, n	True	l’usnée 	False
+18	die Gemeine Bartflechte	True	la cétraire islandaise	True
+19	die Isländische Flechte	True	la cladonie des rennes	True
+20	die Rentierflechte	True	l’algue 	False
+21	die Alge, n, der Tang, e	True	algue verte, brune, rouge	False
+22	grüne, braune, rote Alge	False	le varech	True
+23	der Seetang, das Seegras	True	l'ulve /la laitue de er	True
+24	der Meersalat	True	le chondrus/le goémon risé	True
+25	der Knorpeltang	True	le ucus vésiculeux	True
+26	der Blasentang	True	la laminaire digitée	True
+27	der Fingertang	True	la sargasse	True
+28	der Beerentang	True		False
+29		False		False

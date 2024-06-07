@@ -1,0 +1,61 @@
+	German_voc	deu_is_noun	French_voc	fra_is_noun
+0	der Speisesaal, säle	True	la salle de restaurant	True
+1	die Küchendurchreiche, n	True	le passe-plat	True
+2	der Geschäftsführer, -	True	le gérant	True
+3	der Oberkallner, -	True	le aître-d'hôtel	True
+4	der Weinkellner	True	le sommelier, le caviste	True
+5	der Gast, 'e	True	le client, le consommateur	True
+6	der Stammgast	True	habitué 	False
+7	der Stammtisch, e	True	la table des habitués	True
+8	die Speisekarte, n	True	la carte, le enu	True
+9	das (Tages)menü (zu festern Preis)	True	le enu du jour 	True
+10	älacarteessen, a, e, |	False	manger à la carte	False
+11	das Gericht, e; die Speise, n	True	le ets, le plat	True
+12	"der Gang, ""e"	True	le plat 	True
+13	Ein Essen mit drei Gängen	False	un repas avec rois plais	True
+14	der erste Gang, das Vorgericht	True	l'entrée 	True
+15	die Vorspeise, n	True	le hors-d'œuvre	True
+16	gemischte Vorspeisen	False	hors d'œuvre variés	False
+17	die Appetithäppchen npi	True	les amuse-gueule	True
+18	die Appetitschnittchen npl	True	les canapés 	True
+19	das Hauptgericht	True	le plat principal/de résistance	True
+20	der Nachtisch	True	le dessert	True
+21	der Aperitif, s/e	True	l'apéritif , l'apéro	True
+22	"der Digestif, s, der Verdauungsschnaps, ""e (fam)"	True	le digestif	True
+23	das Schnäpschen, - (fam)	True	le pousse-café, la goutte	True
+24	die Schankwirtschaft	True	le débit de boisson	True
+25	die Schankberechtigung	True	la licence d'exploitation	True
+26	die Bar, s	True	le bar	True
+27	der Barbesitzer, -	True	le tenancier de bar	True
+28	der Barkellner, -	True	le barman	True
+29	die Theke, n	True	le comptoir, le zinC	True
+30	der Barhocker, -	True	le tabouret de bar	True
+31	das Nachtlokal, e	True	la boîte de nuit	True
+32	die Animierdame, n	True	l'entraîneuse 	True
+33	der/das Striptease, der Strip, s (fam)	True	le strip-tease, le strip	True
+34	die Stripteasetänzerin, nen, 	True	la sirip-teaseuse	True
+35	die Stripperin, nen (fam)	True	faire un numéro de strip-tease	False
+36	Striptease vor-führen, strippen (fam)	False	la discothèque)	True
+37	die Disko(thek)	True	le café ; le salon de thé	True
+38	das Cafe, s	True	le café	True
+39	das Lokal, e ; die Kneipe, n (fam) ; die (Schank)wirtschaft, en/Gastwirtschaft	True	le bistro, le troquet	True
+40	die Schänke/Schenke, n, die Kneipe, n (fam)	True	être un pilier de bistro	False
+41	immer in der Kneipe sitzen, a, €	False	le cafetier	True
+42	der Schankwirt, 	True	le café avec terrasse	True
+43	das Straßencafe	True	le bar à vin	True
+44	das Weinlokal, e	True	le débit de vin, la taverne	True
+45	die Weinstube, n	True	la brasserie	True
+46	die Bierstube, n, das Bierlokal, e	True	le service	True
+47	die Bedienung, das Service	True	le garçon , le serveu	True
+48	der Kellner, -	True	Garçon !	False
+49	Herr Ober !	False	la serveuse	True
+50	die Kellnerin, die Serviererin, nen	True	Mademoiselle !	False
+51	Fräulein !	False	prendre/boire un pot	False
+52	einen heben, 0, 0 (fam)	False	le coup de l'étrier	True
+53	"der Abschiedstrunk, ""e"	True	offrir la tournée	False
+54	eine Runde/Lage spendieren, einen aus-geben, a, 8, 1 (fam)	False	C'est a tournée !	False
+55	Diese Runde geht auf meine	False	L'addition, s’il vous plaît !	True
+56	Rechnung ! (am)	False	Le service est-il compris ?	True
+57	Ich möchte zahlen, bitte !	False		False
+58	Ist die Bedienung inbegriffen ?	False		False
+59		False		False

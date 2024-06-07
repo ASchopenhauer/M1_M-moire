@@ -1,0 +1,63 @@
+	German_voc	deu_is_noun	French_voc	fra_is_noun
+0	die Sprungwelle, n	True	le ascaret	True
+1	"der Wellenkamm, ""e"	True	la crête de la vague	True
+2	"das Wellental, ""er"	True	le creux de la vague	True
+3	"der Wellenschlag, ""e"	True	le ressac	True
+4	die Dünung, en	True	la houle	True
+5	die Strömung, en ; gegen die Str.	True	le courant ; à contre-courant	True
+6	Die See ist bewegt/stürmisch, geht hoch.	False	La er est agitée/houleuse, démontée, grosse.	True
+7	toben/wüten	False	être déchainée/ en urie	False
+8	Die See ist still.	False	La er est calme.	True
+9	eine (spiegel)glatte See	False	une er d'huile	True
+10	"der Strand, ""e"	True	la plage	True
+11	der sandige Uferstreifen	True	la grève	True
+12	das (Brandungs)geröll/das Gerölle	True	les galets 	True
+13	die Düne, n ; die Wanderdüne	True	la dune ; la dune ouvante	True
+14	"der Wasserlauf, ""e"	True	le cours d’eau	True
+15	das Süßwasser	True	l'eau douce	True
+16	das Binnengewässer	True	les eaux continentales	True
+17	das stehende Gewässer	True	les eaux dormantes	True
+18	das fließende Gewässer	True	les eaux courantes	True
+19	die Wasserscheide, n	True	la ligne de partage des eaux	True
+20	das Einzugsgebiet, e	True	le bassin-versant/bassin	True
+21	das Sickerwasser	True	d'alimentation	False
+22	sickern* in+A, durch+A	False	les eaux d'infiltration	True
+23	sickert* aus+D	False	s'infiltrer dans, à travers	False
+24	das Grundwasser	True	suinter de les eaux souterraines	False
+25	der Grundwasserspiegel	True	la nappe phréatique	True
+26	die Quelle, n	True	la source	True
+27	der Brunnen	True	le puits, la ontaine	True
+28	die Heilquelle	True	la source inérale	True
+29	quellen”, 0, 0, | (aus+D)	False	jaillir, sourdre	False
+30	entspringen“, a, u, in+D, auf+D	False	prendre sa source dans, sur	False
+31	rieseln	False	ruisseler	False
+32	"der Bach, ""e"	True	le ruisseau	True
+33	murmeln	False	murmurer 	False
+34	rauschen	False	bruire, urmurer	False
+35	plätschern ; das Plätschern	False	clapoter ; le clapotis	False
+36	der Bergbach/der Sturzbach	True	letorrent	False
+37	der Strudel	True	le remous	True
+38	die Stromschnelle, n	True	le rapide	True
+39	der Katarakt, e	True	la cataracte	True
+40	"der Wasserfall, ""e"	True	la chute d’eau, la cascade	True
+41	die Niagarafälle	True	les chutes du Niagara	True
+42	brausen, tosen	False	gronder, ugir	False
+43	der (große) Fluss	True	le leuve	True
+44	der Strom, 'e	True	le leuve	True
+45	"der Fluss, ""e"	True	la rivière	True
+46	am Fluss entlang/den Fluss entlang	False	le long de la rivière	True
+47	Köln liegt am Rhein.	False	Cologne est situé sur le Ahi	False
+48	fließen, 0, 0	False	couler	False
+49	strömen*	False	couler 	False
+50	Die Ems fließt in den Rhein.	False	L'Ems se jette dans le Rhin.	True
+51	durchfließen, 0, 0 ir	False	lraverser, arroser	False
+52	"der Nebenfluss, ""e"	True	l'affluent 	True
+53	ein rechter Nebenfluss	False	un affluent de la rive droite	True
+54	zusammen-fließen*, o, 0 (mit+D)	False	confluer	False
+55	der Zusammenfluss	True	le confluent	True
+56	das Ufer, -	True	la rive/le bord	True
+57	das steile Ufer, die Uferböschung, en	True	la berge	True
+58	an den Ufern der Donau	False	sur les bords du Danube	False
+59	am Ufer des Stroms	False	au bord du leuve	False
+60	am Wasser	False	au bord de l’eau	False
+				False

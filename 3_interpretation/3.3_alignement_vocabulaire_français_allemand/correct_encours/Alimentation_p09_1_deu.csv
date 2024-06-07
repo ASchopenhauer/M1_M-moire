@@ -1,0 +1,60 @@
+	German_voc	deu_is_noun	French_voc	fra_is_noun
+0	unersättlich	False	 	False
+1	schmausen, schlemmen	False	A —	False
+2	tüchtig schmausen	False	(soupe d'anguilles avec légumes, poires’ et pruneaux)	False
+3	ein tüchtiger Esser sein	False	(omelette aux pommes de terre	False
+4	der Vielfraß, e ; gefräßig, verfressen	True	avec lard et dés de jambon)	False
+5	fressen, a, &, | (pop), füttern (fam)	False	\	False
+6	das Essen	True	(purée de pois chiches au lard	False
+7	das Fressen (pop)	True	maigre)	False
+8	sich voll fressen (pop)	False	(boulettes de viande hachée avec	False
+9	sich voll stopfen	False	mie de pain, œufs, oignons)	False
+10	gierig verschlingen	False	(foie de veau aux pommes et aux	False
+11	der Appetit	True	oignons)	False
+12	appetitlich, appetitanregend	False	\(boulettes de pommes de terre	False
+13	jdm Appetit machen	False	fourrées à la confture de pruneaux)	False
+14	mit gutem Appetit essen, tüchtig	False	\(crêpes de pommesde terre servies	False
+15	zu-langen	False	avec compote de pommes)	False
+16	jdm den Appetit verschlagen, u, a, ä, verderben, a, o, i	False	(boulettes de viande avec sauce	False
+17	die Appetitlosigkeit	True	aux câpres)	False
+18	mit Widerwillen essen	False	\	False
+19	lustlos essen	False	(cervelle au ris de veau avec langue	False
+20	Sie haben fast nichts gegessen.	False	et viande de veau)	False
+21	Guten Appetit !/Lassen Sie sich's gut	False	(bœuf ariné braisé à la sauce	False
+22	schmecken !	False	aigre-douce)	False
+23	cie Mahlzeit, en	False	(choucroute aux épices, à	False
+24	cas Frühstück, e	False	la vapeur)	True
+25	frühstücken	False	\	False
+26	das Mittagessen ; zu Mittag essen	True	\(assortiment de hors d'œuvre variés	False
+27	das Abendessen	True	de poissons)	False
+28	zu Abend essen	False	(tranche de pain avec dés de jambon et œuf sur le plat	False
+29	das Butterbrot, das Vesperbrot, e (sud)	True	\(haricots blancs aux pommes, poires et légumes)	False
+30	vespern	False		False
+31	das Abendbrot, e	True		False
+32	das Festessen	True		False
+33	der Gastgeber ; die Gastgeberin	True		False
+34	ein gastfreundliches Haus	False		False
+35	jdn zum Abendessen	False		False
+36	ein-laden, u, a, ä	False		False
+37	jdn auf einen Kaffee ein-laden	False		False
+38	sich selbst ein-laden	False		False
+39	der Nassauer, - (am)	True		False
+40	Das Essen ist fertig.	False		False
+41	Das Essen steht bereits auf dem	False		False
+42	Tisch.	False		False
+43	Bitte zu Tisch !	False		False
+44	sich zu Tisch setzen ; bei Tisch sein	False		False
+45	Guten Appetit !/Mahlzeit !	False		False
+46	"der Gast, ""e (sans föminin)"	True		False
+47	der Tischgast	True		False
+48	die Tischdame, n	True		False
+49	der Tisch, e	True		False
+50	den Tisch decken	False		False
+51	Der Tisch ist gedeckt.	False		False
+52	den Tisch ab-decken, ab-räumen	False		False
+53	"das Tischtuch, ""er, die Tischdecke, n"	True		False
+54	das Tischtuch auf-legen	True		False
+55	die Serviette, n	True		False
+56	die Serviette auseinander	True		False
+57	nehmen, a, 9, |	False		False
+58		False		False

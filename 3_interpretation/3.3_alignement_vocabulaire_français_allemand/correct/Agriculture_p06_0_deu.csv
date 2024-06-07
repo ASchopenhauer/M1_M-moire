@@ -1,0 +1,58 @@
+	German_voc	deu_is_noun	French_voc	fra_is_noun
+0	die Schwefelung	True	le sulfitage	True
+1	der (Trester)hut	True	le chapeau	True
+2	der Abzug, der Abstich	True	le soutirage	True
+3	das Verklären, das Entschleimen	True	le débourbage	True
+4	die Klärung ; sich klären	True	la clarification ; se clarifier	True
+5	die Schönung	True	le collage	True
+6	der Bodensatz, der Trub	True	les lies, les bourbes 	True
+7	den Wein auf dem Trub belassen, ie, a, ä	False	laisser le vin sur sa lie	False
+9	der Vorlaufwein	True	le vin de goutte	True
+10	der Scheitermost	True	le vin de presse	True
+11	der Tiester, der Treber	True	le marc	True
+12	das Filtrieren ; filtern	True	le filtrage ; filtrer	True
+13	"das Fass, ""er "	True	le tonneau, le fût, la barriqu	True
+	in Fässer füllen		mettre en tonneau	
+14	das Fuder, -	True	le foudre	False
+15	"das Spundloch, ""er ;der Spund, ""e"	True	la bonde	False
+16	verspunden	False	poser une bonde	True
+17	"der Fassreifen, -/das Fassband, ""er"	True	le cercle	False
+18	die Fassdaube, n	True	la douve	True
+19	der Fassboden, ”	True	le fond du tonneau, le couvercle	True
+20	"das Eichenfass, ""er"	True	le fût de chêne	True
+21	der Böttcher, -/der Küfer, -	True	le tonnelier	True
+22	die Kellerei, en	True	la cave de vinification	True
+23	die Schwefelkerze	True	la mèche de souffre	True
+24	die Fässer mit neuem Wein auf-füllen	True	ouiller les fûts	True
+26	der Wein wird abgezogen	True	soutirer le vin	False
+27	ein Fass an-stechen	False	mettre un fût en perce	False
+28	fest verspunden	False	poser une bonde hermétiqui	False
+29	der Ausbau des Weines	True	l'élevage du vin	False
+30	Der Wein reift in Eichenfässern.	False	Le vin est élevé dans des fûts de chêne. 	True
+31	die Vermischung, en	True	l'assemblage 	True
+32	der Verschnitt, e	True	le coupage	False
+33	Wein verschneiden, I, i	False	couper du vin	True
+34	die Cuvée, s	True	la cuvée	True
+35	die Trockenzuckerung	True	la chaptalisation	False
+36	an-reichern	False	chaptaliser	True
+37	der Wasserzusatz	True	le mouillage	True
+38	ein gepanschter Wein	False	un vin frelaté	False
+39	das EG-Weinrecht	True	la législation communautaire en matière de vins 	True
+40	das deutsche Weingesetz	True	la loi allemande sur les vins	True
+41	die amtliche Prüfungsnummer	True	numéro officiel de contrôle	True
+43	der vorhandene Alkoholgehalt	True	le titre alcoométrique réel	False
+44	der Säuregehalt	True	la teneur en acidité	True
+45	die Weinsäure	True	l'acide tartrique	True
+46	die Apfelsäure	True	l'acide malique	True
+47	die Gerbsäure	True	le tanin	True
+48	die Essigsäure	True	l’acide acétique	True
+49	der Säureabbau, die Entsäuerung	True	la réduction de l'acidité	True
+50	den Wein ab-füllen	False	embouteiller le vin	False
+51	der Abfüller, -	True	l'embouteilleur 	True
+52	die Flaschenfüllung, das Abfüllen	True	la mise en bouteille, l’embouteillage	False
+53	"der Abfüllraum, ""e"	True	la salle d’embouteillage	True
+54	die Füllmaschine, -	True	la tireuse	True
+55	die Flasche, n	True	la bouteille	False
+56	der Propfen, -, der Korken, -	True	le bouchon	True
+57	der Naturkorken	False	le liège	True
+58	der Korkbrand	False	l'étampage du bouchon	True

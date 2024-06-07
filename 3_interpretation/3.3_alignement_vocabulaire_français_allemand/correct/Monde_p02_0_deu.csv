@@ -1,0 +1,24 @@
+	German_voc	deu_is_noun	French_voc	fra_is_noun
+0	die Geographie/Geografie, die Erdkunde	True	la géographie	True
+1	der Geograph, en, en	True	le géographe	True
+2	die Erde	True	la Terre	True
+3	der Kern	True	le noyau central	True
+4	der Mantel	True	le anteau	True
+5	die Erdkruste, der Erdmantel	True	l'écorce /la croûte terrest	True
+6	die Erdoberfläche	True	la surface de la Terre	True
+7	die Kontinentaltafel, n	True	la plate-forme continentale	True
+8	"der Kontinentalabhang, ""e"	True	la pente continentale	True
+9	"der Tiefseegraben, """	True	la osse océanique/les onc abyssaux	True
+10	die Geophysik	True	la géophysique	False
+11	das erdmagnetische Feld, er	True	le champ agnétique terrestre	True
+12	die Plattentektonik	True	la tectonique des plaques	True
+13	der Verschiebungsbruch	True	la aille de transformation	False
+14	die Kontinentaldrift, en	True	la dérive des continents	True
+15	driften* (nach+D)	False	dériver	True
+16	die Verwerfung, en	True	le chevauchement	True
+17	das Erdbeben, -	True	le tremblement de terre/ le séisme	False
+18	die Erdbebenkunde/die Seismologie	True	la sismologie	True
+19	der Seismologe, n, n	True	le sismologue	True
+20	Erdbeben-, seismisch	False	sismique	True
+21	die Bodenbewegung, en	True	la secousse sismique	True
+22	das Epizentrum	True	l'épicentre 	False

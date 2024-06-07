@@ -1,0 +1,64 @@
+	German_voc	deu_is_noun	French_voc	fra_is_noun
+0	die holzartigen Gerüche	True	ÿ	False
+1	die Blumendüfte	True	les odeurs boisées	True
+2	das Fruchtaroma/Obstaroma	True	les arômes leuris	True
+3	ein fruchtiger Wein	False	| les arômes de ruits	False
+4	ein blumiger Wein	False	| un vin ruité	False
+5	der Geschmack	True	! un vin leuri	False
+6	das Mundaroma	True	|. la saveur	False
+7	der Probeschluck	True	| l’arôme en bouche	False
+8	beim ersten Eindruck	False	la première gorgée	True
+9	glatt, süffig sein	False	à l'attaque en bouche	False
+10	rauh, kratzig, ruppig	False	être gouleyant, coulant	False
+11	hart, fest	False	râpeux, rugueux	False
+12	schroft, streng	False	dur, erme	False
+13	plump	False	raide	False
+14	geschmeidig	False	épais, grossier	False
+15	vollmundig	False	souple	False
+16	fleischig	False	moelleux	False
+17	fett	False	pulpeux	False
+18	öllg	False	gras	False
+19	die Süße (Weißwein)	True	onciueux	False
+20	trocken	False	la douceur \	True
+21	herb	False	extra-sec	False
+22	halbtrocken	False	sec	False
+23	mild	False	demi-sec	False
+24	lieblich	False	moelleux	False
+25	süß	False	doux, liquoreux	False
+26	die Säure	True	très doux	False
+27	die Struktur	True	l'acidité 	True
+28	formlos sein	False	la structure, la construction	True
+29	von guter Statur	False	être informe	False
+30	die Ausgewogenheit	True	d’une belle tenue	False
+31	ausgewogen	False	l'équilibre 	True
+32	unausgewogen, gespalten	False	harmonieux	False
+33	der Körper	True	déséquilibré	False
+34	Es mangelt ihm an Körper.	False	le corps	True
+35	schwach und dünn	False	Il anque de corps.	False
+36	wäss(e)rich	False	fluet et léger	False
+37	wie mit Wasser gestreckt	False	aqueux	False
+38	ein leichter Wein	False	comme lavé, ouillé	False
+39	mittel	False	un vin léger	True
+40	Rückgrat haben	False	passable	False
+41	gehaltvoll sein	False	être charpenté	False
+42	Biss haben	False	avoir de la jambe	False
+43	körperreich	False	avoir de la âche	False
+44	ein kräftiger Wein	False	corsé, charnu, étoffé	False
+45	kraftvoll	False	un vin ort	True
+46	schwer	False	puissant	False
+47	das Tannin, e/die Gerbsäure	True	capiteux	False
+48	gerbstoffhaltig	False	le tanin	True
+49	der Nachgeschmack	True	tannique	False
+50	sauber	False	> l’arrière-goût , la inale	False
+51	ehrlich	False	droit	False
+52	unangenehm	False	franc	False
+53	stabil ; unstabil	False	déplaisant	False
+54	ein betontes Finale	False	stable ; instable	False
+55	der Abgang	True	une très belle inale	True
+56	Er ist lang, kurz.	False	la longueur en bouche	True
+57	der Bodengeschmack (erdig)	True	Il est long, court.	False
+58	spürbar ;betont	False	le goût du terroir	True
+59	der Feuersteingeschmack	True	sensible ; accusé	False
+60	nach Korken schmecken	False	le goût de pierre à usil	True
+61		False	avoir un goût de bouchon	False
+62		False		False

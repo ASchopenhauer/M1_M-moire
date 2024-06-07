@@ -1,0 +1,112 @@
+die Sprungwelle, n
+
+der Wellenkamm, "e
+
+das Wellental, "er
+
+der Wellenschlag, "e
+
+die Dünung, en
+
+die Strömung, en ; gegen die Str.
+
+Die See ist bewegt/stürmisch,
+geht hoch.
+
+toben/wüten
+
+Die See ist still.
+
+eine (spiegel)glatte See
+
+der Strand, "e
+
+der sandige Uferstreifen
+
+das (Brandungs)geröll/das Gerölle
+die Düne, n ; die Wanderdüne
+der Wasserlauf, "e
+
+das Süßwasser
+
+das Binnengewässer
+
+das stehende Gewässer
+
+das fließende Gewässer
+
+die Wasserscheide, n
+
+das Einzugsgebiet, e
+
+das Sickerwasser
+
+sickern* in+A, durch+A
+sickert* aus+D
+
+das Grundwasser
+
+der Grundwasserspiegel
+
+die Quelle, n
+
+der Brunnen
+
+die Heilquelle
+
+quellen”, 0, 0, | (aus+D)
+entspringen“, a, u, in+D, auf+D
+rieseln
+
+der Bach, "e
+
+murmeln
+
+rauschen
+
+plätschern ; das Plätschern
+
+der Bergbach/der Sturzbach
+der Strudel
+
+die Stromschnelle, n
+
+der Katarakt, e
+
+der Wasserfall, "e
+
+die Niagarafälle
+
+brausen, tosen
+
+der (große) Fluss
+
+der Strom, 'e
+
+der Fluss, "e
+
+am Fluss entlang/den Fluss entlang
+Köln liegt am Rhein.
+
+fließen, 0, 0
+
+strömen*
+
+Die Ems fließt in den Rhein.
+durchfließen, 0, 0 ir
+
+der Nebenfluss, "e
+
+ein rechter Nebenfluss
+zusammen-fließen*, o, 0 (mit+D)
+der Zusammenfluss
+
+das Ufer, -
+
+das steile Ufer, die Uferböschung, en
+an den Ufern der Donau
+
+am Ufer des Stroms
+
+am Wasser
+

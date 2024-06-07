@@ -1,0 +1,73 @@
+Holz spalten
+
+der Hau-/Hackklotz, "e
+das Holz (Material)
+das Hartholz
+
+das Weichholz
+
+das Maserholz
+
+die Maserung
+rissig
+
+das Edelholz, "er
+das Mahagoni(holz)
+das Ebenholz
+
+das Palisanderholz
+das Nutzholz
+
+das Bauholz
+
+das Rundholz
+das Rundholz mit Rinde
+das geschälte Holz
+das Wurzelholz
+der Knorren, - ; knorrig, astreich
+der Ast, "e ; astfrei, astrein
+das Schnittholz
+das Kantholz
+das Schichtholz
+der Balken, -
+die Bohle, n
+der Pfosten, -
+das Brett, er
+Bretter zu-schneiden, i, i
+der Holzverschnitt
+der Holzabfall, "e
+die Leiste, n
+die Zier-/Profilleiste
+die Latte, n
+das Furnierholz
+die Furnierung
+das Sperrholz
+die Tischlerplatte, n
+die Holzfaserplatte
+die Hartfaserplatte
+die Holzspanplatte
+die Kunststoffplatie
+die Holzwolle
+Das Holz arbeitet.
+sich werfen, a, 0, i/
+sich verziehen, 0,0
+sich spalten
+der Holzsplitter, -
+quellen*, 0, 0, i
+das Sägewerk, ©
+sägen
+die Kreissäge, n
+das Sägemehl
+hobeln tr
+der Span, "e
+der Holzschliff/der Holzstoff
+der Holzzellstoff
+das Kolophonium/Kolofonium
+das Terpentinöl
+der Holzteer
+der Holzgeist
+der Holzessig
+die Holzkohle
+
+n4
+

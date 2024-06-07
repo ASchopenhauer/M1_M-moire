@@ -1,0 +1,100 @@
+SEAUIR
+
+cas Metall, e
+
+cas Schwermetall
+das Erz, @
+
+der Erzgehalt
+
+das Eisenerz
+
+der Hämatit, &
+
+die Pechblende
+
+das Aluminium
+
+der Bauxit, e
+
+das Antimon
+
+das Kadmium
+
+das Kalzium
+
+das Chrom ; verchromen
+das Kobalt
+
+das Kupfer
+
+das Kupfergrün/der Grünspan
+das Zinn ; verzinnen
+zinnhaltig
+
+das Germanium
+das Magnesium
+das Mangan
+
+das Quecksilber
+das Nickel ; vernickeln
+das Kalium
+
+das Blei
+
+das Radium
+
+das Wolfram
+
+das Uran
+
+das Zink ; verzinken
+das Eisen
+
+das Weicheisen
+
+das Gusseisen, das Roheisen
+der Weiß-, Grauguss
+der Temperguss
+der Stahl, "e
+
+der weiche Stahl
+der Hartstahl
+
+der Flussstahl
+
+der Stahlguss, "e
+der Schmiedestahl ; der Walzstahl
+das Amalgam, e
+die Legierung, en
+das Messing
+
+die Bronze, n
+
+das Neusilber
+
+das Blech, e
+
+das Weißblech
+
+das Wellblech
+eisern
+
+Eisen-
+Nichteisen-/NE-
+eisenhaltig
+metallhaltig
+metallisch
+
+das Edelmetall, e
+gestempelt
+
+das Gold
+
+gediegen
+
+golden; vergoldet
+in Gold gefasst
+
+das Siber
+

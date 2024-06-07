@@ -1,0 +1,64 @@
+	German_voc	deu_is_noun	French_voc	fra_is_noun
+0	dekantieren,	False	 	False
+1	deglacieren	False	 	False
+2	aus-wässern	False	décanter	False
+3	degraissieren, entfeiten	False	décortiquer /noix)	False
+4	verdünnen, verrühren	False	déglacer	False
+5	mit einem Ei ab-ziehen, o, o	False	mettre à dégorger	False
+6	aus der Form nehmen, a, o,i	False	dégraisser	False
+7	entsalzen	False	délayer	False
+8	auf-lösen	False	délayer avec un œuf	False
+9	ab-brühen	False	démouler	False
+10	zerdrücken	False	faire dessaler	False
+11	ab-schöpfen	False	 dissoudre	False
+12	in dünne Scheiben schneiden	False	ébouillanter, échauder	False
+13	überziehen, 0, o (mit+D)	False	écraser	False
+14	verdicken	False	écumer	False
+15	streichen, I, i	False	émincer	False
+16	aus-höhlen (Frucht, Gemüse)	False	enrober	False
+17	das Füllsel, -, die Füllung, en	True	épaissir	False
+18	füllen, stopfen	False	étaler	False
+19	mit Mehl bestreuen	False	évider 	False
+20	seihen	False	la arce	True
+21	flambieren, ab-sengen	False	farcir, ourrer	False
+22	"der Bratensaft, ""e"	True	fariner, saupoudrer de arin	False
+23	die Grundbrühe, n	True	filtrer, passer	False
+24	die weiße, braune Grundbrühe	True	flamber	False
+25	zergehen lassen, ie, a, ä	False	le ond, le jus de cuisson	True
+26	die/das Fondue, s	True	le ond de sauce	True
+27	die/das Fleischfondue	True	le ond blanc, brun	True
+28	wallen, sieden	False	faire ondre	False
+29	braten, in schwimmendem Fett	False	la ondue	True
+30	backen	False	la ondue bourguignonne	True
+31	das Backfett	True	frémir	False
+32	garnieren (mit+D)	False	 rire	False
+33	der Geschmack	True	le bain de riture	True
+34	der (angenehme) Geschmack	True	garnir	False
+35	schmackhaft	False	le goût	True
+36	mit Genuss essen, a, &, I, trinken, a, u	False	la saveur	True
+37	gut schmecken	False	savoureux	False
+38	lecker	False	savourer	False
+39	Es schmeckt !	False	avoir bon goût, être bon	False
+40	fad schmecken	False	délicieux	False
+41	fade, schal	False	C'est bon !	False
+42	nach nichts schmecken	False	être ade, adasse /fam)	False
+43	bitter	False	fade, sans saveur	False
+44	herb	False	être insipide	False
+45	mild	False	amer	False
+46	versüßen	False	âpre	False
+47	zuckern ; süß	False	doux	False
+48	zuckersüß	False	adoucir	False
+49	salzen, salzte, gesalzen	False	sucrer ; sucré	False
+50	salzig, gesalzen	False	 sucré	False
+51	versalzen	False	saler	False
+52	sauer	False	salé	False
+53	süß-sauer	False	trop salé	False
+54	säuerlich	False	aigre, acide	False
+55	saftig	False	aigre-doux	False
+56	pikant, würzig	False	acidulé	False
+57	schmecken nach+D	False	succulent ; juteux	False
+58	nach mehr schmecken	False	relevé, épicé	False
+59	auf der Zunge/im Mund	False	avoir un goût de 	False
+60	zergehen‘, |, a	False	avoir un goût de revenez-y	False
+61		False	fondre dans la bouche	False
+62		False		False

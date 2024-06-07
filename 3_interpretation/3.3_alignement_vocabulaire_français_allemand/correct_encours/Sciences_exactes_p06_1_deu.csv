@@ -1,0 +1,63 @@
+	German_voc	deu_is_noun	French_voc	fra_is_noun
+0	die chromatische Aberration	True	l'onde sonore	True
+1	der Astigmatismus	True	le ouvement ondulatoire	True
+2	die Verzeichnung, en/die Distorsion, en	True	la vitesse du son	True
+3	die Interferenz, en	True	l'onde \( de choc	True
+4	die Polarisation, en	True	l'intensité sonore	True
+5	das Spektrum, ren/ra	True	la perception 	True
+6	die Spektralanalyse, n	True	l'infrason 	True
+7	die Zerlegung des Lichtes	True	l'ultrason 	True
+8	das Ultrarot, das Infrarot (vx)	True	la propagation du son	True
+9	das Ultraviolett	True	franchir le ur du son	False
+10	das Spektroskop, e	True	le bang supersonique	True
+11	das Hologramm, @	True	la vibration	True
+12	die Holographie	True	l’oscillation 	False
+13	das optische Gerät, e	True	la vibration amortie	True
+14	"das Vergrößerungsglas, ""er"	True	vibrer ; osciller	False
+15	die Lupe, n	True	l'amplitude 	True
+16	das Mikroskop, &	True	la période	True
+17	das Okular, e	True	la réquence	True
+18	"das Fernglas, ""er, der Fernstecher, - (fam)"	True	la phase	True
+19	das Fernrohr, e	True	l'onde 	True
+20	das Linsenfernrohr/der Refraktor, en	True	la longueur d’onde	True
+21	das (Spiegel)teleskop, e/der Reflektor, en	True	l'islation acoustique	True
+22	die Elektrizität	True	l'insonorisation 	True
+23	die elektrische Ladung, en	True	l'écho 	True
+24	das Elektron, en	True	l'optique 	True
+25	negativ, positiv geladen	False	l'optique géométrique	True
+26	die Leitfähigkeit	True	l'optique ondulatoire	True
+27	der Leitwert, e	True	l'optique physique	True
+28	der Halbleiter, -	True	l'optique électronique	True
+29	nichtleitend	False	la lumière	True
+30	der Nichtleiter, -	True	le rayon lumineux	True
+31	der Isolator, en	True	le aisceau lumineux	True
+32	der Strom	True	le phoion	True
+33	der Wechselstrom	True	la réflexion	True
+34	der Gleichstrom	True	la diffraction	True
+35	der Drehstrom/Dreiphasenstrom	True	la réfraction	True
+36	das elektrische Potential	True	l'indice de réfraction	True
+37	der Spannungsunterschied, &	True	le ilieu	True
+38	die Spannung, en	True	le rayon incident	True
+39	der Widerstand	True	le rayon réfléchi	True
+40	die Stromstärke	True	le rayon réfracté	True
+41	der Kondensator, en	True	la dispersion	True
+42	die Induktion	True	la diffusion	True
+43	der Magnetismus	True	le prisme	True
+44	das Magnetfeld/das magnetische Feld, er	True	le iroir plan	False
+45	der Pol, e	True	le iroir convexe	False
+46	der Magnet, s/en, s/en	True	le iroir concave	False
+47	die elektromagnetische Welle, n	True	le iroir parabolique	False
+48	der/das Radar, &	True	l'image optique	True
+49	der Laser, -	True	la lentille	True
+50	die Atomphysik	True	biconcave ; biconvexe	False
+51	die Kernphysik	True	planconvexe	False
+52	Kem-, nuklear	False	la lentille convergente	True
+53	‚Atom-, atomar	False	la lentille divergente	True
+54	die Kernforschung	True	l'objectif 	True
+55	die Materie	True	la distance ocale	True
+56		False	le oyer	True
+57		False	la ligne ocale	True
+58		False	la ocalisation	True
+59		False	l’aberration optique	False
+60		False	l’aberratian de sphéricité	False
+61		False		False

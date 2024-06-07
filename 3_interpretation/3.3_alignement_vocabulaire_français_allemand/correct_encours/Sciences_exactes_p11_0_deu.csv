@@ -1,0 +1,64 @@
+	German_voc	deu_is_noun	French_voc	fra_is_noun
+0	t	False	en plein jour	False
+1	am helllicht)en Tag	False	le atin	True
+2	der Morgen, -	True	le atin/tous les atins	True
+3	morgens/am Morgen	False	tôt, de bonne heure	False
+4	früh, frühzeitig	False	de bon atin	False
+5	früh morgensj/in aller Frühe	False	de grand atin	False
+6	‚in aller Herrgottsfrühe (fam)	False	 un beau atin	False
+7	eines schönen Morgens	False	matinal	False
+8	Morgen-, morgendlich	False	être atinal	False
+9	früh auf-stehen*, a, a	False	la atinée	True
+10	der Vormittag	True	dans la atinée/tous	False
+11	vormittags	False	les atins	True
+12	(der) Mittag, e	False	midi 	False
+13	mittags	False	à idi, tous les idi	False
+14	der Nachmittag	True	l'après-midi 	True
+15	nachmittags	False	l’après-midi/tous les après-	False
+16	der Abend, e	True	midi	False
+17	abends	False	le soir	True
+18	‚Abend-/abendlich	False	le soir/tous les soirs	True
+19	"die Nacht,""e"	True	du soir, vespéral	False
+20	nachts, bei Nacht	False	la nuit	True
+21	nächtlich ; Nacht-	False	la nuit, de nuit	True
+22	bei Abenddämmerung	False	nocturne ; de nuit	False
+23	Die Nacht bricht an.	False	à la tombée de la nuit/ entre chien et loup	False
+24	zu später Stunde	False	La nuit tombe. :	True
+25	um Mitternacht	False	à une heure avancée de la ni	False
+26	die Woche, n	True	à inuit	False
+27	wöchentlich	False	la semaine	True
+28	der Montag, e ; der Dienstag	True	hebdomadaire	False
+29	der Mittwoch, e;; der Donnerstag	True	le lundi ; le ardi	True
+30	der Freitag	True	le ercredi ; le jeudi	True
+31	der Samstag/Sonnabend	True	le vendredi	True
+32	der Sonntag	True	le samedi	True
+33	(am) Sonntagabend	False	le dimanche	True
+34	sonnlagabends, sonntags abends	False	dimanche soir 	False
+35	das Wochenende, n	True	le dimanche soir	True
+36	der Werktag ; der Feiertag	True	le week-end, la in de semai	True
+37	Feierabend machen	False	le jour ouvrable ; le jour éri	True
+38	blauen Montag machen	False	cesser le travail 	False
+39	ein langes Wochenende machen	False	fêter la Saint-Lundi	False
+40	der Monat, e	True	faire le pont	False
+41	monatlich	False	le ois	True
+42	der (Monat) Januar ; im Januar	True	mensuel	False
+43	der Februar ; der März ; der April	True	janvier ; en janvier	False
+44	der Mai ‚der Juni ; der Juli	True	février ; ars ; avril	False
+45	der August ; der September	True	mai ; juin ; juillet	False
+46	der Oktober ; der November	True	août ; septembre	False
+47	der Dezember	True	octobre ; novembre	False
+48	‚Anfang Mai	False	décembre	False
+49	Mitte Mai ; Ende Mai	False	début ai	False
+50	die Jahreszeit, en	True	à la i-mai ; in ai	False
+51	der Frühling, e/das Frühjahr, e	True	la saison	True
+52	im Frühling	False	le printemps	True
+53	Frühlings-/frühlingshaft	False	au printemps	False
+54	ein Frühlingswetter	False	printanier	False
+55	der Sommer, - ; im Sommer	True	un temps printanier	True
+56	Sommer-, sommerlich	False	l'été ; en été	False
+57	der Herbst, e ;im Herbst	True	d'été, estival	False
+58	Herbat-, herbstlich	False	l'automne ; en automne	True
+59	der Winter, - ; im Winter	True	d'automne, automnal	False
+60	Wintar-, winterlich	False	l'hiver ; en hiver	True
+61		False	d'hiver, hivernal	False
+62		False		False

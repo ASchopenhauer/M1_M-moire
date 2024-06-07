@@ -1,0 +1,49 @@
+	German_voc	deu_is_noun	French_voc	fra_is_noun
+0	das Verkorken ; verkorken	True	le bouchage ; boucher	True
+1	die Luftkammer, n	True	la chambre	True
+2	die Kapsel, n	True	la capsule	True
+3	die Etikettierung ; etikettieren	True	l'étiquetage ; étiqueter	True
+4	der Karton zu je 6 Flaschen	True	le carton de six bouteilles	True
+5	in Holzkisten verpacken	False	conditionner en caisse de bois	False
+6	der Cubicontainer, - :	True	le cubitainer	False
+7	"der Weinschlauch, ""@ (bag-in-bax)"	True	loutre à vin	False
+8	der Fasswein, e, der Wein vom Fass	True	le vin en ût, en tonneau	True
+9	der Zapfwein	True	le vin à la tireuse	True
+10	die Steuer	True	les droits 	True
+11	die Verbrauchsteuer auf Wein	True	le droit d’accise sur le vin	True
+12	das Begleitsteuerzeichen	True	la vignette fiscale d'accompagnement, la capsule-congé	True
+13	das Begleitdokument	True	le document d'accompagnement	False
+14	der Begleitschein, die Transporterlaubnis	True	l'acquit/le congé	True
+15	der Weinkeller, -	True	la cave	False
+16	das Weinlager, -	True	le chaï	True
+17	der Flaschenkeller, -	True	le cellier à bouteilles	True
+18	"das Kellerbuch, ""er"	True	le livre de cave	True
+19	das Stapeln	True	l'empilage 	True
+20	die Flaschen auf-stapeln	True	empiler les bouteilles	True
+21	das Flaschenregal, e	True	le casier 	True
+22	die Flaschenbürste, n	True	le goupillon	False
+23	die Flaschenreifung	True	le vieillissement en bouteille	True
+24	D/er Wein ist lagerfähig.	False	C’est un vin de garde.	True
+25	einen Wein auf-bewahren, lagern	False	garder un vin	True
+26	... verträgt eine lange Wartezeit.	False	.… Se gardera longtemps.	False
+27	für lange Lagerung geeignet	False	à garder	False
+28	die Lagerung	True	la conservation	False
+29	sich entfalten	False	s'épanouir	False
+30	E/r ist trinkfertig.	False	ILest ait.	True
+31	E/r ist abgebaut.	False	Il'est usé.	False
+32	E/r ist tot, 	False	l'est passé.	False
+33	die Weinkrankheiten fol	True	les aladies du vin	False
+34	das Sauerwerden ; der Essigstich	True	l’acétification ; l’acessence r	False
+35	der Bruch	True	la casse	True
+36	die Kupfertrübung	True	la casse cuivreuse	False
+37	die Flaschenkrankheit	True	la aladie du verre	True
+38	butterstichig sein	False	avoir une odeur butyrique	True
+39	ein Gärgeruch	False	une odeur de erment	True
+40	das Kahmigwerden	True	la aladie de la leur	False
+41	der Foxgeruch	True	l'odeur foxée	True
+42	das Öligwerden, das Lindwerden	True	la graisse	True
+43	der Schimmelgeruch	True	l'odeur de moisissure accentuée	True
+44	der Schwefelwasserstoffgeruch, der Böckser	True	l’odeur d'œufs pourris	True
+45	der Schwefelgeruch	True	l'odeur de soufre	True
+46	das Umschlagen	True	la tourne	False
+47	der Milchsäuresüich	True	la aladie du vin doux	False

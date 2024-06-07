@@ -1,0 +1,58 @@
+	German_voc	deu_is_noun	French_voc	fra_is_noun
+1	der Bergbewohner, -	True	le ontagnard	True
+2	die Gebirgskstte, n	True	la chaîne de ontagnes	True
+3	das Gebirgsmassiv, e	True	le assif ontagneux	True
+4	das Hochgebirge	True	la haute ontagne	True
+5	das Vorgebirge, der Ausläufer, -	True	le contrefort	True
+6	der Feisen, der Fels, en, en	True	le rocher, le roc	True
+7	Felsen-, felsig	False	rocheux	False
+8	der Gipfel, -	True	le sommet, la cime, le aîte	True
+9	die Spitze, n	True	l'aiguille , le piton	True
+10	"der (Ab)hang, ""e"	True	le versant, la pente	True
+11	der sanfte, steile Abhang	True	la pente douce, raide/abrup!	True
+12	die Böschung, en	True	le talus	True
+13	ein steiler Weg	False	un chemin escarpé	True
+14	steil bergauf führen/gehen*, i, a	False	monter en pente raide	False
+15	sanft bergauf	False	en pente douce	False
+16	steil bergab führen/gehen‘, |, a	False	descendre à pie/en pente raide	False
+17	"die Wand, ""e"	True	la paroi	False
+18	die Steilwand	True	la paroi abrupte	True
+19	die Fessenwand	True	la paroi rocheuse	True
+20	der Rücken, -	True	la croupe	True
+21	"der Fuß, ""e"	True	le pied	True
+22	der Grat, e	True	l’arête 	True
+23	"der Kamm, ""e"	True	la crête	False
+24	"der Grund, ""&"	True	le ond	True
+25	der Abgrund	True	le précipice, le gouffre	True
+26	"der Pass, ""e"	True	le col	True
+27	der Engpass	True	le défilé	True
+28	die Schlucht, en	True	la gorge	True
+29	die Klarmm, en	True	la gorge 	True
+30	die Klus, en	True	la cluse	True
+31	der Cafon, 5	True	le canyon/cañon	True
+32	der Hohlweg, e	True	le chemin creux	True
+33	der Pfad, e ;der Saumpfad	True	le sentier ; le sentier uletie	True
+34	die Höhle, n ; die Grotte, n	True	la caverne ; la grotte	True
+35	der Tropfstein	True	la concrétion calcaire	True
+36	der Stalaktit, en, en	True	la stalactite	True
+37	der Stalagmit, en, en	True	la stalagmite	True
+38	die Mulde, n	True	la cuvette, le bassin	True
+39	der Kessel	True	le cirque	True
+40	"das Tal, ""er ;das Tälchen, -"	True	la vallée ; le vallon	True
+41	ein tief eingeschnittenes Tal	False	une vallée encaissée	True
+42	tief im Tal gelegen	False	situé au ond de la vallée	True
+43	der ewige Schnee	True	les neiges éternelles	False
+44	der Firn, e/ en, der Firnschnee	True	le névé	True
+45	die Lawine, n	True	l'avalanche 	True
+46	unter sich begraben, u, a, ä	False	ensevelir	True
+47	verschüttet werden	False	être enseveli	False
+48	der Gletscher, -	True	le glacier	False
+49	die (Gletscher)spalte, n	True	la crevasse	True
+50	die (Gletscher)moräne, n	True	la oraine	True
+51	der Eisberg, e	True	l'iceberg 	True
+52	dasEis	True	la glace	True
+53	"die Eisbank, ""e/das Packeis"	True	la banquise	True
+54	das Tieibeis/Drifteis	True	les glaces lottantes	True
+55	die Eisscholle, n	True	le glaçon	True
+56	Eisschollen treiben, ie, ie	False	charrier des glaçons	True
+57	der Eisgang/das Eistreiben	True	la débâcle	False

@@ -1,0 +1,19 @@
+	German_voc	deu_is_noun	French_voc	fra_is_noun
+0	ein Neunzehntel (1/19)	False	un dix-neuvième 	True
+1	ein Zwanzigstel (1/20)	False	un vingtième 	True
+2	ein Hundertstel (1/100)	False	un centième 	True
+3	zwei Hundertstel (2/100)	False	deux centièmes 	False
+4	ein Zweihundertstel	False	un deux-centième 	True
+5	ein halbes Pfund	False	un illième 	True
+6	eineinhalb/anderthalb (1 1/2)	False	une demi-livre	True
+7	eineinhalb/anderthalb Stunden	False	un et demi 	True
+8	zweieinhalb (2 1/2)	False	une heure et demie	True
+9	zweieinhalb Monate	False	deux et demi 	False
+10	zwei dreiviertel (2 3/4)	False	deux ois et demi	False
+11	die Hälfte, n	True	deux trois quarts 	False
+12	drei Viertel der Bevölkerung	False	la oitié	True
+13	eine Hundertstelsekunde/eine	False	les trois quarts de la	True
+14	hundertstel Sekunde/eine	False	population	False
+15	100stel(-)Sekunde	False	un centième de seconde	True
+16	zwei Hundertstelsekunden/hundertstel Sekunden	False	deux centièmes de seconde	False
+17		False		False

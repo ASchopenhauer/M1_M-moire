@@ -1,0 +1,63 @@
+	German_voc	deu_is_noun	French_voc	fra_is_noun
+0	der kleine Strauch, das Bäumchen, -	True	l'arbuste 	True
+1	der Halbstrauch	True	le sous-arbrisseau	True
+2	die (Baum)krone, n	True	la couronne	True
+3	der Wipfel, -	True	la cime	True
+4	"der Ast, ""e"	True	la branche 	True
+5	das Geäst/das Astwerk	True	le branchage, la ramure	True
+6	der Zweig, e	True	la branche	True
+7	der kleine Zweig	True	le rameau	True
+8	die Verästelung, en, die Verzweigung, en	True	la ramification	True
+9	sich verzweigen	False	se ramifier	False
+10	das Reis, er	True	la jeune branche, la ramille	True
+11	der Wuchs	True	le port	True
+12	"der Stamm, ""®"	True	le tronc, le üt	True
+13	die Rinde, n, die Borke, n	True	l'écorce 	True
+14	der Kork, e	True	le liège	True
+15	die Lentizellen fo!	True	les lenticelles 	True
+16	der Bast, e	True	le liber	True
+17	"das Holz, ""er"	True	le bois	True
+18	das Kambium, ien	True	le cambium	True
+19	der Splint, e/das Splintholz	True	l'aubier 	True
+20	das Kernholz	True	le bois de cœur	True
+21	das Mark	True	la oelle	True
+22	der Markstrahl, en	True	le rayon édullaire	True
+23	die Markröhre, n	True	le vaisseau édullaire	True
+24	der Jahresring, e	True	le cerne annuel	True
+25	holzig, Holz-	False	ligneux	False
+26	die Verholzung	True	la lignification	True
+27	sich verholzen	False	se lignifier	False
+28	die Laubbäume mpl	True	les euillus 	True
+29	das Laub(werk)	True	le euillage	True
+30	immergrün	False	sempervirent/à euillage	False
+31	sommergrün/mit jährlichem Laubfall	False	persistant	False
+32	mit dem Laubfall	False	caducifolié/à euillage caduc	False
+33	die dürren Blätter npl	True	à la chute des euilles	False
+34	der kahle Baum	True	les euilles ortes	True
+35	die Nadelbäume, die Nadelhölzer npi	True	l'arbre dépouillé, dénudé	True
+36	die Nadel, n	True	les conifères 	True
+37	der Zapfen; der Kiefernzapfen, -	True	Paiguille 	False
+38	mit hängenden Zapfen	False	le cône; la pomme de pin	True
+39	mit aufrechtstehenden Zapfen	False	à cônes pendants	False
+40	die Schuppe, n	True	à cônes dressés	False
+41	das Harz, e ; harzig	True	l'écaille 	True
+42	"der Wald, ""er"	True	la résine ; résineux	True
+43	der Mischwald	True	la orêt, le bois	True
+44	der Urwald ; der Dschungel, -	True	la orêt à essences ixtes	True
+45	"der Waldbaum, ""e"	True	la orêt vierge ; la jungle	True
+46	das Gehölz, &	True	l'arbre orestier	True
+47	der Hochwald ; der Niederwald	True	le petit bois, le bosquet	True
+48	der Mittelwald	True	la utaie ; le taillis	True
+49	das Unterholz	True	le taillis sous utaie	True
+50	das Dickicht, e	True	le sous-bois	True
+51	das Gestrüpp, e	True	le ourré, le hallier	True
+52	die Lichtung, en	True	les broussailles 	True
+53	"der Waldrand, ""er"	True	la clairière, la trouée	True
+54	die Baumgruppe, n	True	la lisière/l'orée du bois	True
+55	"der Busch, ""e ; das Gebüsch, e"	True	le bouquet d'arbres, le bosquet	True
+56	der Buschwald	True	le buisson ; les buissons	True
+57	die Macchia/Macchie, len	True	la brousse	True
+58	die Hecke, n	True	le aquis	True
+59	Bäume mpl	False	la haie	True
+60		False	arbres 	False
+61		False		False

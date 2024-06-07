@@ -1,0 +1,41 @@
+	German_voc	deu_is_noun	French_voc	fra_is_noun
+0	5 Epices	False	congelé	False
+1	das Gewürz, €	True	la surgélation ; surgelé	True
+2	würzen	False	les produits surgelés	True
+3	scharf würzen	False	décongeler	False
+4	der Anis	True	l’ionisation \( des produits	False
+5	(Lorbeer, Thymian und Petersilie als	False	alimentaires	False
+6	Beigabe gebunden)	False	les aliments irradiés/ionisé	True
+7	der Zimt, e	True	l'additif alimentaire	True
+8	der/das Kardamom	True	l'agent conservateur	False
+9	der Koriander	True	les colorants alimentaires	True
+10	der Kümmel	True	> la conserve	False
+11	die Kurkuma, Kurkumen	True	la semi-conserve	True
+12	der/das Curry	True	la viande en conserve	True
+13	die Wacholderbeere, n	True	mettre en conserve, confire	False
+14	der Ingwer	True	le bocal à conserve	True
+15	die Gewürznelke, n	True	la durée de conservation	True
+16	"die Muskatnuss, ""e"	True	à consommer avant	False
+17	das Paprikapulver	True	avarié	False
+18	edelsüß ; scharf	False	fermenter	False
+19	der Mohnsamen	True	le bombage	True
+20	der/das Piment, e	True	les oisissures ; : oisi	True
+21	der Gewürzpaprika	True		False
+22	der weiße Pfeffer	True		False
+23	die Pfefferkörner npl	True		False
+24	der Cayennepfeffer	True		False
+25	der schwarze Pfeffer	True		False
+26	gepfeffert	False		False
+27	der Safran	True		False
+28	die Vanille	True		False
+29	die Vanille-Schote, n	True		False
+30	das Würzmittel, das Gewürz	True		False
+31	das Salz, e; das Kochsalz	True		False
+32	die Kaper, n	True		False
+33	die Essiggurke, die Pfeffergurke, die Salzlake, n	True		False
+34	der Senf, e/der Mostrich	True		False
+35	der Essig	True		False
+36	der Weinessig	True		False
+37	mit Essig an-machen	False		False
+38	mit Knoblauch würzen	False		False
+39		False		False

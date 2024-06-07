@@ -1,0 +1,64 @@
+	German_voc	deu_is_noun	French_voc	fra_is_noun
+0	die Ringelgans	True	le pic épeiche	True
+1	"der Schwan, ""e"	True	le torcol	True
+2	der Singschwan	True	le toucan	True
+3	der Höckerschwan	True	gallinacés/galliformes 	False
+4	der Trauerschwann	True	caille 	False
+5	Stelzvögel mp/	False	la dinde	True
+6	die Watvögel	True	le dindon	True
+7	der Säbelschnäbler, -	True	le dindonneau	True
+8	die Pfuhlschnepfe, n	True	le aisan ; la poule aisane	True
+9	die Waldschnepfe	True	la gélinotte des bois	True
+10	der Knutt	True	le lagopède	True
+11	der Alpenstrandläufer, -	True	le 1. d'Ecosse/la grouse	True
+12	die Bekassine, n/die Sumpfschnepfe	True	le paon	True
+13	die Große Rohrdommel, n	True	faire la raue	False
+14	der Wasserläufer, -	True	la perdrix ; le perdreau	True
+15	der Rotschenkel, -	True	une compagnie de perdreaux	True
+16	der Kampfläufer	True	la perdrix rouge ; la bartavelle	True
+17	"der Weißstorch, ""e"	True	la pintade	True
+18	der Flamingo, s	True	la poule	True
+19	der Große Brachvogel	True	le poulet	True
+20	der Stelzenläufer, -	True	le coq	True
+21	das Blässhuhn/Blesshuhn, &r	True	la ère poule ; le poussin	True
+22	der Kranich, e	True	le grand tétras	True
+23	der Reiher, -	True	le tétras-lyre/le petit coq de bruyère	True
+24	der Fisch-/Graureiher ; der Kuhreiher	True	le pigeon	True
+25	der Silberreiher ; der Seidenreiher	True	la pigeonne ; le pigeonneau	True
+26	der Austernfischer, -	True	le pigeon ramier/la palombe	True
+27	der Ibis, se	True	le p. colombin ; le p. biset	True
+28	der Marabu, s	True	un couple de pigeons	True
+29	die Trappe, n	True	la tourterelle	True
+30	der Regenpfeifer, -	True	la colombe \	True
+31	das Teichhuhn ; das Purpurhuhn	True	le pigeon voyageur	True
+32	die Ralle, n/das Sumpfhuhn	True	le colombophile	True
+33	die Wasserralle	True	baguer un oiseau	False
+34	der Wachtelkönig, e	True	ooies et canards	False
+35	der Löffler, -	True	le canard	True
+36	der Steinwälzer, -	True	le canard âle	True
+37	der Kiebitz, e	True	la cane ; le caneton	True
+38	Greifvögel/Tagraubvögel mp/	False	le canard sauvage	True
+39	der Raubvogel	True	le canard de surface	True
+40	raubgierig	False	le c. colvert ; le c. souchet	False
+41	die Beute, n	True	le canard siffleur	True
+42	der Adler, - ; der Junge Adler	True	la sarcelle d'été ; s. d'hiver	True
+43	der Steinadler ; der Seeadler	True	le canard plongeur	True
+44	der Zwergadler ;der Schlangenadler	True	le c. garrot ; le c. ilouin	False
+45	der Fischadler	True	leider ; la acreuse noire	False
+46	der Habicht, e	True	la acreuse brune	True
+47	der Weih, e/die Weihe, n	True	le tadorne	True
+48	der (Mäuse)bussard, e	True	le harle	True
+49	der Sperber, -	True	le harle bièvre ; le h. huppé	True
+50	der Falke, n,n	True	le grèbe	True
+51	der Wanderfalke ; der Turmtalke	True	le gr. huppé	True
+52	der Baumfalke ; der Jagd-/Gerfalke	True	le gr. castagneux	True
+53	der Milan, &	True	l'oie 	True
+54	der Rote Milan/die Gabelweihe	True	le jars	True
+55	der Geier, -	True	l’oison 	False
+56	der Mönchgeier ; der Gänsegeier	True	l’oie sauvage	False
+57	Bart-/Lämmergeier ; der Kondor, e	False	l’oie cendrée	False
+58	Eulen fpi	False	l’oie des oissons	False
+59	"der Waldkauz, ""&"	True	l'oie rieuse	True
+60	der Steinkauz	True	la bernacle nonnette	True
+61	der Sperlingskauz	True		False
+62		False		False

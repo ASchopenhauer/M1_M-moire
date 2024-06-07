@@ -1,0 +1,43 @@
+	German_voc	deu_is_noun	French_voc	fra_is_noun
+0	der Tau	True	la rosée	False
+1	der Reif	True	la gelée blanche	True
+2	der Wind, e	True	le vent	True
+3	ein windiger Tag	False	une journée venteuse	True
+4	das Windmassgerät, e/der Windmasser, -	True	l'anémomètre 	True
+5	die Windstärke, n	True	la orce du vent	True
+6	die Wetterfahne, n	True	la girouette	True
+7	wehen, blasen, ie, a, ä	False	souffler	True
+8	nach-lassen, ie, a, ä, ab-nehmen, a, 0, i	False	se calmer	False
+9	sich legen, ab-flauen*	False	tomber, s'apaiser	False
+10	die Windstille, die Flaute, n	True	le calme plat	False
+11	die vorübergehende Windstille	True	l’accalmie	True
+12	die Luftströmungen fol	True	les courant atmosphériques	False
+13	der Lufthauch	True	le souffle d'air	True
+14	der Nordwind	True	le vent du nord	False
+15	der Nord(ost)wind	True	la bise	True
+16	der Blizzard, s	True	le blizzard	True
+17	der Nordwester/der Nordwestwind	True	le noroît	True
+18	der Südwestwind	True	le suroit	True
+19	sich erheben, o, o	False	se lever	True
+20	um-schlagen*, u, a, ä	False	tourner	True
+21	der Seewind	True	le vent du large	False
+22	die Brise, n	True	la brise	False
+23	"; der Windstoß, ""e"	False	le coup de vent, la bourrasqu	True
+24	die Bö, en	True	la rafale, le grain	True
+25	"der Sturm, ""e"	True	la tempête	True
+26	Es stürmt.	False	IL y a de la tempête.	True
+27	toben, wüten	False	faire rage	True
+28	sich legen	False	se calmer	False
+29	in einen Sturm geraten‘, ie, a, ä	False	être pris dans une tempête	False
+30	die Windhose, n	True	la trombe	False
+31	"der Wirbelsturm, ""e, der Zyklon, e"	True	le cyclone	False
+32	der Tornardo, s	True	la tornade	True
+33	der Orkan, e	True	l'ouragan 	True
+34	der Taifun, e	True	le typhon	True
+35	der Passat, e	True	l'alizé 	True
+36	der Föhn, e	True	le ehn	True
+37	der Mistral, e	True	le istral 	True
+38	der Monsun, e	True	la ousson	True
+39	der Samum, s/e	True	le simoun	True
+40	der Schirokko, s	True	le sirocco	True
+41	die Tramontana, nen/Tramontane, n	True	la tramontane	True

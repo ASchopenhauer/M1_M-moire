@@ -1,0 +1,61 @@
+	German_voc	deu_is_noun	French_voc	fra_is_noun
+0	die Kopfbedeckung, en	True	la coiffure	True
+1	ohne Kopfbedeckung, mit bloßem	False	tête nue, nu-tête	False
+2	Kopf	False	mettre un chapeau, se couv	False
+3	° einen Hut auf-setzen	False	ôter son chapeau	False
+4	den Hut ab-nehmen, a, 0, i	False	le bord	True
+5	die Krempe, n	True	le eutre	True
+6	der Filz, e	True	le chapeau de paille	True
+7	der Strohhut	True	la casquette 	True
+8	die (Schirm)mütze, n	True	le elon	True
+9	die Melone, n	True	le haut-de-forme	True
+10	der Zylinder, -	True	le canotier	True
+11	die Kreissäge, n (fam)	True	le béret basque	True
+12	die Baskenmütze	True	le bonnet \	True
+13	die Mütze	True	le passe-montagne, la cagoule	True
+14	die Kapuzenmütze, n	True	la coiffe	True
+15	die Trachtenhaube, n	True	la odiste	True
+16	die Modistin, nen, die Putzmacherin, nen	True	le chapelier	True
+17	der Hutmacher, -	True	la layette	True
+18	die Babywäsche	True	la couche	True
+19	die Windel, n	True	la cauche-culotte	True
+20	das Windelhöschen, -	True	le lange	True
+21	"das Windeltuch, ""er"	True	la grenouillère	True
+22	der Strampler, -/die Strampelhose, n	True	la chemisette	True
+23	das Hemdchen, -	True	la brassière, la veste	True
+24	das Jäckchen, -	True	le bavoir	True
+25	das Lätzchen, -	True	le bonnet	True
+26	die Mütze, n ; das Häubchen, -	True	le chausson	True
+27	das Söckchen, -	True	la barboteuse	True
+28	die Spielhose, n	True	la culotte en caoutchouc	True
+29	das Gummihöschen, -	True	la culotte courte	True
+30	die kurze Hose, n	True	se déculotter	False
+31	(sich) die Hose aus-ziehen, 0, 0	False	le vêtement de sport	True
+32	die Sportbekleidung	True	l'anorak 	True
+33	der Anorak, s	True	la chemise-polo	True
+34	das Polohemd	True	la chemise de tennis	True
+35	das Tennishemd	True	le sweatshirt	True
+36	das Sweatshirt, s	True	la tenue de jogging	True
+37	der Jogginganzug	True	le survêtement, le training	True
+38	der Trainingsanzug	True	le slip de bain	True
+39	die Badehose	True	le aillot de bain \	True
+40	"der Badeanzug, ""e (einteilig)"	True	le aillat de bain deux pièc	True
+41	; der zweiteilige Badeanzug	False	le short	True
+42	die Shorts pl; die Sporthose, die Turnhose	True	la parka	True
+43	der/die Parka, s	True	le vêtement de travail	True
+44	die Berufsbekleidung	True	la blouse de travail	True
+45	der Berufsmantel, der Kittel	True	la combinaison de mécanicien	True
+46	"der Overall, s, der Blaumann, ""er"	True	la salopette	True
+47	die Latzhose	True	le tablier	True
+48	die Schürze, n	True	les accessoires de ode	True
+49	das modische Beiwerk	True	le sac 	True
+50	die (Hand)tasche, n	True	le sac à bandoulière	True
+51	die Umhängetasche	True	le sac à provisions	True
+52	die Einkaufstasche	True	le ilet à provisions	True
+53	das Einkaufsnetz, &	True	le sac ourre-tout	True
+54	die weite Handtasche	True	le portefeuille	True
+55	die Brieftasche	True	le porte-monnaie	True
+56	die Geldtasche, der Geldbeutel, -	True	le sac banane	True
+57	die Gürteltasche	True	la serviette	True
+58	die Aktentasche	True		False
+59		False		False

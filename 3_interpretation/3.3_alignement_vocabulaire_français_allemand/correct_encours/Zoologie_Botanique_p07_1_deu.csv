@@ -1,0 +1,30 @@
+	German_voc	deu_is_noun	French_voc	fra_is_noun
+0	Sperlingsvögel mpl	False	passereaux 	False
+1	die Heckenbraunelle, n	True	L l'accentueur mouchet	False
+2	die Lerche, n	True	l'alouette 	True
+3	Feldlerche ; Heidelerche	False	al. des champs ; al. lulu	False
+4	die Haubenlerche	True	le cochevis huppé	True
+5	"der Kreuzschnabel, """	True	le bec-croisé	True
+6	die Bachstelze, n	True	la bergeronnette/ le hochequeue	True
+7	die Weiße B. ; die Schafstelze	True	la b. grise ; la b. printanière	True
+8	der Gimpel, -/der Dompfaff, en, en	True	le bouvreuil	True
+9	die Ammer, n	True	le bruant	True
+10	die Goldammer ; die Rohrammer	True	le br. jaune ; le br. des roseau	True
+11	die Gartenammer/der Ortolan, e	True	l'ortlan 	True
+12	der Stieglitz, e/der Distelfink, en, er	True	le chardonneret	True
+13	die Dohle, n	True	le choucas 	True
+14	die Wasseramsel, n	True	le cincle plongeur	True
+15	der Kolibri, s	True	le colibri/l’oiseau-mauche 	True
+16	der Rabe, n,n	True	le corbeau	True
+17	der Kolkrabe ; die Saatkrähe, n	True	le grand corbeau ; le reu	True
+18	die Krähe, n	True	la corneille	True
+19	die Rabenkrähe ; die Nebeikrähe	True	la c. noire ; la c. antelée	True
+20	der Ziegenmelker, -	True	l'engoulevent 	True
+21	der Star, @	True	l'étourneau 	True
+22	die Grasmücke, n	True	la auveite	True
+23	die Mönchsgrasmücke	True	la auvette à tête noire	True
+24	die Zaungrasmücke	True	la auvette babillarde	True
+25	der Häher, -	True	le geai	True
+26	der Eichelhäher	True	le geai des chênes	True
+27	der Tannenhäher	True	le casse-noix	True
+28		False		False

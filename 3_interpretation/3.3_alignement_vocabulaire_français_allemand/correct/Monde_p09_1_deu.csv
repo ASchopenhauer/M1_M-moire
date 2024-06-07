@@ -1,0 +1,36 @@
+	German_voc	deu_is_noun	French_voc	fra_is_noun
+1	die Bodenschätze mpl	True	les ressources du sous-s	True
+2	der Bergbau	True	l'industrie inière	True
+3	schürfen	False	prospecter ; exploiter	False
+4	das Bergwerk, e, die Grube, n	True	la ine	True
+5	der Bergmann, leute	True	le ineur	True
+6	die Förderung	True	l'extraction 	True
+7	etw fördern/ab-bauen (Erz)	False	extraire qC	False
+8	der Abbau	True	l'exploitation 	True
+9	der Tagebau	True	l'exploitation à ciel ouvert	True
+10	der Untertagebau	True	l'exploitation souterraine	True
+11	die Stilllegung einer Grube	True	la ermeture d'une ine	True
+12	das Vorkommen, -, die Lagerstätte, n	True	le gisement	True
+13	das Lager, -, das Flöz, e	True	le gîte	True
+14	die Ader, n	True	le ilon, la veine	True
+15	aus-streichen, i, i	False	affleurer	False
+16	das Ganggestein, &	True	la gangue	True
+17	die Geode, n	True	la géode	True
+18	"der Block, ""e"	True	le bloc	True
+19	"der Einschluss, ""e"	True	l'inclusion 	True
+20	"der Steinbruch, ""e"	True	la carrière	True
+21	der Steinbrecher, -	True	le carrier	True
+22	der Steinmetz, en, en	True	le tailleur de pierre	True
+23	der Stein, e	True	la pierre	True
+24	steinern	False	de/en pierre	False
+25	steinig	False	pierreux, rocailleux	False
+26	der Gesteinshohrer, -	True	la perforatrice	True
+27	der Schlägel, -	True	la asse	True
+28	der Gesteinshammer, -	True	le arteau de géalogue	True
+29	brechen, a, o, i (Steine)	False	extraire	False
+30	zerschlagen, u, a, ä, klopfen	False	casser	False
+31	behauen, aute, auen	False	tailler	False
+32	"der Marmorbruch, ""e"	True	la arbrière	True
+33	"der Schieferbruch, ""e"	True	l'ardoisière 	True
+34	die Sandgrube, n	True	la sablière	True
+35	die Kiesgrube, n	True	la gravière	True

@@ -1,0 +1,37 @@
+	German_voc	deu_is_noun	French_voc	fra_is_noun
+0	pestizidfrei	False	sans pesticide	False
+1	die Ernte, n ;ernten	True	la récolte ; récolter	False
+2	die Missernte	True	la mauvaise récolte	False
+3	die Kartoffelernte	True	la récolte des pommes de terre	True
+4	das Roden, das Ausmachen	True	l'arrachage	True
+5	die Ernte ein-fahren, u, a, ä	True	rentrer la récolte	True
+6	die Kornernte ; ernten	True	la moisson ; moissonner	False
+7	der Erntearbeiter, -	True	le moissonneur	True
+8	das Grünland	True	les herbages	True
+9	die Weide, n	True	l’herbage m/le pâturage	False
+10	das Gras, 'er ; grasbewachsen	True	l'herbe ; herbeux	False
+11	die Wiese, n	True	la prairie, le pré	True
+12	das Heu	True	le foin	True
+13	die Heuernte	True	la fenaison	True
+14	das Grum(me)t	True	le regain	True
+15	heuen	False	faire les foins, faner	True
+16	das Heu wenden	True	retourner les foins	False
+17	der Heuhaufen, -	True	la meule, le tas de foin	False
+18	der Ballen, -	True	la botte	True
+19	pressen	False	botteler, mettre en balles	True
+20	Stroh in Ballen pressen	False	mettre la paille en balles	False
+21	die Garbe, n	True	la gerbe	False
+22	die Stoppel, n	True	le chaume	True
+23	das Stoppelfeld, er	True	les chaumes	True
+24	das Erntefest, o	True	la fête de la moisson	True
+25	der Drescher, - ;dreschen	True	le batteur ; battre	True
+26	das Stroh	True	la paille	True
+27	der/das Häcksel ; häckseln	True	la paille hachée ; hacher	True
+28	das Bündel, -	True	la botte	True
+29	die Spreu, -	True	la balle	True
+30	"der Abfall, ""e"	True	les déchets	True
+31	die Getreidegroßmühle, n	True	ola minoterie	True
+32	der Mühlenbesitzer, -, der Mehlhändler, -	True	le minotier	False
+33	das Mehl, die Mehlsorten fo/	True	la farine	True
+34	die Kleie	True	le son	True
+35	"der Mehlsack, ""e"	True	le sac de farine	True

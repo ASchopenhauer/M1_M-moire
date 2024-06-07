@@ -1,0 +1,60 @@
+	German_voc	deu_is_noun	French_voc	fra_is_noun
+0	am Rhein liegen, a, e	False	être situé sur le Rhin	False
+1	sich bis zur Ostsee erstrecken	False	s'étendre jusqu'à la Baltique	False
+2	die Grenze,n	True	la limite, la rontière	True
+3	das Grenzgebiet, e	True	la région rontalière	True
+4	der Grenzbewohner, -	True	le rontalier	True
+5	angrenzend, benachbart	False	limitrophe 	False
+6	"das Grenzland, ""er"	True	le pays limitrophe	True
+7	begrenzen	False	limiter	False
+8	ab-grenzen	False	délimiter	False
+9	einen Garten mit Hecken abgrenzen	False	délimiter un jardin avec des haies	False
+10	grenzen an+A	False	être attenant à/être contigu	False
+11	die Seite, n	True	le côté	False
+12	beiderseits, diesseits, jenseits des	False	des deux côtés, de ce côté, <	True
+13	Rheins	False	l’autre côté du Rhin	True
+14	die Insel, n	True	l'île	False
+15	Die Insel liegt gegenüber von	False	L'île est située au large de La Rochelle.	True
+16	La Rochelle, 	False	dans une île déserte du	True
+17	auf einer einsamen Insel im Pazifik	False	Pacifique	False
+18	der Inselbewohner, -/der Insulaner, -	True	l'insulaire 	False
+19	ein insulares Klima	False	un climat insulaire	True
+20	von Wasser umgeben	False	entouré d'eau	True
+21	die kleine Insel	True	ilot 	False
+22	die Inselgruppe, n	True	Parchipel 	False
+23	das Atoll, e	True	l'atoll 	False
+24	die Küste, n	True	la côte, le littoral	True
+25	sandig ; flach	False	sablonneux ; plat	True
+26	eingeschnitten ; steil	False	découpé ; escarpé	False
+27	das (Meeres)ufer, -, der Küstenstrich, e	True	le rivage	False
+28	"das Kliff, e, der Steilhang, ""e"	True	la alaise	True
+29	die Klippe, n	True	l’écueil , les brisants 	True
+30	das Rift, e	True	le récif	False
+31	"die Sandbank, ""e"	True	le banc de sable	True
+32	der Sand	True	le sable	True
+33	die Halbinsel, n	True	la presqu'ile	True
+34	das Kap, s	True	le cap	True
+35	die Nehrung, en	True	le cordon littaral	True
+36	die Lagune, n, das Haff, e (Ostsee)	True	la lagune	True
+37	das Relief, s/e	True	le relief	True
+38	die Faltenbildung, en	True	le plissement	True
+39	der (Höhen)sattel, ”, die Bodenwelle, n	True	l’anticlinal 	True
+40	die Mulde, n	True	le synclinal	False
+41	die Spalte, m	True	la faille	True
+42	die Senkung, en/die Senke, n	True	la dépression	True
+43	die Erosion, en	True	l'érosion 	True
+44	die Gletschererosion	True	l'érosion glaciaire	True
+45	das Flachland	True	le pays plat	True
+46	Flach-, flach, eben	False	plat	True
+47	das Tiefland	True	les basses terres	False
+48	das Hochland	True	les hautes terres	True
+49	die Ebens, n	True	la plaine	True
+50	die Hochebene	True	le plateau	True
+51	die Anhöhe, n	True	la hauteur, le tertre	True
+52	der Hügel, -	True	la colline, le coteau	True
+53	der (Erd)hügel	True	la butte	True
+54	das Hügelchen, -	True	le onticule	True
+55	die Erhebung, en	True	l'éminence 	True
+56	der Berg, &	True	la ontagne, le ont	True
+57	das Gebirge	True	la ontagne, les onts	True
+58	Gebirgs-, bergig	False	montagneux	True

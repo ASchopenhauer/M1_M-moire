@@ -1,0 +1,35 @@
+	German_voc	deu_is_noun	French_voc	fra_is_noun
+0	das Heu	True	le oin	True
+1	die Runkel-/Futterrübe, n	True	la betterave ourragère	True
+2	"das Knäuelgras, ""er"	True	le dactyle pelotonné	True
+3	der Wiesenschwingel	True	la étuque des prés	True
+4	der Rohrschwingel	True	la étuque élevée	True
+5	das Wiesenlieschgras	True	la iléle des prés	True
+6	der Hornklee	True	le lotier corniculé	True
+7	der Hopfenklee	True	la lupiline/la inette	True
+8	die Luzerne, n	True	le luzerne	True
+9	das Wiesenrispengras	True	le pâturin des prés	True
+10	das Raygras	True	le ray-grass	True
+11	die Esparsette, n/der Süßklee	True	le sainfoin/lesparcette 	True
+12	der Weißklee ; der Inkarnatklee	True	le trèfle blanc ; le tr. incarna	True
+13	der VVundklee	True	le trèile jaune	True
+14	der Wiesen-/Rot-/Kopfklee	True	le trèfle des prés/le tr. vile	True
+15	die Futterwicke, n	True	la vesce iourragère	True
+16	die Faserpflanzen fol	True	les plantes textiles	True
+17	der Hanf	True	le chanvre	True
+18	der Manilahanf	True	le chanvre de Manille	True
+19	die Baumwollpflanze	True	le cotonnier	True
+20	die Baumwollblüte, n	True	la leur de cofonnier	True
+21	die Jute	True	le jute	True
+22	der Flachs/der Lein, e	True	le lin	True
+23	der Sisal	True	le sisal	True
+24	die Farbpflanze	True	la plante tinctoriale	True
+25	die Ölpflanzen	True	les plantes oléagineuses	True
+26	"die Erdnuss, ""e"	True	larachide ; 	False
+27	der Raps, e	True	le colza	True
+28	die Kokospalme, n ; die Kopra	True	le cocotier ; le copra	True
+29	der Rübsamen	True	la navette	True
+30	der Gartenmohn	True	l'œillette 	True
+31	"der Ölbaum, ""e ; die Olive, n"	True	l'olivier ; l'olive 7	True
+32	die Sonnenblume, n	True	le tournesol	True
+33		False		False

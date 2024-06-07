@@ -1,0 +1,62 @@
+	German_voc	deu_is_noun	French_voc	fra_is_noun
+0	je	False	une pincée de sel	True
+1	etwas Salz, eine Prise Salz	False	une pointe de une cuillerée à soupe	True
+2	eine Messerspitze, ein wenig	False	une cuillerée à soupe bomb	True
+3	ein gefüllter/voller Esslöffel	False	une cuillerée à soupo rase	True
+4	ein gehäufter Esslöffel	False	une tasse pleine à ras bord	True
+5	ein gostriehener Esslöffel	False	cuisiner, aire la cuisine	False
+6	eine Tasse gestrichen voll mit+D	False	faire la cuisine au beurre	False
+7	kochen	False	faire la cuisine au gaz, à	False
+8	mit Butter kochen	False	Pélectricité	False
+9	mit Gas, elektrisch kochen	False	bouillir étr	False
+10	kochen itr (Flüssigkeit)	False	L'eau bout.	True
+11	Das Wasser kocht.	False	C’est bouillant.	False
+12	Es ist kochend heiß.	False	© cuire tr	False
+13	kochen (Gemüse, Fleisch, Teigwaren) ii	False	faire bouillir qc ; aire cuire «	False
+14	etw kochen	False	faire bouillir qc, porter qc à	False
+15	etw zum Kochen bringen, a, a	False	ébullition	False
+16	Kaffee kochen	False	faire du café	False
+17	die Kochzeit	True	le temps de cuisson	True
+18	backen, u, a, ä/faible	False	cuire au our	False
+19	das Backen (im Backofen)	True	la cuisson 	True
+20	braten, ie, a, ä; an-braten	False	rôtir ; saisir	False
+21	der Braten, -	True	le rôti	True
+22	das Garen	True	la cuisson à eu doux	True
+23	gar sein	False	être cuit, à point	False
+24	braisieren, schmoren	False	braiser, étuver	False
+25	schmoren (im eigenen Sail)	False	mijoter \	False
+26	dünsten	False	cuire à l'étuvée/à la vapeur	False
+27	das Wasserbad	True	le bain-marie	True
+28	die Würzbrühe, der Fischsud	True	le court-bouillon	True
+29	das Braten (Steak)	True	la cuisson 	True
+30	fast roh, nur kurz angebraten	False	bleu, très saignant	False
+31	blutig gebraten	False	saignant	False
+32	englisch gebraten, halb durch	False	à point	False
+33	durchgebraten	False	bien cuit	False
+34	zu-bereiten	False	Ÿ accommoder, préparer	False
+35	begleiten mit+D	False	accompagner de arroser avec	False
+36	begießen, o, o mit+D	False	à volonté	False
+37	nach Belieben	False	badigeonner, enduire de barder	False
+38	bestreichen, i, i, mit+D	False	le beurre aître d'hôtel, le beurre anié	True
+39	mit Speck um-wickeln	False	beurrer	False
+40	die Kräuterbutter	True	faire blanchir	False
+41	mit Butter bestreichen, i,i	False	brider	False
+42	blanchieren	False	caraméliser ; le caramel	False
+43	bridieren	False	le chaud-froid	True
+44	karamellisieren ; der Karamell	False	chauffer	False
+45	das Sulzgericht	True	réchauffer	False
+46	erhitzen	False	du café réchaufté	False
+47	auf-wärmen	False	maintenir au chaud	False
+48	aufgewärmter Kaffee	False	ao couper en orceaux	False
+49	warm halten, ie, a, ä	False	en bâtonnets	False
+50	in Stücke schneiden, i, i	False	en dés	False
+51	in Stäbchen	False	 en deux	False
+52	in Würfel	False	en quartiers	False
+53	halbieren	False	couper en iranches	False
+54	in Viertel schneiden, vierteln	False	à la croque-au-sel	False
+55	in Scheiben schneiden, tran(s)chieren	False	les croûtons 	True
+56	nur mit Salz serviert	False	les croûtons à l'ail	True
+57	die Croutens mpl	True		False
+58	(mit Knoblauch einyeriebene geröstere	False		False
+59	Brotwürfel)	False		False
+60		False		False

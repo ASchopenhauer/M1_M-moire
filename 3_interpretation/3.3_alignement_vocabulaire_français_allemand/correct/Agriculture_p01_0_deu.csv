@@ -1,0 +1,61 @@
+	German_voc	deu_is_noun	French_voc	fra_is_noun
+0	das Fertigfutter	True	Jes aliments composés	False
+1	das Kraftfutter	True	les aliments concentrés	True
+2	das Tierkörpermehl	True	Ja farine animale	False
+3	das Grünfutter	True	le fourrage vert	True
+4	das Futterstroh	True	la paille fourragère	True
+5	die Rinderzucht	True	l'élevage des bovins	False
+6	"der Rindviehstall, der Kuhstall, ""e"	True	l'étable	True
+7	der Zuchtbulle, n, n	True	le taureau étalon	False
+8	die Kuh decken lassen, ie, a, ä	True	faire couvrir la vache	False
+9	kalben	False	vêler	True
+10	die Milchkuh	True	la vache laitière	True
+11	"das Milchkalb, ""er"	True	le veau élevé sous la mère	False
+12	das Absetzkalb	True	le veau sevré	True
+13	das Mastkalb	True	le veau d'embouche, le broutard	True
+14	das Batteriekalb	True	le veau de batterie	True
+15	die Automatenfütterung	True	l'alimentation automatisée	True
+16	die Futterkrippe, n	True	la mangeoire	True
+17	die Tränke, n	True	l'abreuvoir	True
+18	die Streu	True	la litière	False
+19	der Kuhfladen, -	True	la bouse de vache	False
+20	das Vieh füttern	True	donner à manger au bétail	False
+21	saufen, 0, o, äu	False	boire, s'abreuver	False
+22	die Kühe tränken	True	abreuver les vaches	False
+23	fressen, a, e, |; Heu fressen	False	manger ; manger du foin	False
+24	das Vieh auf die Weide treiben, ie, ie	True	mettre le bétail au pâturage	False
+25	auf der Wiese weiden	False	paître/pâturer dans le pré	True
+26	das Gras ab-weiden	True	brouter l'herbe	True
+27	die Wandertierhaltung	True	la transhumance	False
+28	das Weiderecht/Triftrecht	True	le droit de pacage/de vaine pâture	True
+29	das Durchgangsrecht	True	le droit de passage du bétail	True
+30	die Milcherzeugung	True	la production de lait	False
+31	melken, o, o/faible	False	traire	True
+32	"der Melkraum, ""@"	True	la salle de traite	True
+33	das Maschinenmelken	True	la traite mécanique	True
+34	die Melkmaschine, n	True	la trayeuse électrique	True
+35	das Handmelken	True	la traite à la main	True
+36	die Milchkanne, n	True	le bidon	True
+37	die Milch	True	le lait	False
+38	die Käserei, en	True	la fromagerie	True
+39	die Pferdezucht	True	l'élevage des chevaux	False
+40	der Zuchthengst, e	True	l'étalon	True
+41	das Beschälen ; beschälen	True	la monte ; couvrir/monter	True
+42	die Zuchtstute, n	True	la poulinière	False
+43	fohlen	False	pouliner	True
+44	das Gestüt, e	True	le haras	True
+45	"der Pferdestall, ""@"	True	l'écurie	True
+46	die Raufe, n	True	le ratelier	True
+47	die Pferdeäpfel mp!	True	le crottin de cheval	False
+48	das Hufeisen, -	True	le fer à cheval	True
+49	ein Pferd beschlagen, u, a, ä	False	ferrer un cheval	True
+50	der Hufschmied, e	True	le maréchal-ferrant	True
+51	der Zuchtesel, -	True	le baudet	True
+52	der Pferdehändler, -	True	le maquignon	True
+53	die Schweinezucht	True	l'élevage des porcins	True
+54	der Schweinestall	True	la porcherie	True
+55	der (Futter)trog, 'e	True	l'auge	True
+56	die Schafzucht	True	l'élevage des ovins	True
+57	der Schafstall	True	la bergerie	False
+58	der Schäfer, -	True	le berger	False
+59	das Vlies, &	True	la toison	False

@@ -1,0 +1,62 @@
+	German_voc	deu_is_noun	French_voc	fra_is_noun
+0	 	False	le décolleté profond	True
+1	die Korkenzieherhose, n (fam)	True	échancré, décolleté	False
+2	die Jeans pl	True	la robe ourreau	True
+3	vergewaschen ; verwaschen	False	collant, oulant	False
+4	die Bermudashorts/Bermudas p/	True	la robe paysanne 	True
+5	die Jacke, n	True	la robe de grossesse	True
+6	"der Anzug, ""e"	True	le costume, le tailleur, l'ensemble 	True
+7	ein dreiteiliger Anzug	False	le deux-pièces	True
+8	die Weste, n	True	le costume-pantalon	True
+9	die Westentasche, n	True	la veste	True
+10	der Sakko, s	True	la jupe	True
+11	"der Aufschlag, ""e"	True	la ente	True
+12	die Innentasche, n	True	le pli	True
+13	der Einreiher, -	True	la jupe plissée	True
+14	der Zweireiher	True	la jupe plissée 	True
+15	"der Abendanzug, ""e"	True	la jupe-portefeuille	True
+16	"der Gesellschaftsanzug, der Frack, s/""e"	True	la jupe-culotte	True
+17	im Frack	False	la inijupe	True
+18	Frackzwang m	False	le chemisier	True
+19	der Smoking, s	True	la blouse, le corsage	True
+20	der Blazer, -/die Klubjacke	True	les lainages , les tricots 	True
+21	die Lederjacke, n	True	le puli	True
+22	der Blouson, s	True	un chandail	True
+23	die Hausjoppe, n, die Hausjacke, n	True	tricoté ain	False
+24	die Damenkleidung	True	le pull sans anches	True
+25	die Damenunterwäsche	True	le col roulé	True
+26	die Wäschegarnitur, en	True	l'encolure 	True
+27	der Schlüpfer, - ; das Höschen, -	True	l’encolure ronde	False
+28	der Slip, s	True	l’encolure en V	False
+29	der Büstenhalter, -/der BH, s	True	le twin-set	True
+30	das Körbchen, -, der Cup, s	True	la veste de laine	True
+31	der Träger, -	True	le cardigan	True
+32	"das Unterkleid, er/der Unterrock, ""e"	True	le anteau	True
+33	der Tailenunterrock ; der Petticcat, s	True	le pardessus	True
+34	der Body(suit), s	True	l’imperméable , l’imper	False
+35	die Korsage, n, das Bustier, s	True	le trench-coat	True
+36	die Miederhose, n	True	le loden	True
+37	der Hüftgürtel/der Hüfthalter, -	True	relever le col	False
+38	das Korsett, s/e ; das Korselett	True	 emmitoufler	False
+39	der Strapshalter, 	True	le ciré	True
+40	der Strumpfhalter, - der Straps, 3	True	le capuchon, la capuche	True
+41	"der Strumpf, ""e"	True	la pèlerine, la cape	True
+42	"das Strumpfhand, ""er"	True	le raglan	True
+43	die Strumpfhose, n	True	le trois-quarts	True
+44	die Ferse, 	True	le anteau atelassé	True
+45	die Laufmasche, n	True	le duffle-coat	True
+46	die Leggings pl	True	le brandebourg	True
+47	die Steghose, n	True	la canadienne	True
+48	"der Schlafanzug, ""e"	True	le anteau de ourrure	True
+49	das Nachthemd, en	True	l’étle 	False
+50	das Negligee, s/das Neglige, s	True	la pelisse	True
+51	das Beitjäckchen, -	True	le gant	True
+52	"der Morgenrock, ""e"	True	les gants ourrés	True
+53	der Morgenmantel, ”	True	la pointure	True
+54	der Bademantel	True	être ganté	False
+55	das Kleid, er	True	se ganter, se déganter	False
+56	das Hochzeitskleid	True	la oufle	True
+57	die Schleppe, n	True	le anchon	True
+58	das Abendkleid	True	le chapeau	True
+59	der Ausschnitt, e	True		False
+60		False		False

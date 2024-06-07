@@ -1,0 +1,60 @@
+	German_voc	deu_is_noun	French_voc	fra_is_noun
+0	die Base, n/die Lauge, n	True	la chim	True
+1	basisch	False	la chimie organique	True
+2	alkalisch ; alkalisieren	False	les composés du carbone	True
+3	die Alkalität	True	l'isomérie \( ; les isomères 	True
+4	das Kali	True	la chaîne carbonée	True
+5	das Ätznatron/das Natriumhydroxid	True	le combustible	True
+6	der Indikator, en	True	la combustion	True
+7	das Reagenz, ien	True	brûler ; combustible	False
+8	das/der Lackmus	True	la suie	True
+9	das Bromthymolblau	True	l’hydrate de carbone	False
+10	das Methylrot	True	le dérivé	True
+11	die Indikatorpapiere/die Reagenzpapiere npl	True	olhydrocarbure 	False
+12	blau, rot färben	False	saturé ; non saturé	False
+13	der pH-Wert, e	True	l'acide gras	True
+14	die Neutralisation, en ; neutralisieren	True	l’alcane 	False
+15	titrieren	False	le éthane	True
+16	die Acidimetrie ; die Alkalimetrie	True	le propane	True
+17	die Präzipitation, en/die Ausfällung, en	True	le butane	True
+18	aus-fällen, präzipitieren	False	les alcènes 	True
+19	das Präzipitat, e	True	l'éthylène 	True
+20	das Salz, e	True	les alcynes 	True
+21	sich zu Salzen verbinden, a, u	False	l'alcool 	True
+22	der Alaun, @	True	l’ester 	False
+23	das Karbonat, e	True	l’aldéhyde 	False
+24	das Nitrat, e	True	les cétones 	True
+25	das Nitrit, e	True	l’acide aminé	False
+26	das Chlorid, e	True	la protéine	True
+27	die Oxidation/Oxydation, en	True	les hydrocarbures 	True
+28	das Oxidationsmittel, - ; oxidieren	True	aromatiques	False
+29	die Reduktion, en	True	le benzène	True
+30	das Reduktionsmittel	True	la nitration	True
+31	die Redoxreaktion/der Redoxvorgang	True	le nitrobenzène	True
+32	die Korrosion, en	True	l’alcaloïde 	False
+33	die anorganische Chemie	True	le colorant	True
+34	das Edelgas, e	True	le laboratoire, le labo	True
+35	das Metall, e ; das Edelmetall	True	le laboratoire de recherche	True
+36	die Alkalimetalle npl	True	les produits chimiques	True
+37	das Lithium	True	Palambic 	False
+38	das Kalium	True	le ballon	True
+39	das Natrium	True	le bec Bunsen	True
+40	die Erdalkalimetalle np/das Calcium	True	la burette	True
+41	das Magnesium	True	la cornue	True
+42	das Radium	True	le creuset	True
+43	die Nichtmetalle np!	True	le dessicateur	True
+44	das Arsen	True	la distillation	True
+45	der Stickstoff	True	la distillation ractionnée	True
+46	das Brom	True	distiller	False
+47	der Kohlenstoff	True	léprouvette / à pied	False
+48	das Chlor	True	l’éprouvette graduée	False
+49	das Fluor	True	l'expérience 	True
+50	der Wassersioff	True	la hotte	True
+51	das Jod	True	le ortier	True
+52	der Sauerstoff	True	le pilon	True
+53	der Phosphor	True	la paillasse	True
+54	der Schwefel	True	la pipeite graduée	True
+55		False	le procédé	True
+56		False	le trépied	True
+57		False	le tube à essai	True
+58		False		False

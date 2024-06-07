@@ -1,0 +1,62 @@
+	German_voc	deu_is_noun	French_voc	fra_is_noun
+0	der Anbau, die Bestellung	True	la culture	True
+1	an-bauen, bebauen, bestellen	False	cultiver	False
+2	"der Boden, """	True	le sol, la terre	True
+3	ein anbaufähiger Boden	False	un sol cultivable	True
+4	ein bebauter Boden	False	une terre cultivée	True
+5	die Anbaufläche, n	True	la surface cultivée	True
+6	nicht anbaufähig	False	inculte	False
+7	ein wasserarmer Boden	False	un sol aride	True
+8	das Ackerland	True	la terre arable	True
+9	das Feld, er	True	le champ	True
+10	das Getreidefeld, er	True	le champ de blé	True
+11	"der Acker, """	True	le champ	True
+12	der Kartoffelacker	True	le champ de pommes de terre	True
+13	der Grenzstein, e	True	la borne	True
+14	die Urbarmachung	True	la mise en culture, le défrichement	True
+15	urbar machen	False	défricher	False
+16	roden	False	essarter	False
+17	"der abgebrannte Wald, ""er"	True	les brûlis	True
+18	die Brache, n	True	la friche	True
+19	brach-liegen, a,	False	être en friche	False
+20	brachliegen lassen, ie, a, ä	True	laisser en friche	False
+21	das Brachfeld, er	True	la jachère	True
+22	das Brachland	True	le champ en jachère	True
+23	die Fruchtwechsalwirtschaft	True	l'alternance des cultures	True
+24	die Fruchtfolge, n	True	l'assolement	True
+25	die Dreifelderwirtschaft, -	True	l'assolement triennal	True
+26	"der Bodenertrag, ""e"	False	le rendement de la terre	True
+27	den Boden bearbeiten	False	travailler le sol	False
+28	den Boden auf-lockern	True	ameublir le sol	False
+29	das Pflügen ; der Pflüger, -	False	le labour ; le laboureur	True
+30	pflügen	True	labourer	False
+31	die Furche, n	False	le sillon	True
+32	Furchen ziehen, o, o	True	tracer des sillons	False
+33	die Scholle, n	False	la motte de terre	True
+34	den Boden krümmeln	True	emoiter, émietter le sol	False
+35	die Egge, n ;eggen	True	la herse ; herser	True
+36	die Ackerwalze, n	False	le rouleau agricole	True
+37	ein Feld besäen	False	ensemencer un champ	False
+38	(mit Getreide) besäen	False	emblaver	False
+39	ein Feld bepflanzen	True	planter un champ	False
+40	die Saat, das Säen	True	les semailles	True
+41	das Saatgut	True	les semences	True
+42	die Aussaat	True	l'ensemencement	True
+43	die Aussaat, en, die Saat, en	True	le semis, les semailles	True
+44	"der Saatgutkasten, """	True	la trémie à semences	True
+45	der Dünger, -, das Düngemittel, -	True	l'engrais	True
+46	die Düngung	False	l'amendement ; la fumure	True
+47	düngen	False	engraisser	False
+48	mit Mist düngen	True	fumer	False
+49	der Kompost, e	False	le compost	True
+50	kompostieren	True	mettre en compost	False
+51	der Mist, &	True	le fumier	True
+52	der Misthaufen, -	True	le tas de fumier	True
+53	die Jauche, n	True	le purin	True
+54	die Jauchegrube	True	la fosse à purin	True
+55	der Flüssigmist, die Gülle	True	le lisier	True
+56	das Ausstreuen	True	l'épandage	True
+57	der Torf, e	True	la tourbe	True
+58	der Kunstdünger, -	True	ol’engrais chimique	False
+59	das Pestizid, e	True	le pesticide	True
+60	die Bodenbelastung	False	la pollution du sol	True

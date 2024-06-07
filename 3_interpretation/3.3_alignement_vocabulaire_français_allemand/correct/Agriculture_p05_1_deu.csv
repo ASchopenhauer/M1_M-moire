@@ -1,0 +1,18 @@
+	German_voc	deu_is_noun	French_voc	fra_is_noun
+0	die Vorlese	True	la trie	True
+1	die Hauptlese	True	la vendange principale	True
+2	die Spätlese	True	la vendange tardive	True
+3	die Nachlese	True	le grapillage	True
+4	die Erntemeldungen fpl	True	la déclaration des récoltes	True
+5	der Reifegrad der Trauben	True	la maturité du raisin	True
+6	das Lesegut	True	les raisins mûrs	True
+7	die Überreife	True	la surmaturité	True
+8	die Weinlese halten, ie, a, ä	True	faire les vendanges	False
+9	die Trauben lesen, a, e, ie	True	vendanger	False
+10	der Leser, - ;die Leserin, nen	True	le vendangeur ; la vendangeuse	True
+11	der Lesebehälter, -	True	le baquet à vendange	True
+12	der (Bütten)träger, -	True	le porteur	True
+13	die Bütte, n, die Kiepe, n	True	la hotte	True
+14	der Traubenbottich, e ; der Traubencontainer, -	True	la benne	True
+15	die Handlese	True	la vendange manuelle	True
+16	die Weinlesemaschine, n	True	la machine à vendanger	True

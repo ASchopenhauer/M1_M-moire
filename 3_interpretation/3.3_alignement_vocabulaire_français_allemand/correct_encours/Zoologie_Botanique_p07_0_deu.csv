@@ -1,0 +1,64 @@
+	German_voc	deu_is_noun	French_voc	fra_is_noun
+0	der Fliegenschnäpper, -	True	le gobe-mouche	True
+1	das Blaukehlchen, -	True	le gorge-bleu	True
+2	der Gartenbaumläufer, -	True	le grimpereau des jardins	True
+3	die Drossel, n	True	la grive	True
+4	die Singdrossel	True	la grive usicienne	True
+5	die Misteldrossel	True	la grive draine	True
+6	die Wacholderdrossel	True	la grive litorne	True
+7	der Kernbeißer, -	True	le gros-bec 	True
+8	der Bienenfresser, -	True	le guépier 	True
+9	die Schwalbe, n	True	l’hirondelle	False
+10	die Mehlschwalbe	True	l’hirondelle de enêtre	False
+11	die Rauchschwalbe	True	l’hirondelle de cheminée	False
+12	der Wiedehopf, e	True	la huppe asciée	True
+13	"der Seidenschwanz, ""e"	True	le jaseur boréal/de Bohème	True
+14	der Hänfling, e	True	la linotte	True
+15	der Pirol, e	True	le loriot	True
+16	der Beo, s	True	le ainate	True
+17	"der Eisvogel, """	True	le artin-pêcheur	True
+18	der Segler, -	True	le artinet	True
+19	der Mauersegler	True	le artinet noir	True
+20	der Alpensegler	True	le artinet alpin	True
+21	die Amsel, n/die Schwarzdrossel, n	True	le erle	True
+22	die Meise, n	True	la ésange	True
+23	die Kohlmeise	True	la ésange charbonnière	True
+24	die Haubenmeise	True	la ésange huppée	True
+25	die Schwanzmeise	True	la ésange à longue queue	True
+26	die Tannenmeise	True	la ésange noire	True
+27	der Sperling, e/der Spatz, en, en	True	le oineau, le piaf	True
+28	der Haussperling ; der Feldsperling	True	le . domestique, le . rique	True
+29	"der Leierschwanz, ""e"	True	l'oiseau-lyre/le énure	True
+30	die Elster, n	True	la pie	True
+31	der Würger, -	True	la pie-grièche	True
+32	der Raubwürger	True	la pie-grièche grise	True
+33	der Neuntöter, -	True	la pie-grièche écorcheur	True
+34	der Fink, en, en	True	le pinson	True
+35	der Buchfink ; der Bergfink	True	le p. des arbres ; le p. du Nor	True
+36	der Baumpieper, -	True	le pipit des arbres	True
+37	der Waldlaubsänger, -	True	le pouillot siffleur	True
+38	das Goldhähnchen, -	True	le roitelet	True
+39	die Blauracke, n	True	le rollier	True
+40	die Nachtigall, en	True	le rossignol	True
+41	das Rotkehlchen, -	True	le rouge-gorge	True
+42	"der Gartenrotschwanz, ""e"	True	le rouge-queue à ront blanc	True
+43	der Rohrsänger, -	True	la rousserolle	True
+44	der Girlitz, &	True	le serin	True
+45	der Kanarienvogel	True	le canari	True
+46	der Kleiber, -	True	la sitelle torchepot	True
+47	der Erlenzeisig, e	True	le tarin des aulnes	True
+48	der Steinschmätzer, -	True	le traquet otteux	True
+49	der Zitronenzeisig	True	le venturon alpin	True
+50	der Birkenzeisig	True	le sizerin lammé	True
+51	der Zaunkönig, e	True	le troglodyte ignon	True
+52	der Grünling, e/der Grünfink	True	_le verdier	False
+53	Klettervögel mpl	False	oiseaux grimpeurs	False
+54	der Ara, s	True	l'ara 	True
+55	der Kakadu, s	True	le cacatoès	True
+56	der Kuckuck, e	True	le coucou	True
+57	der Papagei, en, en/s, en	True	le perroquet	True
+58	der Sittich, e	True	la perruche	True
+59	der Wellensittich	True	la perruche ondulée	True
+60	der Specht, e	True	le pic	True
+61	der Grünspecht	True	le pivert/le pic vert	True
+62		False		False

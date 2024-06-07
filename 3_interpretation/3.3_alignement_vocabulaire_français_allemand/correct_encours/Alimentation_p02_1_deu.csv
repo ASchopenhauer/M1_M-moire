@@ -1,0 +1,43 @@
+	German_voc	deu_is_noun	French_voc	fra_is_noun
+0	ea Na 2” VESBBETenn ig Me	False	» le lait	False
+1	die Milch, e	True	les produits laitiers	True
+2	die Milcherzeugnisse np/das Milchprodukt, e ; die Milchspeise, n	True	le laitage	True
+3	das Milchgeschäft, e	True	la crémerie	True
+4	der Milchhändler, -	True	le laitier, le crémier	True
+5	die Frischmilch	True	le lait rais	True
+6	die Rohmilch	True	le lait cru, ermier	True
+7	die erhitzte Milch	True	le lait thermisé	True
+8	pasteurisiert ; sterilisiert	False	pasteurisé ; stérilisé	False
+9	die H-Milch	True	le lait UHT 	True
+10	die Vollmilch	True	le lait entier	True
+11	die (teil)entrahmte Milch	True	le lait écrémé	True
+12	die Kondensmilch/die Dosenmilch	True	le lait condensé	True
+13	das Milchpulver/die Trockenmilch	True	le lait en poudre	True
+14	die Sauermilch, vergorene Milch	True	le lait ermenté	True
+15	die Dickmilch	True	le caillé	True
+16	gerinnen*, a, 0, sauer werden	False	cailler, tourner	False
+17	die Buttermilch	True	le babeurre	True
+18	die Molke, n	True	le petit-lait	True
+19	das Kasein	True	la caséine	True
+20	der Quark	True	la caillebotte	True
+21	die Milchsäurebakterien fpl	True	les erments lactiques	True
+22	das Labferment	True	la présure	True
+23	die Sahne/der Rahm	True	la crème	True
+24	sahnig, kremig/cremig	False	crémeux	False
+25	der (dicke) süße Rahm, die Crame	True	la crème raiche	True
+26	fraiche	False	la crème leuretie	True
+27	die (Kaffee)sahne	True	la crème aigre	True
+28	die saure Sahne	True	le beurre	True
+29	die Butter	True	le beurre ermier	True
+30	die Landbutter	True	battre le beurre, baratter	False
+31	buttern	False	la baratte	True
+32	die Butterungsmaschins, n, der Butterfertiger, -	True	> le romage	False
+33	der Käse, -	True	l'affinage ; affiner	True
+34	die Ablagerung ; ab-lagern	True	le romage blanc	True
+35	der Frischkäse, der Quark	True	le petit suisse	True
+36	(Doppelrahmfrischkäse)	False	le yaourt, le yoghourt	True
+37	das Joghurt/Jogurt, (s)	True	le romage à pâte dure/ pressée	True
+38	der Hartkäse	True	le romage à pâte olle	True
+39	der Weichkäse	True	le double-crème	True
+40	der Doppelrahmkäse	True		False
+41		False		False

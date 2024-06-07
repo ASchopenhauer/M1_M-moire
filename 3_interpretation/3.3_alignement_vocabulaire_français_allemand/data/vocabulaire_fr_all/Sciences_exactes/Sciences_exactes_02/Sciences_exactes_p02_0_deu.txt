@@ -1,0 +1,126 @@
+Zr es HWEHMISD SL TANLTEUQUE - IE Calcul
+
+vierzehn ; fünfzehn ; sechzehn
+
+siebzehn ; achtzehn ;neunzehn
+
+zwanzig ; einundzwanzig
+
+zweiundzwanzig ; dreiundzwanzig
+
+dreißig ; einunddreißig ; vierzig
+
+fünfzig ; sechzig
+
+siebzig
+
+einundsiebzig
+
+zweiundsiebzig
+
+achtzig
+
+einundachtzig
+
+neunzig
+
+einundneunzig
+
+(ein)hundert ; (ein)hundert(und)eins
+
+hundert(und)zwei ; zweihundert
+
+zweihundert(und)eins ; (ein)tausend
+
+zweitausend ;fünfhunderttausend
+
+die Million, en (Mio)
+
+zwei Millionen fünfhundert
+
+die Milliarde, n
+
+die Ordinalzahl/Ordnungszahl, en
+
+der erste, die erste, das erste
+
+der zweite ; der dritte
+
+der vierte ; der fünfte
+
+der sechste ; der sieb(en)te
+
+der achte ; der neunte
+
+der zehnte ; der elfte
+
+der zwölfte ; der neunzehnte
+
+der zwanzigste
+
+der einundzwanzigste
+
+der zweiundzwanzigste
+
+der hundertste
+
+der tausendste
+
+der millionste
+
+erstens
+
+zweitens
+
+drittens
+
+viertens
+
+neunzehntens
+
+zwanzigstens
+
+der Bruch, "&
+
+der gemeine Bruch
+
+der Dezimalbruch
+
+der Primfaktor, en
+
+die Faktorzerlegung, en
+
+einen Bruch kürzen
+
+der echte Bruch, der nicht mehr zu
+kürzen ist
+
+der unechte Bruch
+
+der Zähler, -
+
+der Bruchstrich, e
+
+der Nenner, -
+
+ungleichnamig
+
+der gemeinsame Nenner
+
+auf einen gemeinsamen Nenner
+bringen, a, a
+
+der Doppelbruch, "e
+
+ein halb (1/2)
+
+ein Drittel (1/3)
+
+zwei Drittel (2/3)
+
+ein Viertel (1/4)
+
+drei Viertel (3/4)
+
+vier Fünftel (4/5)
+

@@ -1,0 +1,30 @@
+	German_voc	deu_is_noun	French_voc	fra_is_noun
+0	der Nullmeridian	True	le éridien d’origine /de Greenwich	True
+1	die Himmelsrichtung, en	True	le point cardinal	False
+2	die Richtung, en	True	la direction	False
+3	der Horizont, e	True	l'horizon 	True
+4	der Norden	True	le nord ; le Nord \	True
+5	nördlich, Nord-	False	septentrional, du nord	True
+6	gegen Norden, nordwärts (adv)	False	nordique e	False
+	nordisch		vers le nord, en direction du nord	
+7	nördlich Münchens/von München	False	au nord de Munich	False
+8	im hohen Norden	False	dans le Grand Nord	False
+9	der Süden	True	le sud ; le Sud	False
+10	südlich, Süd-	False	méridional, du sud	False
+11	südwärts (adv)	False	vers le sud	False
+12	südlich des Mains	False	au sud du Main	True
+13	von Norden nach Süden	False	du nord au sud	False
+14	der Osten	True	l'est ; l'Est	False
+15	östlich, Ost-	False	oriental, de l'est	False
+16	ostwärts (adv)	False	vers l’est	False
+17	der Westen	True	l'ouest ; l'Ouest	False
+18	westlich, West	False	occidental, de l’ouest	False
+	westwärts (adv)		vers l’ouest	
+19	von Westen nach Osten	False	de l'ouest à l’est/d'ouest en est	False
+20	der Nordosten ; der Nordwesten	True	le nord-est ; le nord-ouest	True
+21	der Südosten ; der Südwesten	True	le sud-est ; le sud-ouest	False
+22	der Kompass, e	True	la boussole	False
+23	die Windrose	True	la rose des vents	False
+24	in östlicher Richtung/in R. Osten	False	en direction de l’est	False
+25	in Richtung Berlin	False	en direction de Berlin	True
+26	in Richtung auf das Meer	False	en direction de la mer	True

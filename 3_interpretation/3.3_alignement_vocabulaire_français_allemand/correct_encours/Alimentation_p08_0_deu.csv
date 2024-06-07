@@ -1,0 +1,58 @@
+	German_voc	deu_is_noun	French_voc	fra_is_noun
+0	infiserie	False	les amandes eflilées	True
+1	die Süßwaren pl	True	(gâteau sur plaque, à la cannelle	False
+2	das Süßwarengeschäft, e	True	aux grains de oête sablée)	False
+3	die Naschhaftigkeit, die Naschsucht	True	le gâteau arbré	True
+4	naschhaft	False	le roulé	True
+5	etw naschen (von+D)	False	la gaufre	True
+6	eine Naschkatze sein (fam)	False	le glaçage ; giacer	True
+7	das Konfekt, e	True	le kouglof/kugelhof	True
+8	die Konfektdose, n	True	le acaron	True
+9	die Schokolade, n	True	la eringue	True
+10	der Kakao, s	True	le ille-feuilles	True
+11	das Kakaopulver	True	(géreau de Noël, pâte levée, avec	False
+12	die Schokoladentafel, n	True	raisins secs el amandes)	False
+13	der Riegel, -	True	le pain d’épice	True
+14	die bittere Schokolade	True	(pain d'épices aux amandes et	False
+15	die Koch-/Blockschokolade	True	noisettes oulues)	False
+16	die Vollmilchschokolade	True	les petits ours	True
+17	die Mandelschokolade	True	les petits gâteaux secs, les biscuits 	True
+18	die Nussschokolade	True	le biscuit au beurre, le petit	True
+19	die gefüllte Schokolade	True	beurre	False
+20	mit Likörfüllung	False	les profiterles ; 	True
+21	die Praline, n	True	les sablés 	True
+22	eine Schachtel Pralinen	False	le savarin 	True
+23	die Schokoladenfabrik	True	la tarte	True
+24	der/das Bonbon, s	True	la tarte éringuée	True
+25	die Drops mpl/ npl	True	la tarte aux ruits	True
+26	die Hart-, Weichkaramellen fol	True	dénoyauter ruits)	False
+27	der/das Gummibonbon, s	True	épépiner	False
+28	das Dragee, s	True	équeuter	False
+29	der/das Fondant, s	True	casser	False
+30	der/das Kaugummi, s	True	la tartelette	True
+31	der/das Nougat aus Montelimar	True	latête de nègre	False
+32	der Krokant	True	le vacherin	True
+33	die Pfefferminzpastille, n	True	les ruits secs	True
+34	der/das Marzipan, e	True	les ruits séchés	True
+35	die Geleefrüchte pl	True	le pruneau	True
+36	die gebrannte Mandel, n	True	les raisins secs	True
+37	(Masse aus Schokolade und gestampften	False	les raisins de Corinthe	True
+38	Mandeln)	False	les endiants	True
+39	die Lakritze, n	True	noisettes, amandes, raisins secs	False
+40	der Lutscher, -	True	la glace	True
+41	die Lutschstange, n	True	le glacier	True
+42	die Zuckerwatte	True	le glacier	True
+43	der (Bienen)honig, e	True	le archand de glaces	True
+44	der Blütenhonig	True	la sorbetière	True
+45	der Heidehonig	True	le sorbet	True
+46	der Wabenhonig/der Scheibenhonig	True	la crème glacée	True
+47	die Marmelade, n/die Konfitüre, n	True	la glace à l'italienne	True
+48	die Orangenkonfitüre	True	la glace à la vanille	True
+49	das/der Geles, s	True	la glace au praliné	True
+50	das Kompott, e, das Mus	True	le cornet de glace	True
+51	(passierte Früchte)	False	l'esquimau , le bâtonnet	True
+52	die kandierten Früchte /p/	True	la coupe garnie de diverses	True
+53	das Orangeat, e	True	glaces	False
+54	das Zitronat, e	True	le café liégeois	True
+55		False	la bombe glacée	True
+56		False		False

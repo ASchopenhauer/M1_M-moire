@@ -1,0 +1,27 @@
+	German_voc	deu_is_noun	French_voc	fra_is_noun
+0	der Zucker	True	le sucre	True
+1	zuckern	False	sucrer	False
+2	die Zuckerfabrik, en	True	la raffinerie de sucre	True
+3	das Zuckerrohr	True	la canne à sucre	True
+4	die Zuckerrohrplantage, n	True	la plantation de cannes à	True
+5	der Rohrzucker	True	sucre	False
+6	die Zuckerrübe, n	True	le sucre de canne	True
+7	der Rübenzucker	True	la betterave sucrière	True
+8	die Raffinade, n	True	le sucre de betterave	True
+9	der Würfelzucker	True	le sucre raffiné	True
+10	ein Stück Zucker	False	le sucre en orceaux	True
+11	der Feinzucker	True	un orceau de sucre	True
+12	der Kristallzucker	True	le sucre en poudre, sucre	True
+13	der Puderzucker	True	semoule	False
+14	der Flüssigzucker	True	le sucre cristallisé	True
+15	der Rohrzuckersirup	True	ie sucre glace	False
+16	der Rohzucker	True	le sucre liquide	True
+17	der Rohzucker	True	le sirop de sucre de canne	True
+18	"der Zuckerhut, ""e"	True	le sucre brut, roux	True
+19	der Vanillezucker	True	la cassonade	True
+20	der Süßstoff, &	True	le sucre candi	True
+21	das Saccharin	True	le pain de sucre	True
+22		False	le sucre vanillé	True
+23		False	l'édulcorant \	True
+24		False	la saccharine	True
+25		False		False

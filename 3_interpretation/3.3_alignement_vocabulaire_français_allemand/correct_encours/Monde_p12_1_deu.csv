@@ -1,0 +1,23 @@
+	German_voc	deu_is_noun	French_voc	fra_is_noun
+0	die Einlagerung	True	le stockage	True
+1	die Zwischenlagerung	True	le stockage intermédiaire	True
+2	die Wiederaufbereitungsanlage	True	l'usine de retraitement	True
+3	(WAR)	False	le retraitement des	True
+4	die Wiederaufbearbeitung	True	combustibles irradiés	False
+5	bestrahlter Brennelemente	False	l'enrobage ; enrober	True
+6	die Beschichtung ; beschichten	True	le stockage définitif	True
+7	die Endlagerung	True	l'incident /l’accident 	True
+8	"der nukleare Störfall, ""e"	True	nucléaire	False
+9	"der Reaktorunfall, ""&"	True	l'accident survenu sur un	True
+10	der Kernschmelzunfall	True	réacteur	False
+11	der GAU, s	True	la usion du cœur	True
+12	der SuperGAU, s	True	l'accident nucléaire ajeui	True
+13	der Atomtest, s	True	la catastrophe nucléaire	True
+14	die Strahlenbelastung	True	l'essai nucléaire	True
+15	die radioaktiven Strahlungen fol	True	la pollution radioactive	True
+16	"der radioaktive Niederschlag, ""e"	True	les radiations radioactives	True
+17	die radioaktive Verseuchung	True	les retombées radioactives	True
+18	verseuchen ; entseuchen	False	la contamination radioactive	True
+19	die Entseuchung	True	contaminer ; décontaminer	False
+20		False	la décontamination	True
+21		False		False

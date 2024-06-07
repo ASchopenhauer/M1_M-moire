@@ -1,0 +1,88 @@
+mbres
+
+die Arithmetik
+
+der Arithmetiker, -
+
+die Zahl, en
+
+gerade ; ungerade
+
+die runde Zahl
+
+die natürliche Zahl
+
+die reelle Zahl
+
+die algebraische Zahl
+
+die transzendente Zahl
+
+die imaginäre Zahl
+
+die rationale Zahl
+
+die Irrationale Zahl
+
+die relative Zahl
+
+die ganze Zahl
+
+die Primzahl
+
+die positive Zahl
+
+die negative Zahl
+
+die komplexe Zahl
+
+die gebrochene Zahl
+
+das Zahlensystem, e
+
+das Dezimalsystem
+
+die Dezimalzahl
+
+das Komma, s/ta
+
+die Dezimalstelle, n/die Dezimale, n
+die Zehntel npl
+
+die Hundertstel np/
+
+die Tausendstel np/
+
+eine dreistellige Zahl
+
+der Einer, -
+
+die Einerstelle, n
+
+der Zehner, -
+
+die Zehnerstelle, n
+
+der Hunderter, -
+
+die Hunderterstelle, n
+
+die Ziffer, n/das Zahlzeichen, -
+in arabischen Ziffern
+
+in römischen Ziffern
+
+die Seiten beziffern/nummerieren
+die Nummer, n
+
+die Ordnungsnummer
+
+die Anzahl
+
+eine große Anzahl von+D
+
+die Kardinalzahl/die Grundzahl , an
+null ; eins ; zwei ; drei ; vier
+fünf; sechs ;sieben ; acht ; neun
+zehn ; elf ; zwöff ; dreizehn
+

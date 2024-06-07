@@ -1,0 +1,63 @@
+	German_voc	deu_is_noun	French_voc	fra_is_noun
+0	die Bulldogge, n	True	le toilettage	True
+1	der Hirtenhund	True	la rage ; enragé	True
+2	der Bracke, n, n/die Bracke, n	True	la aladie de Carré	True
+3	der Pudel, -	True	le chat, la chatte	True
+4	"der Mops, ""e"	True	le chat /le atou	True
+5	der Wolfshund	True	le chat castré	True
+6	der Cockerspaniel, -	True	le chaton	True
+7	die Dogge, n	True	le inet \	True
+8	der Spaniel	True	miauler ; ronronner ; euler	False
+9	der Wachtel-/Hühnerhund	True	les oustaches 	True
+10	die Windhündin, nen	True	la griffe ; rétractile	True
+11	der Windhund/das Windspiel, e	True	griffer	False
+12	das Afghanerwindspiel/der Afghane, n	True	laper du lait	False
+13	der Pekinese, n, n	True	faire le gros dos	False
+14	der Bernhardiner, -	True	le chat domestique	True
+15	der Spitz, e	True	le chat angora ; le chartreux	True
+16	der Dackel, -/Dachshund/Teckel, -	True	le chat persan ; le chat siamois	True
+17	der Neufundländer, -	True	le haret	True
+18	der Bastardhund	True	un chat de gouttière	True
+19	der Köter, - (pgj)	True	le chat à poil court	True
+20	der Kläffer, - (pej)	True	le chat à poil long	True
+21	die Hundezucht	True	les animaux d'élevage	True
+22	der Hundezwinger, -	True	le cheval	True
+23	die Hundehültte, n	True	l'étalon 	True
+24	einen Hund ab-richten/dressieren	False	la jument ; la poulinière	True
+25	auf das Apportieren abgerichtet	False	le poulain ; la pouliche	True
+26	der Abrichter/der Dresseur, e	True	le cheval hongre	True
+27	die Dressur	True	le pur-sang ; le demi-sang	True
+28	seinem Herrn gehorchen	False	le cheval de trait	True
+29	äuf die Stimme hören	False	le poney	True
+30	(Bei) Fuß |; Sitz |	False	le coursier	True
+31	Platz |	False	le canasson	True
+32	Such (verloren) | ;Apport !/Bring her !	False	le naseau	True
+33	(Gib) die Pfote |	False	l’encolure 	False
+34	Fass !	False	la crinière	True
+35	Männchen machen	False	le garrot	True
+36	der Blindenhund	True	la croupe	True
+37	der Jagdhund	True	le lanc	True
+38	der Begleithund	True	le embre antérieur, posterieur	True
+39	der Führerhund	True	la jambe	True
+40	der Polizeihund ; der Spürhund	True	le jarret	True
+41	der Wachhund	True	le sabot	True
+42	der Schutzhund	True	le poil ; le crin	True
+43	ein sehr großer Wachhund	False	la queue	True
+44	der Schoßhund	True	la robe	True
+45	"das Halsband, ""er"	True	l'alezan 	True
+46	"der Maulkorb, ""e"	True	le cheval bai ; le ch. blanc	True
+47	einem Hund einen Maulkorb	False	le ch. gris pommelé	True
+48	an-legen	False	le cheval noir	True
+49	die Hundeleine, n	True	racé	False
+50	einen Hund an der Leine führen	False	\dompté ; indomptable	False
+51	den Hund aus-führen, mit dem Hund	False	docile	False
+52	Gassi gehen (fam)	False	rétif	False
+53	den Hund spazieren führen	False	fougueux/fringant ; poussif	False
+54	der Hundekot	True	ombrageux ; récalcitrant	False
+55	entlaufen‘, ie, au, äu	False	se cabrer	False
+56	herrenlos ; verirrt	False	s'emballer	False
+57	ein streunender Hund	False	s'ébrouer, renâcler	False
+58	die Tätowierung, en	True	hennir ; le hennissement	False
+59	tatauieren/tätowieren	False	piaïfer	False
+60	der Hundehalter, -	True		False
+61		False		False

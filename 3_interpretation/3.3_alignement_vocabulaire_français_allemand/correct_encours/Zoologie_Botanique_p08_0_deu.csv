@@ -1,0 +1,64 @@
+	German_voc	deu_is_noun	French_voc	fra_is_noun
+0	der Buntspecht	True	la bernacle cravant	True
+1	"der Wendehals, ""e"	True	le cygne	True
+2	der Tukan, e/der Pfefferfresser, -	True	le cygne chanteur	True
+3	Hühnervögel mpl	False	le cygne uet/tuberculé	True
+4	die Wachtel, n	True	le cygne noir	True
+5	die Pute, n/die Truthenne, n	True	échassiers 	False
+6	"der Puter, -/der Truthahn, ""e"	True	les oiseaux limicles	True
+7	der junge Puter	True	l’avocette 	False
+8	der Fasan, e ; die Fasanhenne, n	True	la barge rousse	True
+9	"das Haselhuhn, ""er"	True	la bécasse des bois	True
+10	das Schneehuhn, Moor(schnee)huhn	True	le bécasseau aubèche	True
+11	das Schottische Moorhuhn	True	le bécasseau variable	True
+12	der Pfau, en	True	la bécassine 	True
+13	ein Rad schlagen, u, a, ä	False	le butor étoilé	True
+14	das Rebhuhn ; das junge R.	True	le chevalier	True
+15	eine Kette Rebhühner	False	‘le chevalier gambette	False
+16	: das Rothuhn ; das Steinhuhn	False	le chevalier combattant	True
+17	das Perlhuhn	True	la cigogne blanche	True
+18	"das (Haus)huhn, ""er"	True	le lamant rose	True
+19	das Hähnchen, -	True	le courlis cendré	True
+20	"der Hahn, ""e"	True	l'échasse blanche	True
+21	die Henne, n ; das Küken, -	True	la oulque acroule	True
+22	"das Auerhuhn, ""er"	True	la grue cendrée	True
+23	das Birkhuhn	True	le héron	True
+24	die Taube, n	True	le h, cendré ; le pique-bœuf	True
+25	die weibliche T. ; die junge T.	True	la grande aigrette ; la petite	True
+26	die Ringel-/Wildtaube	True	l'huftrier-pie 	True
+27	die Hohltaube ; die Feldtaube	True	Vibis 	False
+28	ein Taubenpaar, e	False	le arabout	True
+29	die Turteltaube	True	l'outarde 	True
+30	die weiße Taube	True	le pluvier	True
+31	die Brieftaube	True	la poule d’eau ; la p. sultane	True
+32	der Brieftaubenzüchter, -	True	le râle	True
+33	einen Vogel beringen	False	le râle d’eau	True
+34	Gänse- und Entenvögel mp!	False	le râle des genêts	True
+35	die Ente, n	True	la spatule	True
+36	der Enterich, e/der Erpel, -	True	le tourne-pierre	True
+37	die weibliche Ente ; die junge Ente	True	le vanneau	True
+38	die Wildente, n	True	orapaces diurnes	False
+39	die Schwimm-/Gründelente	True	l'oiseau de proie/le rapace	True
+40	die Stockente ; die Löffelente	True	rapace	False
+41	die Pfeifente	True	la proie	True
+42	die Knäkente ; Krickente	True	l'aigle ; l'aiglon 	True
+43	die Tauchente	True	l'aigle royal ; le pygargue	True
+44	die Schellente ; die Tafelente	True	l'aigle botté ; le circaète	True
+45	die Eiderente ; die Traugrente	True	le balbuzard/l'aigle pêcheur	True
+46	die Samtente	True	l’autour 	False
+47	die Brandente	True	le busard	True
+48	der Säger, -	True	la buse	True
+49	der Gänsesäger ; der Mittelsäger	True	l’épervier 	False
+50	der Lappentaucher, -	True	le aucon	True
+51	der Haubentaucher	True	le . pèlerin ; le . crécerelle	True
+52	der Zwergtaucher	True	le , hobereau ; le gerfaut	True
+53	die Gans, 'e	True	le ilan	True
+54	der Gänserich, e/der Ganter, -	True	le ilan royal	True
+55	das Gänseküken, /das Gössel, -/ n	True	le vautour	True
+56	"die Wildgans, ""e"	True	le v. oine/cendré : le v. au	True
+57	die Graugans	True	le gypaète barbu ; le condo:	True
+58	die Saatgans	True	orapaces nocturnes	False
+59	die Blässgans/Blessgans	True	le chat-huant/la hulotte	True
+60	die Weißwangengans	True	la chevèche	True
+61		False	la chevêchette	True
+62		False		False

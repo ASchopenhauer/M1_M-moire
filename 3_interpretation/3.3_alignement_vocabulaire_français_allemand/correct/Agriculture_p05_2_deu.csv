@@ -1,0 +1,33 @@
+	German_voc	deu_is_noun	French_voc	fra_is_noun
+2	die Weinbereitung	True	la vinification	True
+3	die roten Trauben fol	True	les raisins rouges	True
+4	die weißen Trauben	True	les raisins blancs	True
+5	die Weißweinbereitung	True	la vinification en blanc	True
+6	der Bottich, e	True	la cuve	True
+7	das Abbeeren/das Entrappen	True	l'égrappage	False
+8	entrappen	False	égrapper	False
+9	die Traubenmühle	True	le fouloir	True
+10	die Abbeervorrichtung	True	l'érafloir, l'égrappoir	True
+11	der Einmaischapparat, e	True	le broyeur	False
+12	die Trauben zerquetschen	True	écraser les raisins	True
+13	die Maische (die zerquetschen Trauben)	True	le moût égrappé	True
+14	das Kelterhaus	True	la salle de pressurage	True
+15	die Kelter, n, die Presse, n	True	le pressoir	True
+16	die Trauben keltern/(aus-)pressen	True	pressurer les raisins	False
+17	der Most	True	le moût	False
+19	das Mostgewicht	True	la densité du moût	True
+20	das Mindestmostgewicht	True	la teneur minima en sucre	True
+21	die Mostwaage, n	True	flotteur calibré indiquant la teneur sucre du moût	False
+22	der Öchslegrad, e	True	le degré Oechsle	False
+23	der Gärkeller, -	True	le cuvier/le cellier	True
+24	der Gärbehälter, -/der Gärbottich, e	True	la cuve à fermentation	False
+25	die Gärung, en ;gären	True	la fermentation ; fermenter	True
+26	die Maischegärung	True	la macération, le cuvage, la cuvaison	False
+27	die Kohlensäuregärung	True	la macération carbonique	True
+28	maischen	False	macérer	True
+29	die Hefen fpl	True	les levures	False
+30	die Nachgärung	True	la fermentation secondaire	True
+31	die Milchsäuregärung/die malolaktische Gärung	True	la fermentation malolactiqu	True
+33	durch-gären	False	fermenter complètement, à fond	True
+34	die Gärung stoppen	True	arrêter la fermentation	False
+35	das Stummachen	True	le mutage	False

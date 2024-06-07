@@ -1,0 +1,66 @@
+die Schleiereule, n
+
+die Schnee-Eule
+
+der Uhu, s
+
+die Waldohreule ; die Zwergohreule
+die Sumpfohreule
+
+Sesvögel mpi
+
+der Segler, -
+
+die Möwe, n
+
+die Lachmöwe ; die Zwergmöwe
+die Dreizehenmöwe
+
+die Silbermöwe
+
+die Heringsmöwe ; die Sturmmöwe
+die Mantelmöwe ; die Eismöwe
+die Raubmöwe
+
+die Große Raubmöwe
+
+der Eissturmvogel, "
+
+die Sturmschwalbe, n
+
+der Sturmtaucher, -
+
+die Seeschwalbe, n
+
+der Albatros, se
+
+der Kormoran, e/die Scharbe, n
+der Baßtölpel, -
+
+der Pelikan, e
+
+der Seetaucher, -
+
+der Prachttaucher ; der Eistaucher
+der Tordalk, s/en, e/en
+
+der Pinguin, e
+
+die Trottellumme, n
+
+der Papageitaucher, -
+
+Laufvögel mpl
+
+der Strauß, e
+
+der Kagu, s
+
+der Kasuar, e
+
+der Emu,s
+
+der Kiwi, s
+
+der Nanau, s
+

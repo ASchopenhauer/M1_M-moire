@@ -1,0 +1,44 @@
+	German_voc	deu_is_noun	French_voc	fra_is_noun
+0	aus-Schlagen, u, a, ä	False	ruer	False
+1	der Ese), -	True	ol'âne /le baudet	False
+2	schreien, ie, ie ‚iahen	False	braire ; pousser des hi-hans	False
+3	der Zuchtesel	True	l'âne étalon/le baudet	True
+4	die Eselin, nen ; der junge Esel	True	l'ânesse : ; l’ânon 	True
+5	das Mauiltier, e	True	le ulet 	True
+6	der Maulesel	True	le bardot/bardeau 	True
+7	das weibliche Maultier	True	la ule	True
+8	das Lasttier, e	True	la bête de somme	True
+9	die Rinder np!	True	les bovins ,les bovidés	True
+10	cer Wiederkäuer, - ; wieder-käuen	False	le ruminant ; ruminer	True
+11	das Rind, er	True	le bœuf \	True
+12	der Ochse, n, n	True	le bœuf 	True
+13	der Stier, e/der Bulle, n, n	True	le taureau	True
+14	der junge Stier	True	le taurillon	True
+15	mit den Hörnern stoßen, ie, 0, ö	False	donner des coups de corne	False
+16	"das Kalb, ""er ; die Färse, n"	True	le veau ; la genisse	True
+17	"die Kuh, ""e ; die Milchkuh"	True	la vache ; la vache laitière	True
+18	das Euter, - ; die Zitze, n	True	le pis/la amelle ; le trayon	True
+19	muhen, brüllen	False	beugler, ugir	False
+20	die Herce, n	True	le troupeau	True
+21	der Kuhlladen, -	True	la bouse de vache	True
+22	das Schwein, e	True	le porc, le cochon	True
+23	"der Eber, - ; die Sau, ""e/en"	True	le verrat ; la truie	True
+24	das Ferkel, -	True	le porcelet/le gore	True
+25	der Schweinerüssel, - ; grunzen	True	le groin ; grogner	True
+26	die Borste, n	True	la soie 	True
+27	"der Ringelschwanz, ""e"	True	la queue en tire-bouchon	True
+28	das Schaf, e ; das Mutterschaf	True	le outon ; la brebis	True
+29	"der Schafbock, ""e/der Widder, -"	True	le bélier	True
+30	der Hammel, -/”	True	le outon	True
+31	"das Lamm, ""er ; das Mutterlamm"	True	l'agneau n ; l'agneau de lait	True
+32	blöken ; das Blöken	False	bêler ; le bêlement	False
+33	das Vlies, &	True	la toison	True
+34	scheren, o, 0 ; die Schafschur, en	False	tondre ; la tonte	False
+35	; das Wollschaf ; Merinoschaf	False	le outon à laine ; . érino	True
+36	die Schurwolle	True	la laine vierge	True
+37	die Ziege, n	True	la chèvre/la bique m)	True
+38	"der Ziegenbock, ""e"	True	le bouc	True
+39	das Zicklein, -/das Kitz, e	True	le chevreau/le cabri	True
+40	die Kitze, n	True	la chevrette	True
+41	meckern (Ziege)	False	bêler	False
+42		False		False

@@ -1,0 +1,60 @@
+	German_voc	deu_is_noun	French_voc	fra_is_noun
+0	e Organique	False	la base	True
+1	die organische Chemie	True	basique	False
+2	die Kohlenstoffverbindungen fpı	True	alcalin ; alcaliniser	False
+3	die Isomerie ; die Isomeren np/die Kohlenwasserstoffkette,n	True	l'alcalinité 	True
+4	der Brennstoff, e	True	la potasse	True
+5	die Verbrennung	True	la soude caustique/ l'hydroxyde de sodium	True
+6	brennen, a, a ; brennbar	False	ol'indicateur de pH	False
+7	der Ruß, e	True	le réactif	True
+8	das Kohlenhydrat, e	True	le tournesol	True
+9	das Derivat, &	True	le bleu de bromathymol	True
+10	der Kohlenwasserstoff, e	True	le éthylorange	True
+11	gesättigt ; ungesättigt	False	les papiers-pH	True
+12	die Feitsäure, n	True	colorer en bleu, en rouge	False
+13	das Alkan, e	True	le pH	True
+14	das Methan	True	la neutralisation ; neutraliser	True
+15	das Propan	True	titrer	False
+16	das Butan	True	l'acidimétrie ; l'alcalimétrie :	True
+17	die Alkene npl	True	la précipitation	True
+18	das Äthylen	True	précipiter	False
+19	die Alkine pl	True	le précipité	True
+20	der Alkohol, e	True	le sel	True
+21	der Ester	True	former des sels en se	False
+22	das Aldehyd, e	True	combinant	False
+23	die Ketone npl	True	lalun 	False
+24	die Aminosäure, n	True	le carbonate	True
+25	das Protein, e	True	le nitrate	True
+26	die Aromaten npl	True	le nitrite	True
+27	das Benzol	True	le sulfate	True
+28	die Nitrierung	True	ol'oxydation 	False
+29	das Nitrobenzol	True	l'oxydant ; oxyder	True
+30	das Alkaloid, e	True	la réduction	True
+31	der Farbstoff, e	True	le réducteur	True
+32	das Laboratorium, ien	True	la réaction	True
+33	die Forschungsanstalt, en	True	d'oxydoréduction / la réaction rédox	False
+34	die Chemikalien pl	True	la corrosion	True
+35	der Destillierkolben, -	True	la chimie inérale	True
+36	der Kolben, -	True	le gaz rare	True
+37	der Bunsenbrenner, -	True	le étal ; le étal noble	True
+38	die Bürette, n	True	les étaux alcalins	True
+39	die Retorte, n	True	le lithium	True
+40	der Tiegel, -	True	le potassium	True
+41	der Exsikkator, en	True	le sodium	True
+42	die Destillation, en	True	les étaux alcalino-terreux	True
+43	die fraktionierte Destillation	True	le calcium	True
+44	destillieren	False	le agnésium	True
+45	der Standzylinder, -	True	le radium	True
+46	der Messzylinder	True	les non-métaux 	True
+47	der Versuch, e	True	l'arsenic 	True
+48	"der Abzug, ""e"	True	l'azote 	True
+49	der Mörser, -	True	le brome	True
+50	das Pistill, e/der Stößel, -	True	le carbone	True
+51	der Labortisch, e	True	le chlore	True
+52	die Messpipette, n	True	le luor	True
+53	das Verfahren, -	True	l'hydrogène 	True
+54	"der Dreifuß, ""e"	True	l'iode 	True
+55	"das Reagenzglas, ""er"	True	l'oxygène 	True
+56		False	le phosphore	True
+57		False	le soufre	True
+58		False		False

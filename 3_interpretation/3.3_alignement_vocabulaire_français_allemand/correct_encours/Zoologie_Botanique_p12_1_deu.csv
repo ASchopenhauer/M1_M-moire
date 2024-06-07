@@ -1,0 +1,63 @@
+	German_voc	deu_is_noun	French_voc	fra_is_noun
+0	die Pardelkatze	True	la bosse ; à une bosse	True
+1	der Panther/Panter, -/der Leopard, en, en	True	le chamelier ; la caravane	True
+2	der Puma, s	True	le chamois, Pisard/izard 	True
+3	der Tiger, -	True	le chevreuil	True
+4	Pelztiere np!	False	le daim	True
+5	der Pelz, e	True	l'élan 	True
+6	das Fall, e	True	la gazelle	True
+7	gestreift ; getigert	False	girafe	False
+8	gefleckt/gesprenkelt	False	le lama	True
+9	dichtbehaart	False	le ouflon	True
+10	seidenweich ; seidig	False	l'okapi 	True
+11	das Mauswiesel, -/das Kleine Wiesel	True	le renne/le caribou	True
+12	der Dachs, a	True	le tapir	True
+13	der Stein-/Hausmarder	True	le zébu	True
+14	das Frettchen, -	True	le zèbre	True
+15	das Große Wiesal, -/das Hermelin, e	True	le pachyderme	True
+16	der (Fisch)otter, -	True	l'éléphant 	True
+17	der See-/Meerotter	True	l'éléphante 	True
+18	der Edel-/Baummarder, -	True	l'éléphanteau 	True
+19	das Stinktier, e/der Skunk, e/s	True	la trompe	True
+20	der Skunk(s) mpi	True	la défense ; l'ivoire 	True
+21	der Iitis, se/der Ratz, e	True	barrir ; les barrissements 	False
+22	der Waschbär, en, en	True	le cornac	True
+23	der Narz, 8; der Mink, e	True	l'hippopotame 	True
+24	der Zobel, -	True	le rhinocéros	True
+25	Insektenfresser mp!	False	Carnassiers , carnivores 	False
+26	"die Fledermaus, ""e"	True	le chacal	True
+27	die Zwergfledermaus	True	le coyote	True
+28	das braune Langohr, en	True	le ennec	True
+29	das Großmausohr	True	le glouton	True
+30	der Abendsegler, - ; der Vampir, &	True	le loup	True
+31	der Igel, -	True	la louve ; le louveteau	True
+32	"die Spitzmaus, ""e"	True	hurler ; les hurlements 	False
+33	das Schuppentier, e	True	le renard	True
+34	der Ameisenbär, en, en	True	le renard plaire/lisatis 	True
+35	das Gürteltier, e	True	la tanière du renard	True
+36	"der Maulwurf, ""&"	True	l'ours	True
+37	der Maulwurfhügel, -	True	l'ourse ; l'ourson 	True
+38	in der Erde wühlen	False	l'ours blanc	True
+39	das Wühltier, e	True	le grizzli	True
+40	das Faultier (ein Blattfresser)	True	grogner	False
+41	Nagetiere nol	False	le panda	True
+42	nagen an+D	False	le raton laveur	True
+43	"die Feldmaus, ""e"	True	ogrands élins, auves 	False
+44	der Biber, -	True	la gueule	True
+45	die Zibetkatze, n	True	la patte ; les griffes 	True
+46	das Meerschweinchen, -	True	le coup de griffe	True
+47	das Eichhörnchen, -	True	feuler ; rugir	False
+48	das Flughörnchen	True	épier, guetter tr	False
+49	das Feh, &	True	bondir sur	False
+50	die Ginsterkatze, n	True	se jeter sur	False
+51	"die Springmaus, ""e"	True	dépecer, déchirer	False
+52	der Goldhamster, -	True	le repaire, la tanière	True
+53	das Wildkaninchen, -	True	le chat orestier/sauvage	True
+54	das Kanin(chenfell), &	True	le guépard	True
+55	der Rammler, -	True	l’hyène ; 	False
+56	die Häsin, nen	True	le jaguar	True
+57	das junge Kaninchen, -	True	le lion	True
+58	der Bau, @	True	la crinière	True
+59	die Röhre, n	True	la lionne ; le lionceau	True
+60	der Kessel, -/die Kammer, n	True	le lynx, le loup-cervier	True
+61		False		False
