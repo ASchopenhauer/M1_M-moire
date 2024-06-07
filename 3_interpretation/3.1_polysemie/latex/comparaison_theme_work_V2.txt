@@ -1,0 +1,14 @@
+begin{tabular}{lrrr}
+hline
+ Theme            &   GMS &   KpV &   MS 
+hline
+ Agriculture      &     5 &    30 &   38 
+ Alimentation     &     0 &     8 &   30 
+ Botanique        &     0 &     9 &   20 
+ Monde            &     3 &    13 &   65 
+ Sciences exactes &    24 &    67 &  170 
+ Vetement         &     2 &    10 &   15 
+ Zoologie         &     0 &    10 &   33 
+ Total            &    34 &   147 &  371 
+hline
+end{tabular}

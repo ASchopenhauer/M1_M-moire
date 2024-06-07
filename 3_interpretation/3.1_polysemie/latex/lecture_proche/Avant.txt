@@ -1,0 +1,51 @@
+\documentclass[a4paper,12pt,twoside]{book}
+\usepackage{fontspec}
+\usepackage{xunicode}
+\usepackage[german]{babel}
+
+
+\usepackage{xcolor}
+
+\newcommand{\match}[1]{\textcolor{red}{\textbf{#1}}}
+
+
+
+
+
+\usepackage{fancyhdr}
+\usepackage{etoolbox} % For defining robust commands
+
+\pagestyle{fancy}
+
+\fancyhead[LE]{\thepage}
+\fancyhead[RE]{\leftmark}
+
+\fancyhead[LO]{\rightmark}
+\fancyhead[RO]{\thepage}
+
+% Define a new command for unnumbered chapters
+\newcommand{\unnumberedchapter}[1]{
+	\chapter*{#1}
+	\addcontentsline{toc}{chapter}{#1}
+	\markboth{#1}{#1}
+}
+
+% Similarly, for sections
+\newcommand{\unnumberedsection}[1]{
+	\section*{#1}
+	\addcontentsline{toc}{section}{#1}
+	\markright{#1}
+}
+
+\usepackage[hidelinks]{hyperref} %
+\usepackage[numbered]{bookmark}%va avec hyperref; marche mieux pour les signets. l'option numbered: les signets dans le pdf sont numérotés
+
+\author{Eglantine Gaglione - M1 HN}
+\title{MS : vocabulaire thématique}
+
+\begin{document}
+	
+	\maketitle
+	
+	\tableofcontents
+
